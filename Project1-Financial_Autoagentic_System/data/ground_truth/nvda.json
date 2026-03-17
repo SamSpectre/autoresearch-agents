@@ -1,0 +1,26 @@
+{
+  "ticker": "NVDA",
+  "company_name": "NVIDIA CORP",
+  "filing_date": "2026-02-25",
+  "period_of_report": "2026-01-25",
+  "financials": {
+    "total_revenue": 215938000000.0,
+    "cost_of_revenue": 62475000000.0,
+    "gross_profit": 153463000000.0,
+    "operating_income": 130387000000.0,
+    "net_income": 120067000000.0,
+    "cash_and_equivalents": 10605000000.0,
+    "total_assets": 206803000000.0,
+    "long_term_debt": 7469000000.0,
+    "total_liabilities": 49510000000.0,
+    "stockholders_equity": 157293000000.0,
+    "gross_margin": 0.7107,
+    "operating_margin": 0.6038,
+    "net_margin": 0.556
+  },
+  "segments": [],
+  "metadata": {
+    "source": "SEC EDGAR XBRL via edgartools",
+    "accession_number": "0001045810-26-000021"
+  }
+}

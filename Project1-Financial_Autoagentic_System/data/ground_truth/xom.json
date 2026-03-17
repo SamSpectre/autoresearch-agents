@@ -1,0 +1,18 @@
+{
+  "ticker": "XOM",
+  "company_name": "EXXON MOBIL CORP",
+  "filing_date": "2026-02-18",
+  "period_of_report": "2025-12-31",
+  "financials": {
+    "total_revenue": 332238000000.0,
+    "cash_and_equivalents": 10681000000.0,
+    "total_assets": 448980000000.0,
+    "long_term_debt": 34241000000.0,
+    "total_liabilities": 182354000000.0
+  },
+  "segments": [],
+  "metadata": {
+    "source": "SEC EDGAR XBRL via edgartools",
+    "accession_number": "0000034088-26-000045"
+  }
+}

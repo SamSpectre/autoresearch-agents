@@ -1,0 +1,1336 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D. C. 20549
+
+______________________________________________________________________________________
+
+Form 10-K
+
+_____________________________________________________________________________________
+
+  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+ ────────────────────────────────────────────────────────────────────────────────────────
+
+For the fiscal year ended December 31, 2025
+
+  ☐                                                  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  or                                                                                                                                           
+  For the transition period from _____ to _____                                                                                                
+
+Commission file number: 1-10864
+
+______________________________________________________________
+
+UnitedHealth Group Incorporated
+
+(Exact name of registrant as specified in its charter)
+
+  Delaware                                                      41-1321939                                                
+  (State or other jurisdiction of                               (I. R. S. Employer                                        
+  1 Health Drive                                55344           655 New York Avenue NW                        20001       
+  Eden Prairie,                                                 Washington,                                               
+  (Address of principal executive offices)      (Zip Code)      (Address of principal executive offices)      (Zip Code)  
+
+( 800 328-5979
+
+(Registrant’s telephone number, including area code)
+
+______________________________________________________
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+  Title of each class               Trading Symbol(s)      Name of each exchange on which registered  
+  Common Stock, $.01 par value      UNH                    New York Stock Exchange                    
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+__________________________________________________________________________
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes☒ No☐
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes☐ No☒
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes☒ No☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes☒ No☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+  Large accelerated filer        Accelerated filer      Non-accelerated filer    
+  Smaller reporting company                             Emerging growth company  
+ ─────────────────────────────────────────────────────────────────────────────────
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U. S. C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes☐ No☒
+
+The aggregate market value of voting stock held by non-affiliates of the registrant as of June 30, 2025 was $ 281,907,836,350
+
+As of February 20, 2026, there were 907,675,839
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+The information required by Part III of this report, to the extent not set forth herein, is incorporated by reference from the registrant’s definitive proxy statement relating to its 2026 Annual Meeting of Shareholders. Such proxy statement will be filed with the Securities and Exchange Commission within 120 days after the end of the fiscal year to which this report relates.
+
+UNITEDHEALTH GROUP
+
+Table of Contents
+
+                                                                                                                                    Page  
+  Part I                                                                                                                                  
+  Item 1.         Business                                                                                                             1  
+  Item 1A.        Risk Factors                                                                                                        10  
+  Item 1B.        Unresolved Staff Comments                                                                                           21  
+  Item 1C.        Cybersecurity                                                                                                       21  
+  Item 2.         Properties                                                                                                          22  
+  Item 3.         Legal Proceedings                                                                                                   22  
+  Item 4.         Mine Safety Disclosures                                                                                             22  
+  Part II                                                                                                                                 
+  Item 5.         Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities        23  
+  Item 6.         Reserved                                                                                                            24  
+  Item 7.         Management’s Discussion and Analysis of Financial Condition and Results of Operations                               25  
+  Item 7A.        Quantitative and Qualitative Disclosures About Market Risk                                                          37  
+  Item 8.         Financial Statements and Supplementary Data                                                                         38  
+  Item 9.         Changes in and Disagreements With Accountants on Accounting and Financial Disclosure                                72  
+  Item 9A.        Controls and Procedures                                                                                             72  
+  Item 9B.        Other Information                                                                                                   74  
+  Item 9C.        Disclosure Regarding Foreign Jurisdictions That Prevent Inspections                                                 74  
+  Part III                                                                                                                                
+  Item 10.        Directors, Executive Officers and Corporate Governance                                                              74  
+  Item 11.        Executive Compensation                                                                                              75  
+  Item 12.        Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters                      75  
+  Item 13.        Certain Relationships and Related Transactions, and Director Independence                                           75  
+  Item 14.        Principal Accountant Fees and Services                                                                              75  
+  Part IV                                                                                                                                 
+  Item 15.        Exhibit and Financial Statement Schedules                                                                           76  
+  Item 16.        Form 10-K Summary                                                                                                   83  
+  Signatures                                                                                                                          84  
+
+PART I
+
+ITEM 1. BUSINESS
+
+OUR BUSINESSES
+
+Overview
+
+The terms “we,” “our,” “us,” “its,” “ UnitedHealth Group,” or the “ Company” used in this report refer to UnitedHealth Group Incorporated and its subsidiaries.
+
+UnitedHealth Group Incorporated is a health care and well-being company with a mission to help people live healthier lives and help make the health system work better for everyone. Our two distinct, yet complementary businesses - Optum and UnitedHealthcare - are working to help build a modern, high-performing health system through improved access, affordability, outcomes and experiences for the individuals and organizations we are privileged to serve.
+
+The ability to analyze complex data and apply deep health care expertise and insights allows us to serve patients, consumers, care providers, businesses, communities and governments with more innovative products and complete, end-to-end offerings for many of the biggest challenges facing health care today.
+
+Optum seeks to create a higher-performing, value-oriented and more connected approach to health care. Bringing together clinical expertise, technology and data to make care simpler, more effective and more affordable, we seek to advance whole-person health, creating a seamless consumer experience and supporting clinicians with insights to deliver personalized, evidence-based care. Optum serves the broad health care marketplace, including patients and consumers, payers, care providers, employers,
+governments and life sciences companies, through its Optum Health, Optum Insight and Optum Rx businesses. These businesses improve overall health system performance by optimizing health care quality and delivery, reducing costs and improving patient, consumer and provider experience, leveraging distinctive capabilities in data and analytics, pharmacy care services, health care operations, population health and health financial services.
+
+UnitedHealthcare offers a full range of health benefits, designed to simplify the health care experience and make it more affordable for consumers to access high-quality care. UnitedHealthcare Employer & Individual serves consumers and employers, ranging from individuals and sole proprietorships to large, multi-site and national employers and public sector employers. UnitedHealthcare Medicare & Retirement delivers health and well-being benefits to seniors and other Medicare eligible consumers. 
+UnitedHealthcare Community & State serves consumers who are economically disadvantaged, the medically underserved and those without the benefit of employer sponsored health benefits coverage.
+
+We have four reportable segments:
+
+• Optum Health;
+
+• Optum Insight;
+
+•Optum Rx; and
+
+• UnitedHealthcare, which includes UnitedHealthcare Employer & Individual, UnitedHealthcare Medicare & Retirement and UnitedHealthcare Community & State.
+
+2026 Business Realignment
+
+On January 1, 2026, we realigned certain of our businesses to respond to changes in the markets we serve and the opportunities that are emerging as the health system evolves. Optum Financial, including Optum Bank, which was historically included in Optum Health, will now be included in Optum Insight. Our reportable segments will remain unchanged, with prior period segment financial information being recast to conform to the 2026 presentation, beginning with our Quarterly Report on Form 10-Q for 
+the three months ended March 31, 2026 filed with the Securities and Exchange Commission (SEC).
+
+Table of Contents
+
+Optum
+
+Optum is an information and technology-enabled health services business serving the broad health care marketplace, including:
+
+• Those who need care: patients who need the right care, information, resources, products and engagement to improve their health, achieve their health goals and receive an improved patient experience that is personalized, comprehensive and delivered in all care settings, including in-home and virtually.
+
+• Those who provide care: physicians, hospitals, pharmacies and others seeking to improve the health system and reduce the administrative burden, allowing for providers to focus time on patients leading to the best possible patient care and experiences while achieving better health outcomes at lower costs. Improved health outcomes are achieved by utilizing our clinical expertise, data and analytics to better understand, treat and prevent consumers’ health conditions and ensure they receive the 
+best evidence-based care.
+
+• Those who pay for care: consumers; employers; health plans; and state, federal and municipal agencies devoted to ensuring the people they sponsor receive high-quality care, administered and delivered efficiently and effectively, all while driving health equity so that every individual, family and community has access to the care they need.
+
+• Those who innovate for care: global life sciences organizations dedicated to developing more effective approaches to care, enabling technologies and medicines to improve care delivery and health outcomes.
+
+Optum operates three business segments which combine distinctive capabilities in value-based care, population health, health care operations, data and analytics and pharmacy care services:
+
+• Optum Health delivers patient-centered care, care management, wellness and consumer engagement, and health financial services;
+
+•Optum Insight offers data, analytics, research, consulting, technology and managed services solutions; and
+
+• Optum Rx provides diversified pharmacy care services.
+
+Optum Health
+
+Optum Health provides comprehensive and patient-centered care, addressing the physical, mental, social, and financial well-being of 95 million consumers and serves more than 100 health payer partners. We engage people in the most appropriate care settings, including clinical sites, in-home and virtual. Optum Health delivers primary, specialty and surgical care; helps patients and providers navigate and address complex, chronic and behavioral health needs; offers post-acute care planning 
+services; and serves consumers and care providers through advanced, on-demand digital health technologies, such as telehealth and remote patient monitoring, and innovative health care financial services. Optum Health works directly with patients, consumers, care delivery systems, providers, employers, payers, and public-sector entities to provide high quality, accessible and equitable care with improved health outcomes and reduced total cost of care. Optum Health enables care providers to 
+transition from traditional fee-for-service payment models to performance-based delivery and payment models designed to improve patient health outcomes and experience through value-based care.
+
+Optum Health offerings include fully accountable value-based arrangements, where Optum Health assumes responsibility for health care costs in exchange for a monthly premium. Offerings also include administrative fee arrangements, where Optum Health manages or administers products and services in exchange for a monthly fee, and fee-for-service arrangements, where Optum Health delivers health-related products and medical services for patients at a contracted fee.
+
+Optum Financial, including Optum Bank, serves consumers through nearly 26 million consumer accounts with more than $27 billion in assets under management as of December 31, 2025. Organizations across the health system rely on Optum Financial to manage and improve payment flows through its highly automated, scalable, end-to-end digital payment and financing systems and integrated card solutions. For financial services offerings, Optum Financial charges fees and earns investment and interest 
+income on managed funds and loans.
+
+Optum Health sells its products primarily through its direct sales force, strategic collaborations and external producers in three key areas: employers, including large, mid-sized and small employers; payers including health plans, third-party administrators (TPAs), underwriter/stop-loss carriers and individual product intermediaries; and public entities, including the U. S. Departments of Health and Human Services (HHS), Veterans Affairs, Defense, and other federal, state and local health care 
+agencies.
+
+
+Optum Insight
+
+Optum Insight connects the health care system with services, analytics and platforms that make clinical, administrative and financial processes simpler and more efficient for all participants in the health care system. Hospital systems, physicians, health plans, public entities, life sciences companies and other organizations comprising the health care industry depend on Optum Insight to help them improve performance and reduce costs through administrative efficiency and payment simplification, 
+advance care quality through evidence-based standards built directly into clinical workflows, meet compliance mandates and modernize their core operating systems to meet the changing needs of the health system.
+
+Health Systems. Serves hospitals, physicians and other care providers to improve operating performance, better coordinate care and reduce administrative costs through technology and services to improve population health management, patient engagement, revenue cycle management and strategic growth plans.
+
+Health Plans. Serves health plans by improving financial performance and enhancing outcomes through proactive analytics, a comprehensive payment integrity portfolio and technology-enabled and staff-supported risk and quality services. Optum Insight helps health plans navigate a dynamic environment defined by shifts in employer vs. public-sector coverage, the demand for affordable benefit plans and the need to leverage new technology to reduce complexity.
+
+State Governments. Provides advanced technology and analytics services to modernize the administration of critical safety net programs, such as Medicaid, while improving cost predictability.
+
+Life Sciences Companies. Combines data and analytics expertise with comprehensive technologies and health care knowledge to help life sciences companies, including those in pharmaceuticals and medical technology, adopt a more comprehensive approach to advancing therapeutic discoveries and improving clinical outcomes.
+
+Many of Optum Insight’s software and information products and professional services are delivered over extended periods, often several years. Optum Insight maintains an order backlog to track unearned revenues under these long-term arrangements. The backlog consists of estimated revenue from signed contracts, other legally binding agreements and anticipated contract renewals based on historical experience with Optum Insight’s customers. Optum Insight’s aggregate backlog as of December 31, 2025 
+was approximately $31.1 billion, of which $18.3 billion is expected to be realized within the next 12 months. The aggregate backlog includes $12.9 billion related to affiliated agreements. Optum Insight’s aggregate backlog as of December 31, 2024, was $32.8 billion, including $12.5 billion related to affiliated agreements.
+
+Optum Insight’s products and services are sold primarily through a direct sales force. Optum Insight’s products are also supported and distributed through an array of alliances and business partnerships with other technology vendors, who integrate and interface Optum Insight’s products with their applications.
+
+Optum Rx
+
+Optum Rx provides a full spectrum of pharmacy care services through its network of approximately 64,000 retail pharmacies, through home delivery, specialty and community health pharmacies, the provision of in-home and community-based infusion services and through rare disease and gene therapy support services. It also offers direct-to-consumer solutions.
+
+Optum Rx manages a broad range of prescription drug spend, including widely available retail drugs as well as limited and ultra-limited distribution drugs in oncology, human immunodeficiency virus, pain management and ophthalmology. Optum Rx serves the growing pharmacy needs of people with behavioral health and substance use disorders. In 2025, Optum Rx managed $188 billion in pharmaceutical spending, including nearly $87 billion in specialty pharmaceutical spending.
+
+Optum Rx serves health benefits providers, large national employer plans, unions and trusts, purchasing coalitions and public-sector entities. Optum Rx sells its services through direct sales, health insurance brokers and other health care consultants.
+
+Optum Rx offers multiple clinical programs, digital tools and services to help clients manage overall pharmacy and health care costs in a clinically appropriate manner which are designed to deliver improved consumer experiences, better health outcomes and a lower total cost of care. Optum Rx provides various utilization management, medication management, quality assurance, adherence and counseling programs to complement each client’s plan design and clinical strategies. Optum Rx is accelerating 
+the integration of medical, pharmacy and behavioral care and treating the whole patient by embedding our pharmacists as key members of the patient care team.
+
+
+UnitedHealthcare
+
+Through its health benefits offerings, UnitedHealthcare is enabling better health, creating a better health care experience for its customers and helping to control rising health care costs. UnitedHealthcare’s market position is built on:
+
+• strong local-market relationships;
+
+• the breadth of product offerings, based upon extensive expertise in distinct market segments in health care;
+
+• service and advanced technology, including digital consumer engagement;
+
+• competitive medical and operating cost positions;
+
+• effective clinical engagement; and
+
+• innovation for customers and consumers.
+
+UnitedHealthcare arranges for discounted access to care through its extensive networks and uses Optum’s capabilities to help coordinate and provide patient care, improve affordability of medical care, analyze cost trends, manage pharmacy care services, work with care providers more effectively and create a simpler and more satisfying consumer and physician experience.
+
+UnitedHealthcare is subject to extensive government regulation. See further discussion of our regulatory environment below under“ Government Regulation”and in Part II, Item 7, “ Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+
+UnitedHealthcare Employer & Individual
+
+Domestically, UnitedHealthcare Employer & Individual offers a comprehensive array of consumer-oriented health benefit plans and services for large national employers, public sector employers, mid-sized employers, small businesses, and individuals. As of December 31, 2025, UnitedHealthcare Employer & Individual provides access to medical services for 29.7 million people.
+
+UnitedHealthcare Employer & Individual offers risk-based products under which it assumes responsibility for medical and administrative costs in exchange for a monthly premium, typically a fixed rate per individual served for a one-year period. For customers that elect to self-fund the health care costs and retain the financial risk of medical benefits for their employees and dependents, UnitedHealthcare Employer & Individual provides administrative and management services. These services include
+coordination of medical and related services, transaction processing and access to a contracted network of physicians, hospitals and other health care providers, including providers of dental and vision services. The business focuses on delivering customized benefit solutions and clinical programs designed to help employers and individuals manage costs while maintaining quality coverage and supporting health and well-being, with the shared goal of improving outcomes for patients and the health 
+system.
+
+UnitedHealthcare Employer & Individual distributes its products through a variety of channels, depending on the specific product. These channels include consultants or direct sales, brokers and agents, wholesale agents or agencies that contract with health insurance carriers to distribute individual or group benefits, professional employer organizations and associations, and both multi-carrier and proprietary private exchange marketplaces.
+
+UnitedHealthcare Employer & Individual provides employer-sponsored health benefits, as well as individual and family plans through portfolio of products which include consumer engagement products, such as high-deductible consumer driven benefit plans and a variety of innovative consumer centric products; traditional products; clinical and pharmacy products; and specialty benefits, such as vision, dental, accident protection, critical illness, disability and hospital indemnity offerings.
+
+UnitedHealthcare Medicare & Retirement
+
+UnitedHealthcare Medicare & Retirement provides health and well-being services to seniors and other Medicare eligible consumers, addressing their unique needs. UnitedHealthcare Medicare & Retirement has distinct benefit designs, pricing, underwriting, clinical program management and marketing capabilities dedicated to health products and services in this market.
+
+UnitedHealthcare Medicare & Retirement offers a selection of products allowing people choice in obtaining the health coverage and services they need as their circumstances change. These offerings include care management and health system navigator services, clinical management programs, nurse health line services, 24-hour access to health care information, access to discounted health services from a network of care providers and administrative services.
+
+UnitedHealthcare Medicare & Retirement has extensive distribution capabilities and experience, including direct marketing to consumers on behalf of its key clients, a membership organization, and state and U. S. government agencies. Products are also offered through agents, employer groups and digital channels.
+
+
+Major product categories include:
+
+Medicare Advantage. Provides health care coverage for seniors and other eligible Medicare beneficiaries through the Medicare Advantage program administered by the Centers for Medicare & Medicaid Services (CMS), including Medicare Advantage HMO plans, Preferred Provider Organization (PPO) plans, Point-of-Service plans, Private-Fee-for-Service plans and Special Needs Plans (SNPs). Under the Medicare Advantage program, UnitedHealthcare Medicare & Retirement provides health benefits coverage in 
+exchange for a fixed monthly premium per member from CMS plus, in some cases, monthly consumer premiums. Premium amounts received from CMS vary based on the geographic areas in which individuals reside; demographic factors such as age, gender and institutionalized status; and the health status of the individual. UnitedHealthcare Medicare & Retirement served 8.4 million people through its Medicare Advantage products as of December 31, 2025.
+
+We have continued to enhance our offerings, focusing on more digital and physical care resources in the home, expanding our concierge navigation services and enabling the home as a safe and effective setting for care. For example, through our HouseCalls program, nurse practitioners performed 3.1 million clinical preventive home care visits in 2025 to address unmet care opportunities and close gaps in care.
+
+Medicare Part D. Provides Medicare Part D benefits to beneficiaries through its Medicare Advantage and stand-alone Medicare Part D plans. The stand-alone Medicare Part D plans address a large spectrum of people’s needs and preferences for their prescription drug coverage, including low-cost prescription options. As of December 31, 2025, UnitedHealthcare enrolled 10.4 million people in the Medicare Part D programs, including 2.8 million individuals in stand-alone Medicare Part D plans, with the 
+remainder in Medicare Advantage plans incorporating Medicare Part D coverage.
+
+Medicare Supplement. Provides a full range of supplemental products at diverse price points. These products cover various levels of coinsurance and deductible gaps to which seniors are exposed in the traditional Medicare program. UnitedHealthcare Medicare & Retirement served 4.3 million seniors nationwide through various Medicare Supplement products as of December 31, 2025.
+
+Premium revenues from CMS represented 44% of UnitedHealth Group’s total consolidated revenues for the year ended December 31, 2025, most of which were generated by UnitedHealthcare Medicare & Retirement.
+
+UnitedHealthcare Community & State
+
+UnitedHealthcare Community & State is dedicated to serving state programs caring for the economically disadvantaged, the medically underserved and those without the benefit of employer-funded health care coverage, typically in exchange for a monthly premium per member from the state program. UnitedHealthcare Community & State’s primary customers oversee Medicaid plans, including Temporary Assistance to Needy Families; Children’s Health Insurance Programs (CHIP); Dual SNPs (DSNPs); Long-Term 
+Services and Supports (LTSS); Aged, Blind and Disabled; and other federal, state and community health care programs. As of December 31, 2025, UnitedHealthcare Community & State participated in programs in 32 states and the District of Columbia, and served nearly 7.4 million people; including 1.2 million people through Medicaid expansion programs in 19 states under the Patient Protection and Affordable Care Act (ACA).
+
+States using managed care services for Medicaid beneficiaries select health plans by using a formal bid process or by awarding individual contracts. These health plans and care programs are designed to address the complex needs of the populations they serve, including the chronically ill, people with disabilities and people with a higher risk of medical, behavioral and social conditions. UnitedHealthcare Community & State administers benefits for the unique needs of children, pregnant women, 
+adults, seniors and those who are institutionalized or are nursing home eligible. These individuals often live in medically underserved areas and are less likely to have a consistent relationship with the medical community or a care provider. They also often face significant social and economic challenges.
+
+GOVERNMENT REGULATION
+
+Our businesses are subject to comprehensive U. S. federal and state and international laws and regulations. We are regulated by government agencies, which generally have discretion to issue regulations and interpret and enforce laws and regulations. U. S. federal and state and international governments continue to consider and enact various legislative and regulatory proposals which could materially impact certain aspects of the health care system and our operations. New laws and regulations, or
+changes in the interpretation of existing laws and regulations, including as a result of changes in the political environment, could adversely affect our businesses.
+
+SeePart I, Item 1A, “ Risk Factors” for a discussion of the risks related to our compliance with U. S. federal and state and international laws and regulations.
+
+
+U. S. Federal Laws and Regulation
+
+When we contract with the federal government, we are subject to federal laws and regulations relating to the award, administration and performance of U. S. government contracts. CMS regulates our UnitedHealthcare businesses and certain aspects of our Optum businesses. Payments by CMS to our businesses are subject to regulations, including those governing fee-for-service and the submission of information relating to the health status of enrollees for purposes of determining the amounts of certain
+payments to us. CMS also has the right to audit our performance to determine our compliance with CMS contracts and regulations and the quality of care we provide to Medicare beneficiaries. Our commercial business is further subject to CMS audits related to medical loss ratios (MLRs) and risk adjustment data.
+
+UnitedHealthcare Community & State has Medicaid and CHIP contracts, which are subject to federal regulations regarding services to be provided to Medicaid enrollees, payment for those services and other aspects of these programs. There are many regulations affecting Medicare and Medicaid compliance, and the regulatory environment with respect to these programs is complex.
+
+Our businesses are also subject to laws and regulations relating to consumer protection, anti-fraud and abuse, anti-kickbacks, false claims, prohibited referrals, inappropriate reduction or limitation of health care services, anti-money laundering and securities and antitrust compliance.
+
+Privacy, Security and Data Standards Regulation. Certain of our operations are subject to regulation under the administrative simplification provisions of the Health Insurance Portability and Accountability Act of 1996, as amended (HIPAA), which apply to both the group and individual health insurance markets, including self-funded employee benefit plans. Federal regulations related to HIPAA contain minimum standards for electronic transactions and code sets and for the privacy and security of 
+protected health information.
+
+Our businesses must comply with the Health Information Technology for Economic and Clinical Health Act (HITECH), which regulates matters relating to privacy, security and data standards. HITECH imposes requirements on uses and disclosures of health information; includes contracting requirements for HIPAA business associate agreements; extends parts of HIPAA privacy and security provisions to business associates; adds federal data breach notification requirements for covered entities and business
+associates and reporting requirements to HHS and the Federal Trade Commission (FTC) and, in some cases, to the local media; strengthens enforcement and imposes higher financial penalties for HIPAA violations and, in certain cases, imposes criminal penalties for individuals, including employees. In the conduct of our business, depending on the circumstances, we may act as either a covered entity or a business associate.
+
+The use and disclosure of individually identifiable health data by our businesses are also regulated in some instances by other federal laws, including the Gramm-Leach-Bliley Act (GLBA) or state statutes implementing GLBA. These federal laws and state statutes generally require insurers to provide customers with notice regarding how their non-public personal health and financial information is used and the opportunity to “opt out” of certain disclosures before the insurer shares such information
+with a third party, and generally prescribe safeguards for the protection of personal information. Neither the GLBA nor HIPAA privacy regulations preempt more stringent state laws and regulations, which may apply to us, as discussed below. Federal consumer protection laws may also apply in some instances to privacy and security practices related to personally identifiable information.
+
+ERISA. The Employee Retirement Income Security Act of 1974, as amended (ERISA), regulates how our services are provided to or through certain types of employer-sponsored health benefit plans. ERISA is a set of laws and regulations subject to interpretation by the U. S. Department of Labor (DOL) as well as the federal courts. ERISA sets forth standards on how our business units may do business with employers who sponsor employee health benefit plans, particularly those that maintain self-funded 
+plans. Regulations established by the DOL subject us to additional requirements for administration of benefits, claims payment and member appeals under health care plans governed by ERISA.
+
+State Laws and Regulation
+
+Health Care Regulation. Our insurance and HMO subsidiaries must be licensed by the jurisdictions in which they conduct business. All of the states in which our subsidiaries offer insurance and HMO products regulate those products and operations. The states require periodic financial reports and establish minimum capital or restricted cash reserve requirements. The National Association of Insurance Commissioners (NAIC) has adopted model regulations which require expanded governance practices and 
+risk and solvency assessment reporting. Most states have adopted these or similar measures to expand the scope of regulations relating to corporate governance and internal control activities of HMOs and insurance companies. We are required to maintain a risk management framework and file a confidential self-assessment report with state insurance regulators. We file reports annually with Connecticut, our lead regulator, and with New York, as required by the state’s regulation.
+
+Our health plans and insurance companies are regulated under state insurance holding company regulations. Such regulations generally require registration with applicable state departments of insurance and the filing of reports describing capital structure, ownership, financial condition, certain affiliated transactions and general business operations. Most state insurance
+
+
+holding company laws and regulations require prior regulatory approval of acquisitions and material affiliated transfers of assets, as well as transactions between the regulated companies and their parent holding companies or affiliates. These laws and regulations may restrict the ability of our regulated subsidiaries to pay dividends to our holding companies.
+
+Some of our business activity is subject to other health care-related regulations and requirements, including PPO, Managed Care Organization (MCO), utilization review (UR), behavioral health, TPA, pharmacy care services, durable medical equipment or care provider-related regulations and licensure requirements. These regulations differ from state to state and may contain network, contracting, product and rate, licensing and financial and reporting requirements. Health care-related laws and 
+regulations set specific standards for delivery of services, mental health parity, appeals, grievances and payment of claims, adequacy of health care professional networks, fraud prevention, protection of consumer health information, pricing and underwriting practices and covered benefits and services. State health care anti-fraud and abuse prohibitions encompass a wide range of activities, including kickbacks for referral of members, billing for unnecessary medical services and improper 
+marketing. Certain of our businesses are subject to state general agent, broker and sales distribution laws and regulations. UnitedHealthcare Community & State and certain of our Optum businesses are subject to regulation by state Medicaid agencies which oversee the provision of benefits to our Medicaid and CHIP beneficiaries and to our beneficiaries dually eligible for Medicare and Medicaid. We also contract with state governmental entities and are subject to state laws and regulations relating
+to the award, administration and performance of state government contracts.
+
+State Privacy and Security Regulations. A number of states have adopted laws and regulations which may affect our privacy and security practices, such as state laws governing the use, disclosure and protection of social security numbers and protected health information or which are designed to implement GLBA or protect credit card account data. State and local authorities increasingly focus on the importance of protecting individuals from identity theft, with a significant number of states 
+enacting laws requiring businesses to meet minimum cyber-security standards and notify individuals of security breaches involving personal information. State consumer protection laws may also apply to privacy and security practices related to personally identifiable information, including information related to consumers and care providers. Different approaches to state privacy and insurance regulation and varying enforcement philosophies may materially and adversely affect our ability to 
+standardize our products and services across state lines. SeePart I, Item 1A, “ Risk Factors” for a discussion of the risks related to compliance with state privacy and security regulations.
+
+Corporate Practice of Medicine and Fee-Splitting Laws. Certain of our businesses function as direct medical service providers and, as such, are subject to additional laws and regulations. Some states have corporate practice of medicine laws prohibiting specific types of entities from practicing medicine or employing physicians to practice medicine. Moreover, some states prohibit certain entities from engaging in fee-splitting practices, which involve sharing in the fees or revenues of a 
+professional practice. These prohibitions may be statutory or regulatory, or may be imposed through judicial or regulatory interpretation. The laws, regulations and interpretations in certain states have been subject to limited judicial and regulatory interpretation and are subject to change. In addition, some states have begun to consider new laws to expand or change the scope of corporate practice of medicine laws. Any such changes could adversely impact how we structure transactions and 
+contract with and support physicians in those states.
+
+Pharmacy and Pharmacy Benefits Management (PBM) Regulations
+
+Optum Rx’s businesses include home delivery, specialty and compounding pharmacies, as well as clinic-based pharmacies which must be licensed as pharmacies in the states in which they are located. Certain of our pharmacies must also register with the U. S. Drug Enforcement Administration (DEA) and individual state controlled substance authorities to dispense controlled substances. In addition to adhering to the laws and regulations in the states where our pharmacies are located, we also are 
+required to comply with laws and regulations in some non-resident states where we deliver pharmaceuticals, including those requiring us to register with the board of pharmacy in the non-resident state. These non-resident states generally expect our pharmacies to follow the laws of the state in which the pharmacies are located, but some non-resident states also require us to comply with their laws if pharmaceuticals are delivered within those states. Additionally, certain of our pharmacies which 
+participate in programs for Medicare and state Medicaid providers are required to comply with applicable Medicare and Medicaid provider rules and regulations. Other laws and regulations affecting our pharmacies include federal and state statutes and regulations governing the labeling, packaging, advertising and adulteration of prescription drugs and dispensing of controlled substances. SeePart I, Item 1A, “ Risk Factors” for a discussion of the risks related to our pharmacy care services 
+businesses.
+
+Federal and state legislation regulating PBM activities affects both our ability to limit access to a pharmacy provider network or remove network providers. Many states limit our ability to manage and establish maximum allowable costs for generic prescription drugs and regulate various pharmacy reimbursement measures. With respect to formulary services, a number of government entities, including CMS, HHS and state departments of insurance, regulate the administration of prescription drug 
+benefits offered through federal or state exchanges. Many states also regulate the scope of prescription drug coverage, as well as the delivery channels to receive such prescriptions, for insurers, MCOs and Medicaid managed care plans. These regulations
+
+
+could limit or preclude (i) certain plan designs, (ii) limited networks, (iii) use of particular care providers or distribution channels, (iv) copayment differentials among providers and (v) formulary tiering practices.
+
+Legislation seeking to regulate PBM activities introduced or enacted at the federal or state level could impact our business practices with others in the pharmacy supply chain, including pharmaceutical manufacturers and network providers. In addition, organizations like the NAIC periodically issue model regulations while credentialing organizations, like the National Committee for Quality Assurance (NCQA) and the Utilization Review Accreditation Commission (URAC), may establish standards 
+impacting PBM pharmacy activities. Although these model regulations and standards do not have the force of law, they may influence states to adopt their recommendations and impact the services we deliver to our clients.
+
+Consumer Protection Laws
+
+Certain of our businesses participate in direct-to-consumer activities and are subject to regulations applicable to online communications and other general consumer protection laws and regulations such as the Federal Tort Claims Act, the Federal Postal Service Act and the FTC’s Telemarketing Sales Rule. Most states also have similar consumer protection laws.
+
+Certain laws, such as the Telephone Consumer Protection Act, give the FTC, the Federal Communications Commission (FCC) and state attorneys general the ability to regulate, and bring enforcement actions relating to, telemarketing practices and certain automated outbound contacts such as phone calls, texts or emails. Under certain circumstances, these laws may provide consumers with a private right of action to enforce those laws. Violations of these laws could result in substantial statutory 
+penalties and other sanctions.
+
+Banking Regulation
+
+Optum Bank is subject to supervision and regulation by the Utah State Department of Financial Institutions, which carries out annual examinations to ensure the bank is operating in accordance with state safety and soundness requirements and performs periodic examinations of the bank’s compliance with applicable state banking statutes, regulations and agency guidelines. Optum Bank is also subject to regulation by federal banking regulators, including the Federal Deposit Insurance Corporation 
+(FDIC), which performs annual examinations to ensure the bank is operating in accordance with federal safety and soundness requirements, and the Consumer Financial Protection Bureau, which may perform periodic examinations to ensure the bank is in compliance with applicable consumer protection statutes, regulations and agency guidelines. In the event of unfavorable examination results or an enforcement action from these state or federal agencies, the bank could become subject to civil 
+litigation, increased operational expenses and capital requirements, enhanced governmental oversight, monetary penalties and other sanctions.
+
+Non-U. S. Regulation
+
+Certain of our businesses operate internationally and are subject to regulation in the jurisdictions in which they are organized or conduct business. These regulatory regimes vary from jurisdiction to jurisdiction. In addition, our non-U. S. businesses and operations are subject to U. S. laws regulating the conduct and activities of U. S.-based businesses operating outside the United States, such as the Foreign Corrupt Practices Act (FCPA), which prohibits offering, promising, providing or 
+authorizing others to give anything of value to a foreign government official to obtain or retain business or otherwise secure a business advantage.
+
+COMPETITION
+
+As a diversified health care company, we operate in highly competitive markets across the full expanse of health care benefits and services. Our competitors include organizations ranging from startups to highly sophisticated Fortune 50 global enterprises, for-profit and non-profit companies, and private and government-sponsored entities. New entrants to our markets and business combinations among our competitors and suppliers also contribute to a dynamic and competitive environment. We compete 
+fundamentally on the quality and value we provide to those we serve, which can include elements such as product and service innovation; use of technology; consumer and provider engagement and satisfaction; and sales, marketing and pricing. SeePart I, Item 1A, “ Risk Factors” for additional discussion of our risks related to competition.
+
+INTELLECTUAL PROPERTY RIGHTS
+
+We have obtained trademark registration for the Un
+
+[...FILING TEXT TRUNCATED...]
+
+                                     982                   981              
+  $ 1,250 5%, Apr 2034                                                                     $ 1,500 6.05%, Feb 2063                                                                     1,466                 1,466  
+  $ 2,000 5.15%, Jul 2034                                                                  $ 1,750 5.2%, Apr 2063                                                                      1,710                 1,710  
+  $ 1,000 5.3%, June 2035                                              992          —      $ 1,100 5.5%, Apr 2064                                                                      1,086                 1,085  
+  $ 1,000 4.625%, Jul 2035                                                        971      $ 1,850 5.75%, Jul 2064                                                                     1,822                 1,822  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Commercial paper                                                       $          $      $ 850 5.8%, Mar 2036                                                              839                   838              
+                                                                                           Total short-term borrowings and long-term debt                                      $      77,681         $      76,180  
+
+The Company’s long-term debt obligations also included $ 708 724 182 197
+
+
+Maturities of short-term borrowings and long-term debt for the years ending December 31 are as follows:
+
+  (in millions)              
+ ─────────────────────────────
+           2026       6,082  
+           2027       3,530  
+           2028       3,605  
+           2029       3,655  
+           2030       3,855  
+     Thereafter      58,657  
+
+Short-Term Borrowings
+
+Commercial paper consists of short-duration, senior unsecured debt privately placed on a discount basis through broker-dealers. As of December 31, 2025, the Company’s outstanding commercial paper had a weighted-average annual interest rate of 3.8
+
+The Company has $ 7.0 five 7.0 three 7.0 364 4.2 6.8
+
+Debt Covenants
+
+As of December 31, 2025, the Company was in compliance with the various covenants under its bank credit facilities.
+
+9. Income Taxes
+
+The current income tax provision reflects the tax consequences of revenues and expenses currently taxable or deductible on various income tax returns for the year reported. The deferred income tax provision or benefit generally reflects the net change in deferred income tax assets and liabilities during the year, excluding any deferred income tax assets and liabilities of acquired businesses.
+
+The components of income before income taxes, based upon tax jurisdiction, for the years ended December 31 are as follows:
+
+  (in millions)                         2025                    2024                      2023               
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Income before income taxes:                                                                                
+  Domestic                              $           14,893      $             28,264      $          29,210  
+  Foreign                               ( 196)                  ( 8,193)                  ( 98)              
+  Total income before income taxes      $           14,697      $             20,071      $          29,112  
+
+The components of the provision for income taxes for the years ended December 31 are as follows:
+
+  (in millions)                             2025                   2024                   2023             
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Current Provision:                                                                                       
+  Federal                                      $      1,381           $      3,453           $      4,418  
+  State and local                            598                    416                    716             
+  Foreign                                             1,663                  1,256                  1,079  
+  Total current provision                             3,642                  5,125                  6,213  
+  Deferred Benefit:                                                                                        
+  Federal                               ( 1,149)                 ( 621)                     34             
+  State and local                         ( 227)                     18                      2             
+  Foreign                                 ( 376)                    307                 ( 281)             
+  Total deferred benefit                ( 1,752)                 ( 296)                 ( 245)             
+  Total provision for income taxes             $      1,890           $      4,829           $      5,968  
+
+
+The reconciliation of the tax provision at the U. S. federal statutory rate to the provision for income taxes and the effective tax rate for the year ended December 31, 2025 is as follows:
+
+  (in millions, except percentages)                      2025                           
+ ────────────────────────────────────────────────────────────────────────────────────────
+  Tax provision at the U. S. federal statutory rate      $           3,086        21.0  
+  Foreign tax effects (a)                                ( 789)                 ( 5.3)  
+  State income taxes, net of federal benefit (b)         151                       1.0  
+  Nontaxable or nondeductible items (c)                  ( 547)                 ( 3.7)  
+  Other, net                                             ( 11)                  ( 0.1)  
+  Provision for income taxes                             $           1,890        12.9  
+
+(a) Comprised primarily of tax rate differential in Ireland and tax attributes in Luxembourg.
+
+(b) State taxes in California, Florida, New York and Massachusetts contributed to the majority of the tax effect in this category.
+
+(c) Comprised primarily of tax impacts of net portfolio divestitures.
+
+The reconciliation of the tax provision at the U. S. federal statutory rate to the provision for income taxes and the effective tax rate for the years ended December 31 are as follows:
+
+  (in millions, except percentages)                                  2024                               2023                         
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Tax provision at the U. S. federal statutory rate                     $      4,215        21.0           $      6,114        21.0  
+  State income taxes, net of federal benefit                          343                    1.7         567                    2.0  
+  Share-based awards - excess tax benefit                           ( 96)                 ( 0.5)       ( 75)                 ( 0.3)  
+  Non-deductible compensation                                         171                    0.9         174                    0.6  
+  Foreign rate differential                                        ( 369)                 ( 1.8)      ( 442)                 ( 1.5)  
+  Tax effect of dispositions and other strategic transactions                  1,215         6.1       ( 29)                 ( 0.1)  
+  Other, net                                                       ( 650)                 ( 3.3)      ( 341)                 ( 1.2)  
+  Provision for income taxes                                            $      4,829        24.1           $      5,968        20.5  
+
+Taxes Paid
+
+A summary of total taxes paid for the year ended December 31, 2025 is as follows:
+
+  (in millions)                                                2025             
+ ────────────────────────────────────────────────────────────────────────────────
+  Domestic:                                                                     
+  State and local premium taxes                                $         2,371  
+  Payroll and other taxes                                                2,062  
+  Federal income taxes                                                   1,209  
+  State and local income taxes                                 316              
+  Total domestic taxes paid                                    $         5,958  
+  Domestic taxes paid as a percentage of total taxes paid      73               
+  Foreign:                                                                      
+  Income taxes (a)                                             $         2,189  
+  Other taxes                                                  40               
+  Total foreign taxes paid                                     $         2,229  
+  Foreign taxes paid as a percentage of total taxes paid       27               
+  Total taxes paid                                             $         8,187  
+
+(a) Comprised p rimarily of taxes paid to Ireland.
+
+
+Deferred income tax assets and liabilities are recognized for the differences between the financial and income tax reporting bases of assets and liabilities based on enacted tax rates and laws. The components of deferred income tax assets and liabilities as of December 31 are as follows: (in millions) 2025 2024
+────────────────────────────────────────────────────────────────────────────────────────────────────────
+Deferred income tax assets:
+Accrued expenses and allowances $ 1,282 $ 1,055
+U. S. federal and state net operating loss carryforwards 566 442
+Share-based compensation 210 189
+Nondeductible liabilities 355 343
+Lease liability 850 846
+Unrecognized tax benefits 430 358
+Net unrealized losses on investments 326 669
+Other-domestic 291 239
+Other-non-U. S. 275 80
+Subtotal 4,585 4,221
+Less: valuation allowances ( 478) ( 397)
+Total deferred income tax assets 4,107 3,824
+Deferred income tax liabilities:
+U. S. federal and state intangible assets ( 4,347) ( 4,479)
+Capitalized software ( 152) ( 288)
+Depreciation and amortization ( 435) ( 400)
+Prepaid expenses ( 333) ( 374)
+Outside basis in partnerships ( 402) ( 960)
+Lease right-of-use asset ( 800) ( 833)
+Other-non-U. S. ( 59) ( 110)
+Total deferred income tax liabilities ( 6,528) ( 7,444)
+Net deferred income tax liabilities $ ( 2,421) $ ( 3,620)
+
+Valuation allowances are provided when it is considered more likely than not deferred tax assets will not be realized. The valuation allowances primarily relate to future tax benefits on certain federal, state and non-U. S. net operating loss carryforwards. Substantially all of the federal net operating loss carryforwards have indefinite carryforward periods; state net operating loss carryforwards expire beginning in 2026 through 2045, with some having an indefinite carryforward period. 
+Additionally, as of December 31, 2025 and 2024, the Company has historical non-U. S. net operating loss carryforwards for which a deferred tax asset and valuation allowance of $5.2 billion and $4.1 billion, respectively, are not established because realization of the loss carryforwards is remote.
+
+As of December 31, 2025, except for subsidiaries held for sale, the Company’s undistributed earnings from non-U. S. subsidiaries are intended to be indefinitely reinvested in non-U. S. operations, and therefore no U. S. deferred taxes have been recorded. Taxes payable on the remittance of such earnings would be minimal.
+
+A reconciliation of the beginning and ending amount of unrecognized tax benefits as of December 31 is as follows:
+
+  (in millions)                                             2025                 2024                   2023               
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Gross unrecognized tax benefits, beginning of period      $         4,123      $           3,716      $           3,081  
+  Gross increases:                                                                                                         
+  Current year tax positions                                926                  578                    782                
+  Prior year tax positions                                  583                  10                     97                 
+  Gross decreases:                                                                                                         
+  Prior year tax positions                                  ( 6)                 ( 121)                 ( 212)             
+  Statute of limitations lapses and settlements             ( 5)                 ( 60)                  ( 32)              
+  Gross unrecognized tax benefits, end of period            $         5,621      $           4,123      $           3,716  
+
+
+The Company classifies net interest and penalties associated with uncertain income tax positions as income taxes within its Consolidated Statements of Operations. During the years ended December 31, 2025, 2024 and 2023, the Company recognized $ 104 210 177 741 637 2.8
+
+The Company currently files income tax returns in the United States, various states and localities and non-U. S. jurisdictions. The U. S. Internal Revenue Service (IRS) has completed exams on the consolidated income tax returns for fiscal years 2016 and prior. The Company’s 2017 through 2023 tax years are under exam by the IRS, with the 2017 through 2020 tax years under the IRS’s Compliance Assurance Process. The Company is no longer subject to state income tax examinations prior to the 2015 tax
+year. The Company is subject to examination in non-U. S. jurisdictions for years 2015 and forward.
+
+10. Shareholders' Equity
+
+Regulatory Capital and Dividend Restrictions
+
+The Company’s regulated insurance and HMO subsidiaries are subject to regulations and standards in their respective jurisdictions. These standards, among other things, require these subsidiaries to maintain specified levels of statutory capital, as defined by each jurisdiction, and restrict the timing and amount of dividends and other distributions which may be paid to their parent companies. In the United States, most of these state regulations and standards are generally consistent with model 
+regulations established by the NAIC. These standards generally permit dividends to be paid from statutory unassigned surplus of the regulated subsidiary and are limited based on the regulated subsidiary’s level of statutory net income and statutory capital and surplus. These dividends are referred to as “ordinary dividends” and generally may be paid without prior regulatory approval. If the dividend, together with other dividends paid within the preceding twelve months, exceeds a specified 
+statutory limit or is paid from sources other than earned surplus, it is generally considered an “extraordinary dividend” and must receive prior regulatory approval.
+
+For the year ended December 31, 2025, the Company’s domestic insurance and HMO subsidiaries received capital infusions from its parent companies, net of dividends, of $ 535 893 9.2 2.6
+
+The Company's financially regulated subsidiaries had estimated aggregate statutory capital and surplus of $ 43.1 23.2
+
+Optum Bank must meet minimum capital requirements of the FDIC under the capital adequacy rules to which it is subject. At December 31, 2025, the Company believes Optum Bank met the FDIC requirements to be considered “ Well Capitalized.”
+
+Share Repurchase Program
+
+Under its Board of Directors’ authorization, the Company maintains a share repurchase program. The objectives of the share repurchase program are to optimize the Company’s capital structure and cost of capital, thereby improving returns to shareholders, as well as to offset the dilutive impact of share-based awards. Repurchases may be made from time to time in open market purchases or other types of transactions (including prepaid or structured share repurchase programs), subject to certain 
+restrictions. In June 2024, the Board of Directors amended the Company’s share repurchase program to authorize the repurchase of up to 35
+
+
+A summary of common share repurchases for the years ended December 31, 2025 and 2024 is as follows:
+
+                                                         Years Ended December 31,                                    
+  (in millions, except per share data)                   2025                                      2024              
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Common share repurchases, shares                       12                                        17                
+  Common share repurchases, average price per share      $                             454.82      $         529.85  
+  Common share repurchases, aggregate cost               $                              5,482      $          8,942  
+  Board authorized shares remaining                      21                                        33                
+
+Dividends
+
+In June 2025, the Company’s Board of Directors increased the Company’s quarterly cash dividend to shareholders to an annual rate of $8.84 compared to $8.40 per share, which the Company had paid since June 2024. Declaration and payment of future quarterly dividends is at the discretion of the Board and may be adjusted as business needs or market conditions change.
+
+The following table provides details of the Company’s 2025 dividend payments:
+
+  Payment Date      Amount per Share      Total Amount Paid             
+                                          (in millions)                 
+ ────────────────────────────────────────────────────────────────────────
+  March 18                         $      $                      1,912  
+  June 24                       2.21                             2,000  
+  September 23                  2.21                             2,002  
+  December 16                   2.21                             2,002  
+
+11. Share-Based Compensation
+
+The Company’s outstanding share-based awards consist mainly of non-qualified stock options and restricted shares. As of December 31, 2025, the Company had 39 15
+
+Stock Options
+
+Stock option activity for the year ended December 31, 2025 is summarized in the table below:
+
+                                                         Shares      Weighted-             Weighted-      Aggregate        
+                                                                       Average               Average      Intrinsic Value  
+                                                                      Exercise             Remaining                       
+                                                                         Price      Contractual Life                       
+                                                  (in millions)                           (in years)      (in millions)    
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Outstanding at beginning of period                         17              $                                             
+  Granted                                                     5            389                                             
+  Exercised                                                ( 3)            215                                             
+  Forfeited                                                ( 1)            491                                             
+  Outstanding at end of period                               18            391                   5.6      $                
+  Exercisable at end of period                               11            336                   4.0      505              
+  Vested and expected to vest, end of period                 18            390                   5.5      542              
+
+Restricted Shares
+
+Restricted share activity for the year ended December 31, 2025 is summarized in the table below:
+
+  (shares in millions)                  Shares      Weighted-Average           
+                                                          Grant Date           
+                                                          Fair Value           
+                                                           per Share           
+ ───────────────────────────────────────────────────────────────────────────────
+  Nonvested at beginning of period           4                     $      489  
+  Granted                                    3                   421           
+  Vested                                  ( 2)                   503           
+  Nonvested at end of period                 5                   441           
+
+
+Other Share-Based Compensation Data
+
+  (in millions, except per share amounts)                                  For the Years Ended December 31,                                                     
+                                                                                                       2025               2024                 2023             
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Stock Options                                                                                                                                                 
+  Weighted-average grant date fair value of shares granted, per share                                     $      110         $        138         $        134  
+  Total intrinsic value of stock options exercised                                                      616                         1,886                1,325  
+  Restricted Shares                                                                                                                                             
+  Weighted-average grant date fair value of shares granted, per share                                   421                523                  493             
+  Total fair value of restricted shares vested                                                          553                690                  803             
+  Employee Stock Purchase Plan                                                                                                                                  
+  Number of shares purchased                                                                              1                  1                    1             
+  Share-Based Compensation Items                                                                                                                                
+  Share-based compensation expense, before tax                                                            $      971         $      1,018         $      1,059  
+  Share-based compensation expense, net of tax effects                                                  865                896                  937             
+  Income tax benefit realized from share-based award exercises                                          130                216                  231             
+
+  (in millions, except years)                                    December 31, 2025             
+ ───────────────────────────────────────────────────────────────────────────────────────────────
+  Unrecognized compensation expense related to share awards      $                      1,333  
+  Weighted-average years to recognize compensation expense       1.3                           
+
+Share-Based Compensation Recognition and Estimates
+
+The principal assumptions the Company used in calculating grant-date fair value for stock options were as follows:
+
+                               For the Years Ended December 31,                                        
+                               2025                                  2024               2023           
+  Risk-free interest rate      3.7% - 4.3%                           3.6% - 4.4%        3.8% - 4.6%    
+  Expected volatility          25.1% - 33.5%                         25.5% - 30.7%      29.7% - 30.6%  
+  Expected dividend yield      1.7% - 3.5%                           1.4% - 1.5%        1.3% - 1.5%    
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────
+  Forfeiture rate              5.0%                                  5.0%               5.0%           
+  Expected life in years       4.8                                   4.6                4.6            
+
+Risk-free interest rates are based on U. S. Treasury yields in effect at the time of grant. Expected volatilities are based on the historical volatility of the Company’s common stock and the implied volatility from exchange-traded options on the Company’s common stock. Expected dividend yields are based on the per share cash dividend paid by the Company. The Company uses historical data to estimate option exercises and forfeitures within the valuation model. The expected lives of options granted
+represent the periods of time the awards granted are expected to be outstanding based on historical exercise patterns.
+
+Other Employee Benefit Plans
+
+The Company offers various defined contribution retirement savings plans for its domestic employees. Compensation expense related to these plans was $ 850 853 804
+
+In addition, the Company maintains non-qualified, deferred compensation plans, which allow certain members of senior management and executives to defer portions of their salary or bonus. The deferrals are recorded within long-term investments with an approximately equal amount in other liabilities in the Consolidated Balance Sheets. The total deferrals are distributable based upon termination of employment or other periods, as elected under each plan and were $ 2.2 2.1
+
+
+12. Commitments and Contingencies
+
+Leases
+
+Operating lease costs, including immaterial variable and short-term lease costs, were $ 1.6 1.4 1.4 1.1 9.2 5.0
+
+As of December 31, 2025, future minimum annual lease payments under all non-cancelable operating leases were as follows:
+
+  (in millions)                                                                     Future Minimum Lease Payments             
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  2026                                                                                                          $      1,052  
+  2027                                                                                                        916             
+  2028                                                                                                        740             
+  2029                                                                                                        637             
+  2030                                                                                                        552             
+  Thereafter                                                                                                           2,665  
+  Total future minimum lease payments                                                                                  6,562  
+  Less: imputed interest                                                                                 ( 1,391)             
+  Less: future minimum lease payments included within businesses held for sale                             ( 556)             
+  Total                                                                                                         $      4,615  
+
+Other Commitments
+
+The Company provides guarantees related to its service level under certain contracts. If minimum standards are not met, the Company may be financially at risk up to a stated percentage of the contracted fee or a stated dollar amount. None of the amounts accrued, paid or charged to income for service level guarantees were material as of December 31, 2025, 2024 or 2023.
+
+The Company has entered into certain transactions that include various put and call options on unconsolidated businesses. As of December 31, 2025 the estimated obligation under these arrangements if they were currently redeemable was $ 4.8
+
+Legal Matters
+
+The Company is frequently made party to a variety of legal actions and regulatory inquiries, including class actions and suits brought by members, care providers, consumer advocacy organizations, customers, shareholders and regulators, relating to the Company’s businesses, including management and administration of health benefit plans and other services. These matters include medical malpractice, employment, intellectual property, antitrust, privacy and contract claims and claims related to 
+health care benefits coverage and other business practices.
+
+The Company records liabilities for its estimates of probable costs resulting from these matters where appropriate. Estimates of costs resulting from legal and regulatory matters involving the Company are inherently difficult to predict, particularly where the matters: involve indeterminate claims for monetary damages or may involve fines, penalties or punitive damages; present novel legal theories or represent a shift in regulatory policy; involve a large number of claimants or regulatory 
+bodies; are in the early stages of the proceedings; or could result in a change in business practices. Accordingly, the Company is often unable to estimate the losses or ranges of losses for those matters where there is a reasonable possibility or it is probable a loss may be incurred.
+
+Government Investigations, Audits and Reviews
+
+The Company has been involved or is currently involved in various governmental investigations, audits and reviews. These include routine, regular and special investigations, audits and reviews by the Centers for Medicare and Medicaid Services (CMS), state insurance and health and welfare departments, state attorneys general, the Office of the Inspector General (OIG), the Office of Personnel Management, the Office for Civil Rights, the Government Accountability Office, the Federal Trade 
+Commission, U. S. Congressional committees, the U. S. Department of Justice (DOJ), the SEC, the Internal Revenue Service, the U. S. Drug Enforcement Administration, the U. S. Department of Labor, the Federal Deposit Insurance Corporation, the Consumer Financial Protection Bureau, the Defense Contract Audit Agency, the Food and Drug Administration and other governmental authorities. Similarly, the Company’s international businesses are also subject to investigations, audits and reviews by 
+applicable foreign governments. The Company responds on a regular basis to subpoenas, information requests, inquiries, investigations and other processes from governmental entities. The Company can provide no assurance as to the scope and outcome of these matters and no assurance as to whether its business, financial condition or results of operations will
+
+
+be materially adversely affected. Certain of the Company’s businesses have been reviewed or are currently under review, including for, among other matters, compliance with coding and other requirements under the Medicare risk-adjustment model. CMS and OIG have selected certain of the Company’s local plans for risk adjustment data validation (RADV) audits to validate the coding practices of and supporting documentation maintained by health care providers and such audits may result in 
+retrospective adjustments to payments made to the Company’s health plans.
+
+On February 14, 2017, the DOJ announced its decision to pursue certain claims within a lawsuit initially asserted against the Company and filed under seal by a whistleblower in 2011. The whistleblower’s complaint, which was unsealed on February 15, 2017, alleges the Company made improper risk adjustment submissions and violated the False Claims Act. In March 2025, a Special Master appointed by the court issued a report recommending that the court enter summary judgment in the Company’s favor on 
+all remaining claims. In April 2025, the DOJ filed a motion asking the court to reject the Special Master’s report. The Company cannot reasonably estimate the outcome which may result from this matter given its procedural status.
+
+13. Business Combinations
+
+During the year ended December 31, 2025, the Company completed several business combinations for total consideration of $ 4.8
+
+Acquired assets (liabilities) at acquisition date were as follows:
+
+  (in millions)                                                          
+ ─────────────────────────────────────────────────────────────────────────
+  Cash and cash equivalents                                $        305  
+  Accounts receivable and other current assets           811             
+  Property, equipment and other long-term assets         247             
+  Other intangible assets                                525             
+  Total identifiable assets acquired                              1,888  
+  Medical costs payable                                ( 32)             
+  Accounts payable and other current liabilities      ( 536)             
+  Other long-term liabilities                         ( 355)             
+  Total identifiable liabilities acquired             ( 923)             
+  Total net identifiable assets                          965             
+  Goodwill                                                        4,295  
+  Nonredeemable noncontrolling interests              ( 425)             
+  Net assets acquired                                      $      4,835  
+
+The majority of goodwill is not deductible for income tax purposes. The preliminary purchase price allocations for the various business combinations are subject to adjustment as valuation analyses, primarily related to intangible assets and contingent liabilities, are finalized.
+
+The results of operations and financial condition of acquired entities have been included in the Company’s consolidated results and the results of the corresponding operating segment as of the date of acquisition. For the year ended December 31, 2025, the acquired entities’ impact on revenues and net earnings was not material.
+
+Unaudited pro forma revenues and net earnings for the years ended December 31, 2025 and 2024, as if the business combinations had occurred on January 1, 2024, were immaterial for both periods.
+
+14. Dispositions and Held for Sale
+
+2025 Dispositions and Held for Sale
+
+In the fourth quarter of 2025, the Company entered into an agreement to sell its remaining South American operations, which is expected to close in the second half of 2026, subject to regulatory and other customary closing conditions. Losses related to this transaction are included within loss on sale of subsidiary and subsidiaries held for sale on the Consolidated Statements of Operations as they relate to the strategic exit of South American markets and include significant losses related to 
+foreign currency translation effects.
+
+The Company initiated various other dispositions in the fourth quarter of 2025, which were classified as held for sale as of December 31, 2025. Losses related to these actions were $ 950
+
+
+Assets and liabilities held for sale have been included within prepaid expenses and other current assets and other current liabilities on the Condensed Consolidated Balance Sheets, respectively. The assets and liabilities of the held for sale disposal groups as of December 31, 2025, were as follows: (in millions) South American Businesses Other Businesses
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Assets
+Cash and cash equivalents $ 253 $ 317
+Accounts receivable and other current assets 747 515
+Property, equipment and capitalized software 819 292
+Goodwill 176 434
+Other intangible assets 257 803
+Other long-term assets 320 346
+Remeasurement of assets of businesses held for sale to fair value less cost to sell (1) ( 1,523) ( 950)
+Total assets $ 1,049 $ 1,757
+Liabilities
+Medical costs payable $ 205 $ 463
+Accounts payable and other current liabilities 408 301
+Other long-term liabilities 362 407
+Total liabilities $ 975 $ 1,171
+
+(1) Includes the effect of $ 891 275
+
+2025 Deconsolidation of Business
+
+Due to changes in governance rights, the Company deconsolidated a business that had net assets and redeemable noncontrolling interests with carrying values of $ 1.4 2.6 575 1.7
+
+2024 Dispositions and Held for Sale
+
+During the year ended December 31, 2024, the Company completed or initiated various business portfolio refinement and asset disposition activities. The Company recorded a loss of $ 7.1 4.1 1.2 855
+
+As a result of continued portfolio refinement, the Company sold other businesses and assets and entered into strategic transactions. These transactions resulted in total consideration received of $ 3.0 1.9 1.0 3.3 1.4 1.1 800 630
+
+
+15. Segment Financial Information
+
+Factors used to determine the Company’s reportable segments include the nature of operating activities, economic characteristics, existence of separate senior management teams and the type of information used by the Company’s chief operating decision maker (CODM), which is the Chief Executive Officer, to evaluate its results of operations. Reportable segments with similar economic characteristics, products and services, customers, distribution methods and operational processes which operate in a
+similar regulatory environment are combined. The CODM uses consolidated expense information and segment earnings from operations to assess performance and determine allocation of resources.
+
+The following is a description of the types of products and services from which each of the Company’s four
+
+•UnitedHealthcare includes the combined results of operations of UnitedHealthcare Employer & Individual, UnitedHealthcare Medicare & Retirement and UnitedHealthcare Community & State. The businesses share significant common assets, including a contracted network of physicians, health care professionals, hospitals and other facilities, information technology and consumer engagement infrastructure and other resources. UnitedHealthcare Employer & Individual offers an array of consumer-oriented 
+health benefit plans and services for employers and individuals. UnitedHealthcare Medicare & Retirement provides health care coverage and health and well-being services to individuals age 50 and older, addressing their unique needs. UnitedHealthcare Community & State provides diversified health care benefits products and services to state programs caring for the economically disadvantaged, the medically underserved and those without the benefit of employer-funded health care coverage.
+
+•Optum Health focuses on care delivery, including value-based care; care management; wellness and consumer engagement and health financial services. Optum Health is building a comprehensive, connected health care delivery and engagement platform by directly providing high-quality care, helping people manage chronic and complex health needs, and proactively engaging consumers in managing their health through in-person, in-home, virtual and digital clinical platforms.
+
+•Optum Insight brings together advanced analytics, technology and health care expertise to deliver integrated services and solutions. Hospital systems, physicians, health plans, governments, life sciences companies and other organizations depend on Optum Insight to help them improve performance, achieve efficiency, reduce costs, meet compliance mandates and modernize their core operating systems to meet the changing needs of the health system.
+
+•Optum Rx offers pharmacy care services and programs, including retail network contracting, home delivery, specialty and community health pharmacy services, infusion, purchasing and clinical capabilities, and develops programs in areas such as step therapy, formulary management, drug adherence and disease and drug therapy management. Optum Rx integrates pharmacy and medical care and is positioned to serve patients with complex clinical needs and consumers looking for a better digital pharmacy 
+experience with transparent pricing.
+
+The Company’s accounting policies for reportable segment operations are consistent with those described in the Summary of Significant Accounting Policies (seeNote 2). Transactions between reportable segments principally consist of sales of pharmacy care products and services to UnitedHealthcare customers by Optum Rx; care delivery, care management services and certain product offerings sold to UnitedHealthcare by Optum Health; and health information and technology solutions, consulting and other
+services sold to UnitedHealthcare by Optum Insight. These transactions are recorded at management’s estimate of fair value. Transactions with affiliated customers are eliminated in consolidation. Assets and liabilities jointly used are assigned to each reportable segment using estimates of pro-rata usage. Cash and investments are assigned so each reportable segment has working capital and/or at least minimum specified levels of regulatory capital.
+
+As a percentage of the Company’s total consolidated revenues, premium revenues from CMS were 44 40 40
+
+2026 Business Realignment
+
+On January 1, 2026, the Company realigned certain businesses to respond to changes in the markets it serves and the opportunities that are emerging as the health system evolves. Optum Financial, including Optum Bank, which was historically included in Optum Health will now be included in Optum Insight. The Company’s reportable segments will remain unchanged, with prior period segment financial information being recast to conform to the 2026 presentation, beginning with the Company’s Quarterly 
+Report on Form 10-Q for the three months ended March 31, 2026 filed with the SEC.
+
+
+The following table presents the reportable segment financial information:
+
+  (in millions)                                                                                        Optum Rx                                         
+  2025                                                                                                                                                  
+  Revenues - unaffiliated customers:                                                                                                                    
+  Premiums                                                       332,390       19,839           —      $                   —       19,839      352,229  
+  Products                                                                                                            52,925       53,380       53,380  
+  Services                                                        10,340       16,757       6,187                      4,754       27,698       38,038  
+  Total revenues - unaffiliated customers                        342,730       36,869       6,369                     57,679      100,917      443,647  
+  Total revenues - affiliated customers                                        63,615      12,948                     96,873      167,956               
+  Investment and other income                                      2,173        1,473                  174                          1,747        3,920  
+  Total revenues                                                 344,903      101,957      19,417      $             154,726      270,620      447,567  
+  Total operating costs (a)                                      335,478      102,235      16,793      $             147,533      261,081      428,603  
+  Earnings from operations                                         9,425       ( 278)       2,624      $               7,193        9,539       18,964  
+  Interest expense                                                                                     —                                                
+  Loss on sale of subsidiary and subsidiaries held for sale                                            —                                                
+  Earnings before income taxes                                     9,160       ( 278)       2,624      $               7,193        9,539       14,697  
+  Total assets                                                   124,051      100,991      35,400      $              62,262      198,653      309,581  
+  Purchases of property, equipment and capitalized software                     1,237       1,170      399                          2,806        3,622  
+  Depreciation and amortization                                                 1,211       1,422      845                          3,478        4,361  
+  2024                                                                                                                                                  
+  Revenues - unaffiliated customers:                                                                                                                    
+  Premiums                                                       286,004       22,806           —      $                   —       22,806      308,810  
+  Products                                                                                                            49,775       50,226       50,226  
+  Services                                                         9,791       16,153       6,466                      3,630       26,249       36,040  
+  Total revenues - unaffiliated customers                        295,795       39,236       6,640                     53,405       99,281      395,076  
+  Total revenues - affiliated customers                                        63,883      11,881                     79,512      150,887               
+  Investment and other income                                      2,413        2,239                  314                          2,789        5,202  
+  Total revenues                                                 298,208      105,358      18,757      $             133,231      252,957      400,278  
+  Total operating costs (a)                                      282,624       97,588      15,660      $             127,395      236,254      367,991  
+  Earnings from operations                                        15,584        7,770       3,097      $               5,836       16,703       32,287  
+  Interest expense                                                                                     —                                                
+  Loss on sale of subsidiary and subsidiaries held for sale                                            —                                                
+  Earnings before income taxes                                     7,274        7,770       3,097      $               5,836       16,703       20,071  
+  Total assets                                                   119,009       96,472      34,452      $              59,086      190,010      298,278  
+  Purchases of property, equipment and capitalized software                     1,008       1,291      419                          2,718        3,499  
+  Depreciation and amortization                                                 1,123       1,294      793                          3,210        4,099  
+  2023                                                                                                                                                  
+  Revenues - unaffiliated customers:                                                                                                                    
+  Premiums                                                       269,052       21,775           —      $                   —       21,775      290,827  
+  Products                                                                                                            42,214       42,583       42,583  
+  Services                                                        10,057       14,109       7,760                      2,197       24,066       34,123  
+  Total revenues - unaffiliated customers                        279,109       36,091       7,922                     44,411       88,424      367,533  
+  Total revenues - affiliated customers                                        57,696      10,896                     71,484      136,373               
+  Investment and other income                                      2,251        1,532                  192                          1,838        4,089  
+  Total revenues                                                 281,360       95,319      18,932      $             116,087      226,635      371,622  
+  Total operating costs (a)                                      264,945       88,759      14,664      $             110,972      210,692      339,264  
+  Earnings from operations                                        16,415        6,560       4,268      $               5,115       15,943       32,358  
+  Interest expense                                                                                     —                                                
+  Earnings before income taxes                                    16,415        6,560       4,268      $               5,115       15,943       29,112  
+  Total assets                                                   110,943       89,432      34,173      $              51,266      174,871      273,720  
+  Purchases of property, equipment and capitalized software                     1,199                  347                          2,520        3,386  
+  Depreciation and amortization                                                 1,058       1,229      696                          2,983        3,972  
+
+(a) Total operating costs include medical costs, operating costs, cost of products sold and depreciation and amortization, as applicable for each reportable segment.
+
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+
+None.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+EVALUATION OF DISCLOSURE CONTROLS AND PROCEDURES
+
+We maintain disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 (Exchange Act) designed to provide reasonable assurance the information required to be disclosed by us in reports we file or submit under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in SEC rules and forms; and (ii) accumulated and communicated to our management, including our principal executive officer and
+principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
+
+In connection with the filing of this Annual Report on Form 10-K, management evaluated, under the supervision and with the participation of our Chief Executive Officer and Chief Financial Officer, the effectiveness of the design and operation of our disclosure controls and procedures as of December 31, 2025. Based upon their evaluation, our Chief Executive Officer and Chief Financial Officer concluded our disclosure controls and procedures were effective at the reasonable assurance level as of 
+December 31, 2025.
+
+CHANGES IN INTERNAL CONTROL OVER FINANCIAL REPORTING
+
+There have been no changes in our internal control over financial reporting during the quarter ended December 31, 2025 which have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+Report of Management on Internal Control Over Financial Reporting as of December 31, 2025
+
+Management of UnitedHealth Group Incorporated and Subsidiaries (the Company) is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Securities Exchange Act of 1934. The Company’s internal control system is designed to provide reasonable assurance to our management and board of directors regarding the reliability of financial reporting and the preparation of consolidated financial statements for 
+external purposes in accordance with generally accepted accounting principles. The Company’s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the Company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of consolidated financial statements in accordance with 
+generally accepted accounting principles, and that receipts and expenditures of the Company are being made only in accordance with authorizations of management and directors of the Company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company’s assets that could have a material effect on the consolidated financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Management assessed the effectiveness of the Company’s internal control over financial reporting as of December 31, 2025. In making this assessment, we used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control-Integrated Framework (2013). Based on our assessment and the COSO criteria, we believe that, as of December 31, 2025, the Company maintained effective internal control over financial reporting.
+
+The Company’s independent registered public accounting firm has audited the Company’s internal control over financial reporting as of December 31, 2025, as stated in the Report of Independent Registered Public Accounting Firm, appearing under Item 9A.
+
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the shareholders and the Board of Directors of UnitedHealth Group Incorporated and Subsidiaries:
+
+Opinion on Internal Control over Financial Reporting
+
+We have audited the internal control over financial reporting of UnitedHealth Group Incorporated and subsidiaries (the “ Company”) as of December 31, 2025, based on criteria established inInternal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on criteria established 
+inInternal Control - Integrated Framework (2013) issued by COSO.
+
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated financial statements as of and for the year ended December 31, 2025, of the Company and our report dated March 2, 2026, expressed an unqualified opinion on those financial statements.
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Report of Management on Internal Control Over Financial Reporting as of December 31, 2025. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB 
+and are required to be independent with respect to the Company in accordance with the U. S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based 
+on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions 
+and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or 
+disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+  /s/ DELOITTE & TOUCHE LLP  
+  Minneapolis, Minnesota     
+  March 2, 2026              
+
+
+ITEM 9B. OTHER INFORMATION
+
+Trading Arrangements
+
+During the quarter ended December 31, 2025, none of the Company’s directors or officers (as defined in Rule 16a-1(f) under the Exchange Act) adopted terminated
+
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+
+Not Applicable.
+
+PART III
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+
+The following sets forth certain information regarding our directors as of March 2, 2026, including their name and principal occupation or employment:
+
+  Charles Baker                                           Stephen Hemsley                               
+  President                                               Chair and Chief Executive Officer             
+  Timothy Flynn                                           Michele Hooper                                
+  Retired Chair                                           President and Chief Executive Officer         
+  Paul Garcia                                             F. William McNabb III                         
+  Retired Chair and Chief Executive Officer               Lead Independent Director                     
+  Kristen Gil                                             Valerie Montgomery Rice, M. D.                
+  Former Vice President and Business Finance Officer      President and Chief Executive Officer         
+  Scott Gottlieb, M. D.                                   John Noseworthy, M. D.                        
+  Former Commissioner                                     Former Chief Executive Officer and President  
+
+Pursuant to General Instruction G(3) to Form 10-K and the Instruction to Item 401 of Regulation S-K, information regarding our executive officers is provided inPart I, Item 1 under the caption “ Information About our Executive Officers.”
+
+We have adopted a code of ethics applicable to our principal executive officer and other senior financial officers, who include our principal financial officer, principal accounting officer, controller and persons performing similar functions. The code of ethics, entitled Code of Conduct: Our Principles of Ethics and Integrity, is posted on our website at www. unitedhealthgroup. com. For information about how to obtain the Code of Conduct, seePart I, Item 1, “ Business.” We intend to satisfy the
+SEC’s disclosure requirements regarding amendments to, or waivers of, the code of ethics for our senior financial officers by posting such information on our website indicated above.
+
+The remaining information required by Items 401, 405, 406, 407(c)(3), (d)(4), (d)(5), and 408(b) of Regulation S-K will be included under the headings “ Corporate Governance”, “ Proposal 1-Election of Directors” and “ Insider Trading Policy” in our definitive proxy statement for our 2026 Annual Meeting of Shareholders, and such required information is incorporated herein by reference.
+
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+The information required by Items 402 and 407(e)(4) and (e)(5) of Regulation S-K will be included under the headings “ Executive Compensation,” “ Director Compensation,” “ Corporate Governance - Risk Oversight” and “ Compensation Committee Interlocks and Insider Participation” in our definitive proxy statement for our 2026 Annual Meeting of Shareholders, and such required information is incorporated herein by reference.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+Equity Compensation Plan Information
+
+The following table sets forth certain information as of December 31, 2025, concerning shares of common stock authorized for issuance under all of our equity compensation plans:
+
+  Plan category                                                   (a)                                                                         (b)                                                                                       (c)                                                                                
+                                                                  (in millions)                                                                                                                                                         (in millions)                                                                      
+  Equity compensation plans approved by shareholders (1)          18                                                                          $                                                                                395      54                                                                            (3)  
+  Equity compensation plans not approved by shareholders (2)      —                                                                                                                                                                     —                                                                                  
+  Total (2)                                                       18                                                                          $                                                                                —        54                                                                                 
+
+(1) Consists of the UnitedHealth Group Incorporated 2020 Stock Incentive Plan (2020 Stock Incentive Plan”), as amended, and the UnitedHealth Group 1993 Employee Stock Purchase Plan, as amended (ESPP).
+
+(2) Excludes 307,500 shares underlying stock options assumed by us in connection with acquisitions. These options have a weighted-average exercise price of $145 and an average remaining term of approximately 3.3 years. These options are administered pursuant to the terms of the plans under which the options originally were granted. No future awards will be granted under these acquired plans.
+
+(3) Includes 15 million shares of common stock available for future issuance under the ESPP as of December 31, 2025, and 39 million shares available under the 2020 Stock Incentive Plan as of December 31, 2025. Shares available under the 2020 Stock Incentive Plan may become the subject of future awards in the form of stock options, stock appreciation rights, restricted stock, restricted stock units, performance awards and other stock-based awards.
+
+The information required by Item 403 of Regulation S-K will be included under the heading “ Security Ownership of Certain Beneficial Owners and Management” in our definitive proxy statement for our 2026 Annual Meeting of Shareholders, and such required information is incorporated herein by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+
+The information required by Items 404 and 407(a) of Regulation S-K will be included under the headings “ Certain Relationships and Transactions” and “ Corporate Governance” in our definitive proxy statement for our 2026 Annual Meeting of Shareholders, and such required information is incorporated herein by reference.
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+The information required by Item 9(e) of Schedule 14A will be included under the heading “ Disclosure of Fees Paid to Independent Registered Public Accounting Firm” in our definitive proxy statement for our 2026 Annual Meeting of Shareholders, and such required information is incorporated herein by reference.
+
+
+PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+(a) 1. Financial Statements
+
+The financial statements are included under Item 8 of this report:
+
+• Reports of Independent Registered Public Accounting Firm.
+
+• Consolidated Balance Sheets as of December 31, 202 5 and 202 4.
+
+• Consolidated Statements of Operations for the years ended December 31, 202 5, 202 4, and 202 3.
+
+• Consolidated Statements of Comprehensive Income for the years ended December 31, 202 5, 202 4, and 202 3.
+
+• Consolidated Statements of Changes in Equity for the years ended December 31, 202 5, 202 4, and 202 3.
+
+• Consolidated Statements of Cash Flows for the years ended December 31, 202 5, 202 4, and 202 3.
+
+• Notes to the Consolidated Financial Statements.
+
+2. Financial Statement Schedules
+
+The following financial statement schedule of the Company is included in Item 15(c):
+
+• Schedule I - Condensed Financial Information of Registrant (Parent Company Only).
+
+All other schedules for which provision is made in the applicable accounting regulations of the SEC are not required under the related instructions, are inapplicable, or the required information is included in the consolidated financial statements, and therefore have been omitted.
+
+(b) The following exhibits are filed or incorporated by reference herein in response to Item 601 of Regulation S-K. The Company files Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K pursuant to the Securities Exchange Act of 1934 under Commission File No. 1‑10864.
+
+
+EXHIBIT INDEX**
+
+  3.2            Amended and Restated Bylaws of UnitedHealth Group Incorporated, effective November 6, 2025 (incorporated by reference to Exhibit 3. 1 to UnitedHealth Group Incorporated’s Current Report on Form...  
+  4.1            Amended and Restated Indenture, dated as of April 27, 2023, between UnitedHealth Group Incorporated and Wilmington Trust Company, as successor trustee (incorporated by reference to Exhibit 4.1 ...  
+  4.3            Supplemental Indenture, dated as of April 18, 2023, between UnitedHealth Group Incorporated and U. S. Bank Trust Company, National Association, as trustee, relating to the 6.875% Senior Notes d...  
+  4.4            Description of Common Stock (incorporated by reference to Exhibit 4.5 to UnitedHealth Group Incorporated’s Annual Report on Form 10-K for the year ended December 31, 2019)                           
+  * 10.1         UnitedHealth Group 2020 Stock Incentive Plan (incorporated by reference to Exhibit 4.1 to the Company’s Registration Statement on Form S-8, SEC File Number 333-238854, filed on June 1, 2020)        
+  * 10. 10       UnitedHealth Group Incorporated 2011 Stock Incentive Plan, as amended and restated in 2018 (incorporated by reference to Exhibit 10.1 to UnitedHealth Group Incorporated’s Annual Report on Form ...  
+  * 10. 1 1      Form of Agreement for Deferred Stock Unit Award to Non-Employee Directors under UnitedHealth Group Incorporated’s 2020 Stock Incentive Plan (incorporated by reference to Exhibit 10.11 to United...  
+  * 10. 1 2      Form of Indemnification Agreement (incorporated by reference to Exhibit 10.1 to UnitedHealth Group Incorporated’s Current Report on Form 8-K filed on July 1, 2015)                                   
+  * 10. 1 3      Amended and Restated UnitedHealth Group Incorporated 2008 Executive Incentive Plan, effective as of December 31, 2023 (incorporated by reference to exhibit 10.30 to UnitedHealth Group Incorpora...  
+  * 10. 1 4      UnitedHealth Group Executive Savings Plan (2024 Statement) (incorporated by reference to Exhibit 10.31 to UnitedHealth Group Incorporated’s Annual Report on Form 10-K for the year ended Decembe...  
+  * 10.1 5       First Amendment of UnitedHealth Group Executive Savings Plan (2024 Statement)                                                                                                                         
+  * 10.1 7       Executive Long-Term Disability Program, dated as of January 1, 2021 (incorporated by reference to Exhibit 10.28 to UnitedHealth Group Incorporated’s Annual Report on Form 10-K for the year ende...  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  3.1            Certificate of Incorporation of UnitedHealth Group Incorporated (incorporated by reference to Exhibit 3.1 to UnitedHealth Group Incorporated’s Registration Statement on Form 8-A/A, Commission F...  
+  4.2            Indenture, dated as of February 4, 2008, between UnitedHealth Group Incorporated and U. S. Bank National Association (incorporated by reference to Exhibit 4.1 to the Company’s Registration Stat...  
+  * 10.2         Form of Agreement for Restricted Stock Unit Award to Executives under UnitedHealth Group Incorporated’s 2020 Stock Incentive Plan                                                                     
+  * 10.3         Form of Agreement for Nonqualified Stock Option Award to Executives under UnitedHealth Group Incorporated’s 2020 Stock Incentive Plan                                                                 
+  * 10.4         Form of Agreement for Performance-Based Restricted Stock Unit Award to Executives under UnitedHealth Group Incorporated’s 2020 Stock Incentive Plan                                                   
+  * 10.5         Form of Agreement for Restricted Stock Unit Award under UnitedHealth Group Incorporated’s 2020 Stock Incentive Plan (Witty)                                                                           
+  * 10.6         Form of Agreement for Nonqualified Stock Option Award under UnitedHealth Group Incorporated’s 2020 Stock Incentive Plan (Witty)                                                                       
+  * 10.7         Form of Agreement for Performance-Based Restricted Stock Unit Award under UnitedHealth Group Incorporated’s 2020 Stock Incentive Plan (Witty)                                                         
+  * 10.8         Form of Agreement for Nonqualified Stock Option Award under UnitedHealth Group Incorporated’s 2020 Stock Incentive Plan (Hemsley)                                                                     
+  * 10.9         Amend ment to Agreement for Nonqualified Stock Option Award under UnitedHealth Group Incorporated’s 2020 Stock Incentive Plan (Hemsley)                                                               
+  * 10.1 6       Second Amendment of UnitedHealth Group Executive Savings Plan (2024 Statement)                                                                                                                        
+  * 10.1 8       Summary of Non-Management Director Compensation                                                                                                                                                       
+
+
+  * 10.1 9       UnitedHealth Group Directors’ Compensation Deferral Plan (2023 Statement) (incorporated by reference to Exhibit 10.30 to UnitedHealth Group Incorporated’s Annual Report on Form 10-K for the yea...  
+  * 10. 20       Amended and Restated Employment Agreement, effective as of June 7, 2016, between United HealthCare Services, Inc. and John Rex (incorporated by reference to Exhibit 10.1 to UnitedHealth Group I...  
+  * 10. 2 1      Amended and Restated Employment Agreement, dated February 3, 2021, between the Company and Andrew P Witty (incorporated by reference to Exhibit 5.02 to UnitedHealth Group Incorporated’s Current...  
+  * 10. 2 2      Employment Agreement, effective as of May 12, 2025, between United HealthCare Services, Inc. and Stephen Hemsley (incorporated by reference to Exhibit 10.1 to UnitedHealth Group Incorporated’s ...  
+  * 10. 2 3      Employment Agreement, effective as of September 2, 2025, between United HealthCare Services, Inc. and Wayne DeVeydt (incorporated by reference to Exhibit 10.1 to UnitedHealth Group Incorporated...  
+  * 10.2 4       Amended and Restated Employment Agreement, effective as of May 6, 2025, between United HealthCare Services, Inc. and Patrick Conway                                                                   
+  * 10.2 5       Employment Agreement, effective as of February 23, 2014, between United HealthCare Services, Inc. and Timothy Noel                                                                                    
+  * 10.2 6       Amendment to Employment Agreement, effective as of January 22, 2025, between United HealthCare Services, Inc. and Timothy Noel                                                                        
+  * 10. 2 7      Amended and Restated Employment Agreement, effective as of April 1, 2024, between United HealthCare Services, Inc. and Heather Cianfrocco ( incorporated by reference to Exhibit 10.4 5 to United...  
+  * 10.2 8       Amended and Restated Employment Agreement, effective as of June 4, 2024, between United HealthCare Services, Inc. and Christopher Zaetta (incorporated by reference to Exhibit 10.48 to UnitedHea...  
+  19.1           Insider Trading Policy (incorporated by reference to Exhibit 19.1 to U nitedHealth Group Incorporated ’ s Annual Report on F orm 10-K for the year ended Dec ember 31, 2024)                          
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  21.1           Subsidiaries of UnitedHealth Group Incorporated                                                                                                                                                       
+  23.1           Consent of Independent Registered Public Accounting Firm                                                                                                                                              
+  24.1           Power of Attorney                                                                                                                                                                                     
+  31.1           Certifications pursuant to Section 302 of the Sarbanes-Oxley Act of 2002                                                                                                                              
+  32.1           Certifications pursuant to Section 906 of the Sarbanes-Oxley Act of 2002                                                                                                                              
+  97.1           UnitedHealth Group Dodd-Frank Clawback Policy, effective December 1, 2023 (incorporated by reference to Exhibit 97.1 to UnitedHealth Group Incorporated’s Annual Report on Form 10-K for the year...  
+  101. INS       XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.                                       
+  101. SCH       Inline XBRL Taxonomy Extension Schema Document.                                                                                                                                                       
+  101. CAL       Inline XBRL Taxonomy Extension Calculation Linkbase Document.                                                                                                                                         
+  101. DEF       Inline XBRL Taxonomy Extension Definition Linkbase Document.                                                                                                                                          
+  101. LAB       Inline XBRL Taxonomy Extension Label Linkbase Document.                                                                                                                                               
+  101. PRE       Inline XBRL Taxonomy Extension Presentation Linkbase Document.                                                                                                                                        
+  104            Cover Page Interactive Data File (formatted as Inline XBRL and embedded within Exhibit 101).                                                                                                          
+
+_______________________________________________
+
+_
+
+  Denotes management contracts and compensation plans in which certain directors and named executive officers participate and which are being filed pursuant to Item 601(b)(10)(iii)(A) of Regulati...  
+  Pursuant to Item 601(b)(4)(iii) of Regulation S-K, copies of instruments defining the rights of certain holders of long-term debt are not filed. The Company will furnish copies thereof to the S...  
+
+(c) Financial Statement Schedule
+
+Schedule I - Condensed Financial Information of Registrant (Parent Company Only).
+
+
+Schedule I
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the shareholders and the Board of Directors of UnitedHealth Group Incorporated and Subsidiaries:
+
+Opinion on the Financial Statement Schedule
+
+We have audited the consolidated financial statements of UnitedHealth Group Incorporated and Subsidiaries (the “ Company”) as of December 31, 2025 and 2024, and for each of the three years in the period ended December 31, 2025, and the Company’s internal control over financial reporting as of December 31, 2025, and have issued our reports thereon dated March 2, 2026; such reports are included elsewhere in this Form 10-K. Our audits also included the financial statement schedule of the Company 
+listed in the Index at Item 15. This financial statement schedule is the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statement schedule based on our audits. In our opinion, the financial statement schedule, when considered in relation to the consolidated financial statements taken as a whole, presents fairly, in all material respects, the information set forth therein.
+
+  /s/ DELOITTE & TOUCHE LLP  
+  Minneapolis, Minnesota     
+  March 2, 2026              
+
+
+Schedule I
+
+Condensed Financial Information of Registrant
+
+(Parent Company Only)
+
+UnitedHealth Group
+
+Condensed Balance Sheets
+
+  (in millions, except per share data)                                                              December 31,                   December 31,               
+                                                                                                    2025                           2024                       
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Assets                                                                                                                                                      
+  Current assets:                                                                                                                                             
+  Cash and cash equivalents                                                                         $                     303      $                     234  
+  Other current assets                                                                                                  1,533      411                        
+  Total current assets                                                                                                  1,836      645                        
+  Equity in net assets of subsidiaries                                                                                206,415                        179,888  
+  Long-term notes receivable from subsidiaries                                                      679                                                6,062  
+  Other assets                                                                                      673                            920                        
+  Total assets                                                                                      $                 209,603      $                 187,515  
+  Liabilities and shareholders’ equity                                                                                                                        
+  Current liabilities:                                                                                                                                        
+  Accounts payable and accrued liabilities                                                          $                   2,812      $                   1,501  
+  Intercompany payable, net                                                                                            10,236      679                        
+  Short-term notes payable to subsidiaries                                                                              2,503                          2,016  
+  Short-term borrowings and current maturities of long-term debt                                                        5,887                          4,348  
+  Total current liabilities                                                                                            21,438                          8,544  
+  Long-term debt, less current maturities                                                                              71,794                         71,831  
+  Long-term notes payable to subsidiaries                                                                              21,676                         14,405  
+  Other liabilities                                                                                 585                            77                         
+  Total liabilities                                                                                                   115,493                         94,857  
+  Commitments and contingencies (Note 4)                                                                                                                      
+  Shareholders’ equity:                                                                                                                                       
+  Preferred stock, $ 0.001 par value - 10 shares authorized; no shares issued or outstanding        —                              —                          
+  Common stock, $ 0.01 par value - 3,000 shares authorized; 906 and 915 issued and outstanding      9                              9                          
+  Additional paid-in capital                                                                        559                            —                          
+  Retained earnings                                                                                                    95,603                         96,036  
+  Accumulated other comprehensive loss                                                              ( 2,061)                       ( 3,387)                   
+  Total UnitedHealth Group shareholders’ equity                                                                        94,110                         92,658  
+  Total liabilities and shareholders’ equity                                                        $                 209,603      $                 187,515  
+
+See Notes to the Condensed Financial Statements of Registrant
+
+
+Schedule I
+
+Condensed Financial Information of Registrant
+
+(Parent Company Only)
+
+UnitedHealth Group
+
+Condensed Statements of Comprehensive Income
+
+                                                      For the Years Ended December 31,                                                                  
+  (in millions)                                                                   2025                      2024                      2023              
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Revenues:                                                                                                                                             
+  Investment and other income                                                        $         154             $         368             $         312  
+  Total revenues                                                                   154                       368                       312              
+  Operating costs:                                                                                                                                      
+  Operating costs                                                                   10                       108                        35              
+  Interest expense                                                                           4,780                     4,544                     3,469  
+  Total operating costs                                                                      4,790                     4,652                     3,504  
+  Loss before income taxes                                                    ( 4,636)                  ( 4,284)                  ( 3,192)              
+  Benefit for income taxes                                                         974                                 1,032           654              
+  Loss of parent company                                                      ( 3,662)                  ( 3,252)                  ( 2,538)              
+  Equity in undistributed income of subsidiaries                                            15,718                    17,657                    24,919  
+  Net earnings                                                                              12,056                    14,405                    22,381  
+  Other comprehensive income                                                                 1,326                     3,640                     1,366  
+  Comprehensive income                                                               $      13,382             $      18,045             $      23,747  
+
+See Notes to the Condensed Financial Statements of Registrant
+
+
+Schedule I
+
+Condensed Financial Information of Registrant
+
+(Parent Company Only)
+
+UnitedHealth Group
+
+Condensed Statements of Cash Flows
+
+                                                                             For the Years Ended December 31,                                                                     
+  (in millions)                                                                                          2025                      2024                         2023              
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Operating activities                                                                                                                                                            
+  Cash flows from operating activities                                                                      $      13,311             $          4,852             $      17,443  
+  Investing activities                                                                                                                                                            
+  Issuances of notes to subsidiaries                                                                 ( 3,901)                    ( 349)                        ( 41)              
+  Repayments of notes to subsidiaries                                                                               8,655           225                          817              
+  Cash paid for acquisitions and other transactions                                                  ( 4,648)                                ( 13,750)      ( 8,144)              
+  Return of capital to parent company                                                                     901                        21                          639              
+  Capital contributions to subsidiaries                                                              ( 6,822)                         —                     ( 2,472)              
+  Cash received from dispositions, net                                                                    458                                    2,444           624              
+  Other, net                                                                                                —                        30                          286              
+  Cash flows used for investing activities                                                           ( 5,357)                                ( 11,379)      ( 8,291)              
+  Financing activities                                                                                                                                                            
+  Common stock repurchases                                                                           ( 5,545)                  ( 9,000)                     ( 8,000)              
+  Proceeds from common stock issuances                                                                    827                                    1,846                     1,353  
+  Cash dividends paid                                                                                ( 7,916)                  ( 7,533)                     ( 6,761)              
+  Proceeds from (repayments of) short-term borrowings, net                                                807                    ( 151)                           11              
+  Proceeds from issuance of long-term debt                                                                          2,969                       17,811                     6,394  
+  Repayments of long-term debt                                                                       ( 3,050)                  ( 3,000)                     ( 2,125)              
+  (Repayments of) proceeds from short-term notes from subsidiaries, net                                ( 677)                  ( 7,966)                                    1,188  
+  Proceeds from long-term notes from subsidiaries                                                                   7,162                       14,396             —              
+  Repayments of long-term notes from subsidiaries                                                    ( 2,120)                     ( 28)                            —              
+  Other, net                                                                                           ( 342)                    ( 390)                       ( 702)              
+  Cash flows (used for) from financing activities                                                    ( 7,885)                                    5,985      ( 8,642)              
+  Increase (decrease) in cash and cash equivalents                                                         69                    ( 542)                          510              
+  Cash and cash equivalents, beginning of period                                                          234                       776                          266              
+  Cash and cash equivalents, end of period                                                                  $         303             $            234             $         776  
+  Supplemental cash flow disclosures                                                                                                                                              
+  Cash paid for interest                                                                                    $       4,817             $          4,241             $       3,257  
+  Cash paid for income taxes                                                                                        1,119                        2,450                     4,426  
+
+See
+Notes to the Condensed Financial Statements of Registrant
+
+
+Schedule I
+
+Condensed Financial Information of Registrant
+
+(Parent Company Only)
+
+UnitedHealth Group
+
+Notes to Condensed Financial Statements
+
+1. Basis of Presentation
+
+UnitedHealth Group’s parent company financial information has been derived from its consolidated financial statements and should be read in conjunction with the consolidated financial statements included in this Form 10-K. The accounting policies for the registrant are the same as those described in Note 2 of the Notes to the Consolidated Financial Statements included in Part II, Item 8, “ Financial Statements and Supplementary Data.”
+
+2. Subsidiary Transactions
+
+Investment in Subsidiaries. UnitedHealth Group’s investment in subsidiaries is stated at cost plus equity in undistributed earnings of subsidiaries.
+
+Dividends, Capital Distributions and Contributions. Cash dividends received from subsidiaries and included in Cash Flows from Operating Activities in the Condensed Statements of Cash Flows were $ 6.8 19.3 18.5 901 21 639 6.8 2.5 5.1
+
+3. Short-Term Borrowings and Long-Term Debt
+
+Discussion of short-term borrowings and long-term debt can be found in Note 8 of the Notes to the Consolidated Financial Statements included in Part II, Item 8, “ Financial Statements and Supplementary Data.” Long-term debt obligations of the parent company do not include other financing obligations at subsidiaries which totaled $ 708 724
+
+Maturities of short-term borrowings and long-term debt for the years ending December 31 are as follows:
+
+  (in millions)              
+ ─────────────────────────────
+           2026       5,900  
+           2027       3,425  
+           2028       3,500  
+           2029       3,550  
+           2030       3,750  
+     Thereafter      58,552  
+
+UnitedHealth Group’s parent company had short-term notes payable to subsidiaries of $ 2.5 2.0 21.7 14.4 2.9
+
+4. Commitments and Contingencies
+
+Certain subsidiaries are guaranteed by UnitedHealth Group’s parent company in the event of insolvency. UnitedHealth Group’s parent company also provides guarantees related to its service level under certain contracts. None of the amounts accrued, paid or charged to income for service level guarantees were material as of December 31, 2025, 2024 or 2023.
+
+For a summary of commitments and contingencies, see Note 12 of the Notes to the Consolidated Financial Statements included in Part II, Item 8, “ Financial Statements and Supplementary Data.”
+
+ITEM 16. FORM 10-K SUMMARY
+
+None.
+
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+Dated: March 2, 2026
+
+  UNITEDHEALTH GROUP INCORPORATED                               
+  By                                   /s/ S TEPHEN H EMSLEY    
+                                       Stephen Hemsley          
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+
+  Signature                           Title                                  Date           
+  /s/ S TEPHEN H EMSLEY               Chair and Chief Executive Officer      March 2, 2026  
+                                      (principal executive officer)                         
+ ────────────────────────────────────────────────────────────────────────────────────────────
+  Stephen Hemsley                                                                           
+  /s/ W AYNE D E V EYDT               Chief Financial Officer                March 2, 2026  
+  Wayne DeVeydt                                                                             
+  /s/ T HOMAS R OOS                   Senior Vice President and              March 2, 2026  
+  Thomas Roos                                                                               
+  *                                   Director                               March 2, 2026  
+  Charles Baker                                                                             
+  *                                   Director                               March 2, 2026  
+  Timothy Flynn                                                                             
+  *                                   Director                               March 2, 2026  
+  Paul Garcia                                                                               
+  *                                   Director                               March 2, 2026  
+  Kristen Gil                                                                               
+  *                                   Director                               March 2, 2026  
+  Scott Gottlieb, M. D.                                                                     
+  *                                   Director                               March 2, 2026  
+  Michele Hooper                                                                            
+  *                                   Director                               March 2, 2026  
+  F. William McNabb III                                                                     
+  *                                   Director                               March 2, 2026  
+  Valerie Montgomery Rice, M. D.                                                            
+  *                                   Director                               March 2, 2026  
+  John Noseworthy, M. D.                                                                    
+
+  *By      /s/ C HRISTOPHER Z AETTA  
+           Christopher Zaetta

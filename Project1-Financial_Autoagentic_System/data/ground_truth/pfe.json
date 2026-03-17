@@ -1,0 +1,19 @@
+{
+  "ticker": "PFE",
+  "company_name": "PFIZER INC",
+  "filing_date": "2026-02-26",
+  "period_of_report": "2025-12-31",
+  "financials": {
+    "total_revenue": 53313000000.0,
+    "cost_of_revenue": 16067000000.0,
+    "cash_and_equivalents": 1142000000.0,
+    "total_assets": 208160000000.0,
+    "long_term_debt": 61641000000.0,
+    "total_liabilities": 121385000000.0
+  },
+  "segments": [],
+  "metadata": {
+    "source": "SEC EDGAR XBRL via edgartools",
+    "accession_number": "0000078003-26-000026"
+  }
+}

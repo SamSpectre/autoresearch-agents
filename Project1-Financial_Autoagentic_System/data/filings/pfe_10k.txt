@@ -1,0 +1,988 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION  
+ ────────────────────────────────────────────────────
+  Washington, D. C. 20549                           
+
+FORM 10-K
+
+  (Mark One)                                                                                            
+  ☒               ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the fiscal year ended December 31, 2025
+
+  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+ ────────────────────────────────────────────────────────────────────────────────────────────
+
+For the transition period from to
+
+Commission file number 1-3619
+
+PFIZER INC
+
+(Exact name of registrant as specified in its charter)
+
+  Delaware                                                            13-5315170                                 
+  (State or other jurisdiction of incorporation or organization)      (I. R. S. Employer Identification Number)  
+
+66 Hudson Boulevard East New York New York 10001-2192
+
+(Address of principal executive offices) (zip code)
+
+( 212 733-2323
+
+(Registrant’s telephone number, including area code)
+
+  Securities registered pursuant to Section 12(b) of the Act:                                                                        
+  Title of each class                                              Trading Symbol(s)      Name of each exchange on which registered  
+  Common Stock, $0.05 par value                                    PFE                    New York Stock Exchange                    
+  1.000% Notes due 2027                                            PFE/27                 New York Stock Exchange                    
+  2.875% Notes due 2029                                            PFE/29                 New York Stock Exchange                    
+  3.250% Notes due 2032                                            PFE/32                 New York Stock Exchange                    
+  3.875% Notes due 2037                                            PFE/37A                New York Stock Exchange                    
+  4.250% Notes due 2045                                            PFE/45                 New York Stock Exchange                    
+
+  Securities registered pursuant to Section 12(g) of the Act: None  
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes☒ No☐
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes☐ No☒
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes☒ No☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files.) Yes☒ No☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large Accelerated filer☒ Accelerated filer☐Non-accelerated filer☐ Smaller reporting company☐Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U. S. C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.   ☒
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+The aggregate market value of the voting stock held by non-affiliates of the registrant, computed by reference to the closing price as of the last business day of the registrant’s most recently completed second fiscal quarter was approximately $ 138
+
+The number of shares outstanding of the registrant’s common stock as of February 19, 2026 was 5,686,267,431
+
+  DOCUMENTS INCORPORATED BY REFERENCE                                                        
+  Portions of the Proxy Statement for the 2026 Annual Meeting of Shareholders      Part III  
+
+  TABLE OF CONTENTS  
+
+                                                                                                                              Page  
+  Defined Terms                                                                                                                  i  
+  Available Information                                                                                                        iii  
+  Forward-Looking Information and Factors that May Affect Future Results                                                         1  
+  PART I                                                                                                                         3  
+  ITEM 1. BUSINESS                                                                                                               3  
+  About Pfizer                                                                                                                   3  
+  Commercial Operations                                                                                                          4  
+  Research and Development                                                                                                       5  
+  Collaboration and Co-Promotion Agreements                                                                                      6  
+  International Operations                                                                                                       7  
+  Sales and Marketing                                                                                                            7  
+  Patents and Other Intellectual Property Rights                                                                                 7  
+  Competition                                                                                                                    9  
+  Pricing Pressures and Managed Care Organizations                                                                              10  
+  Raw Materials                                                                                                                 11  
+  Government Regulation and Price Constraints                                                                                   11  
+  Environmental Matters                                                                                                         14  
+  Our People                                                                                                                    15  
+  ITEM 1A. RISK FACTORS                                                                                                         16  
+  ITEM 1B. UNRESOLVED STAFF COMMENTS                                                                                           N/A  
+  ITEM 1C. CYBERSECURITY                                                                                                        26  
+  ITEM 2. PROPERTIES                                                                                                            27  
+  ITEM 3. LEGAL PROCEEDINGS                                                                                                     27  
+  ITEM 4. MINE SAFETY DISCLOSURES                                                                                              N/A  
+  INFORMATION ABOUT OUR EXECUTIVE OFFICERS                                                                                      27  
+  PART II                                                                                                                       29  
+  ITEM 5. MARKET FOR THE COMPANY’ S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES        29  
+  ITEM 6. [RESERVED]                                                                                                            29  
+  ITEM 7. MANAGEMENT’ S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS                                30  
+  ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK                                                           49  
+  ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA                                                                           50  
+  ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE                                 103  
+  ITEM 9A. CONTROLS AND PROCEDURES                                                                                             104  
+  ITEM 9B. OTHER INFORMATION                                                                                                   107  
+  ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS                                                 N/A  
+  PART III                                                                                                                     107  
+  ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE                                                              107  
+  ITEM 11. EXECUTIVE COMPENSATION                                                                                              107  
+  ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS                      107  
+  ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE                                           107  
+  ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES                                                                              107  
+  PART IV                                                                                                                      107  
+  ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES                                                                             107  
+  15(a)(1) Financial Statements                                                                                                107  
+  15(a)(2) Financial Statement Schedules                                                                                       108  
+  15(a)(3) Exhibits                                                                                                            108  
+  ITEM 16. FORM 10-K SUMMARY                                                                                                   111  
+  SIGNATURES                                                                                                                   111  
+  N/A = Not Applicable                                                                                                              
+
+  DEFINED TERMS  
+
+Unless the context requires otherwise, references to “ Pfizer,” “the Company,” “we,” “us” or “our” in this Form 10-K (defined below) refer to Pfizer Inc. and its subsidiaries. For each year presented, Pfizer’s fiscal year-end for subsidiaries operating outside the U. S. is as of and for the year ended November 30 and for U. S. subsidiaries is as of and for the year ended December 31. References to “ Notes” in this Form 10-K are to the Notes to the consolidated financial statements inItem 8. 
+Financial Statements and Supplementary Data in this Form 10-K. We also have used several other terms in this Form 10-K, most of which are explained or defined below:
+
+  *                      Indicates calculation not meaningful or results are greater than 100%                                                                                                                                 
+  Form 10-K              This Annual Report on Form 10-K for the fiscal year ended December 31, 2025                                                                                                                           
+  2024 Form 10-K         Our Annual Report on Form 10-K for the fiscal year ended December 31, 2024                                                                                                                            
+  340B Program           340B Drug Pricing Program                                                                                                                                                                             
+  3SBio                  3SBio, Inc. and its subsidiaries Shenyang Sunshine Pharmaceutical Co., Ltd. and 3S Guojian Pharmaceutical (Shanghai) Co., Ltd.                                                                        
+  Proxy Statement        Proxy Statement for the 2026 Annual Meeting of Shareholders, which will be filed no later than 120 days after December 31, 2025                                                                       
+  AbbVie                 AbbVie Inc.                                                                                                                                                                                           
+  Abingworth             Abingworth LLP                                                                                                                                                                                        
+  ABO                    Accumulated benefit obligation; represents the present value of the benefit obligation earned through the end of the year but does not factor in future compensation increases                        
+  ACIP                   Advisory Committee on Immunization Practices                                                                                                                                                          
+  ADC                    Antibody-Drug Conjugate                                                                                                                                                                               
+  AI                     artificial intelligence                                                                                                                                                                               
+  Alexion                Alexion Pharma International Operations Limited, a subsidiary of AstraZeneca PLC                                                                                                                      
+  ALK                    anaplastic lymphoma kinase                                                                                                                                                                            
+  Alliance revenues      Revenues from alliance agreements under which we co-promote products discovered or developed by other companies or us                                                                                 
+  Arvinas                Arvinas, Inc.                                                                                                                                                                                         
+  Astellas               Astellas Pharma Inc., Astellas US LLC and Astellas Pharma US, Inc.                                                                                                                                    
+  ATTR-CM                transthyretin amyloid cardiomyopathy                                                                                                                                                                  
+  BioNTech               BioNTech SE                                                                                                                                                                                           
+  Biopharma              Global Biopharmaceuticals Business                                                                                                                                                                    
+  Blackstone             Blackstone Life Sciences                                                                                                                                                                              
+  BLA                    Biologics License Application                                                                                                                                                                         
+  BMS                    Bristol-Myers Squibb Company                                                                                                                                                                          
+  BOD                    Board of Directors                                                                                                                                                                                    
+  CDC                    U. S. Centers for Disease Control and Prevention                                                                                                                                                      
+  cGMP                   current Good Manufacturing Practices                                                                                                                                                                  
+  CMMI                   Center for Medicare and Medicaid Innovation                                                                                                                                                           
+  CMS                    Centers for Medicare & Medicaid Services                                                                                                                                                              
+  CODM                   Chief Operating Decision Maker                                                                                                                                                                        
+  Comirnaty              Unless otherwise noted, refers to, as applicable, the current formulation of Comirnaty (COVID-19 Vaccine, mRNA) 2025-2026 Formula as well as all prior authorized or approved formulations of the...  
+  COVID-19               novel coronavirus disease of 2019                                                                                                                                                                     
+  DEA                    U. S. Drug Enforcement Agency                                                                                                                                                                         
+  Developed Markets      Includes, but is not limited to, the following markets: Western Europe, Japan, Central Europe, Canada, Scandinavian countries, Australia, certain Eastern European countries, South Korea, Finlan...  
+  DMD                    Duchenne muscular dystrophy                                                                                                                                                                           
+  EC                     European Commission                                                                                                                                                                                   
+  EMA                    European Medicines Agency                                                                                                                                                                             
+  Emerging Markets       Includes, but is not limited to, the following markets: Asia (excluding Japan and South Korea), Latin America, Eastern Europe (excluding the Balkans and certain other countries), Africa, the Mi...  
+  EPS                    earnings per share                                                                                                                                                                                    
+  EU                     European Union                                                                                                                                                                                        
+  EUA                    emergency use authorization                                                                                                                                                                           
+  Exchange Act           Securities Exchange Act of 1934, as amended                                                                                                                                                           
+  FASB                   Financial Accounting Standards Board                                                                                                                                                                  
+  FCPA                   U. S. Foreign Corrupt Practices Act                                                                                                                                                                   
+  FDA                    U. S. Food and Drug Administration                                                                                                                                                                    
+  FFDCA                  U. S. Federal Food, Drug and Cosmetic Act                                                                                                                                                             
+  GAAP                   U. S. Generally Accepted Accounting Principles                                                                                                                                                        
+  GDFV                   grant-date fair value                                                                                                                                                                                 
+
+  Pfizer Inc.      2025 Form 10-K      i   
+ ───────────────────────────────────────────
+
+  Genmab               Genmab A/S                                                                                                                                                            
+  GILTI (NCTI)         Global Intangible Low-Taxed Income (renamed Net Controlled Foreign Corporation (CFC) Tested Income (NCTI) for taxable years starting after December 31, 2025)         
+  GSK                  GSK plc                                                                                                                                                               
+  Haleon               Haleon plc                                                                                                                                                            
+  HHS                  U. S. Department of Health and Human Services                                                                                                                         
+  HIPAA                Health Insurance Portability and Accountability Act of 1996                                                                                                           
+  Hospira              Hospira, Inc.                                                                                                                                                         
+  HRR                  homologous recombination repair                                                                                                                                       
+  IPR& D               in-process research and development                                                                                                                                   
+  IRA                  Inflation Reduction Act of 2022                                                                                                                                       
+  IRC                  Internal Revenue Code                                                                                                                                                 
+  IRS                  U. S. Internal Revenue Service                                                                                                                                        
+  IT                   information technology                                                                                                                                                
+  JV                   joint venture                                                                                                                                                         
+  King                 King Pharmaceuticals LLC (formerly King Pharmaceuticals, Inc.)                                                                                                        
+  mCC                  metastatic cervical cancer                                                                                                                                            
+  MCO                  managed care organization                                                                                                                                             
+  mCRC                 metastatic colorectal cancer                                                                                                                                          
+  mCRPC                metastatic castration-resistant prostate cancer                                                                                                                       
+  mCSPC                metastatic castration-sensitive prostate cancer                                                                                                                       
+  MD& A                Management’s Discussion and Analysis of Financial Condition and Results of Operations                                                                                 
+  MDL                  Multi-District Litigation                                                                                                                                             
+  MDPNP                Medicare Drug Price Negotiation Program                                                                                                                               
+  MDRP                 Medicaid Drug Rebate Program                                                                                                                                          
+  Medicare Part B      a medical insurance plan that helps cover medically necessary services, outpatient care, and preventative services for people with Medicare                           
+  Medicare Part D      a prescription drug coverage program for people with Medicare                                                                                                         
+  Meridian             Meridian Medical Technologies, Inc.                                                                                                                                   
+  Metsera              Metsera, Inc.                                                                                                                                                         
+  Moody’s              Moody’s Ratings (formerly Moody’s Investors Service)                                                                                                                  
+  mRNA                 messenger ribonucleic acid                                                                                                                                            
+  MSA                  Manufacturing Supply Agreement                                                                                                                                        
+  Mylan                Mylan N. V.                                                                                                                                                           
+  NAV                  net asset value                                                                                                                                                       
+  NDA                  New Drug Application                                                                                                                                                  
+  Nimbus               Nimbus Therapeutics, LLC                                                                                                                                              
+  nmCRPC               non-metastatic castration-resistant prostate cancer                                                                                                                   
+  nmCSPC               non-metastatic castration-sensitive prostate cancer                                                                                                                   
+  NSCLC                non-small cell lung cancer                                                                                                                                            
+  NYSE                 New York Stock Exchange                                                                                                                                               
+  OBBBA                One Big Beautiful Bill Act                                                                                                                                            
+  ODT                  oral disintegrating tablet                                                                                                                                            
+  Ono                  Ono Pharmaceutical Co., Ltd.                                                                                                                                          
+  OTC                  over-the-counter                                                                                                                                                      
+  Paxlovid (a)         an oral COVID-19 treatment (nirmatrelvir tablets and ritonavir tablets)                                                                                               
+  PBM                  pharmacy benefit manager                                                                                                                                              
+  PBO                  Projected benefit obligation; represents the present value of the benefit obligation earned through the end of the year and factors in future compensation increases  
+  PC1                  Pfizer CentreOne                                                                                                                                                      
+  PGS                  Pfizer Global Supply                                                                                                                                                  
+  Pharmacia            Pharmacia LLC (formerly Pharmacia Corporation)                                                                                                                        
+  PIE                  Pfizer Investment Enterprises Pte. Ltd. (a wholly-owned finance subsidiary of Pfizer)                                                                                 
+  PP& E                Property, plant and equipment                                                                                                                                         
+  Pierre Fabre         Pierre Fabre Medicament SAS                                                                                                                                           
+  PNIF                 Pfizer Netherlands International Finance B. V. (a wholly-owned finance subsidiary of Pfizer)                                                                          
+  PRAC                 Pharmacovigilance Risk Assessment Committee                                                                                                                           
+  Prevnar family       Includes Prevnar 20/Prevenar 20 (pediatric and adult) and Prevnar 13/Prevenar 13 (pediatric and adult)                                                                
+  PsA                  psoriatic arthritis                                                                                                                                                   
+
+  Pfizer Inc.      2025 Form 10-K      ii  
+ ───────────────────────────────────────────
+
+  QCE                                quality consistency evaluation                                                                                                                                                                        
+  RA                                 rheumatoid arthritis                                                                                                                                                                                  
+  R& D                               research and development                                                                                                                                                                              
+  ROU                                right of use                                                                                                                                                                                          
+  RSV                                respiratory syncytial virus                                                                                                                                                                           
+  S& P                               S& P Global (formerly Standard & Poor’s)                                                                                                                                                              
+  SCD                                sickle cell disease                                                                                                                                                                                   
+  Seagen                             Seagen Inc. and its subsidiaries                                                                                                                                                                      
+  SEC                                U. S. Securities and Exchange Commission                                                                                                                                                              
+  SI& A                              Selling, informational and administrative expenses                                                                                                                                                    
+  SNS                                Strategic National Stockpile                                                                                                                                                                          
+  SMPS                               Sumitomo Pharma Switzerland GMBH                                                                                                                                                                      
+  Takeda                             Takeda Pharmaceutical Company Limited                                                                                                                                                                 
+  Tax Cuts and Jobs Act or TCJA      Legislation commonly referred to as the U. S. Tax Cuts and Jobs Act of 2017                                                                                                                           
+  TSAs                               transition service arrangements                                                                                                                                                                       
+  UC                                 ulcerative colitis                                                                                                                                                                                    
+  U. K.                              United Kingdom                                                                                                                                                                                        
+  Upjohn Business                    Pfizer’s former global, primarily off-patent branded and generics business, which included a portfolio of 20 globally recognized solid oral dose brands, including Lipitor, Lyrica, Norvasc, Cele...  
+  U. S.                              United States                                                                                                                                                                                         
+  VBP                                volume-based procurement                                                                                                                                                                              
+  Viatris                            Viatris Inc.                                                                                                                                                                                          
+  ViiV                               ViiV Healthcare Limited                                                                                                                                                                               
+  Vyndaqel family                    Includes Vyndaqel, Vyndamax and Vynmac                                                                                                                                                                
+  WHO                                World Health Organization                                                                                                                                                                             
+  WTO                                World Trade Organization                                                                                                                                                                              
+  Wyeth                              Wyeth LLC (formerly Wyeth)                                                                                                                                                                            
+  YaoPharma                          YaoPharma Co., Ltd.                                                                                                                                                                                   
+
+(a) Paxlovid has not been approved, but has been authorized for emergency use by the FDA under an EUA for the treatment of mild-to-moderate COVID-19 in pediatric patients (12 years of age and older weighing at least 40 kg) who are at high risk for progression to severe COVID-19, including hospitalization or death. The emergency use of Paxlovid is only authorized for the duration of the declaration that circumstances exist justifying the authorization of emergency use of the medical product 
+during the COVID-19 pandemic under Section 564(b)(1) of the U. S. Federal Food, Drug and Cosmetics Act, 21 U. S. C. § 360bbb-3(b)(1) unless the declaration is terminated or authorization revoked sooner. Please see the EUA Fact Sheet at www. covid19oralrx. com.
+
+This Form 10-K includes discussion of certain clinical studies relating to various in-line products and/or product candidates. These studies typically are part of a larger body of clinical data relating to such products or product candidates, and the discussion herein should be considered in the context of the larger body of data. In addition, clinical trial data are subject to differing interpretations, and, even when we view data as sufficient to support the safety and/or efficacy of a product
+candidate or a new indication for an in-line product, regulatory authorities may not share our views and may require additional data or may deny approval altogether.
+
+Some amounts in this Form 10-K may not add due to rounding. All percentages have been calculated using unrounded amounts. All trademarks mentioned are the property of their owners.
+
+AVAILABLE INFORMATION
+
+Our website iswww. pfizer. com. This Form 10-K, our Quarterly Reports on Form 10-Q, our Current Reports on Form 8-K and our proxy statements, and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Exchange Act, are, or will be, available (free of charge) on our website, in text format and, where applicable, in interactive data file format, as soon as reasonably practicable after we electronically file this material with, or furnish it to, the SEC.
+
+Throughout this Form 10-K, we “incorporate by reference” certain information from other documents filed or to be filed with the SEC, including our Proxy Statement. Please refer to this information. This Form 10-K will be available on our website on or about February 26, 2026. Our Proxy Statement will be available on our website on or about March 12, 2026.
+
+Our annual Impact Report, which provides disclosures regarding our responsible business practices, is made available on our website. Information in our Impact Report is not incorporated by reference into this Form 10-K.
+
+We may use our website as a means of disclosing material information and for complying with our disclosure obligations under Regulation Fair Disclosure promulgated by the SEC. These disclosures are included on our website in the “ About - Investors” or “ Newsroom” sections. Accordingly, investors should monitor these portions of our website, in addition to following our press releases, SEC filings, public conference calls and webcasts, as well as our social media channels (our Facebook page, 
+Instagram account (@Pfizerinc), YouTube page, LinkedIn page, and X (formerly known as Twitter) accounts (@Pfizer and @Pfizer_News)). The information contained on our website, our Facebook, Instagram, YouTube and LinkedIn pages or our X (formerly known as Twitter) accounts, or any third-party website, is not incorporated by reference into this Form 10-K.
+
+Information relating to corporate governance at Pfizer, including our Corporate Governance Principles; Director Qualification Standards; Pfizer Policies on Business Conduct (for all of our employees, including our Chief Executive Officer, Chief Financial Officer and Principal Accounting
+
+  Pfizer Inc.      2025 Form 10-K      iii  
+ ────────────────────────────────────────────
+
+Officer); Code of Business Conduct and Ethics for Members of the Board of Directors; information concerning our Directors; ways to communicate by e-mail with our Directors; information concerning our Board Committees; Committee Charters; Charter of the Lead Independent Director; and transactions in Pfizer securities by Directors and Officers are available on our website. We will provide any of the foregoing information without charge upon written request to our Corporate Secretary, Pfizer Inc., 
+66 Hudson Boulevard East, New York, NY 10001-2192. We will disclose any future amendments to, or waivers from, provisions of the Pfizer Policies on Business Conduct affecting our Chief Executive Officer, Chief Financial Officer, Principal Accounting Officer and executive officers on our website as promptly as practicable, as may be required under applicable SEC and NYSE rules. Information relating to shareholder services, including the Computershare Investment Program, book-entry share ownership
+and direct deposit of dividends, is also available on our website.
+
+  Pfizer Inc.      2025 Form 10-K      iv  
+ ───────────────────────────────────────────
+
+FORWARD-LOOKING INFORMATION AND FACTORS THAT MAY AFFECT FUTURE RESULTS
+
+This Form 10-K contains forward-looking statements. We also provide forward-looking statements in other materials we release to the public, as well as public oral statements. Given their forward-looking nature, these statements involve substantial risks, uncertainties and potentially inaccurate assumptions.
+
+These statements may be identified by using words such as “will,” “may,” “could,” “likely,” “ongoing,” “anticipate,” “estimate,” “expect,” “project,” “intend,” “plan,” “believe,” “assume,” “target,” “forecast,” “guidance,” “goal,” “objective,” “aim,” “seek,” “potential,” “hope” and other words and terms of similar meaning or by using future dates.
+
+We include forward-looking information in our discussion of the following, among other topics:
+
+• our anticipated operating and financial performance, including financial guidance and projections;
+
+• reorganizations, business plans, strategy, goals and prospects;
+
+• expectations for our product pipeline (including products from completed or anticipated acquisitions), in-line products and product candidates, including anticipated regulatory submissions, data read-outs, study starts, approvals, launches, discontinuations, clinical trial results and other developing data; revenue contribution and projections; pricing and reimbursement; market dynamics, including demand, market size and utilization rates; and growth, performance, timing and duration of 
+exclusivity and potential benefits;
+
+• strategic reviews, leverage and capital allocation objectives, dividends and share repurchases;
+
+• plans for and prospects of our acquisitions, dispositions and other business development activities, and our ability to successfully capitalize on growth opportunities and prospects;
+
+• sales, expenses, interest rates, foreign exchange rates and the outcome of contingencies, such as legal proceedings;
+
+• expectations regarding the impact of or changes to existing or new government regulations, laws or policies;
+
+• our ability to anticipate and respond to and our expectations regarding the impact of macroeconomic, geopolitical, health and industry trends, pandemics, acts of war and other large-scale crises; and
+
+• manufacturing and product supply.
+
+In particular, forward-looking information in this Form 10-K includes statements relating to specific future actions, performance and effects, including, among others, the expected benefits of the organizational changes to our operations; our anticipated operating and financial performance, as well as our key priorities; our expectations regarding the impact of COVID-19 on our business, operations and financial results; the expected revenue, seasonality of demand and phasing for certain of our 
+products; expected patent terms; the expected impact of patent expiries and generic and biosimilar competition; the expected pricing pressures on our products and the anticipated impact to our business; the expected impact of the IRA Medicare Part D Redesign; the benefits expected from our business development transactions, including, among others, our acquisitions of Metsera and Seagen and our in-licensing agreements with 3SBio and YaoPharma; the availability of raw materials; our efforts to 
+develop plans to help mitigate the impact, and potential impact, of tariffs and pricing dynamics on our business and operations; our anticipated cash flows and liquidity position; the anticipated costs, savings and potential benefits from certain of our initiatives, including our enterprise-wide Realigning Our Cost Base Program and our Manufacturing Optimization Program to reduce our cost of goods sold; our voluntary agreement with the U. S. Government designed to lower drug costs for U. S. 
+patients and to include certain Pfizer products on the TrumpRx. gov platform, Pfizer’s plans to further invest in U. S. manufacturing and potential tariff impacts; our expectations regarding product supply; our greenhouse gas reduction goals and our expectations regarding environmental costs and expenditures; our planned capital spending; our capital allocation framework; expectations regarding our pension plans; and expectations regarding legal proceedings and compliance with existing and 
+anticipated laws and regulations.
+
+Given their nature, we c
+
+[...FILING TEXT TRUNCATED...]
+
+ated cases have been outstanding for a number of years. From time to time, Pfizer has explored and will continue to explore opportunistic settlements of these matters. As of February 2026, Pfizer had settled, or entered into definitive agreements or agreements-in-principle to settle, subject to certain conditions, a substantial majority of the cases filed in state courts in which the plaintiff alleges use of a Pfizer product. The remaining unresolved state court cases 
+continue in various state courts.
+
+Chantix
+
+Beginning in August 2021, a number of putative class actions have been filed against Pfizer in various U. S. federal courts following Pfizer’s voluntary recall of Chantix due to the presence of a nitrosamine, N-nitroso-varenicline. Plaintiffs assert that they suffered economic harm purportedly as a result of purchasing Chantix or generic varenicline medicines sold by Pfizer. Plaintiffs seek to represent nationwide and state-specific classes and seek various remedies, including damages and 
+medical monitoring. In December 2022, the federal actions were transferred for coordinated pre-trial proceedings to an MDL in the U. S. District Court for the Southern District of New York.
+
+Depo-Provera
+
+A number of lawsuits have been filed against Pfizer and certain subsidiaries in various federal and state courts alleging that plaintiffs who used the injectable version of Depo-Provera (active ingredient medroxyprogesterone acetate, or MPA) for contraception developed meningioma. Some cases also name other defendants, including the manufacturers of generic versions of injectable MPA for contraception. Plaintiffs assert claims against Pfizer relating to both Depo-Provera and generic MPA 
+products, and seek compensatory and punitive damages. In February 2025, the federal cases were transferred for coordinated pre-trial proceedings to an MDL in the U. S. District Court for the Northern District of Florida. Also, in 2025, coordinated proceedings were established in several U. S. state jurisdictions, including California, Connecticut, Delaware, and New York.
+
+A3. Legal Proceedings - - Commercial and Other Matters
+
+Monsanto-Related Matters
+
+In 1997, Monsanto Company (Former Monsanto) contributed certain chemical manufacturing operations and facilities to a newly formed corporation, Solutia Inc. (Solutia), and spun off the shares of Solutia. In 2000, Former Monsanto merged with Pharmacia & Upjohn Company to form Pharmacia. Pharmacia then transferred its agricultural operations to a newly created subsidiary, named Monsanto Company (New Monsanto), which it spun off in a two-stage process that was completed in 2002. Pharmacia was 
+acquired by Pfizer in 2003 and is a wholly owned subsidiary of Pfizer.
+
+In connection with its spin-off that was completed in 2002, New Monsanto assumed, and agreed to indemnify Pharmacia for, any liabilities related to Pharmacia’s former agricultural business. New Monsanto has defended and/or is defending Pharmacia in connection with various claims and litigation arising out of, or related to, the agricultural business, and has been indemnifying Pharmacia when liability has been imposed or settlement has been reached regarding such claims and litigation.
+
+In connection with its spin-off in 1997, Solutia assumed, and agreed to indemnify Pharmacia for, liabilities related to Former Monsanto’s chemical businesses. As the result of its reorganization under Chapter 11 of the U. S. Bankruptcy Code, Solutia’s indemnification obligations relating to Former Monsanto’s chemical businesses are primarily limited to sites that Solutia has owned or operated. In addition, in connection with its spin-off that was completed in 2002, New Monsanto assumed, and 
+agreed to indemnify Pharmacia for, any liabilities primarily related to Former Monsanto’s chemical businesses, including, but not limited to, any such liabilities that Solutia assumed. Solutia’s and New Monsanto’s assumption of, and agreement to indemnify Pharmacia for, these liabilities apply to pending actions and any future actions related to Former Monsanto’s chemical businesses in which Pharmacia is named as a defendant, including, without limitation, actions asserting environmental claims,
+including alleged exposure to polychlorinated biphenyls. Solutia and/or New Monsanto are defending Pharmacia in connection with various claims and litigation arising out of, or related to, Former Monsanto’s chemical businesses, and have been indemnifying Pharmacia when liability has been imposed or settlement has been reached regarding such claims and litigation. In 2018, Bayer AG acquired Monsanto Company (New Monsanto), which is now a subsidiary of Bayer AG. Since the acquisition, New Monsanto
+has continued to defend and indemnify Pharmacia for these liabilities.
+
+Environmental Matters
+
+In 2009, as part of our acquisition of Wyeth, we assumed responsibility for environmental remediation at the Wyeth Holdings LLC (formerly known as Wyeth Holdings Corporation and American Cyanamid Company) discontinued industrial chemical facility in Bound Brook, New Jersey. Since that time, we have executed or have become a party to a number of administrative settlement agreements, orders on consent, and/or judicial consent decrees, with the U. S. Environmental Protection Agency, the New Jersey 
+Department of Environmental Protection and/or federal and state natural resource trustees to perform remedial design, removal and remedial actions, and related environmental remediation activities, and to resolve alleged damages to natural resources, at the Bound Brook facility. We have accrued for the currently estimated costs of these activities.
+
+We are also party to a number of other proceedings brought under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended, and other state, local or foreign laws in which the primary relief sought is the cost of past and/or future remediation.
+
+Contracts with Iraqi Ministry of Health
+
+In 2017, a number of U. S. service members, civilians, and their families brought a complaint in the U. S. District Court for the District of Columbia against a number of pharmaceutical and medical devices companies, including Pfizer and certain of its subsidiaries, alleging that the defendants violated the U. S. Anti-Terrorism Act. The complaint alleges that the defendants provided funding for terrorist organizations through their sales practices pursuant to pharmaceutical and medical device 
+contracts with the Iraqi Ministry of Health and seeks monetary relief. In
+
+  Pfizer Inc.      2025 Form 10-K      97  
+
+Notes to Consolidated Financial Statements
+
+Pfizer Inc. and Subsidiary Companies
+
+July 2020, the District Court granted defendants’ motions to dismiss and dismissed all of plaintiffs’ claims. In January 2022, the Court of Appeals reversed the District Court’s decision. In June 2024, the U. S. Supreme Court issued an order granting certiorari, vacating the Court of Appeals’ decision, and remanding the case to the Court of Appeals.
+
+Allergan Complaint for Indemnity
+
+In 2019, Pfizer was named as a defendant in a complaint, along with King, filed by Allergan Finance LLC (Allergan) in the Supreme Court of the State of New York, asserting claims for indemnity related to Kadian, which was owned for a short period by King in 2008, prior to Pfizer’s acquisition of King in 2010. This suit was voluntarily discontinued without prejudice in January 2021.
+
+Breach of Contract - Comirnaty
+
+In 2023, Pfizer and BioNTech Manufacturing GmbH initiated separate formal proceedings against the Republic of Poland, the Republic of Romania and Hungary in Belgium’s Court of First Instance of Brussels. Pfizer and BioNTech are seeking an order from the Court holding those countries to their commitments for COVID-19 vaccine orders, which were placed as part of their contracts signed in 2021.
+
+A4. Legal Proceedings - - Government Investigations
+
+Like other multi-national pharmaceutical companies, we are subject to extensive regulation by government agencies in the U. S., other developed markets and multiple emerging markets in which we operate. Criminal charges, substantial fines and/or civil penalties, limitations on our ability to conduct business in applicable jurisdictions, corporate integrity or deferred prosecution agreements, as well as reputational harm and increased public interest in the matter could result from government 
+investigations in the U. S. and other jurisdictions in which we do business. These matters often involve government requests for information on a voluntary basis or through subpoenas after which the government may seek additional information through follow-up requests or additional subpoenas. In addition, in a qui tam lawsuit in which the government declines to intervene, the relator may still pursue a suit for the recovery of civil damages and penalties on behalf of the government. Among the 
+investigations by government agencies are the matters discussed below.
+
+Greenstone Antitrust Litigation
+
+In 2019 and 2020, Attorneys General of more than 50 states and territories filed two
+
+Subpoena relating to Tris Pharma/Quillivant XR
+
+In October 2018, we received a subpoena from the U. S. Attorney’s Office for the Southern District of New York (SDNY) seeking records relating to our relationship with another drug manufacturer and its production and manufacturing of drugs including, but not limited to, Quillivant XR. We have produced records in response to this request and, in June 2025, the SDNY and numerous related states on whose behalf the SDNY had been investigating, declined to intervene in a qui tam action that had been 
+filed by a relator. The relator is pursuing the action in his individual capacity on behalf of the government.
+
+Government Inquiries relating to Meridian Medical Technologies
+
+In February 2019, we received a Civil Investigative Demand (CID) from the U. S. Attorney’s Office for the SDNY. The CID seeks records and information related to alleged quality issues involving the manufacture of auto-injectors at Pfizer’s former Meridian site. In August 2019, we received a HIPAA subpoena issued by the U. S. Attorney’s Office for the Eastern District of Missouri, in coordination with the Department of Justice’s Consumer Protection Branch, seeking similar records and information.
+We have produced records in response to these and subsequent requests.
+
+U. S. Department of Justice Inquiries relating to India Operations
+
+In March 2020, we received an informal request from the U. S. Department of Justice’s Consumer Protection Branch seeking documents relating to our manufacturing operations in India, including at our former facility located at Irrungattukottai in India. In April 2020, we received a similar request from the U. S. Attorney’s Office for the SDNY regarding a civil investigation concerning operations at our facilities in India. We have produced records pursuant to these requests.
+
+Zantac - - State of New Mexico and Mayor and City Council of Baltimore Civil Actions
+
+SeeLegal Proceedings - - Product Litigation - - Zantac above for information regarding civil actions separately filed by the State of New Mexico and the Mayor and City Council of Baltimore alleging various state statutory and common law claims in connection with the defendants’ alleged sale of Zantac in those jurisdictions.
+
+Government Inquiries relating to Xeljanz
+
+In April 2023, we received a HIPAA subpoena issued by the U. S. Attorney’s Office for the Western District of Virginia, in coordination with the Department of Justice’s Commercial Litigation Branch, seeking records and information related to programs Pfizer sponsored in retail pharmacies relating to Xeljanz. We have produced records pursuant to this request.
+
+B. Guarantees and Indemnifications
+
+In the ordinary course of business and in connection with the sale of assets and businesses and other transactions, we often indemnify our counterparties against certain liabilities that may arise in connection with the transaction or that are related to events and activities prior to or following a transaction. If the indemnified party were to make a successful claim pursuant to the terms of the indemnification, we may be required to reimburse the loss. These indemnifications are generally 
+subject to various restrictions and limitations. Historically, we have not paid significant amounts under these provisions and, as of December 31, 2025, the estimated fair value of these indemnification obligations is not material to Pfizer.
+
+In addition, in connection with our entry into certain agreements and other transactions, our counterparties may be obligated to indemnify us. For example, our global agreement with BioNTech to co-develop a mRNA-based coronavirus vaccine program aimed at preventing COVID-19
+
+  Pfizer Inc.      2025 Form 10-K      98  
+
+Notes to Consolidated Financial Statements
+
+Pfizer Inc. and Subsidiary Companies
+
+infection includes certain indemnity provisions pursuant to which each of BioNTech and Pfizer has agreed to indemnify the other for certain liabilities that may arise in connection with certain third-party claims relating to Comirnaty.
+
+SeeNote 7D for information on Pfizer Inc.’s guarantee of the debt issued by PNIF in May 2025 and the debt issued by PIE in May 2023. We have also guaranteed the long-term debt of certain subsidiaries of Pfizer and certain companies that we acquired and that now are subsidiaries of Pfizer.
+
+C. Certain Commitments
+
+As of December 31, 2025, we had commitments totaling $ 5.0
+
+SeeNote 5A for information on the TCJA repatriation tax liability.
+
+D. Contingent Consideration for Acquisitions
+
+We may be required to make contingent consideration payments to sellers for certain prior Pfizer business combinations that are contingent on future events or outcomes. We also have assumed certain contingent consideration liabilities that were previously promised to sellers by a company subsequently acquired by Pfizer. SeeNote 1D. The estimated fair value of contingent consideration as of December 31, 2025 is $ 1.8 95 Other current liabilities and $ 1.7Other noncurrent liabilities, and as of 
+December 31, 2024 was $ 517 39 Other current liabilities and $ 477Other noncurrent liabilities. The increase in the contingent consideration balance from December 31, 2024 is primarily due to a CVR and another assumed contingent consideration liability in connection with our acquisition of Metsera. SeeNote 2A.
+
+E. Insurance
+
+Our insurance coverage reflects market conditions (including cost and availability) existing at the time it is written, and our decision to obtain insurance coverage or to self-insure varies accordingly. Depending upon the cost and availability of insurance and the nature of the risk involved, the amount of self-insurance may be significant. The cost and availability of coverage have resulted in self-insuring certain exposures, including product liability. If we incur substantial liabilities 
+that are not covered by insurance or substantially exceed insurance coverage and that are in excess of existing accruals, there could be a material adverse effect on our cash flows or results of operations in the period in which the amounts are paid and/or accrued.
+
+Note 17. Segment, Geographic and Other Revenue Information
+
+A. Segment Information
+
+We manage our commercial operations throughthree operating segments, each led by a single manager: Biopharma, PC1 and Pfizer Ignite. Biopharma is engaged in the discovery, development, manufacture, marketing, sale and distribution of biopharmaceutical products worldwide. PC1 is our contract development and manufacturing organization and a leading supplier of specialty active pharmaceutical ingredients. Pfizer Ignite is an offering that provides strategic guidance and end-to-end R& D services to 
+select innovative biotech companies that align with Pfizer’s R& D focus areas. Biopharma is the only reportable segment. Pfizer’s CODM is the Chairman and Chief Executive Officer. Our CODM uses the revenues and earnings of the operating segments, among other factors, for performance evaluation and resource allocation. The CODM uses segment revenues and earnings in the annual budgeting process when setting strategic goals for the company and considers periodic budget-to-actual variances in 
+segment revenues and earnings when assessing performance of the segments and making decisions about allocating resources to the operating segments. By analyzing segment financial results, the CODM can discern trends, which can inform decisions that align with the company’s goals and objectives, and help ensure r isks are managed appropriately. We regularly review our operating segments and the approach used by management to evaluate performance and allocate resources.
+
+Within our Biopharma reportable segment, our commercial divisions market, sell and distribute our products, and global operating functions are responsible for the research, development, manufacturing and supply of our products. Each operating segment is supported by our global corporate enabling functions and other corporate functions. At the beginning of 2025, we made the following changes within our Biopharma reportable segment that went into effect on January 1, 2025 to support our continued 
+focus on commercial execution and to further strengthen Pfizer’s capabilities and leadership in discovering and developing breakthrough medicines and vaccines:
+
+• Transitioned all activities within the former Pfizer Oncology Division to other parts of Biopharma. Specifically, within our Biopharma reportable segment the U. S. Oncology commercial organization and the global Oncology marketing organization, which were part of the former Pfizer Oncology Division, became part of the Pfizer U. S. Commercial Division. As of January 1, 2025, the commercial structure within our Biopharma reportable segment was composed of the Pfizer U. S. Commercial Division, 
+which focused on the commercialization of Pfizer’s entire product portfolio in the U. S. and is led by the Chief U. S. Commercial Officer, Executive Vice President, and the Pfizer International Commercial Division, which focused on the commercialization of Pfizer’s entire product portfolio in all international markets and is led by the Chief International Commercial Officer, Executive Vice President.
+
+• Strategically combined our former global Oncology Research and Development and Pfizer Research and Development divisions to form a single Pfizer R& D organization led by the Chief Scientific Officer and President, Research and Development. This organization is responsible for overseeing all R& D activities with end-to-end responsibilities that span from discovery to late-phase clinical development and post-approval activities, including facilitating regulatory submissions, engaging with health
+authorities and global medical strategies. This organization also includes science-based disciplines, providing comprehensive technical expertise for the development of Pfizer’s medicines and vaccines. A newly formed Chief Medical Office is part of this structure, advancing medical and scientific knowledge by generating evidence-based insights to drive informed regulatory and healthcare decisions. It ensures all stakeholders - including patients, healthcare providers, pharmacists, payors, and 
+health authorities - have complete and up-to-date information on the benefits and risks associated with our products. R& D spending may encompass upfront and pre-approval milestone payments for intellectual property rights related to its programs, which would be recorded asAcquired in-process research and development expenses.
+
+  Pfizer Inc.      2025 Form 10-K      99  
+
+Notes to Consolidated Financial Statements
+
+Pfizer Inc. and Subsidiary Companies
+
+Other Business Activities - - Other business activities include the operating results of PC1 and Pfizer Ignite as well as certain pre-tax costs not allocated to our operating segment results, such as costs associated with:
+
+• corporate enabling functions (such as digital, global real estate operations, legal, finance, human resources, compliance and worldwide procurement, among others) and other corporate costs, including, but not limited to, all strategy, business development and portfolio management capabilities and certain compensation, as well as interest income and expense, and gains and losses on investments; and
+
+• our share of equity-method income from Haleon in 2024 and 2023 (seeNote 2C).
+
+In 2025, Pfizer made the decision to discontinue Pfizer Ignite and we are winding down this business while collaborating closely with our Ignite partners to ensure continuity and the successful transition of work.
+
+Reconciling Items - - Reconciling items include the following items, transactions and events that are not allocated to our operating segments: (i) all amortization of intangible assets; (ii) acquisition-related items, where we incur costs for executing the transaction, integrating the acquired operations and restructuring the combined company, and which may also include purchase accounting impacts, such as the incremental charge to cost of sales from the sale of acquired inventory that was 
+written up to fair value, depreciation related to the increase/decrease in fair value of acquired fixed assets, amortization related to the increase in fair value of acquired debt, and the fair value changes for contingent consideration; and (iii) certain significant items, representing substantive and/or unusual, and in some cases recurring, items that are evaluated on an individual basis by management and that, either as a result of their nature or size, would not be expected to occur as part 
+of our normal business on a regular basis. Such certain significant items can include, but are not limited to, pension and postretirement actuarial remeasurement gains and losses, non-acquisition-related restructuring costs, net gains and losses on investments in equity securities, as well as costs incurred for legal settlements, asset impairments and disposals of assets or businesses, including, as applicable, any associated transition activities.
+
+Segment Assets - - We manage our assets on a total company basis, not by operating segment, as our operating assets are shared or commingled. Therefore, our CODM does not regularly review any asset information by operating segment and, accordingly, we do not report asset information by operating segment. Total assets were $ 208 213
+
+Selected Statement of Operations Information
+
+  The following table provides selected information by reportable segment:                                                                                                                                                    
+                                                                                Total Revenues               Earnings (a)                                             Depreciation and Amortization (b)                       
+                                                                                Year Ended December 31,      Year Ended December 31,                                  Year Ended December 31,                                 
+  (MILLIONS)                                                                    2025                         2025                             2024          2023      2025                                   2024      2023   
+  Reportable Segment:                                                                                                                                                                                                         
+  Biopharma (c)                                                                 $                            $                                   $             $      $                                      $         $      
+  Other business activities (d)                                                                              ( 8,199)                     ( 7,213)      ( 4,185)      305                                    340       323    
+  Reconciling Items:                                                                                                                                                                                                          
+  Amortization of intangible assets                                                                          ( 4,874)                     ( 5,286)      ( 4,733)                                                              
+  Acquisition-related items                                                                                  ( 1,285)                     ( 1,938)      ( 1,874)      ( 4)                                   12        ( 11)  
+  Certain significant items (e)                                                                              ( 7,464)                     ( 5,510)      ( 3,917)      38                                     14        32     
+                                                                                $                            $                                   $             $      $                                      $         $      
+
+(a)Income from continuing operations before provision/(benefit) for taxes on income. Biopharma’s earnings include costs related to manufacturing and supply, sales and marketing activities, R& D, and medical and safety activities that are associated with products in our Biopharma segment. Effective in the third quarter of 2025, certain expenses for corporate affairs, such as for U. S. policy and government relations, which were previously reported in the operating results of corporate enabling 
+functions, are reported in the operating results of our Biopharma reportable segment. In connection with this reporting change, we reclassified Selling, informational and administrative expenses of approximately $170million and $156million in 2024 and 2023, respectively, from Other business activities to Biopharma to conform to the current period presentation.
+
+(b)Certain production facilities are shared. Depreciation is allocated based on estimates of physical production.
+
+(c)Biopharma’s earnings in 2025 reflects credits to Cost of Sales representing favorable revisions of our estimate of accrued royalties. Biopharma’s revenues and earnings in 2024 reflected a non-cash favorable product return adjustment of $771million recorded in the first quarter of 2024 and in 2023 reflected a non-cash revenue reversal of $3.5billion (see Note 17C ). In 2023, Biopharma earnings included approximately $6.2billion of inventory write-offs and related charges to Cost of sales 
+mainly due to lower-than-expected demand for our COVID-19 products. Biopharma’s earnings also include dividend income from our investment in ViiV of $265million in 2025, $272million in 2024 and $265million in 2023.
+
+(d)Other business activities include revenues and costs associated with PC1 and Pfizer Ignite as well as costs that we do not allocate to our operating segments, per above. Earnings in 2025 reflects a charge for $1.35billion recorded in Acquired in-process research and development expenses related to an in-licensing agreement with 3SBio. See Note2F.
+
+(e)Certain significant items are substantive and/or unusual, and in some cases recurring, items (as noted above). Earnings in 2025 includes, among other items: (i) certain asset impairments of $4.9billion recorded in Other ( income ) /deductions - - net, (ii) restructuring charges/(credits), inventory write-offs, implementation costs and additional depreciation - asset restructuring of $1.6billion (primarily recorded in Restructuring charges and certain acquisition-related costs ) and (iii) 
+charges for certain legal matters of $1.1billion recorded in Other ( income ) /deductions - - net, partially offset by (iv) actuarial valuation, pension and other postretirement plan gains of $320million recorded in Other (income)/deductions - - net. Earnings in 2024 included, among other items: (i) intangible asset impairment charges of $3.3billion recorded in Other (income)/deductions - - net, (ii) restructuring charges/(credits) and implementation costs and additional depreciation - asset 
+restructuring of $2.2billion (primarily recorded in Restructuring charges and certain acquisition-related co sts), (iii) actuarial valuation, pension and other postretirement plan losses of $579million recorded in Other (income)/deductions - - net, (iv) charges for certain legal matters of $567million recorded in Other (income)/deductions - - net, and (v) a charge in Other (income)/deductions - - net of $420million related to the expected sale ofoneof our facilities resulting from the 
+discontinuation of our DMD program, partially offset by (vi) net gains on equity securities of $1.0billion and (vii) net gains of $825million on the partial sales of our previous investment in Haleon in March and October 2024, which were comprised of (a) total gains on the sales of $945million less (b) $120million in the fourth quarter (included in Other business activities) representing our pro-rata share of Haleon’s third quarter 2024 adjusted income recorded on a one quarter lag and 
+implicitly included in the gain on the sale of those shares. Earnings in 2023 included, among other items: (i) intangible asset impairment charges of $3.0billion recorded in Other (income)/deductions - - net and (ii) restructuring charges/(credits) and implementation costs and additional depreciation - asset restructuring of $2.2billion ($290million recorded in Selling, informational and administrative expenses and the remaining amount primarily recorded in Restructuring charges and certain 
+acquisition-related costs ), partially offset by (iii) net gains on equity securities of $1.6billion recorded in Other (income)/deductions - - net. See Notes 3 and 4.
+
+  Pfizer Inc.      2025 Form 10-K      100  
+
+Notes to Consolidated Financial Statements
+
+Pfizer Inc. and Subsidiary Companies
+
+  The following provides Biopharma reportable segment information regularly provided to the CODM:                                                                                           
+                                                                                                       Year Ended December 31,                                                              
+  (MILLIONS)                                                                                           2025                                     2024                    2023                
+  Biopharma reportable segment:                                                                                                                                                             
+  Biopharma total revenues                                                                             $                            61,199      $           62,400      $           58,237  
+  Less:                                                                                                                                                                                     
+  Cost of sales                                                                                                                     13,505                  14,997                  22,666  
+  Selling, informational and administrative expenses (a)                                                                             9,637                  10,210                  10,391  
+  Research and development expenses                                                                                                  9,183                   9,532                   9,763  
+  Acquired in-process research and development expenses                                                113                                      108                     194                 
+  Other (income)/deductions –– net                                                                     ( 581)                                   ( 416)                  ( 543)              
+  Biopharma earnings (a)                                                                               $                            29,342      $           27,969      $           15,767  
+  Revenues - Comirnaty                                                                                 $                             4,367      $            5,353      $           11,220  
+  Revenues - Paxlovid                                                                                  $                             2,362      $            5,716      $            1,279  
+  Revenues - excluding Comirnaty and Paxlovid                                                          $                            54,470      $           51,331      $           45,738  
+
+(a)As described above, certain Selling, informational and administrative expenses for corporate affairs, which were previously reported in the operating results of corporate enabling functions, are reported in the operating results of our Biopharma reportable segment. Prior year amounts have been recast to conform to the current period presentation.
+
+B. Geographic Information
+
+  The following summarizes revenues by geographic area:                                                                    
+  (MILLIONS)                                                 2025                  2024                  2023              
+  United States                                              $         37,078      $         38,691      $         28,145  
+  International:                                                                                                           
+  Developed Markets                                                    16,188                16,057                20,910  
+  Emerging Markets                                                      9,313                 8,879                10,498  
+  Total revenues (a)                                         $         62,579      $         63,627      $         59,553  
+
+(a)Revenues are primarily attributed to countries based on the location of the customer.
+
+Revenues exceeded $500 million in each of 12 11 14 10Total revenues, China was our largest market outside the U. S. (representing 5 4 6
+
+C. Other Revenue Information
+
+Significant Customers
+
+We and our collaboration partner, BioNTech, have entered into agreements to supply pre-specified doses of Comirnaty with multiple developed and emerging nations around the world and are continuing to deliver doses of Comirnaty under such agreements. This includes supply agreements entered into in November 2020 and February and May 2021 with the EC for Comirnaty on behalf of the different EU member states and certain other countries. Each EU member state submits its own Comirnaty vaccine order to
+us and is responsible for payment pursuant to terms of the supply agreements negotiated by the EC. In May 2023, we and BioNTech amended our contract with the EC to deliver COVID-19 vaccines to the EU. The amended agreement includes rephasing of delivery of doses annually through 2026 and an aggregate volume reduction, providing additional flexibility for those EU member states who agreed to the amended agreement. The EC will maintain access to future adapted COVID-19 vaccines and the ability to 
+donate doses, in alignment with the original agreement.
+
+In 2022 and 2023, we had entered into agreements to supply pre-specified treatment courses of Paxlovid with government and government sponsored customers in multiple developed and emerging nations around the world, which represented most Paxlovid revenues in 2022 and 2023, while commercialization began in some markets in 2023. Internationally, most Paxlovid revenue was generated through commercial channels in 2025. In October 2023, we announced an amended agreement with the U. S. government, 
+which facilitated the transition of Paxlovid to traditional commercial markets in the U. S. starting in November 2023, with prices negotiated with commercial payors and a copay assistance program for eligible privately insured patients, as the U. S. government began to discontinue the distribution of EUA-labeled Paxlovid. We ensured commercial readiness by providing NDA-labeled commercial supply by the end of 2023. However, EUA-labeled Paxlovid remained available free-of-charge to all eligible 
+patients until the end of 2023, and therefore, there was only minimal uptake of NDA-labeled commercial product before January 1, 2024. In connection with this agreement, we recorded a non-cash revenue reversal of $ 3.5 6.5 771 5.1 1.0 442
+
+  Pfizer Inc.      2025 Form 10-K      101  
+
+Notes to Consolidated Financial Statements
+
+Pfizer Inc. and Subsidiary Companies
+
+  The following summarizes revenue, as a percentage of Total revenues, from our three largest U. S. wholesaler customers, which was concentrated in our Biopharma operating segment:                                                   
+                                                                                                                                                                                          Year Ended December 31,                      
+                                                                                                                                                                                                             2025      2024      2023  
+  McKesson, Inc.                                                                                                                                                                                               25        23        16  
+  Cencora, Inc.                                                                                                                                                                                                16        17        12  
+  Cardinal Health, Inc.                                                                                                                                                                                        13        14        10  
+
+Collectively, our three largest U. S. wholesaler customers represented 40 34
+
+Significant Revenues by Product
+
+The following provides detailed revenue information for several of our major products:
+
+  (MILLIONS)                                                                                                                                                                                                                                                    Year Ended December 31,                                                          
+  PRODUCT                                             PRIMARY INDICATION OR CLASS                                                                                                                                                                                                  2025                  2024                  2023              
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  TOTAL REVENUES                                                                                                                                                                                                                                                                      $      62,579         $      63,627         $      59,553  
+  GLOBAL BIOPHARMACEUTICALS BUSINESS (BIOPHARMA)                                                                                                                                                                                                                                      $      61,199         $      62,400         $      58,237  
+  Primary Care                                                                                                                                                                                                                                                                        $      26,820         $      30,135         $      30,799  
+  Eliquis (a)                                         Nonvalvular atrial fibrillation, deep vein thrombosis, pulmonary embolism                                                                                                                                                               7,961                 7,366                 6,747  
+  Prevnar family                                      Active immunization to prevent pneumonia, invasive disease and otitis media caused by Streptococcus pneumoniae                                                                                                                          6,494                 6,411                 6,501  
+  Comirnaty                                           Active immunization to prevent COVID-19                                                                                                                                                                                                 4,367                 5,353                11,220  
+  Paxlovid (b)                                        COVID-19 in certain high-risk patients                                                                                                                                                                                                  2,362                 5,716                 1,279  
+  Nurtec ODT/Vydura                                   Acute treatment of migraine and prevention of episodic migraine                                                                                                                                                                         1,424                 1,263       928              
+  Abrysvo                                             Active immunization to prevent RSV infection                                                                                                                                                                                            1,033       755                   890              
+  FSME-IMMUN/TicoVac                                  Active immunization to prevent tick-borne encephalitis disease                                                                                                                                                                319                   280                   268              
+  All other Primary Care                              Various                                                                                                                                                                                                                                 2,860                 2,991                 2,968  
+  Specialty Care                                                                                                                                                                                                                                                                      $      17,546         $      16,652         $      14,988  
+  Vyndaqel family                                     ATTR-CM and polyneuropathy                                                                                                                                                                                                              6,380                 5,451                 3,321  
+  Xeljanz                                             RA, PsA, UC, active polyarticular course juvenile idiopathic arthritis, ankylosing spondylitis                                                                                                                                          1,087                 1,168                 1,703  
+  Sulperazon (Outside the U. S. and Canada)           Bacterial infections                                                                                                                                                                                                          653                   637                   757              
+  Inflectra                                           Crohn’s disease, pediatric Crohn’s disease, UC, pediatric UC, RA in combination with methotrexate, ankylosing spondylitis, PsA and plaque psoriasis                                                                           646                   509                   490              
+  Zavicefta (Outside the U. S. and Canada)            Bacterial infections                                                                                                                                                                                                          638                   586                   511              
+  Enbrel (Outside the U. S. and Canada)               RA, juvenile idiopathic arthritis, PsA, plaque psoriasis, pediatric plaque psoriasis, ankylosing spondylitis and nonradiographic axial spondyloarthritis                                                                      627                   690                   830              
+  Genotropin                                          Replacement of human growth hormone                                                                                                                                                                                           446                   470                   539              
+  Octagam                                             Primary humoral immunodeficiency, chronic immune thrombocytopenic purpura in adults, and dermatomyositis in adults                                                                                                            418                   509                   245              
+  Zithromax                                           Bacterial infections                                                                                                                                                                                                          399                   480                   406              
+  Cresemba                                            Invasive aspergillosis and mucormycosis                                                                                                                                                                                       349                   281                   195              
+  Cibinqo                                             Atopic dermatitis                                                                                                                                                                                                             284                   215                   128              
+  All other Hospital                                  Various                                                                                                                                                                                                                                 4,030                 4,167                 4,514  
+  All other Specialty Care                            Various                                                                                                                                                                                                                                 1,588                 1,489                 1,350  
+  Oncology                                                                                                                                                                                                                                                                            $      16,834         $      15,612         $      12,450  
+  Ibrance                                             HR-positive/HER2-negative metastatic breast cancer                                                                                                                                                                                      4,122                 4,367                 4,753  
+  Xtandi (c)                                          mCRPC, nmCRPC, mCSPC, nmCSPC                                                                                                                                                                                                            2,194                 2,039                 1,659  
+  Padcev                                              Locally advanced or metastatic urothelial cancer and cisplatin-ineligible/decline muscle invasive bladder cancer (MIBC)                                                                                                                 1,940                 1,588        53              
+  Oncology biosimilars (d)                            Various                                                                                                                                                                                                                                 1,301                 1,037                 1,407  
+  Lorbrena                                            ALK-positive metastatic NSCLC                                                                                                                                                                                                           1,023       731                   539              
+  Inlyta                                              Advanced renal cell carcinoma                                                                                                                                                                                                 923                   978                             1,036  
+  Adcetris (e)                                        Certain lymphomas including classical Hodgkin lymphoma, T-cell lymphoma and relapsed/refractory diffuse large B-cell lymphoma                                                                                                 907                             1,089        56              
+  Braftovi/Mektovi                                    Metastatic melanoma in patients with a BRAF V600E/K mutation and for metastatic NSCLC in patients with a BRAF V600E mutation; and, for Braftovi for the treatment of BRAF V600E - mutant mCRC, in...                          716                   607                   477              
+  Bosulif                                             Philadelphia chromosome-positive chronic myelogenous leukemia                                                                                                                                                                 611                   645                   645              
+
+  Pfizer Inc.      2025 Form 10-K      102  
+
+Notes to Consolidated Financial Statements
+
+Pfizer Inc. and Subsidiary Companies
+
+  (MILLIONS)                                                                                                                                                                                                                             Year Ended December 31,                                                          
+  PRODUCT                                       PRIMARY INDICATION OR CLASS                                                                                                                                                              2025                                     2024                  2023              
+  Tukysa                                        Unresectable or metastatic HER2-positive breast cancer; RAS wild-type, HER2-positive unresectable or metastatic colorectal cancer                                                        463                                      480                   18                
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Aromasin                                      Post-menopausal early and advanced breast cancer                                                                                                                                         450                                      347                   301               
+  Orgovyx (g)                                   Advanced prostate cancer                                                                                                                                                                 421                                      201                   120               
+  Elrexfio                                      Relapsed or refractory multiple myeloma                                                                                                                                                  304                                      133                   10                
+  Talzenna                                      Treatment of BRCA gene-mutated, HER2-negative, inoperable or recurrent breast cancer; and, in combination with Xtandi (enzalutamide), of adult patients with HRR gene-mutated mCRPC      182                                      117                   64                
+  Tivdak                                        Recurrent or mCC with disease progression on or after chemotherapy                                                                                                                       147                                      131                   4                 
+  All other Oncology                            Various                                                                                                                                                                                                                1,127                 1,122                 1,308  
+  PFIZER CENTREONE (h)                                                                                                                                                                                                                   $                             1,338      $          1,146      $          1,272  
+  PFIZER IGNITE                                                                                                                                                                                                                          $                                41      $             82      $             44  
+  BIOPHARMA                                                                                                                                                                                                                              $                            61,199      $         62,400      $         58,237  
+  PFIZER U. S. COMMERCIAL DIVISION (i)                                                                                                                                                                                                                                36,708                38,332                27,749  
+  PFIZER INTERNATIONAL COMMERCIAL DIVISION                                                                                                                                                                                                                            24,491                24,068                30,488  
+  Total Alliance revenues included above                                                                                                                                                                                                 $                             9,266      $          8,388      $          7,582  
+  Total Royalty revenues included above                                                                                                                                                                                                  $                             1,650      $          1,423      $          1,058  
+
+(a)Reflects alliance revenues and product revenues.
+
+(b)2024 included (i) a $771million favorable final adjustment recorded in the first quarter to the estimated non-cash revenue reversal of $3.5billion recorded in the fourth quarter of 2023, reflecting5.1million EUA-labeled treatment courses returned by the U. S. government through February 29, 2024 versus the estimated6.5million treatment courses that were expected to be returned as of December 31, 2023, and (ii) $442million of revenue recorded in the third quarter in connection with the 
+creation of the U. S. SNS. 2023 included a non-cash revenue reversal of $3.5billion recorded in the fourth quarter, of which a portion was associated with sales recorded in 2022, related to the expected return of an estimated6.5million treatment courses of EUA-labeled U. S. government inventory.
+
+(c)Primarily reflects alliance revenues and royalty revenues.
+
+(d)Biosimilars are highly similar versions of approved and authorized biological medicines. Oncology biosimilars primarily include Ruxience, Retacrit, Zirabev, Trazimera and Nivestym.
+
+(e)Reflects product revenues and royalty revenues.
+
+(f)Erbitux ® is a registered trademark of ImClone LLC.
+
+(g)Reflects alliance revenues.
+
+(h)PC1 includes revenues from our contract manufacturing and our active pharmaceutical ingredient sales operation, as well as revenues related to our manufacturing and supply agreements with legacy Pfizer businesses/partnerships.
+
+(i)Refer to Note 17A above
+
+Remaining Performance Obligations - - Contracted revenue expected to be recognized from remaining performance obligations for firm orders in long-term contracts to supply Comirnaty and Paxlovid to our customers totaled approximately $ 2.1 1.0
+
+Deferred Revenues - - Our deferred revenues primarily relate to advance payments received or receivable from various government or government sponsored customers for supply of Paxlovid and Comirnaty. The deferred revenues related to Paxlovid and Comirnaty totaled $ 1.5 689 826 2.2 1.4 785Product revenues as we delivered the products to our customers. During 2025, we recognized revenue of approximately $ 771Product revenues proportionately as we transfer control of the products to our customers 
+and satisfy our performance obligations under the contracts, with the amounts included in current liabilities expected to be recognized inProduct revenues within the next 12 months, and the amounts included in noncurrent liabilities expected to be recognized in Product revenuesprimarily from December 2026 (which falls in our international first quarter of 2027) through 2028. Deferred revenues associated with contracts for other products were not significant as of December 31, 2025 or December 
+31, 2024.
+
+  ITEM 9.      CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────
+
+None.
+
+  Pfizer Inc.      2025 Form 10-K      103  
+
+  ITEM 9A.      CONTROLS AND PROCEDURES  
+ ─────────────────────────────────────────
+
+Disclosure Controls and Procedures
+
+As of the end of the period covered by this Form 10-K, we carried out an evaluation, under the supervision and with the participation of our management, including our principal executive officer and principal financial officer, of the effectiveness of the design and operation of our disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act). Based on this evaluation, our principal executive officer and principal financial officer 
+concluded that our disclosure controls and procedures are effective in alerting them in a timely manner to material information required to be disclosed in our periodic reports filed with the SEC.
+
+Changes in Internal Controls
+
+During our most recent fiscal quarter, there has not been any change in the Company’s internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+
+  Pfizer Inc.      2025 Form 10-K      104  
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Shareholders
+
+Pfizer Inc.:
+
+Opinion on Internal Control Over Financial Reporting
+
+We have audited Pfizer Inc. and Subsidiary Companies’ (the Company) internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control - Integrated Framework(2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control-Integrated 
+Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission.
+
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of December 31, 2025 and 2024, the related consolidated statements of operations, comprehensive income, equity, and cash flows for each of the years in the three-year period ended December 31, 2025, and the related notes (collectively, the consolidated financial statements), and our report dated February 26, 2026 
+expressed an unqualified opinion on those consolidated financial statements.
+
+Basis for Opinion
+
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanyingManagement’s Report on Internal Control Over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be 
+independent with respect to the Company in accordance with the U. S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and 
+operating effectiveness of internal control based on the assessed risk. Our audit also included performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+
+Definition and Limitations of Internal Control Over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions 
+and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or 
+disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+  New York, New York  
+  February 26, 2026   
+
+  Pfizer Inc.      2025 Form 10-K      105  
+
+Management’s Report on Internal Control Over Financial Reporting
+
+Management’s Report
+
+We prepared and are responsible for the financial statements that appear in this Form 10-K. These financial statements are in conformity with accounting principles generally accepted in the United States of America and, therefore, include amounts based on informed judgments and estimates. We also accept responsibility for the preparation of other financial information included in this document.
+
+Report on Internal Control Over Financial Reporting
+
+The management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Securities Exchange Act of 1934. The Company’s internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles in the 
+United States of America. The Company’s internal control over financial reporting includes those policies and procedures that: (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the Company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles and that receipts and 
+expenditures of the Company are being made only in accordance with authorizations of management and directors of the Company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions or that the degree of compliance with the policies or procedures may deteriorate. Management assessed the effectiveness of the Company’s internal control over financial reporting as of December 31, 2025. In making 
+this assessment, management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission inInternal Control - Integrated Framework(2013). Based on our assessment and those criteria, management believes that the Company maintained effective internal control over financial reporting as of December 31, 2025.
+
+The Company’s independent auditors have issued their auditors’ report on the Company’s internal control over financial reporting. That report appears above in this Form 10-K.
+
+  Albert Bourla                                                           
+  Chairman and Chief Executive Officer                                    
+  David M. Denton                           Jennifer B. Damico            
+  Principal Financial Officer               Principal Accounting Officer  
+  February 26, 2026                                                       
+
+  Pfizer Inc.      2025 Form 10-K      106  
+
+  ITEM 9B.      OTHER INFORMATION  
+ ───────────────────────────────────
+
+During the three months ended December 31, 2025, none of our directors or officers adopted terminated
+
+  PART III  
+
+  ITEM 10.      DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE  
+ ────────────────────────────────────────────────────────────────────────
+
+Information about our Directors is incorporated by reference from the discussion under the headingItem 1 - Election of Directors in our Proxy Statement. Information about the Pfizer Policies on Business Conduct governing our employees, including our Chief Executive Officer, Chief Financial Officer and Principal Accounting Officer, the Code of Business Conduct and Ethics for Members of the Board of Directors and our other governance practices and policies, including our Insider Trading Policy 
+Governance - Pfizer Policies on Business Conduct, - Code of Conduct for Directorsand - Other Governance Practices and Policies in our Proxy Statement. Information regarding the procedures by which our shareholders may recommend nominees to our Board of Directors is incorporated by reference from the discussion under the headingsItem 1 - Election of Directors - Criteria for Board MembershipandAnnual Meeting Information - Submitting Proxy Proposals and Director Nominations for the 2027 Annual 
+Meeting in our Proxy Statement. Information about our Audit Committee, including the members of the Committee, and our Audit Committee financial experts, is incorporated by reference from the discussion under the heading Governance Overview - Board and Committee Information - Board Committees - The Audit Committee in our Proxy Statement. The balance of the information required by this item is contained in the discussion entitled Information about Our Executive Officers in this Form 10-K.
+
+  ITEM 11.      EXECUTIVE COMPENSATION  
+ ────────────────────────────────────────
+
+Information about Director and executive compensation is incorporated by reference from the discussion under the headingsNon-Employee Director Compensation; Executive Compensation; andGovernance Overview - Board and Committee Information - Board Committees - The Compensation Committee - Compensation Committee Interlocks and Insider Participation in our Proxy Statement.
+
+  ITEM 12.      SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Information required by this item is incorporated by reference from the discussion under the headings Executive Compensation - Compensation Tables - Equity Compensation Plan Information and Securities Ownership in our Proxy Statement.
+
+  ITEM 13.      CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE  
+ ───────────────────────────────────────────────────────────────────────────────────────────
+
+Information about certain relationships and transactions with related parties is incorporated by reference from the discussion under the headings Governance Overview - Other Governance Practices and Policies - Related Person Transactions and Indemnification and - Transactions with Related Persons in our Proxy Statement. Information about director independence is incorporated by reference from the discussion under the headingItem 1 - Election of Directors - Director Independence in our Proxy 
+Statement.
+
+  ITEM 14.      PRINCIPAL ACCOUNTING FEES AND SERVICES  
+ ────────────────────────────────────────────────────────
+
+Our independent registered public accounting firm is KPMG LLP New York, NY 185Item 2 - Ratification of Selection of Independent Registered Public Accounting Firm - Audit and Non-Audit Fees in our Proxy Statement. Our Audit Committee’s policy on pre-approval of audit and permissible non-audit services of our independent registered public accounting firm is incorporated by reference from the discussion under the headingItem 2 - Ratification of Selection of Independent Registered Public Accounting 
+Firm - Policy on Audit Committee Pre-Approval of Audit and Permissible Non-Audit Services in our Proxy Statement.
+
+  PART IV  
+
+  ITEM 15.      EXHIBITS, FINANCIAL STATEMENT SCHEDULES  
+ ─────────────────────────────────────────────────────────
+
+15(a)(1) Financial Statements. The following consolidated financial statements, related notes and report of independent registered public accounting firm are set forth inItem 8. Financial Statements and Supplementary Data in this Form 10-K:
+
+• Report of Independent Registered Public Accounting Firm on the Consolidated Financial Statements
+
+• Consolidated Statements of Operations
+
+• Consolidated Statements of Comprehensive Income
+
+• Consolidated Balance Sheets
+
+• Consolidated Statements of Equity
+
+• Consolidated Statements of Cash Flows
+
+• Notes to Consolidated Financial Statements
+
+  Pfizer Inc.      2025 Form 10-K      107  
+
+15(a)(2) Financial Statement Schedules. Schedules are omitted because they are not required or because the information is provided elsewhere in the financial statements. The financial statements of unconsolidated subsidiaries are omitted because, considered in the aggregate, they would not constitute a significant subsidiary.
+
+15(a)(3) Exhibits. These exhibits are available upon request. Requests should be directed to our Corporate Secretary, Pfizer Inc., 66 Hudson Boulevard East, New York, New York 10001-2192. The exhibit numbers preceded by an asterisk (*) indicate exhibits filed with this Form 10-K. All other exhibit numbers indicate exhibits filed by incorporation by reference. Exhibit numbers 10.1 through 10.42 are management contracts or compensatory plans or arrangements.
+
+   2.1      Agreement and Plan of Merger, by and among Pfizer Inc., Aris Merger Sub, Inc. and Seagen Inc., dated as of March 12, 2023 is incorporated by reference from our Current Report on Form 8-K filed ...  
+   3.1      Our Restated Certificate of Incorporation dated December 14, 2020, is incorporated by reference from our Current Report on Form 8-K filed on December 14, 2020.                                       
+   3.2      Our By-laws, as amended on December 9, 2022, are incorporated by reference from our Current Report on Form 8-K filed on                                                                               
+            December 13, 2022.                                                                                                                                                                                    
+   4.1      Indenture, dated as of January 30, 2001, between us and The Chase Manhattan Bank, is incorporated by reference from our Current Report on Form 8-K filed on January 30, 2001.                         
+   4.2      First Supplemental Indenture, dated as of March 24, 2009, between us and The Bank of New York Mellon (successor to JPMorgan Chase Bank, N. A. (formerly JPMorgan Chase Bank, formerly The Chase M...  
+   4.3      Second Supplemental Indenture, dated as of June 2, 2009, between us and The Bank of New York Mellon (successor to JPMorgan Chase Bank, N. A. (formerly JPMorgan Chase Bank, formerly The Chase Ma...  
+   4.4      Third Supplemental Indenture, dated as of June 3, 2013, between us and The Bank of New York Mellon (successor to JPMorgan Chase Bank, N. A. (formerly JPMorgan Chase Bank, formerly The Chase Man...  
+   4.5      Fourth Supplemental Indenture, dated as of May 15, 2014, between us and The Bank of New York Mellon (successor to JPMorgan Chase Bank, N. A. (formerly JPMorgan Chase Bank, formerly The Chase Ma...  
+   4.6      Fifth Supplemental Indenture, dated as of October 5, 2015, between us and The Bank of New York Mellon (successor to JPMorgan Chase Bank, N. A. (formerly JPMorgan Chase Bank, formerly The Chase ...  
+   4.7      Sixth Supplemental Indenture, dated as of June 3, 2016, between us and The Bank of New York Mellon (formerly The Bank of New York (successor to JPMorgan Chase Bank, N. A. (formerly JPMorgan Cha...  
+   4.8      Seventh Supplemental Indenture, dated as of November 21, 2016, between us and The Bank of New York Mellon (formerly The Bank of New York (successor to JPMorgan Chase Bank, N. A. (formerly JPMor...  
+   4.9      Eighth Supplemental Indenture, dated as of March 17, 2017, among us, The Bank of New York Mellon (formerly The Bank of New York (successor to JPMorgan Chase Bank, N. A. (formerly JPMorgan Chase...  
+  4.10      Ninth Supplemental Indenture, dated as of March 6, 2017, among us, The Bank of New York Mellon (formerly The Bank of New York (successor to JPMorgan Chase Bank, N. A. (formerly JPMorgan Chase B...  
+  4.11      Tenth Supplemental Indenture, dated as of December 19, 2017, among us, The Bank of New York Mellon (formerly The Bank of New York (successor to JPMorgan Chase Bank, N. A. (formerly JPMorgan Cha...  
+  4.12      Indenture, dated as of April 10, 1992, between Wyeth (formerly American Home Products Corporation) and The Bank of New York Mellon (as successor to JPMorgan Chase Bank, N. A.), as trustee, is i...  
+  4.13      Fifth Supplemental Indenture, dated as of December 16, 2003, between Wyeth and The Bank of New York Mellon (as successor to JPMorgan Chase Bank, N. A.), as trustee, is incorporated by reference...  
+  4.14      Sixth Supplemental Indenture, dated as of November 14, 2005, between Wyeth and The Bank of New York Mellon (as successor to JPMorgan Chase Bank, N. A.), as trustee, is incorporated by reference...  
+  4.15      Seventh Supplemental Indenture, dated as of March 27, 2007, between Wyeth and The Bank of New York Mellon (as successor to JPMorgan Chase Bank, N. A.), as trustee, is incorporated by reference ...  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Pfizer Inc.      2025 Form 10-K      108  
+
+    4.16      Eighth Supplemental Indenture, dated as of October 30, 2009, between Wyeth, us and The Bank of New York Mellon (as successor to JPMorgan Chase Bank, formerly The Chase Manhattan Bank), as trust...  
+    4.17      Indenture, dated as of September 7, 2018, between us and The Bank of New York Mellon, as trustee, is incorporated by reference from our Current Report on Form 8-K filed on September 7, 2018.        
+    4.18      First Supplemental Indenture, dated as of September 7, 2018, between us and The Bank of New York Mellon, as trustee, is incorporated by reference from our Current Report on Form 8-K filed on Se...  
+    4.19      Second Supplemental Indenture, dated as of March 11, 2019, between us and The Bank of New York Mellon, as trustee, is incorporated by reference from our Current Report on Form 8-K filed on Marc...  
+    4.20      Third Supplemental Indenture, dated as of March 27, 2020, between us and The Bank of New York Mellon, as trustee, is incorporated by reference from our Current Report on Form 8-K filed on March...  
+    4.21      Fourth Supplemental Indenture, dated as of May 28, 2020, between us and The Bank of New York Mellon, as trustee, is incorporated by reference from our Current Report on Form 8-K filed on May 28...  
+    4.22      Fifth Supplemental Indenture, dated as of August 18, 2021 between us and The Bank of New York Mellon, as trustee, is incorporated by reference from our Current Report on Form 8-K filed on Augus...  
+    4.23      Sixth Supplemental Indenture, dated as of November 21, 2025, between us and The Bank of New York Mellon, as trustee, is incorporated by reference from our Current Report on Form 8-K filed on No...  
+    4.24      Indenture, dated as of May 19, 2023, among Pfizer Investment Enterprises Pte. Ltd., us and The Bank of New York Mellon, as trustee, is incorporated by reference from our Current Report on Form ...  
+    4.25      First Supplemental Indenture, dated as of May 19, 2023, among Pfizer Investment Enterprises Pte. Ltd., us and The Bank of New York Mellon, as trustee, is incorporated by reference from our Curr...  
+    4.26      Indenture, dated as of May 19, 2025, among Pfizer Netherlands International Finance B. V., us and The Bank of New York Mellon, as trustee, is incorporated by reference from our Current Report o...  
+    4.27      First Supplemental Indenture, dated as of May 19, 2025, among Pfizer Netherlands International Finance B. V., us and The Bank of New York Mellon, as trustee, is incorporated by reference from o...  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  * 4.28      Description of Pfizer’s Securities.                                                                                                                                                                   
+    4.29      Except as set forth in Exhibits 4.1-4.28 above, the instruments defining the rights of holders of long-term debt securities of the Company and its subsidiaries have been omitted. We agree to fu...  
+    10.1      Pfizer Inc. 2004 Stock Plan, as Amended and Restated is incorporated by reference from our 2011 Annual Report on Form 10-K.                                                                           
+    10.2      Amendment No. 1 to Pfizer 2004 Stock Plan is incorporated by reference from our 2020 Annual Report on Form 10-K.                                                                                      
+    10.3      Pfizer Inc. 2014 Stock Plan is incorporated by reference from our Proxy Statement for the 2014 Annual Meeting of Shareholders.                                                                        
+    10.4      Amendment No. 1 to Pfizer Inc. 2014 Stock Plan is incorporated by reference from our 2020 Annual Report on Form 10-K.                                                                                 
+    10.5      Form of Acknowledgment and Consent and Summary of Key Terms for Grants of RSUs, TSRUs, PPSs and PSAs is incorporated by reference from our Quarterly Report on Form 10-Q for the period ended Apr...  
+    10.6      Form of Executive Grant Letter is incorporated by reference from our 2015 Annual Report on Form 10-K.                                                                                                 
+   1 0.7      Form of Acknowledgment and Consent and Summary of Key Terms for Grants of RSUs, TSRUs, PPSs and PSAs is incorporated by reference from our Quarterly Report on Form 10-Q for the period ended Mar...  
+    10.8      Form of Executive Grant Letter is incorporated by reference from our Quarterly Report on Form 10-Q for the period ended March 30, 2025.                                                               
+    10.9      Pfizer Consolidated Supplemental Pension Plan for United States and Puerto Rico Employees is incorporated by reference from our 2017 Annual Report on Form 10-K.                                      
+   10.10      Amendment No. 1 to the Pfizer Consolidated Supplemental Pension Plan for United States and Puerto Rico Employees is incorporated by reference from our 2018 Annual Report on Form 10-K.               
+   10.11      Amendment No. 2 to the Pfizer Consolidated Supplemental Pension Plan for United States and Puerto Rico Employees is incorporated by reference from our 2020 Annual Report on Form 10-K.               
+   10.12      Amendment No. 3 to the Pfizer Consolidated Supplemental Pension Plan for United States and Puerto Rico Employees is incorporated by reference from our 2022 Annual Report on Form 10-K.               
+   10.13      Amendment No. 4 to the Pfizer Consolidated Supplemental Pension Plan for United States and Puerto Rico Employees is incorporated by reference from our 2023 Annual Report on Form 10-K.               
+   10.14      Pfizer Supplemental Savings Plan is incorporated by reference from our Quarterly Report on Form 10-Q for the period ended April 3, 2016.                                                              
+   10.15      Amendment No. 1 to the Pfizer Supplemental Savings Plan (Amended and Restated as of January 1, 2016), is incorporated by reference from our Quarterly Report on Form 10-Q for the period ended Oc...  
+   10.16      Amendment No. 2 to the Pfizer Supplemental Savings Plan is incorporated by reference from our 2017 Annual Report on Form 10-K.                                                                        
+
+  Pfizer Inc.      2025 Form 10-K      109  
+
+  10.17             Amendment No. 3 to the Pfizer Supplemental Savings Plan is incorporated by reference from our Quarterly Report on Form 10-Q for the period ended September 30, 2018.                                  
+  10.20             Amendment No. 6 to the Pfizer Supplemental Savings Plan is incorporated by reference from our Quarterly Report on Form 10-Q for the period ended June 30, 2019.                                       
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  10.18             Amendment No. 4 to the Pfizer Supplemental Savings Plan is incorporated by reference from our 2018 Annual Report on Form 10-K.                                                                        
+  10.19             Amendment No. 5 to the Pfizer Supplemental Savings Plan is incorporated by reference from our 2018 Annual Report on Form 10-K.                                                                        
+  10.21             Amendment No. 7 to the Pfizer Supplemental Savings Plan is incorporated by reference from our 2019 Annual Report on Form 10-K.                                                                        
+  10.22             Amendment No. 8 to the Pfizer Supplemental Savings Plan is incorporated by reference from our 2020 Annual Report on Form 10-K.                                                                        
+  10.23             Amendment No. 9 to the Pfizer Supplemental Savings Plan is incorporated by reference from our 2020 Annual Report on Form 10-K.                                                                        
+  10.24             Amendment No. 10 to the Pfizer Supplemental Savings Plan is incorporated by reference from our 2022 Annual Report on Form 10-K.                                                                       
+  * 10.25           Amended and Restated Pfizer Inc. Global Performance Plan.                                                                                                                                             
+  10.26             Amended and Restated Deferred Compensation Plan (adopted in 2024) is incorporated by reference from our 2023 Annual Report on Form 10-K.                                                              
+  10.27             Wyeth 2005 (409A) Deferred Compensation Plan (frozen as of January 2012), together with certain Amendments, is incorporated by reference from our 2013 Annual Report on Form 10-K.                    
+  10.28             Amendment No. 2 to Wyeth 2005 (409A) Deferred Compensation Plan is incorporated by reference from our 2020 Annual Report on Form 10-K.                                                                
+  10.29             Amended and Restated Wyeth Supplemental Employee Savings Plan (effective as of January 1, 2005 and frozen as of January 2012), together with all material Amendments is incorporated by reference...  
+  10.30             Amendment to Amended and Restated Wyeth Supplemental Employee Savings Plan, dated June 20, 2013, is incorporated by reference from our 2013 Annual Report on Form 10-K.                               
+  10.31             The form of Indemnification Agreement with each of our non-employee Directors is incorporated by reference from our 1996 Annual Report on Form 10-K.                                                  
+  10.32             The form of Indemnification Agreement with each of the Named Executive Officers identified in our Proxy Statement for the 2025 Annual Meeting of Shareholders is incorporated by reference from o...  
+  10.33             Pfizer Inc. Executive Severance Plan is incorporated by referenced from our Current Report on Form 8-K filed on February 20, 2009.                                                                    
+  10.34             Amendment No. 1 to the Pfizer Inc. Executive Severance Plan is incorporated by reference from our 2018 Annual Report on Form 10-K.                                                                    
+  10.35             Amendment No. 2 to the Pfizer Inc. Executive Severance Plan is incorporated by reference from our 2019 Annual Report on Form 10-K.                                                                    
+  10.36             Amendment No. 3 to the Pfizer Inc. Executive Severance Plan is incorporated by reference from our 2020 Annual Report on Form 10-K.                                                                    
+  10.37             Amendment No. 4 to the Pfizer Inc. Executive Severance Plan is incorporated by reference from our 2022 Annual Report on Form 10-K.                                                                    
+  * 10.38           Nonfunded Deferred Compensation and Unit Award Plan for Non-Employee Directors, as amended.                                                                                                           
+  10.39             Pfizer Inc. 2019 Stock Plan is incorporated by reference from our Proxy Statement for the 2019 Annual Meeting of Shareholders.                                                                        
+  10.40             Pfizer Inc. Amended and Restated 2019 Stock Plan is incorporated by reference from our Proxy Statement for the 2024 Annual Meeting of Shareholders.                                                   
+  10.41             Time Sharing Agreement, dated July 9, 2020, between Pfizer Inc. and Albert Bourla is incorporated by reference from our Quarterly Report on Form 10-Q for the period ended June 28, 2020.             
+  10.42             Pfizer Inc. Executive Officer Cash Severance Policy is incorporated by reference from our Quarterly Report on Form 10-Q for the period ended July 2, 2023.                                            
+  19                Corporate Policy 604A: Prohibition on Insider Trading is incorporated by reference from our 2024 Annual Report on Form 10-K.                                                                          
+  * 21              Subsidiaries of the Company.                                                                                                                                                                          
+  * 22              Subsidiary Issuers of Guaranteed Securities.                                                                                                                                                          
+  * 23              Consent of Independent Registered Public Accounting Firm.                                                                                                                                             
+  * 24              Power of Attorney (included as part of signature page).                                                                                                                                               
+  * 31.1            Certification by the Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.                                                                                               
+  * 31.2            Certification by the Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.                                                                                               
+  * 32.1            Certification by the Chief Executive Officer Pursuant to 18 U. S. C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.                                              
+  * 32.2            Certification by the Chief Financial Officer Pursuant to 18 U. S. C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.                                              
+  97                Pfizer Inc. Recoupment Policy is incorporated by reference from our 2024 Annual Report on Form 10-K.                                                                                                  
+  Exhibit 101:                                                                                                                                                                                                            
+
+  Pfizer Inc.      2025 Form 10-K      110  
+
+  *101. INS      XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.                           
+  *101. SCH      Inline XBRL Taxonomy Extension Schema                                                                                                                                                     
+  *101. CAL      Inline XBRL Taxonomy Extension Calculation Linkbase                                                                                                                                       
+  *101. LAB      Inline XBRL Taxonomy Extension Label Linkbase                                                                                                                                             
+  *101. PRE      Inline XBRL Taxonomy Extension Presentation Linkbase                                                                                                                                      
+  *101. DEF      Inline XBRL Taxonomy Extension Definition Document                                                                                                                                        
+  104            Cover Page Interactive Data File - the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.  
+
+  ITEM 16.      FORM 10-K SUMMARY  
+ ───────────────────────────────────
+
+None.
+
+SIGNATURES
+
+Under the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, this report was signed on behalf of the Registrant by the authorized person named below.
+
+                                Pfizer Inc.                                                     
+  Dated: February 26, 2026      By:              /S/ MARGARET M. MADDEN                         
+                                                 Margaret M. Madden                             
+
+We, the undersigned directors and officers of Pfizer Inc., hereby severally constitute Douglas M. Lankler and Margaret M. Madden, and each of them singly, our true and lawful attorneys with full power to them and each of them to sign for us, in our names in the capacities indicated below, any and all amendments to this Annual Report on Form 10-K filed with the Securities and Exchange Commission.
+
+Under the requirements of the Securities Exchange Act of 1934, this report was signed by the following persons on behalf of the Registrant and in the capacities and on the date indicated.
+
+  Pfizer Inc.      2025 Form 10-K      111  
+
+  Signature                       Title                                                  Date               
+  /S/ ALBERT BOURLA               Chairman, Chief Executive Officer and Director         February 26, 2026  
+  Albert Bourla                   (Principal Executive Officer)                                             
+  /S/ DAVID M. DENTON             Chief Financial Officer, Executive Vice President      February 26, 2026  
+  David M. Denton                 (Principal Financial Officer)                                             
+  /S/ JENNIFER B. DAMICO          Senior Vice President and Controller                   February 26, 2026  
+  Jennifer B. Damico              (Principal Accounting Officer)                                            
+  /S/ RONALD E. BLAYLOCK          Director                                               February 26, 2026  
+  Ronald E. Blaylock                                                                                        
+  /S/ MORTIMER J. BUCKLEY         Director                                               February 26, 2026  
+  Mortimer J. Buckley                                                                                       
+  /S/ SUSAN DESMOND-HELLMANN      Director                                               February 26, 2026  
+  Susan Desmond-Hellmann                                                                                    
+  /S/ JOSEPH J. ECHEVARRIA        Director                                               February 26, 2026  
+  Joseph J. Echevarria                                                                                      
+  /S/ SCOTT GOTTLIEB              Director                                               February 26, 2026  
+  Scott Gottlieb                                                                                            
+  /S/ SUSAN HOCKFIELD             Director                                               February 26, 2026  
+  Susan Hockfield                                                                                           
+  /S/ DAN R. LITTMAN              Director                                               February 26, 2026  
+  Dan R. Littman                                                                                            
+  /S/ SHANTANU NARAYEN            Director                                               February 26, 2026  
+  Shantanu Narayen                                                                                          
+  /S/ SUZANNE NORA JOHNSON        Director                                               February 26, 2026  
+  Suzanne Nora Johnson                                                                                      
+  /S/ JAMES QUINCEY               Director                                               February 26, 2026  
+  James Quincey                                                                                             
+  /S/ JAMES C. SMITH              Director                                               February 26, 2026  
+  James C. Smith                                                                                            
+  /S/ CYRUS TARAPOREVALA          Director                                               February 26, 2026  
+  Cyrus Taraporevala                                                                                        
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  Pfizer Inc.      2025 Form 10-K      112

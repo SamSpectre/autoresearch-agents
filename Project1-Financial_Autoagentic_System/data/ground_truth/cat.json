@@ -1,0 +1,21 @@
+{
+  "ticker": "CAT",
+  "company_name": "CATERPILLAR INC",
+  "filing_date": "2026-02-13",
+  "period_of_report": "2025-12-31",
+  "financials": {
+    "total_revenue": 67589000000.0,
+    "cost_of_revenue": 44752000000.0,
+    "operating_income": 11151000000.0,
+    "cash_and_equivalents": 9980000000.0,
+    "total_assets": 98585000000.0,
+    "long_term_debt": 50714000000.0,
+    "total_liabilities": 77267000000.0,
+    "operating_margin": 0.165
+  },
+  "segments": [],
+  "metadata": {
+    "source": "SEC EDGAR XBRL via edgartools",
+    "accession_number": "0000018230-26-000008"
+  }
+}

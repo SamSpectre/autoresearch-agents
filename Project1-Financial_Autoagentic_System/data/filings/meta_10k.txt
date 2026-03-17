@@ -1,0 +1,1183 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D. C. 20549
+
+__________________________
+
+FORM 10-K
+
+__________________________
+
+(Mark One)
+
+☒ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended December 31, 2025
+
+or
+
+☐TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from to
+
+Commission File Number: 001-35551
+
+__________________________
+
+Meta Platforms, Inc.
+
+(Exact name of registrant as specified in its charter)
+
+__________________________
+
+  Delaware                                                            20-1665019                                 
+  (State or other jurisdiction of incorporation or organization)      (I. R. S. Employer Identification Number)  
+
+1 Meta Way Menlo Park California 94025
+
+(Address of principal executive offices and Zip Code)
+
+( 650 543-4800
+
+(Registrant's telephone number, including area code)
+
+__________________________
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+  Title of each class                            Trading symbol(s)      Name of each exchange on which registered  
+  Class A Common Stock, $0.000006 par value      META                   The Nasdaq Stock Market LLC                
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 (Exchange Act) during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+
+  Large accelerated filer      Accelerated filer          
+  Non-accelerated filer        Smaller reporting company  
+ ──────────────────────────────────────────────────────────
+                               Emerging growth company    
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U. S. C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+The aggregate market value of the voting and non-voting stock held by non-affiliates of the registrant as of June 30, 2025, the last business day of the registrant's most recently completed second fiscal quarter, was approximately $ 1.6 2,187,177,748 342,377,716
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of the registrant's Proxy Statement for the 2026 Annual Meeting of Stockholders are incorporated herein by reference in Part III of this Annual Report on Form 10-K to the extent stated herein. Such proxy statement will be filed with the Securities and Exchange Commission within 120 days of the registrant's fiscal year ended December 31, 2025.
+
+Meta Platforms, Inc.
+
+Form 10-K
+
+TABLE OF CONTENTS
+
+                                                                                                                                                                   Page  
+  Note About Forward-Looking Statements                                                                                                                               3  
+  Limitations of Key Metrics and Other Data                                                                                                                           4  
+  PART I                                                                                                                                                                 
+  Item 1.                                        Business                                                                                                             6  
+  Item 1A.                                       Risk Factors                                                                                                        12  
+  Item 1B.                                       Unresolved Staff Comments                                                                                           48  
+  Item 1C.                                       Cybersecurity                                                                                                       48  
+  Item 2.                                        Properties                                                                                                          51  
+  Item 3.                                        Legal Proceedings                                                                                                   51  
+  Item 4.                                        Mine Safety Disclosures                                                                                             57  
+  PART II                                                                                                                                                                
+  Item 5.                                        Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities        58  
+  Item 6.                                        [Reserved]                                                                                                          59  
+  Item 7.                                        Management's Discussion and Analysis of Financial Condition and Results of Operations                               60  
+  Item 7A.                                       Quantitative and Qualitative Disclosures About Market Risk                                                          80  
+  Item 8.                                        Financial Statements and Supplementary Data                                                                         82  
+  Item 9.                                        Changes in and Disagreements with Accountants on Accounting and Financial Disclosure                               128  
+  Item 9A.                                       Controls and Procedures                                                                                            128  
+  Item 9B.                                       Other Information                                                                                                  128  
+  Item 9C.                                       Disclosure Regarding Foreign Jurisdictions that Prevent Inspections                                                129  
+  PART III                                                                                                                                                               
+  Item 10.                                       Directors, Executive Officers and Corporate Governance                                                             129  
+  Item 11.                                       Executive Compensation                                                                                             129  
+  Item 12.                                       Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters                     129  
+  Item 13.                                       Certain Relationships and Related Transactions, and Director Independence                                          129  
+  Item 14.                                       Principal Accountant Fees and Services                                                                             129  
+  PART IV                                                                                                                                                                
+  Item 15.                                       Exhibit and Financial Statement Schedules                                                                          130  
+  Item 16.                                       Form 10-K Summary                                                                                                  132  
+  Signatures                                                                                                                                                        133  
+
+Table of Contents
+
+NOTE ABOUT FORWARD-LOOKING STATEMENTS
+
+This Annual Report on Form 10-K contains forward-looking statements. All statements contained in this Annual Report on Form 10-K other than statements of historical fact, including statements regarding our future results of operations and financial position, our business strategy and plans, and our objectives for future operations, are forward-looking statements. The words "believe," "may," "will," "estimate," "continue," "anticipate," "intend," "expect," and similar expressions are intended to 
+identify forward-looking statements. We have based these forward-looking statements largely on our current expectations and projections about future events and trends that we believe may affect our financial condition, results of operations, business strategy, short-term and long-term business operations and objectives, and financial needs. These forward-looking statements are subject to a number of risks, uncertainties and assumptions, including those described in Part I, Item 1A, "Risk 
+Factors" in this Annual Report on Form 10-K. Moreover, we operate in a very competitive and rapidly changing environment. New risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. In light of these risks, uncertainties and 
+assumptions, the future events and trends discussed in this Annual Report on Form 10-K may not occur and actual results could differ materially and adversely from those anticipated or implied in the forward-looking statements.
+
+We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward‑looking statements.
+
+Unless expressly indicated or the context requires otherwise, the terms "Meta," "company," "we," "us," and "our" in this document refer to Meta Platforms, Inc., a Delaware corporation, and, where appropriate, its subsidiaries. The term "Family" refers to our Facebook, Instagram, Messenger, and WhatsApp products. For references to accessing Meta's products on the "web" or via a "website," such terms refer to accessing such products on personal computers. For references to accessing Meta's 
+products on "mobile," such term refers to accessing such products via a mobile application or via a mobile-optimized version of our websites such as m. facebook. com, whether on a mobile phone or tablet.
+
+Table of Contents
+
+LIMITATIONS OF KEY METRICS AND OTHER DATA
+
+Family Metrics
+
+The numbers for our key metrics are calculated using internal company data based on the activity of user accounts. We report our estimates of the numbers of our daily active people (DAP) and average revenue per person (ARPP) (collectively, our "Family metrics") based on the activity of users who visited at least one of Facebook, Instagram, Messenger, and WhatsApp (collectively, our "Family" of products) during the applicable period of measurement.
+
+While these numbers are based on what we believe to be reasonable estimates of our user base for the applicable period of measurement, there are inherent challenges in measuring usage of our products across large online and mobile populations around the world. The methodologies used to measure these metrics require significant judgment and are also susceptible to algorithm or other technical errors. In addition, we are continually seeking to improve our estimates of our user base, and such 
+estimates may change due to improvements or changes in our methodology. We regularly review our processes for calculating these metrics, and from time to time we discover inaccuracies in our metrics or make adjustments to improve their accuracy, which can result in adjustments to our historical metrics. Our ability to recalculate our historical metrics may be impacted by data limitations or other factors that require us to apply different methodologies for such adjustments. We generally do not 
+intend to update previously disclosed Family metrics for any such inaccuracies or adjustments that are within the error margins disclosed below.
+
+In addition, our Family metrics estimates will differ from estimates published by third parties due to differences in methodology or other factors such as data limitations or other challenges in measuring large online and mobile populations. For example, our methodologies include measurements of our user base that have in some instances exceeded estimates of addressable online and mobile populations that are based on data published by third parties.
+
+Many people in our community have user accounts on more than one of our products, and some people have multiple user accounts within an individual product. Accordingly, for our Family metrics, we do not seek to count the total number of user accounts across our products because we believe that would not reflect the actual size of our community. Rather, our Family metrics represent our estimates of the number of unique people using at least one of Facebook, Instagram, Messenger, and WhatsApp. We 
+do not require people to use a common identifier or link their accounts to use multiple products in our Family, and therefore must seek to attribute multiple user accounts within and across products to individual people. To calculate these metrics, we rely upon complex techniques, algorithms and machine learning models that seek to count the individual people behind user accounts, including by matching multiple user accounts within an individual product and across multiple products when we 
+believe they are attributable to a single person, and counting such group of accounts as one person. These techniques and models require significant judgment, are subject to data and other limitations discussed below, and inherently are subject to statistical variances and uncertainties. We estimate the potential error in our Family metrics primarily based on user survey data as described further below, which itself is subject to error as well. While we expect the error margin for our Family 
+metrics to vary from period to period, we estimate that such margin generally will be approximately 3% of our worldwide DAP. At our scale, it is very difficult to attribute multiple user accounts within and across products to individual people, and it is possible that the actual numbers of unique people using our products may vary significantly from our estimates, potentially beyond our estimated error margins. As a result, it is also possible that our Family metrics may indicate changes or 
+trends in user numbers that do not match actual changes or trends.
+
+To calculate our estimates of DAP, we currently use a series of machine learning models that are developed based on internal reviews of limited samples of user accounts and calibrated against user survey data. We apply significant judgment in designing these models and calculating these estimates. For example, to match user accounts within individual products and across multiple products, we use data signals such as similar device information, IP addresses, and user names. We also calibrate our 
+models against data from periodic user surveys of varying sizes and frequency across our products, which survey questions are based on monthly usage, and which are inherently subject to error. The timing and results of such user surveys have in the past contributed, and may in the future contribute, to changes in our reported Family metrics from period to period. In addition, our data limitations may affect our understanding of certain details of our business and increase the risk of error for 
+our Family metrics estimates. Our techniques and models rely on a variety of data signals from different products, and we rely on more limited data signals for some products compared to others. For example, as a result of limited visibility into encrypted products, we have fewer data signals from WhatsApp user accounts and primarily rely on phone numbers and device information to match WhatsApp user accounts with accounts on our other products. Any loss of access to data signals we use in our 
+process for calculating Family metrics, whether as a result of our own product decisions, actions by third-party browser or mobile platforms, regulatory or legislative requirements, or other factors, also may impact the stability or accuracy
+
+
+of our reported Family metrics, as well as our ability to report these metrics at all. Our estimates of Family metrics also may change as our methodologies evolve, including through the application of new data signals or technologies, product changes, or other improvements in our user surveys, algorithms, or machine learning that may improve our ability to match accounts within and across our products or otherwise evaluate the broad population of our users. In addition, such evolution may allow 
+us to identify previously undetected violating accounts (as defined below).
+
+We regularly evaluate our Family metrics to estimate the percentage of our DAP consisting solely of "violating" accounts. We define "violating" accounts as accounts which we believe are intended to be used for purposes that violate our terms of service, including bots and spam. Our violating accounts estimation is based on an internal review of a limited sample of accounts, and we apply significant judgment in making this determination. For example, we look for account information and behaviors 
+associated with Facebook and Instagram accounts that appear to be inauthentic to the reviewers, but we have less visibility into WhatsApp user activity due to encryption. In addition, if we believe an individual person has one or more violating accounts, we do not include such person in our violating accounts estimation as long as we believe they have one active account that does not constitute a violating account. In the fourth quarter of 2025, we made certain updates to the methodology we use 
+for this estimation, including to incorporate updated data signals as a result of improvements in our ability to identify activity we believe to be violating our policies, as well as to focus on the most recent account activity when determining whether to include a person in our violating accounts estimation. Accordingly, in the fourth quarter of 2025, we estimated that less than 5% of our worldwide DAP consisted solely of violating accounts. We believe the increase compared to our prior 
+estimation was a result of the methodology update described above. From time to time, we disable certain user accounts, make product changes, or take other actions to reduce the number of violating accounts among our users, which may also reduce our DAP estimates in a particular period. We intend to continue to disclose our estimates of the percentage of our DAP consisting solely of violating accounts on an annual basis in our Annual Report on Form 10-K. Violating accounts are very difficult to 
+measure at our scale, and it is possible that the actual number of violating accounts may vary significantly from our estimates.
+
+User Geography
+
+Our estimates for revenue by user location, as well as year-over-year percentage changes in ad impressions delivered and the average price per ad by user location, are also affected by data limitations and other challenges in measuring user geography. Our data regarding the geographic location of our users is estimated based on a number of factors, such as the user's IP address and self-disclosed location. These factors may not always accurately reflect the user's actual location. For example, a
+user may appear to be accessing our products from the location of the proxy server that the user connects to rather than from the user's actual location. The methodologies used to measure our metrics are also susceptible to algorithm or other technical errors.
+
+
+PART I
+
+Item 1. Business
+
+Overview
+
+Our mission is to build the future of human connection and the technology that makes it possible.
+
+Our products enable people to connect and share through mobile devices, personal computers, virtual reality (VR) headsets, and AI glasses. We are innovating in artificial intelligence (AI) technologies to build transformative experiences and capabilities across our Family of Apps and new platforms, and to advance our vision to deliver personal superintelligence for everyone.
+
+We build technology that helps people connect and share, find and build communities, and grow businesses. We also help people discover and learn about what is going on in the world around them, enable people to share their experiences, ideas, photos, videos, and other content with audiences ranging from their closest family members and friends to the public at large, and stay connected everywhere by accessing our products. Meta is moving our offerings beyond 2D screens toward immersive 
+experiences like augmented and virtual reality to help build the next computing platform. Our vision does not center on any single product, but rather an entire ecosystem of experiences, devices, and new technologies powered by AI. While the metaverse is in the very early stages of its development, we believe it will become the next computing platform and the future of social interaction.
+
+Across our work, we are innovating to build new experiences that help make our platform more social, useful, and immersive. Our AI investments support initiatives across our products and services, helping power the systems that rank content in our apps, our discovery engine that recommends relevant content, the tools advertisers use to reach customers, the development of new generative AI experiences, and the tools that make our product development more efficient and productive. We are also 
+working to develop the next generation of AI models and advance our vision to build superintelligence, which we define as AI that surpasses human intelligence. Although it is inherently difficult to predict when superintelligence may be achieved, we are investing now because we believe this has the potential to begin a new era of individual empowerment, where people can direct superintelligence towards what they value in their own lives.
+
+Family of Apps Products
+
+• Facebook. Facebook helps give people the power to build community and bring the world closer together. It's a place for people to share life's moments and discuss what's happening, nurture and build relationships, discover and connect to people with shared interests, and create economic opportunity. They can do this through Feed, Reels, Stories, Groups, Marketplace, and more.
+
+• Instagram. Instagram brings people closer to the people and things they love. Instagram Feed, Stories, Reels, Live, and messaging are places where people and creators can connect and express themselves through photos, video, and private messaging, and discover and shop from their favorite businesses.
+
+• Messenger. Messenger is a simple yet powerful messaging application for people to connect with friends, family, communities, and businesses across platforms and devices through text, audio, and video calls.
+
+• Meta AI. Meta AI is an assistant that's available across our apps, as a stand-alone app, on our AI glasses, and on the web. It's designed to help people learn, get things done, create content, and connect with others to make the most of every moment.
+
+• Threads. Threads is an application for text-based updates and public conversations, where communities come together to discuss topics of interest. People can connect directly with their favorite creators and others who love the same things or build a loyal following of their own to share their ideas, opinions, and creativity with the world.
+
+
+• WhatsApp. WhatsApp is a simple, reliable, and secure messaging application that is used by people and businesses around the world to communicate and transact in a private way. Within WhatsApp we launched WhatsApp Channels, a one-to-many broadcast service designed to help people follow information from people and organizations that are important to them.
+
+Reality Labs Products
+
+Many of our Reality Labs investments are directed toward long-term, cutting edge research and development for products that are not on the market today and may only be fully realized in the next decade. This includes exploring innovations in AI and hardware to help build next-generation interfaces. In the near term, we are continuing to develop products and experiences that help people feel connected, anytime, anywhere.
+
+Our current product offerings in VR include our Meta Quest devices, as well as software and content available through the Meta Horizon Store, which enable a range of social experiences that allow people to defy physical distance while engaging in gaming, fitness, entertainment, and more. To drive greater adoption and acceptance of VR we have introduced passthrough capabilities, which allow users to experience the immersion and presence of VR while still being grounded in the physical world, 
+through our Meta Quest devices.
+
+Our wearables efforts include our AI glasses and long-term AR initiatives. Our current AI glasses include the Ray-Ban Meta and Oakley Meta glasses, which feature Meta AI, our advanced conversational assistant, as well as other features such as hands-free interaction. As we continue our long-term efforts to bring AR glasses to market, in 2024 we also unveiled our Orion prototype, a pair of true AR glasses that overlay content on top of the physical world. It does this with an industry-leading 
+field of view and in glasses form factor for comfortable wear. In 2025, we introduced Meta Ray-Ban Display, which combines our AI glasses with an integrated display built into the lens. It comes with the Meta Neural Band, which is a wrist-worn wearable device that uses electromyography to let people control their AI glasses using neuromuscular signals.
+
+In general, our Reality Labs efforts include shorter-term projects developing specific products and services to go to market, as well as longer-term research and development projects. All of these investments are part of our long-term initiative to help build the next computing platform. In 2026, we expect to spend approximately 70% of our Reality Labs operating expenses on our wearables initiatives, and the remaining 30% on our VR and Horizon initiatives. We apply significant judgment in 
+estimating this expense breakdown as there are certain shared costs across product lines, and our expectations are subject to change, including as the next computing platform and our business strategies evolve. In particular, we regularly evaluate our product roadmaps and make significant changes as our understanding of the technological challenges and market landscape and our product ideas and designs evolve.
+
+Revenue and Investments
+
+We report financial results for two segments: Family of Apps (FoA) and Reality Labs (RL). Currently, we generate substantially all of our revenue from selling advertising placements on our family of apps to marketers, which is reflected in FoA. Ads on our platform enable marketers to reach people across a range of marketing objectives, such as generating leads or driving awareness. Marketers purchase ads that can appear in multiple places including on Facebook, Instagram, Messenger, Threads, and
+WhatsApp, as well as third-party applications and websites. RL generates revenue from sales of consumer hardware products, software, and content.
+
+We invest in our business based on our company priorities. In 2026, we intend to focus on several key investment areas: AI, Reels and our discovery engine, wearables, monetization of our products and services, youth, platform integrity and community support, and infrastructure capacity.
+
+The majority of our investments are directed toward developing our family of apps. In 2025, 82% of our total costs and expenses were recognized in FoA and 18% were recognized in RL. Our FoA investments were $96.29 billion in 2025 and include expenses relating to headcount, data centers and technical infrastructure as part of our efforts to develop our apps and our advertising services. We are also making significant investments in our RL efforts, including developing virtual and augmented 
+reality devices, software for social platforms, neural interfaces, and other foundational technologies. Our total RL investments were $21.40 billion in 2025 and include expenses relating to headcount and technology development across these efforts. These are fundamentally new technologies that we expect will evolve as the next computing platform develops, and many products may only be fully realized in the next decade. Although it is inherently difficult to predict when and how the next 
+computing platform will develop, we expect our RL segment to continue to operate at a loss for the foreseeable future,
+
+
+and our ability to support our efforts to build the next computing platform is dependent on generating sufficient profits from other areas of our business. We expect this will be a complex, evolving, and long-term initiative. We are investing now because we believe this is the next chapter of the internet and will unlock monetization opportunities for businesses, developers, and creators, including around advertising, hardware, and digital goods.
+
+Competition
+
+Our business is characterized by innovation, rapid change, and disruptive technologies. We compete with companies providing connection, sharing, discovery, and communication products and services to users online, as well as companies that sell advertising to businesses looking to reach consumers and/or develop tools and systems for managing and optimizing advertising campaigns. We face significant competition in every aspect of our business, including, but not limited to, companies that 
+facilitate the ability of users to create, share, communicate, and discover content and information online or enable marketers to reach their existing or prospective audiences. We compete to attract, engage, and retain people who use our products, to attract and retain businesses that use our free or paid business and advertising services, and to attract and retain developers who build compelling applications that integrate with our products. We also compete with companies in the development and
+application of AI, particularly with respect to the development of frontier AI models, as well as the development and delivery of consumer hardware and augmented and virtual reality products and services. We also expect to face additional competition as we introduce or acquire new products, as our existing products evolve, or as other companies introduce new products and services, including as part of efforts to innovate through the development and application of AI and other new technologies as
+well as efforts to develop the metaverse.
+
+Technology
+
+Our product development philosophy centers on continuous innovation in creating and improving products that are social by design, which means that our products are designed to place people and their social interactions at the core of the product experience. Historically, the increases in our computing needs have been driven by growth in our user base as well as engagement with products like video and VR. Our increased efforts toward building frontier AI models have driven a significant further 
+expansion in our computing needs and we expect our computing needs to continue to expand as a result. We have designed and built our own data centers and key portions of our technical infrastructure, and a substantial portion of our technical infrastructure is also provided by third parties. Our ability to provide and continue to innovate our products and services depends on the continued availability of components, power, and network capacity.
+
+We make significant investments in technology both to improve our existing products and services and to develop new ones, as well as for our marketers and developers. We are also investing in protecting the security, privacy, and integrity of our platform by investing in both people and technology to strengthen our systems against abuse. Across all of these efforts, we are making significant investments in AI initiatives, including generative AI and superintelligence, to, among other things, 
+recommend relevant content across our products through our AI-powered discovery engine, enhance our advertising tools and improve our ad delivery, targeting, and measurement capabilities, and to develop new products as well as new features for existing products.
+
+We have a history of open-sourcing in AI, including releasing our Llama foundation models as well as other models and tools, and continue to believe in the power of open source innovation. By sharing these resources, we aim to accelerate AI research, improve our products, and foster innovation across the tech community. We have not released everything we have developed historically and expect to continue training a combination of open and closed models going forward.
+
+Sales and Operations
+
+The majority of our marketers use our self-service ad platform to launch and manage their advertising campaigns. We also have a global sales force that is focused on attracting and retaining advertisers and providing support to them throughout the stages of the marketing cycle from pre-purchase decision-making to real-time optimizations to post-campaign analytics. We work directly with these advertisers, as well as through advertising agencies and resellers. We operate offices in more than 90 
+cities around the globe, the majority of which have a sales presence. We also invest in and rely on self-service tools to provide direct customer support to our users and partners.
+
+For our RL products, our sales efforts utilize third-party sales channels such as retailers, resellers, and distribution partners, and our direct-to-consumer channel, Meta. com, and several Meta stores. These efforts are focused on driving consumer and enterprise sales and adoption of our Meta Quest portfolio of products and AI glasses.
+
+
+Marketing
+
+Historically, our communities have generally grown organically with people inviting their friends to connect with them, supported by internal efforts to stimulate awareness and interest. In addition, we have invested and will continue to invest in marketing our products and services to grow our brand and help build community around the world.
+
+Intellectual Property
+
+To establish and protect our proprietary rights, we rely on a combination of patents, trademarks, copyrights, trade secrets, including know-how, license agreements, confidentiality procedures, non-disclosure agreements with third parties, employee disclosure and invention assignment agreements, and other contractual rights. In addition, to further protect our proprietary rights, from time to time we have purchased patents and patent applications from third parties. We do not believe that our 
+proprietary technology is dependent on any single patent or copyright or groups of related patents or copyrights. We believe the duration of our patents is adequate relative to the expected lives of our products.
+
+Government Regulation
+
+We are subject to a variety of laws and regulations in the United States and abroad that involve matters central to our business, many of which are still evolving and being tested in courts, and could be interpreted in ways that could harm our business. These laws and regulations involve matters including privacy, data use, data combination, data protection and personal information, the provision of our services to younger users, biometrics, encryption, rights of publicity, content, integrity, 
+intellectual property, advertising, marketing, distribution, data security, data retention and deletion, data localization and storage, data disclosure, AI and machine learning, electronic contracts and other communications, competition, protection of minors, consumer protection, civil rights, accessibility, telecommunications, product liability, medical devices, e-commerce, taxation, economic or other trade controls including sanctions, export controls, anti-corruption and political law 
+compliance, securities law compliance, and online payment services. The introduction of new products, expansion of our activities in certain jurisdictions, or other actions that we may take may subject us to additional laws, regulations, or other government scrutiny. These U. S. federal and state, EU, and other international laws and regulations may impose different obligations from each other and create the potential for significant fines to be imposed, including fines that increasingly may be 
+calculated based on global revenue, or other consequences such as changes to our products or business practices. The application, interpretation, and enforcement of these laws and regulations are often uncertain, particularly in the new and rapidly evolving industry in which we operate, and may be interpreted and applied inconsistently from jurisdiction to jurisdiction and inconsistently with our current policies and practices. For additional information about government regulation applicable to
+our business, see Part I, Item 1A, "Risk Factors" and Item 3, "Legal Proceedings" in this Annual Report on Form 10-K.
+
+Human Capital
+
+At Meta, everything we do is about helping people feel connected and closer, and we are proud of our unique company culture.
+
+We had a global workforce of 78,865 employees as of December 31, 2025, and we have offices in more than 90 cities around the world. We are committed to fostering an enriching environment for our workforce and we are focused on supporting our people in doing the best work of their careers. We offer competitive compensation and a wide range of benefits, including many learning and development resources.
+
+From time to time, we implement organizational changes to pursue greater efficiency and realign our business and strategic priorities. For example, we have previously undertaken cost reduction efforts such as scaling back budgets, reducing company perks, shrinking our real estate footprint, and employee layoffs and restructurings. We make it a priority to treat outgoing employees with respect and provide a generous severance package. For U. S. employees, that includes severance payments, payment
+for all remaining paid time off, and restricted stock unit vesting through their last day on payroll, as well as certain continuing coverage of the cost of healthcare for employees and their families, career services with an external vendor, and immigration support. We offer similar support for outgoing employees outside of the United States while taking into account local employment laws.
+
+
+Employee Learning and Development
+
+We value our investment in growing and keeping a highly skilled workforce. We aim to make AI utilization core to the way we operate by providing our personnel access to AI tools and training programs. We provide our employees with regular performance reviews twice a year as we believe it is an important part of how we support their growth and career development while also recognizing and rewarding their impact at Meta. We also offer career development opportunities and work experience programs 
+that extend beyond the physical and virtual classroom. To do this, we utilize various learning modalities, such as live virtual and in-person learning experiences, on-demand e-learning, self-service resources, learning communities, and coaching engagements.
+
+The Pulse of Our Workforce
+
+We conduct company-wide employee surveys twice a year to help us understand how employees feel about working at Meta and what we can do to improve their experience. Our surveys help us measure company, manager, team, and personal experience over time. Further, our more frequent surveys, such as those that have been administered daily to an ongoing random sample of employees, allow us to measure real-time sentiment around emerging events and company changes. These surveys are designed to invite 
+feedback and actionable suggestions, inform decisions, and drive change across the company.
+
+Compensation, Benefits, Health, and Well-being
+
+We offer competitive compensation to attract and retain the best people, and we help care for our people so they can focus on our mission. Our employees' total compensation package includes market-competitive salary, bonuses or sales incentives, and equity. We generally offer full-time employees equity at the time of hire and through annual equity grants because we want them to be owners of the company and committed to our long-term success.
+
+Through Life@ Meta, our holistic approach to benefits, we continue to provide our employees and their dependents with resources to help them thrive. We offer a wide range of benefits across areas such as health, family, finance, community, and time away, including family building benefits, family care resources, retirement savings plans, access to legal services, Meta Resource Groups to build community at Meta, and health and well-being benefits.
+
+Our health and well-being programs are designed to give employees a choice of flexible benefits to help them reach their personal well-being goals. Our programs are tailored to help boost employee physical and mental health, create financial peace of mind, provide support for families, and help employees build a strong community.
+
+The Strength of Our Workforce and People Processes
+
+We work to build an inclusive workplace where we can leverage our collective cognitive diversity to build the best products and make the best decisions for the global community we serve.
+
+We want our products to work for people around the world and we need to grow and keep the best talent in order to do that. We remain committed to having an inclusive workplace and people with a broad range of knowledge, skills, political views, backgrounds, and perspectives because we believe cognitive diversity fuels innovation. To aid in this effort, we continue to implement ways to mitigate potential bias in our people processes and tooling, including our hiring processes and performance 
+management systems.
+
+Corporate Information
+
+We were incorporated in Delaware in July 2004. We completed our initial public offering in May 2012 and our Class A common stock is currently listed on the Nasdaq Global Select Market under the symbol "META." Our principal executive offices are located at 1 Meta Way, Menlo Park, California 94025, and our telephone number is (650) 543-4800.
+
+Meta, the Meta logo, Meta Quest, Meta Horizon, Facebook, Instagram, WhatsApp, Reels, and our other registered or common law trademarks, service marks, or trade names appearing in this Annual Report on Form 10-K are the property of Meta Platforms, Inc. or its affiliates. Other trademarks, service marks, or trade names appearing in this Annual Report on Form 10‑ K are the property of their respective owners.
+
+
+Available Information
+
+Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended (Exchange Act), are filed with the U. S. Securities and Exchange Commission (SEC). We are subject to the informational requirements of the Exchange Act and file or furnish reports, proxy statements, and other information with the SEC. Such reports and other information filed by us with
+the SEC are available free of charge on our website at investor. atmeta. com when such reports are available on the SEC's website. We use our investor. atmeta. com and meta. com/news websites as well as Mark Zuckerberg's Facebook profile (www. facebook. com/zuck), Instagram account (www. instagram. com/zuck), and Threads profile (www. threads. net/zuck) as means of disclosing material non-public information and for complying with our disclosure obligations under Regulation FD.
+
+The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at www. sec. gov.
+
+The contents of the websites referred to above are not incorporated into this filing. Further, our references to the URLs for these websites are intended to be inactive textual references only.
+
+
+Item 1A. Risk Factors
+
+Certain factors may have a material adverse effect on our business, financial condition, and results of operations. You should consider carefully the risks and uncertainties described below, in addition to other information contained in this Annual Report on Form 10-K, including our consolidated financial statements and related notes. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties that we are unaware of, or that we currently believe 
+are not material, may also become important factors that adversely affect our business. If any of the following risks actually occurs, our business, financial condition, results of operations, and future prospects could be materially and adversely affected. In that event, the trading price of our Class A common stock could decline, and you could lose part or all of your investment.
+
+Summary Risk Factors
+
+Our business is subject to a number of risks, including risks that may prevent us from achieving our business objectives or may adversely affect our business, financial condition, results of operations, cash flows, and prospects. These risks are discussed more fully below and include, but are not limited to, risks related to:
+
+Risks Related to Our Product Offerings
+
+• our ability to add and retain users and maintain levels of user engagement with our products;
+
+• the loss of, or reduction in spending by, our marketers;
+
+• reduced availability of data signals used by our ad targeting and measurement tools;
+
+• ineffective operation with mobile operating systems or changes in our relationships with mobile operating system partners;
+
+• failure of our new products, or changes to our existing products, to attract or retain users or generate revenue;
+
+Risks Related to Our Business Operations and Financial Results
+
+• our ability to compete effectively;
+
+• fluctuations in our financial results;
+
+• unfavorable media coverage and other risks affecting our ability to maintain and enhance our brands;
+
+• our ability to build, maintain, and scale our technical infrastructure, and risks associated with disruptions in our service, catastrophic events, and crises;
+
+• operating our business in multiple countries around the world;
+
+• litigation, including class action lawsuits;
+
+• acquisitions and our ability to successfully integrate our acquisitions;
+
+Risks Related to Government Regulation and Enforcement
+
+• government restrictions on access to Facebook or our other products, or other actions that impair our ability to sell or deliver advertising, in their countries;
+
+• complex and evolving U. S. and foreign privacy, data use, data combination, data protection, content and content moderation, competition, youth, safety, consumer protection, advertising, and other laws and regulations, including the General Data Protection Regulation (GDPR), Digital Markets Act (DMA), Digital Services Act (DSA), UK Online Safety Act (OSA), Artificial Intelligence Act (EU AI Act), and the UK Digital Marke
+
+[...FILING TEXT TRUNCATED...]
+
+alance sheet information related to lease liabilities is as follows:
+
+                                              December 31,                  
+                                              2025              2024        
+ ────────────────────────────────────────────────────────────────────────────
+  Weighted-average remaining lease term:                                    
+  Finance leases                              15.1 years        13.7 years  
+  Operating leases                            12.3 years        11.5 years  
+  Weighted-average discount rate:                                           
+  Finance leases                              4.1               3.6         
+  Operating leases                            4.3               3.9         
+
+The following is a schedule, by years, of maturities of lease liabilities as of December 31, 2025 (in millions):
+
+                                          Operating Leases                  Finance Leases             
+  2026                                    $                      3,211      $                     344  
+  2027                                                           3,237      97                         
+  2028                                                           3,057      97                         
+  2029                                                           2,985      88                         
+  2030                                                           2,621      86                         
+  Thereafter                                                    18,397      792                        
+  Total undiscounted cash flows                                 33,508                          1,504  
+  Less: Imputed interest                  ( 8,355)                          ( 320)                     
+  Present value of lease liabilities      $                     25,153      $                   1,184  
+  Lease liabilities, current              $                      2,213      $                     308  
+  Lease liabilities, non-current                                22,940      876                        
+  Present value of lease liabilities      $                     25,153      $                   1,184  
+
+
+The table above does not include lease payments that were not fixed at commencement or lease modification. As of December 31, 2025, we have additional operating and finance leases, that have not yet commenced, with total lease obligations of approximately $ 103.77 one year 30
+
+Supplemental cash flow information related to leases is as follows (in millions):
+
+                                                                               Year Ended December 31,                          
+                                                                                                  2025        2024        2023  
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Cash paid for amounts included in the measurement of lease liabilities:                                                       
+  Operating cash flows for operating leases                                                     $3,189      $2,830      $2,233  
+  Operating cash flows for finance leases                                                          $31         $23         $20  
+  Financing cash flows for finance leases                                                       $2,524      $1,969      $1,058  
+  Lease liabilities arising from obtaining right-of-use assets:                                                                 
+  Operating leases                                                                              $7,017      $3,784      $4,370  
+  Finance leases                                                                                  $613        $181        $588  
+
+Note 8. Acquisitions, Goodwill, and Intangible Assets
+
+During the year ended December 31, 2025, we completed several business acquisitions with total purchase consideration of $ 4.09 450 3.88 664
+
+Changes in the carrying amount of goodwill by reportable segment for the years ended December 31, 2025 and 2024 are as follows (in millions):
+
+                         Family of Apps                  Reality Labs                 Total              
+  Acquisitions           —                               —                            —                  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────
+  December 31, 2023      $                   19,246      $                 1,408      $          20,654  
+  December 31, 2024                          19,246                        1,408                 20,654  
+  Acquisitions                                3,697      99                                       3,796  
+  Adjustments            85                              ( 1)                         84                 
+  December 31, 2025      $                   23,028      $                 1,506      $          24,534  
+
+
+The following table sets forth the major categories of the intangible assets and their weighted-average remaining useful lives (in millions):
+
+                                                                                  December 31, 2025                                                                 December 31, 2024                                                             
+                                     Weighted-Average Remaining Useful Lives      Gross Carrying Amount      Accumulated Amortization      Net Carrying Amount      Gross Carrying Amount      Accumulated Amortization      Net Carrying Amount  
+                                     (in years)                                                                                                                                                                                                   
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Acquired software                  2.6                                          $                          $                             $                        $                          $                             $                    
+  Acquired technology                3.0                                                                     ( 235)                        916                      442                        ( 247)                        195                  
+  Acquired patents                   6.4                                          224                        ( 143)                        81                       252                        ( 165)                        87                   
+  Other                              3.4                                          113                        ( 16)                         97                       24                         ( 8)                          16                   
+  Total finite-lived assets                                                                                  ( 794)                                                 968                        ( 478)                        490                  
+  Total indefinite-lived assets      N/A                                          397                        —                             397                      425                        —                             425                  
+  Total                                                                           $                          $                             $                        $                          $                             $                    
+
+During the year ended December 31, 2025, we also purchased software licenses of $ 2.40 615 211 161
+
+As of December 31, 2025, expected amortization expense for finite-lived intangible assets for the next five years and thereafter is as follows (in millions):
+
+        2026      $        1,259  
+        2027               1,162  
+        2028      771             
+        2029      39              
+        2030      27              
+  Thereafter      37              
+       Total      $        3,295  
+
+Note 9. Accrued Expenses and Other Current Liabilities
+
+The components of accrued expenses and other current liabilities are as follows (in millions):
+
+                                         December 31,                                    
+                                         2025                          2024              
+ ─────────────────────────────────────────────────────────────────────────────────────────
+  Legal-related accruals (1)             $                  6,867      $          5,523  
+  Accrued compensation and benefits                         7,151                 6,350  
+  Accrued property and equipment                            4,402                 2,582  
+  Accrued taxes                                             1,922                 3,438  
+  Other current liabilities                                10,387                 6,074  
+  Total                                  $                 30,729      $         23,967  
+
+_________________________
+
+(1) Includes accruals for estimated fines, settlements, or other losses in connection with legal and related matters, as well as other legal fees. For further information, see Legal and Related Matters in Note 11 - Commitments and Contingencies.
+
+
+Note 10. Long-term Debt
+
+In November 2025, we issued an aggregate of $ 30.0 six The following table summarizes our fixed-senior unsecured notes (the Notes) and the carrying amount of our long-term debt (in millions, except percentages):
+
+                                                    Maturity         Stated Interest Rate      Effective Interest Rate      December 31, 2025                  December 31, 2024              
+  August 2022 Notes                                 2027 - 2062      3.50% - 4.65%             3.63% - 4.71%                $                      10,000      $                      10,000  
+  May 2023 Notes                                    2028 - 2063      4.60% - 5.75%             4.68% - 5.79%                                        8,500                              8,500  
+  August 2024 Notes                                 2029 - 2064      4.30% - 5.55%             4.42% - 5.60%                                       10,500                             10,500  
+  November 2025 Notes                               2030 - 2065      4.20% - 5.75%             4.27% - 5.77%                                       30,000      —                              
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Total face amount of long-term debt                                                                                                              59,000                             29,000  
+  Unamortized discount and issuance costs, net                                                                              ( 256)                             ( 174)                         
+  Long-term debt                                                                                                            $                      58,744      $                      28,826  
+
+Each series of the Notes rank equally with each other and interest is payable semi-annually in arrears. We may redeem the Notes at any time, in whole or in part, at specified redemption prices. We are not subject to any financial covenants under the Notes. Interest expense, net of capitalized interest, recognized on the Notes was $ 1.09 683 420
+
+The total estimated fair value of our outstanding Notes was $ 57.22 27.83
+
+As of December 31, 2025, future principal payments for the Notes, by year, are as follows (in millions):
+
+        2026           —  
+        2027       2,750  
+        2028       1,500  
+        2029       1,000  
+        2030       5,000  
+  Thereafter      48,750  
+       Total      59,000  
+
+
+Note 11. Commitments and Contingencies
+
+Contractual Commitments
+
+We have $ 131.05 The following is a schedule, by years, of non-cancelable contractual commitments as of December 31, 2025 (in millions):
+
+        2026       30,634  
+        2027       22,166  
+        2028       21,221  
+        2029       19,761  
+        2030       19,407  
+  Thereafter       17,857  
+       Total      131,046  
+
+Additionally, as part of the normal course of business, we have entered into multi-year agreements ranging from three 25
+
+Legal and Related Matters
+
+With respect to the cases, actions, and inquiries described below, we evaluate the associated developments on a regular basis and accrue a liability when we believe a loss is probable and the amount can be reasonably estimated. In addition, we believe there is a reasonable possibility that we may incur a loss in some of these matters. Unless otherwise noted, with respect to the matters described below that do not include an estimate of the amount of loss or range of possible loss, such losses or
+range of possible losses either cannot be estimated or are not individually material, but we believe there is a reasonable possibility that they may be material in the aggregate.
+
+We are also party to various other legal proceedings, claims, and regulatory, tax or government inquiries and investigations that arise in the ordinary course of business. Additionally, we are required to comply with various legal and regulatory obligations around the world. The requirements for complying with these obligations may be uncertain and subject to interpretation and enforcement by regulatory and other authorities, and any failure or perceived failure to comply with such obligations 
+could eventually lead to asserted legal or regulatory action. With respect to these other legal proceedings, claims, regulatory, tax, or government inquiries and investigations, and other matters, asserted and unasserted, we evaluate the associated developments on a regular basis and accrue a liability when we believe a loss is probable and the amount can be reasonably estimated. In addition, we believe there is a reasonable possibility that we may incur a loss in some of these other matters. We
+believe that the amount of losses or any estimable range of possible losses with respect to these other matters will not, either individually or in the aggregate, have a material adverse effect on our business and consolidated financial statements.
+
+The ultimate outcome of the legal and related matters described in this section, such as whether the likelihood of loss is remote, reasonably possible, or probable, or if and when the reasonably possible range of loss is estimable, is inherently uncertain. Therefore, if one or more of these matters were resolved against us for amounts in excess of management's estimates of loss, our results of operations and financial condition, including in a particular reporting period in which any such 
+outcome becomes probable and estimable, could be materially adversely affected.
+
+For information regarding income tax contingencies, see Note 14 - Income Taxes.
+
+
+Privacy and Related Matters
+
+Beginning on March 20, 2018, multiple putative class actions were filed in state and federal courts in the United States and elsewhere against us and certain of our directors and officers alleging various causes of action in connection with our platform and user data practices as well as the misuse of certain data by a developer that shared such data with third parties in violation of our terms and policies, and seeking unspecified damages and injunctive relief. With respect to the putative 
+class actions alleging fraud and violations of consumer protection, privacy, and other laws in connection with the same matters, several of the cases brought on behalf of consumers in the United States were consolidated in the U. S. District Court for the Northern District of California (In re Facebook, Inc., Consumer Privacy User Profile Litigation). On December 22, 2022, the parties entered into a settlement agreement to resolve the lawsuit, which provided for a payment of $ 725 5.0In re 
+Facebook Inc. Derivative Litigation. On January 19, 2022, we filed a motion to dismiss, which was denied in part on May 10, 2023. The insider trading claim was dismissed as to all defendants except Mark Zuckerberg, and the motion was denied as to the breach of fiduciary duty claims. Trial began on July 16, 2025. On July 17, 2025, the parties agreed to a settlement in principle to resolve all claims in the action, which is subject to court approval.
+
+On May 3, 2023, the FTC filed a public administrative proceeding (In the Matter of Facebook, Inc. ) seeking substantial changes to the modified consent order, which took effect in April 2020 after its entry by the U. S. District Court for the District of Columbia. The changes sought by the FTC are set forth in a proposed order and include, among others, a prohibition on our use of minors' data for any commercial purposes, changes to the composition of our board of directors, and significant 
+limitations on our ability to modify and launch new products. On May 31, 2023, we filed a motion before the U. S. District Court for the District of Columbia seeking to enjoin the FTC from further pursuing its agency process to modify the modified consent order. On November 27, 2023, the district court denied our motion, and we then appealed to the U. S. Court of Appeals for the District of Columbia Circuit ( U. S. v. Facebook, Inc. ) and sought to stay the FTC proceeding pending resolution of 
+the appeal. Our motion for a stay pending appeal was denied in March 2024. After the underlying appeal was briefed and oral argument was held on November 5, 2024, the U. S. Court of Appeals for the District of Columbia Circuit issued its decision on May 16, 2025, reversing the district court's denial of our motion on jurisdictional grounds, and directed the district court to consider the merits of our arguments. On July 10, 2025, the case was remanded to the district court to consider our claims
+in light of the Court of Appeals' determination that the district court retains jurisdiction over the entirety of the consent order. On December 23, 2025, the district court ordered a schedule for supplemental briefing in light of the Court of Appeals decision, with briefing due to be complete by May 2026.
+
+On November 29, 2023, we separately filed a complaint, also in the U. S. District Court for the District of Columbia (Meta Platforms, Inc. v. FTC), asserting constitutional challenges to the structure of the FTC, and seeking to preliminarily enjoin the FTC proceeding during the pendency of the litigation. On December 13, 2023, the FTC filed an opposition to our motion for preliminary injunction and a motion to dismiss the complaint. On March 14, 2024, the district court denied our motion to 
+preliminarily enjoin the FTC proceeding during the pendency of the litigation, and also denied the FTC's motion to dismiss our complaint without prejudice, pending the U. S. Supreme Court's decision inSEC v. Jarkesy(Jarkesy). Our motion for a stay of the FTC proceeding pending appeal was denied in March 2024. Both the district court action and the appeal were
+
+
+stayed pending the Supreme Court's decision in Jarkesy. Following the Supreme Court's ruling inJarkesy on June 27, 2024, the government filed a renewed motion to dismiss, which was fully briefed as of October 18, 2024. On June 29, 2025, the district court granted our request for a stay in light of the Court of Appeals' May 16, 2025 decision in the jurisdictional case, and on January 20, 2026, the district court continued the stay and ordered the parties to file a status update by June 8, 2026.
+
+On April 1, 2024, we filed our response to the FTC's Order to Show Cause, arguing, among other things, that the Order to Show Cause proceeding was legally improper. Per FTC orders, we completed briefing on threshold legal issues on July 18, 2024, and the FTC held oral argument before the Commissioners on those issues on November 12, 2024. On January 10, 2025, the Commission issued a decision on certain threshold legal issues, including that the Commission has statutory authority to modify 
+consent orders. The Commission stated that its decision is subject to Meta's jurisdictional challenges then pending before the U. S. Court of Appeals for the District of Columbia Circuit in U. S. v. Facebook, Inc., and that the nature and scope of any further administrative proceedings would be addressed at a later date. On July 30, 2025, the Commission issued an order staying the Order to Show Cause proceeding pending final resolution of the two
+
+We also notify the Irish Data Protection Commission (IDPC), our lead European Union privacy regulator under the General Data Protection Regulation (GDPR), of certain other personal data breaches and privacy issues, issue similar notifications to European regulators under other laws (such as UK GDPR and Member State implementations of the ePrivacy Directive), and are subject to inquiries and investigations by the IDPC and other European regulators regarding various aspects of our regulatory 
+compliance. For example, the IDPC is continuing to assess the compliance of our "subscription for no ads" consent model with requirements under the GDPR. In addition, on May 12, 2023, the IDPC issued a Final Decision concluding that Meta Platforms Ireland's reliance on Standard Contractual Clauses in respect of certain transfers of European Economic Area (EEA) Facebook user data was not in compliance with the GDPR. The IDPC issued an administrative fine of EUR € 1.2
+
+Beginning on June 7, 2021, multiple putative class actions were filed against us alleging that we improperly received individuals' information from third-party websites or apps via our business tools in violation of our terms and various state and federal laws and seeking unspecified damages and injunctive relief (for example, In re Meta Pixel Healthcare Litigation; In re Meta Pixel Tax Filing Cases; Frasco v. Flo Health, Inc.; Doe v. Hey Favor, Inc. et al.; Doe v. GoodRx Holdings, Inc. et al. 
+in the U. S. District Court for the Northern District of California; and Rickwalder, et al. v. Meta Platforms, Inc. in the Santa Clara County Superior Court). These cases are in different stages, but several of our motions to dismiss have been denied in whole or in part, while certain others have been granted in whole or in part. InRickwalder, the Superior Court denied plaintiffs' motion for class certification and the plaintiffs have appealed that decision. InFlo Health, on August 1, 2025, a 
+jury returned a verdict on liability in favor of the plaintiffs and on behalf of a California subclass on the sole claim remaining against Meta under Section 632 of the California Invasion of Privacy Act. Plaintiffs are seeking $ 5,000 1.6
+
+Competition
+
+We are subject to various litigation and government inquiries and investigations, formal or informal, by competition authorities in the United States, Europe, and other jurisdictions. Such investigations, inquiries, and lawsuits concern, among other things, our business practices in the areas of social networking or social media services, digital advertising, and/or mobile or online applications, as well as our acquisitions. For example, in 2019 we became the subject of antitrust
+
+
+investigations by the FTC and U. S. Department of Justice. On December 9, 2020, the FTC filed a complaint ( FTC v. Meta Platforms, Inc. ) against us in the U. S. District Court for the District of Columbia alleging that we engaged in anticompetitive conduct and unfair methods of competition in violation of Section 5 of the Federal Trade Commission Act and Section 2 of the Sherman Act, including by acquiring Instagram in 2012 and WhatsApp in 2014 and by maintaining conditions on access to our 
+platform. The FTC sought a permanent injunction against our company's alleged violations of the antitrust laws, and other equitable relief, including divestiture or reconstruction of Instagram and WhatsApp. On June 28, 2021, the court granted our motion to dismiss the complaint filed by the FTC with leave to amend. On August 19, 2021, the FTC filed an amended complaint, and on October 4, 2021, we filed a motion to dismiss this amended complaint. On January 11, 2022, the court denied our motion 
+to dismiss the FTC's amended complaint. On April 5, 2024, we filed our motion for summary judgment and the FTC filed its opposition and its own motion for partial summary judgment on May 24, 2024. On November 13, 2024, the court granted in part and denied in part both our and the FTC's motions for summary judgment. Trial began on April 14, 2025 and concluded on May 27, 2025. On November 18, 2025, the court granted judgment in our favor. On January 20, 2026, the FTC filed a notice of appeal of 
+that ruling. Multiple putative class actions have also been filed in state and federal courts in the United States and in the United Kingdom against us alleging violations of antitrust laws and other causes of action in connection with these acquisitions and/or other alleged anticompetitive conduct, and seeking damages and injunctive relief. Several of the cases brought on behalf of certain advertisers and users in the United States were consolidated in the U. S. District Court for the Northern 
+District of California ( Klein et al., v. Meta Platforms, Inc. ). On December 30, 2024, we filed our motion for summary judgment in the putative class action brought on behalf of certain advertisers, which is pending with the court. On January 24, 2025, the court denied plaintiffs' motion for class certification in the action brought on behalf of users, permitting it to proceed only on an individual basis as to the named plaintiffs. On September 29, 2025, in the user action, the court granted 
+our motion, entering judgment in our favor. On October 27, 2025, plaintiffs in the user action filed a notice of appeal.
+
+On February 11, 2022, a putative class action was filed against us in the UK Competition Appeals Tribunal (CAT) under the UK collective proceedings regime ( Lovdahl-Gormsen v. Meta Platforms, Inc. et al. ). On October 6, 2023, following the denial of class certification, the class representative submitted an amended claim alleging abuse of dominance relating to aspects of our data processing practices and seeking damages. The CAT certified the amended claim on February 15, 2024. Trial is 
+scheduled to begin in September 2027.
+
+We are also subject to litigation in Europe brought by news and media companies alleging anticompetitive conduct in relation to aspects of our historic data processing practices. For example, on December 1, 2023, 87Asociacion de Medios de Informacion (AMI) v. Meta Ireland). On November 19, 2025, the court issued judgment against us, finding that AMI had failed to establish abuse of dominance but upholding its case on unfair competition and awarding damages of approximately EUR € 542 tenUnion de 
+Televisiones Comerciales Asociadas (UTECA) v. Meta Ireland). In addition, on April 29, 2025, a similar unfair competition claim was filed against us by 67Amaury et al. v. Meta Platforms Ireland Limited). Trial is expected to take place in 2027.
+
+In December 2022, the European Commission issued a Statement of Objections alleging that we tie Facebook Marketplace to Facebook and use data in a manner that infringes European Union competition rules. On November 18, 2024, the European Commission issued a decision that Meta infringed Article 102 on the Treaty of the Functioning of the European Union in relation to certain alleged business practices relating to Facebook Marketplace and imposed a fine of approximately EUR € 798
+
+In March 2024, the European Commission opened an investigation into the compliance of our "subscription for no ads" consent model with requirements under Article 5(2) of the Digital Markets Act (DMA). The European Commission issued preliminary findings on July 1, 2024 reflecting its preliminary view that our model does not comply with such requirements. In April 2025, the European Commission issued a final decision that our "subscription for no ads" model does not comply with such requirements 
+and imposed a fine of EUR € 200
+
+
+Securities and Other Actions
+
+Beginning on March 20, 2018, multiple putative class actions and derivative actions were filed in state and federal courts in the United States and elsewhere against us and certain of our directors and officers alleging violations of securities laws, breach of fiduciary duties, and other causes of action in connection with our platform and user data practices as well as the misuse of certain data by a developer that shared such data with third parties in violation of our terms and policies, and 
+seeking unspecified damages and injunctive relief. Beginning on July 27, 2018, two two(In Re Facebook, Inc. Securities Litigation) with the putative securities class action described above relating to our platform and user data practices. In a series of orders in 2019 and 2020, the district court granted our motions to dismiss the plaintiffs' claims. On January 17, 2022, the plaintiffs filed a notice of appeal of the order dismissing their case, and on October 18, 2023, the U. S. Court of 
+Appeals for the Ninth Circuit issued its decision affirming in part and reversing in part the district court's order dismissing the plaintiffs' case. We filed a petition for writ of certiorari on March 4, 2024 with the U. S. Supreme Court, seeking review of the Ninth Circuit's order. The Supreme Court granted in part our petition for writ of certiorari on June 10, 2024, and following oral argument issued an order on November 22, 2024 dismissing the grant of certiorari as improvidently granted. 
+On January 24, 2025, the U. S. Court of Appeals for the Ninth Circuit returned the case to the district court. On July 1, 2025, the plaintiffs filed a fourth amended complaint. On September 2, 2025, we filed a motion to dismiss the fourth amended complaint.
+
+We are also subject to other government inquiries and investigations relating to our business activities and disclosure practices. For example, beginning in September 2021, we became subject to government investigations and requests relating to a former employee's allegations and release of internal company documents concerning, among other things, our algorithms, advertising and user metrics, and content enforcement practices, as well as misinformation and other undesirable activity on our 
+platform, and user well-being. We have since received additional requests relating to these and other topics. Beginning on October 27, 2021, multiple putative class actions and derivative actions were filed in the U. S. District Court for the Northern District of California against us and certain of our directors and officers alleging violations of securities laws, breach of fiduciary duties, and other causes of action in connection with the same matters, and seeking unspecified damages (Ohio 
+Pub. Empl. Ret. Sys. v. Meta Platforms, Inc.). On September 30, 2024, the court dismissed certain claims with leave to amend, but determined certain claims regarding content enforcement practices and user well-being could proceed against us and certain of our current and former directors and officers.
+
+On March 8, 2022, a putative class action was filed in the U. S. District Court for the Northern District of California against us and certain of our directors and officers alleging violations of securities laws in connection with the disclosure of our earnings results for the fourth quarter of 2021 and seeking unspecified damages ( Plumbers & Steamfitters Local 60 Pension Trust v. Meta Platforms, Inc. ). On July 18, 2023, the court dismissed the claims against Meta and its officers with leave 
+to amend. On September 18, 2023, the plaintiffs filed an amended complaint and on September 17, 2024, the court dismissed the claims with prejudice. On October 14, 2024, plaintiffs filed their notice of appeal and oral argument was held on January 6, 2026.
+
+Youth-Related Actions
+
+Beginning in January 2022, we became subject to litigation and other proceedings that were filed in various federal and state courts in the United States as well as other jurisdictions alleging that Facebook and Instagram cause "social media addiction" in users, with most proceedings focused on those under 18 years old, resulting in various mental health and other harms. Putative class actions have been filed in the United States, Brazil, Canada, Europe, and elsewhere on behalf of users in those
+jurisdictions, and numerous school districts, municipalities, and tribal nations have filed public nuisance claims in the United States, Brazil, and/or Canada based on similar allegations. On October 6, 2022, the U. S. federal cases were centralized in the U. S. District Court for the Northern District of California (In re Social Media Adolescent Addiction Product Liability Personal Injury Litigation). Beginning in March 2023, U. S. states and territories began filing lawsuits on these topics in
+various federal and state courts. These additional lawsuits include allegations regarding violations of the Children's Online Privacy Protection Act (COPPA), child sexual abuse material and other child safety concerns, as well as violations of state consumer protection laws, unfair business practices, public nuisance, and products liability, with proceedings focused on our alleged business practices (including the use of end-to-end encryption) and harms to users under 18 years old. Certain of 
+the lawsuits described above have since expanded to include various other claims relating to our services, including with respect to age verification, AI and AI chatbots, deceptive advertising, illicit or illegal activity with respect to drugs, fraud, and
+
+
+firearms, and privacy-related matters, among others. These lawsuits seek damages and injunctive relief, and include cases filed by various state attorneys general in In re Social Media Adolescent Addiction Product Liability Personal Injury Litigation in the U. S. District Court for the Northern District of California, as well as various state courts around the country. Trial in the first of the personal injury cases began on January 27, 2026 inJudicial Council Coordination Proceeding No. 5255 
+pending in Los Angeles County California Superior Court. Trial in the first of the state attorneys general cases is currently scheduled to begin on February 2, 2026 in the First Judicial District Court of New Mexico, in a case brought by the New Mexico Attorney General. Trials in other state attorneys general cases are currently scheduled or expected to be scheduled in the second half of 2026 or in 2027. The first trial in the multidistrict litigation (In re Social Media Adolescent Addiction 
+Product Liability Personal Injury Litigation) is a school district bellwether case and is scheduled to begin on June 15, 2026. Across the cases described above, the damages or penalties that plaintiffs have indicated they intend to seek range widely in amount, including in certain cases up to the high tens of billions of dollars. In addition, beginning in November 2024, counsel for over one hundred thousand individual claimants have sent mass arbitration demands relating to "social media 
+addiction" and related harms allegedly caused by Instagram.
+
+We are also subject to government investigations and requests from multiple regulators in various jurisdictions globally concerning the use of our products and services, and the alleged mental and physical health and safety and privacy impacts on users, particularly younger users, as well as the accuracy of our statements about youth and parental features. On May 16, 2024, the European Commission opened formal proceedings assessing our compliance with certain requirements under Articles 28, 34, 
+and 35 of the Digital Services Act (DSA), including the way in which we identified, assessed, and mitigated against certain systemic risks to minors and other vulnerable users that may stem from the design and functioning of Instagram and Facebook.
+
+Other Actions
+
+Beginning on August 15, 2018, multiple putative class actions were filed against us alleging that we inflated our estimates of the potential audience size for advertisements, resulting in artificially increased demand and higher prices. The cases were consolidated in the U. S. District Court for the Northern District of California ( DZ Reserve v. Facebook, Inc. ) and seek unspecified damages and injunctive relief. In a series of rulings in 2019, 2021, and 2022, the court dismissed certain of the
+plaintiffs' claims, but permitted their fraud and unfair competition claims to proceed. On March 29, 2022, the court granted the plaintiffs' motion for class certification. On March 21, 2024, the U. S. Court of Appeals for the Ninth Circuit affirmed in part and reversed in part the order granting class certification. On May 3, 2024, we filed a petition for panel rehearing and rehearing en banc, which was denied by the Ninth Circuit. We filed a petition for a writ of certiorari with the U. S. 
+Supreme Court on October 2, 2024, which was denied. We then moved to compel arbitration, which the district court denied. We appealed the denial of our motion to compel arbitration to the Ninth Circuit on December 3, 2025. The matter is stayed in district court pending resolution of our appeal.
+
+Beginning on July 7, 2023, multiple cases, including putative class actions, were filed against us in the United States and elsewhere, alleging that we improperly acquired, distributed, and used various copyrighted materials and/or other types of data to train our artificial intelligence models and seeking unspecified damages and injunctive relief. In the United States, statutory damages for copyright liability are calculated on a per work basis, which may result in substantial damages, 
+particularly given the large volumes of data required to train AI models. The cases in the United States, which were filed in the U. S. District Court for the Northern District of California (Kadrey, et al. v. Meta Platforms, Inc., Chabon, et al. v. Meta Platforms, Inc. and Farnsworth v. Meta Platforms, Inc. ) and U. S. District Court for the Southern District of New York ( Huckabee, et al. v. Meta Platforms, Inc. et al., which was subsequently transferred to the U. S. District Court for the 
+Northern District of California), have been consolidated intoKadrey, et al. v. Meta Platforms, Inc. Motions for summary judgment were heard in this case on May 1, 2025, including on the issue of the applicability of the fair use defense to use of copyrighted books for generative AI model training. On June 25, 2025, the court granted our motion for summary judgment on fair use as to the named plaintiffs in the case. The parties will proceed to brief the remaining claim of copyright infringement 
+due to alleged distribution of books to third parties during the downloading process. The court is scheduled to hear summary judgment motions on July 16, 2026. Beginning in November 2025, additional cases with similar claims were filed against us in the U. S. District Court for the Northern District of California ( Entrepreneur Media v. Meta Platforms, Inc., Carreyrou et al. v. Anthropic PBC, et al. andTED Entertainment, Inc. v. Meta Platforms, Inc.). We expect some of these cases will be set 
+for trial beginning in mid-2027.
+
+
+On April 30, 2024, the European Commission opened formal proceedings against us to assess Facebook and Instagram's compliance with certain requirements under Articles 14, 16, 17, 20, 24, 25, 34, 35, and 40 of the DSA, regarding a range of topics including elections, content reporting and appeals, third-party access to data, political content recommendations, potential deceptive advertising and disinformation, including the way in which we identified, assessed, and mitigated against certain 
+systemic risks on Instagram and Facebook. The Commission issued preliminary findings with respect to some of these topics on October 24, 2025 reflecting its preliminary view that we have infringed DSA obligations related to notice and action mechanisms for illegal content reporting, content moderation decision appeals, and data access for researchers. We have an opportunity to respond to the preliminary findings, and would also have an opportunity to appeal a final decision by the Commission. We
+are also responding to regulatory inquiries and litigation related to allegedly deceptive advertising, including but not limited to financial scams and the use of our services to promote deceptive activity, in other parts of the world.
+
+We are also subject to other litigation and government inquiries and investigations relating to advertising on our platform and our alleged role in causing or contributing to various societal harms, including illegal activity with respect to drugs, fraud, deceptive activity, unlawful discrimination, and other harms potentially impacting large numbers of people. We have received additional requests relating to these and other topics including in connection with news outlet reporting regarding 
+these issues in the fourth quarter of 2025.
+
+In addition, we are subject to litigation and other proceedings involving law enforcement and other regulatory agencies, including in particular in Brazil, Russia, and other countries in Europe, in order to ascertain the precise scope of our legal obligations to comply with the requests of those agencies, including our obligation to disclose user information in particular circumstances. A number of such instances have resulted in the assessment of fines and penalties against us. We believe we 
+have multiple legal grounds to satisfy these requests or prevail against associated fines and penalties, and we intend to vigorously defend such fines and penalties.
+
+Indemnifications
+
+In the normal course of business, to facilitate transactions of services and products, we have agreed to indemnify certain parties with respect to certain matters. We have agreed to hold certain parties harmless against losses arising from a breach of representations or covenants, or out of intellectual property infringement or other claims made by third parties. These agreements may limit the time within which an indemnification claim can be made and the amount of the claim. In addition, we 
+have entered into indemnification agreements with our officers, directors, and certain employees, and our certificate of incorporation and bylaws contain similar indemnification obligations.
+
+It is not possible to determine the maximum potential amount under these indemnification agreements due to the limited history of prior indemnification claims and the unique facts and circumstances involved in each particular agreement. Historically, payments made by us under these agreements have not had a material impact on our consolidated financial statements. In our opinion, as of December 31, 2025, there was not a reasonable possibility we had incurred a material loss with respect to 
+indemnification of such parties. Liabilities recorded for costs related to indemnification through December 31, 2025 were not material.
+
+
+Note 12. Stockholders' Equity
+
+Common Stock
+
+Our certificate of incorporation authorizes the issuance of Class A common stock and Class B common stock. As of December 31, 2025, we are authorized to issue 5,000 4,141 0.000006 one ten 2,187 343
+
+Capital Return Program
+
+Share Repurchase
+
+Our board of directors has authorized a share repurchase program of our Class A common stock, which commenced in January 2017 and does not have an expiration date. As of December 31, 2024, $ 51.28 40 26.26 25.03
+
+The timing and actual number of shares repurchased under the repurchase program depend on a variety of factors, including price, general business and market conditions, and other investment opportunities. Shares may be repurchased through open market purchases or privately negotiated transactions, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Securities Exchange Act of 1934, as amended. Our share repurchase program may be suspended, delayed, 
+discontinued, or accelerated at any time.
+
+Dividend
+
+The following table summarizes our dividends activities for the periods presented (in millions, except per share amounts):
+
+  Record Date             Payment Date            Dividend Per Share      Class A                      
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────
+  2025                                                                                                 
+  March 14, 2025          March 26, 2025                      $0.525       $1,145      180      1,325  
+  June 16, 2025           June 26, 2025                       $0.525       $1,142      180      1,322  
+  September 22, 2025      September 29, 2025                  $0.525       $1,143      180      1,323  
+  December 15, 2025       December 23, 2025                   $0.525       $1,148      180      1,328  
+  2024                                                                                                 
+  February 22, 2024       March 26, 2024                       $0.50       $1,099      174      1,273  
+  June 14, 2024           June 26, 2024                        $0.50       $1,093      173      1,266  
+  September 16, 2024      September 26, 2024                   $0.50       $1,090      172      1,262  
+  December 16, 2024       December 27, 2024                    $0.50       $1,095      172      1,267  
+
+Beginning in the first quarter of 2025, our board of directors increased the cash dividend by 5 0.525
+
+Subject to legally available funds and future declaration by our board of directors, we currently intend to continue to pay a quarterly cash dividend on our outstanding common stock. The declaration and payment of future dividends is at the sole
+
+
+discretion of our board of directors after taking into account various factors, including our financial condition, operating results, available cash, and current and anticipated cash needs.
+
+Share-based Compensation Plan
+
+Our board of directors and stockholders approved our 2025 Equity Incentive Plan (2025 Plan), effective as of May 28, 2025, which serves as the successor to our 2012 Equity Incentive Plan (2012 Plan) and provides for the issuance of RSUs, incentive and nonqualified stock options, restricted stock awards, stock appreciation rights, performance shares, and stock bonuses to qualified employees, directors, and consultants. No new awards will be issued under the 2012 Plan as of the effective date of 
+the 2025 Plan. Outstanding awards under the 2012 Plan continue to be subject to the terms and conditions of the 2012 Plan. Shares that are withheld in connection with the net settlement of RSUs granted under the 2012 Plan and 2025 Plan, as well as forfeited shares underlying RSUs that were granted under the 2012 Plan and 2025 Plan, are added to the reserves of the 2025 Plan.
+
+As of December 31, 2025, there were 454 2.5 55
+
+The following table summarizes our share-based compensation expense, which consists of the RSU expense, by line item in our consolidated statements of income (in millions):
+
+                                  Year Ended December 31,                                                          
+                                  2025                                     2024                  2023              
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Cost of revenue                 $                             1,124      $          1,055      $            740  
+  Research and development                                     17,485                13,683                11,429  
+  Marketing and sales             926                                                 1,026      952               
+  General and administrative      892                                      926                   906               
+  Total                           $                            20,427      $         16,690      $         14,027  
+
+The following table summarizes the activities for our unvested RSUs for the year ended December 31, 2025:
+
+                                     Number of Shares                     Weighted-Average Grant Date Fair Value Per Share  
+                                     (in thousands)                                                                         
+  Unvested at December 31, 2024                              122,632                                               $302.27  
+  Granted                                                     69,666                                               $661.57  
+  Vested                                                   ( 61,906)                                               $317.68  
+  Forfeited                                                ( 14,840)                                               $379.82  
+  Unvested at December 31, 2025                              115,552                                               $500.68  
+
+The fair value as of the respective vesting dates of RSUs that vested during the years ended December 31, 2025, 2024, and 2023 was $ 43.11 33.14 17.46 9.33 6.95 3.65
+
+As of December 31, 2025, unrecognized share-based compensation expense related to RSU awards was $ 54.81 three years
+
+
+Note 13. Interest and Other Income, Net
+
+The following table presents the detail of interest and other income, net (in millions):
+
+                                                     Year Ended December 31,                                                           
+                                                     2025                                    2024                   2023               
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Interest income                                    $                            2,123      $           2,517      $           1,639  
+  Interest expense                                   ( 1,165)                                ( 715)                 ( 446)             
+  Foreign currency exchange gains (losses), net      352                                     ( 690)                 ( 366)             
+  Other income (expense), net                                                     1,346      171                    ( 150)             
+  Total interest and other income, net               $                            2,656      $           1,283      $             677  
+
+Note 14. Income Taxes
+
+The components of income before provision for income taxes are as follows (in millions):
+
+                                                Year Ended December 31,                                                          
+                                                2025                                     2024                  2023              
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Domestic                                      $                            79,644      $         66,342      $         43,499  
+  Foreign                                                                     6,288                 4,321                 3,929  
+  Income before provision for income taxes      $                            85,932      $         70,663      $         47,428  
+
+The provision for income taxes consists of the following (in millions):
+
+Year Ended December 31,
+2025 2024 2023
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Current:
+Federal $ 2,820 $ 9,569 $ 4,934
+State 745 775 577
+Foreign 3,154 2,696 2,688
+Total current tax expense 6,719 13,040 8,199
+Deferred:
+Federal 18,379 ( 4,709) 67
+State 395 ( 43) 123
+Foreign ( 19) 15 ( 59)
+Total deferred tax (benefits) expense 18,755 ( 4,737) 131
+Provision for income taxes $ 25,474 $ 8,303 $ 8,330
+
+As a result of the implementation of the One Big Beautiful Bill Act (OBBBA) enacted in July 2025, we expect to incur Corporate Alternative Minimum Tax (CAMT) beginning in 2025. We recorded a $ 15.93 14.03
+
+
+Beginning in 2025 annual reporting, we adopted ASU 2023-09 prospectively. See Note 1 - Summary of Significant Accounting Policies - Recently Adopted Accounting Pronouncements for additional details on the adoption of ASU 2023-09. A reconciliation of the U. S. federal statutory income tax rate to our effective tax rate pursuant to the disclosure requirements of ASU 2023-09 for the year ended December 31, 2025 is as follows (in millions, except percentages):
+
+                                                                          Year Ended December 31, 2025                          
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  U. S. federal statutory income tax rate                                                            $      18,046        21.0  
+  State and local income taxes, net of federal income tax effect (1)                            ( 202)                  ( 0.2)  
+  Foreign tax effects                                                                                        1,464         1.7  
+  Tax credits                                                                                                                   
+  Research and development tax credits                                                        ( 3,912)                  ( 4.6)  
+  U. S. foreign tax credits                                                                   ( 1,405)                  ( 1.6)  
+  Valuation allowances (2)                                                                                  11,974        13.9  
+  Changes in unrecognized tax benefits (3)                                                                   3,127         3.6  
+  Other adjustments                                                                                                             
+  Excess tax benefits from share-based compensation                                           ( 4,307)                  ( 5.0)  
+  Other (4)                                                                                        689                     0.8  
+  Effective tax rate                                                                                 $      25,474        29.6  
+
+_________________________
+
+(1) California represents the majority of the tax effect in this category.
+
+(2) Primarily related to the implementation of OBBBA.
+
+(3) Changes in unrecognized tax benefits on an aggregated basis for all jurisdictions.
+
+(4) Includes the tax effects of enactment of new tax laws (excluding implementation of OBBBA reflected in valuation allowances), effect of cross-border tax laws, and nontaxable or nondeductible items.
+
+A reconciliation of the U. S. federal statutory income tax rates to our effective tax rate for the years ended December 31, 2024 and 2023 is as follows (in percentages):
+
+                                                     2024        2023  
+ ───────────────────────────────────────────────────────────────────────
+  U. S. federal statutory income tax rate            21.0        21.0  
+  State income taxes, net of federal benefit          0.7         1.1  
+  Share-based compensation                         ( 3.7)      ( 0.6)  
+  Research and development tax credits             ( 2.9)      ( 1.5)  
+  Foreign-derived intangible income deduction      ( 4.9)      ( 4.3)  
+  Effect of non-U. S. operations                      0.2         0.9  
+  Other                                               1.4         1.0  
+  Effective tax rate                                 11.8        17.6  
+
+
+Cash paid for income taxes, net of refunds received, by jurisdiction pursuant to the disclosure requirements of ASU 2023-09 for the year ended December 31, 2025 is as follows (in millions):
+
+                                                           Year Ended December 31, 2025             
+ ────────────────────────────────────────────────────────────────────────────────────────────────────
+  Federal                                                  $                                 4,118  
+  State                                                    331                                      
+  Foreign                                                                                           
+  Brazil                                                   884                                      
+  India                                                    652                                      
+  Ireland                                                  567                                      
+  Other                                                                                      1,026  
+  Cash paid for income taxes, net of refunds received      $                                 7,578  
+
+Our deferred tax assets (liabilities) are as follows (in millions):
+
+                                                       December 31,                                              
+                                                               2025                     2024                     
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Deferred tax assets:                                                                                           
+  Loss carryforwards                                              $          4,432      $                   289  
+  Tax credit carryforwards                                                  10,506                        2,771  
+  Share-based compensation                                      706                     520                      
+  Accrued expenses and other liabilities                                     2,741                        2,223  
+  Lease liabilities                                                          5,150                        3,940  
+  Capitalized research and development                                       4,138                       16,743  
+  Unrealized losses in securities and investments               143                     115                      
+  Other                                                         274                     442                      
+  Total deferred tax assets                                                 28,090                       27,043  
+  Less: valuation allowance                                              ( 15,895)      ( 3,506)                 
+  Deferred tax assets, net of valuation allowance                           12,195                       23,537  
+  Deferred tax liabilities:                                                                                      
+  Depreciation and amortization                                          ( 15,901)                    ( 10,959)  
+  Right-of-use assets                                      ( 4,453)                     ( 3,000)                 
+  Unrealized gains in securities and investments             ( 621)                     —                        
+  Other                                                      ( 387)                     —                        
+  Total deferred tax liabilities                                         ( 21,362)                    ( 13,959)  
+  Net deferred tax assets (liabilities)                           $       ( 9,167)      $                 9,578  
+
+The valuation allowance was approximately $ 15.90 3.51
+
+As of December 31, 2025, our U. S. federal net operating loss carryforwards were $ 16.35 3.79 7.85 6.80
+
+
+Utilization of our net operating loss and tax credit carryforwards may be subject to substantial annual limitations due to the ownership change limitations provided by the Internal Revenue Code and similar state provisions. Such annual limitations could result in the expiration of the net operating loss and tax credit carryforwards before their utilization. The events that may cause ownership changes include, but are not limited to, a cumulative stock ownership change of greater than 50 
+three‑year
+
+We have not accrued taxes related to the outside basis difference in the contributed capital of our foreign subsidiaries, as we currently intend to indefinitely reinvest that capital. The determination of the amount of the deferred tax liability is not practicable.
+
+The following table reflects changes in the gross unrecognized tax benefits (in millions):
+
+                                                                    Year Ended December 31,                                                             
+                                                                                       2025                   2024                    2023              
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Gross unrecognized tax benefits ‑ beginning of period                                   $      15,131          $      11,666           $      10,757  
+  Increases related to prior year tax positions                                         900                    685                     168              
+  Decreases related to prior year tax positions                                    ( 1,131)                   ( 6)                  ( 263)              
+  Increases related to current year tax positions                                                 2,863                  2,882                   1,204  
+  Decreases related to settlements of prior year tax positions                     ( 1,264)                   ( 9)                  ( 199)              
+  Decreases related to lapses of statute of limitations                               ( 49)                  ( 87)                    ( 1)              
+  Gross unrecognized tax benefits ‑ end of period                                         $      16,450          $      15,131           $      11,666  
+
+These unrecognized tax benefits were primarily accrued for the uncertainties with our research tax credits and transfer pricing with our foreign subsidiaries, which include licensing of intellectual property, providing services and other transactions. During all years presented, we recognized interest and penalties related to unrecognized tax benefits within the provision for income taxes on our consolidated statements of income. The amount of interest and penalties accrued as of December 31, 
+2025, 2024, and 2023 were $ 2.60 2.21 1.48
+
+If our gross unrecognized tax benefits of $ 16.45 11.25
+
+Our long-term income tax liabilities include $ 11.23 9.78
+
+We are subject to taxation in the United States and various other state and foreign jurisdictions. The material jurisdictions in which we are subject to potential examination include the United States and Ireland. Our 2014 through 2016 tax years are with the Internal Revenue Service (IRS) Independent Office of Appeals for certain unresolved issues. Our 2020 and subsequent tax years remain open to examination by the IRS. Our 2021 and subsequent tax years remain open to examination by the Irish 
+Revenue Commissioners.
+
+Facebook, Inc. v. Comm'r of Internal Revenue
+
+In July 2016, we received a Statutory Notice of Deficiency (Notice) from the IRS related to transfer pricing with our foreign subsidiaries in conjunction with the examination of the 2010 tax year. While the Notice applies only to the 2010 tax year, the IRS stated that it will also apply its position for tax years subsequent to 2010 and has done so in years covered by the second Notice described below. We did not agree with the position of the IRS and filed a petition in the Tax Court challenging
+the Notice (Facebook, Inc. v. Comm'r of Internal Revenue(2010 tax year)). On January 15, 2020, the IRS' amendment to answer was filed stating that it planned to assert at trial an adjustment that is higher than the adjustment stated in the Notice. The first session of the trial was completed in March 2020 and the final trial session was completed in August 2022.
+
+In March 2018, we received a second Notice ("2011-2013 Notice") from the IRS in conjunction with the examination of our 2011 through 2013 tax years. The IRS applied its position from the 2010 tax year to each of these years and also
+
+
+proposed new adjustments related to other transfer pricing with our foreign subsidiaries and certain tax credits that we claimed. We do not agree with the positions of the IRS in the second Notice and have filed a petition in the Tax Court challenging the second Notice (Facebook, Inc. v. Comm'r of Internal Revenue(2011-2013 tax years)).
+
+On May 22, 2025, the Tax Court issued its opinion inFacebook, Inc. v. Comm'r of Internal Revenue(2010 tax year). The Tax Court opinion provided a value of $ 7.79 1.48
+
+In September 2025, we received a Statutory Notice of Deficiency ("2017-2019 Notice") from the IRS, asserting an additional $ 15.89
+
+We believe that adequate amounts have been reserved in accordance with ASC 740 for any adjustments to the provision for income taxes or other tax items that may ultimately result from these examinations. We have a number of years remaining that are subject to examination, of which the timing of the resolution, settlement, and closure of any audits is highly uncertain. If the tax authorities prevail in the assessment of additional tax due, the assessed tax, interest, and penalties, if any, could 
+have a material adverse impact on our financial position, results of operations, and cash flows.
+
+
+Note 15. Segment and Geographical Information
+
+We report our financial results for our two
+
+Our chief executive officer is our chief operating decision maker (CODM). Our CODM uses consolidated and operating segment's revenue and income (loss) from operations to allocate resources during our annual planning process and to assess performance. Our CODM does not evaluate operating segments using asset or liability information.
+
+Revenue and costs and expenses are generally directly attributed to our segments. These directly attributable costs and expenses include certain product development related operating expenses, costs associated with partnership arrangements, consumer hardware product costs, content costs, and legal-related costs. Indirect costs are allocated to segments based on a reasonable allocation methodology, when such costs are significant to the performance measures of the operating segments. Indirect 
+operating expenses, such as facilities, information technology, certain shared research and development activities, recruiting, and physical security expenses are mostly allocated based on headcount. Costs related to the operation of our data centers and technical infrastructure are generally allocated to our segments based on estimated usage, most of which is allocated to the FoA segment.
+
+The following table sets forth our segment information of revenue, expenses, and income (loss) from operations (in millions):
+
+                                    Year Ended December 31,                                                                           
+                                    2025                                        2024                         2023                     
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Family of Apps:                                                                                                                     
+  Revenue                           $                              198,759      $               162,355      $               133,006  
+  Employee compensation (1)                                      ( 39,943)                    ( 31,116)                    ( 28,878)  
+  Other costs and expenses (2)                                   ( 56,347)                    ( 44,130)                    ( 41,257)  
+  Income from operations            $                              102,469      $                87,109      $                62,871  
+  Reality Labs:                                                                                                                       
+  Revenue                           $                                2,207      $                 2,146      $                 1,896  
+  Employee compensation (1)                                      ( 10,759)                    ( 10,211)      ( 8,942)                 
+  Other costs and expenses (3)                                   ( 10,641)      ( 9,664)                     ( 9,074)                 
+  Loss from operations              $                            ( 19,193)      $             ( 17,729)      $             ( 16,120)  
+  Total:                                                                                                                              
+  Revenue                           $                              200,966      $               164,501      $               134,902  
+  Employee compensation (1)                                      ( 50,702)                    ( 41,327)                    ( 37,820)  
+  Other costs and expenses                                       ( 66,988)                    ( 53,794)                    ( 50,331)  
+  Income from operations            $                               83,276      $                69,380      $                46,751  
+
+____________________________________
+
+(1) Employee compensation includes employee payroll, share-based compensation, bonus, and employee benefits for medical care, retirement, insurances and other.
+
+(2) Includes costs and expenses in FoA segment for infrastructure, professional services, partner arrangements, marketing, facilities, legal-related costs, and other expenses.
+
+(3) Includes costs and expenses in RL segment for inventory, professional services, marketing, infrastructure, facilities, and other expenses.
+
+
+The following table sets forth our long-lived assets by geographic area, which consist of property and equipment, net and operating lease right-of-use assets (in millions):
+
+                               December 31,                                      
+                               2025                           2024               
+ ─────────────────────────────────────────────────────────────────────────────────
+  United States                $                 173,390      $         117,478  
+  Rest of the world (1)                           23,414                 18,790  
+  Total long-lived assets      $                 196,804      $         136,268  
+
+_________________________
+
+(1) No individual country, other than disclosed above, exceeded 10% of our total long-lived assets for any period presented.
+
+For information regarding revenue disaggregated by geography, see Note 2 - Revenue.
+
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+
+None.
+
+Item 9A. Controls and Procedures
+
+Evaluation of Disclosure Controls and Procedures
+
+Our management, with the participation of our chief executive officer (CEO) and chief financial officer (CFO), has evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a- 15(e) and 15d- 15(e) under the Securities Exchange Act of 1934, as amended (Exchange Act)), as of the end of the period covered by this Annual Report on Form 10-K. Based on such evaluation, our CEO and CFO have concluded that as of December 31, 2025, our disclosure controls and procedures
+are designed at a reasonable assurance level and are effective to provide reasonable assurance that information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the rules and forms of the Securities and Exchange Commission, and that such information is accumulated and communicated to our management, including our CEO and CFO, as appropriate, to allow timely decisions 
+regarding required disclosure.
+
+Management's Report on Internal Control over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act). Management conducted an assessment of the effectiveness of our internal control over financial reporting based on the criteria set forth in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework). Based on the assessment, management has concluded that
+its internal control over financial reporting was effective as of December 31, 2025 to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with U. S. GAAP. Our independent registered public accounting firm, Ernst & Young LLP, has issued an audit report with respect to our internal control over financial reporting, which appears in Part II, Item 8 of this Annual Report on Form 10-K.
+
+Changes in Internal Control
+
+There were no changes in our internal control over financial reporting identified in management's evaluation pursuant to Rules 13a-15(d) or 15d-15(d) of the Exchange Act during the fourth quarter of 2025 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+
+Limitations on Effectiveness of Controls and Procedures and Internal Control over Financial Reporting
+
+In designing and evaluating the disclosure controls and procedures and internal control over financial reporting, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures and internal control over financial reporting must reflect the fact that there are resource constraints and that management is required to 
+apply judgment in evaluating the benefits of possible controls and procedures relative to their costs.
+
+Item 9B. Other Information
+
+Rule 10b5-1 Trading Plans
+
+During the quarter ended December 31, 2025, the officers and directors listed below adopted terminated
+
+On November 17, 2025 Javier Olivan Chief Operating Officer entered into a trading plan 43,333
+
+
+Olivan and his affiliated entities. The plan will terminate on February 20, 2027
+
+On November 25, 2025 Peggy Alford member of our board of directors entered into a trading plan November 15, 2026
+
+On November 25, 2025 Susan Li Chief Financial Officer entered into a trading plan 112,273 November 24, 2026
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+
+Not Applicable.
+
+PART III
+
+Item 10. Directors, Executive Officers and Corporate Governance
+
+The information required by this item is incorporated by reference to our Proxy Statement for the 2026 Annual Meeting of Stockholders to be filed with the SEC within 120 days of the fiscal year ended December 31, 2025.
+
+Our board of directors has adopted codes of conduct applicable to all officers, directors, and employees, which are available on our website (investor. atmeta. com) under "Leadership & Governance." We intend to satisfy the disclosure requirement under Item 5.05 of Form 8-K regarding amendment to, or waiver from, a provision of our code of conduct by posting such information on the website address and location specified above.
+
+We have adopted
+
+Item 11. Executive Compensation
+
+The information required by this item is incorporated by reference to our Proxy Statement for the 2026 Annual Meeting of Stockholders to be filed with the SEC within 120 days of the fiscal year ended December 31, 2025.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+The information required by this item is incorporated by reference to our Proxy Statement for the 2026 Annual Meeting of Stockholders to be filed with the SEC within 120 days of the fiscal year ended December 31, 2025.
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+The information required by this item is incorporated by reference to our Proxy Statement for the 2026 Annual Meeting of Stockholders to be filed with the SEC within 120 days of the fiscal year ended December 31, 2025.
+
+Item 14. Principal Accountant Fees and Services
+
+The information required by this item is incorporated by reference to our Proxy Statement for the 2026 Annual Meeting of Stockholders to be filed with the SEC within 120 days of the fiscal year ended December 31, 2025.
+
+
+PART IV
+
+Item 15. Exhibit and Financial Statement Schedules
+
+We have filed the following documents as part of this Form 10-K:
+
+1. Consolidated Financial Statements:
+
+                                                                                  Page  
+  Reports of Independent Registered Public Accounting Firm (PCAOB ID No. 42)        83  
+  Consolidated Balance Sheets                                                       88  
+  Consolidated Statements of Income                                                 89  
+  Consolidated Statements of Comprehensive Income                                   90  
+  Consolidated Statements of Stockholders' Equity                                   91  
+  Consolidated Statements of Cash Flows                                             92  
+  Notes to Consolidated Financial Statements                                        94  
+
+2. Financial Statement Schedules
+
+All schedules have been omitted because they are not required, not applicable, not present in amounts sufficient to require submission of the schedule, or the required information is otherwise included.
+
+3. Exhibits
+
+  Exhibit                                                                                                                                                                         Incorporated by Reference                                                      
+   Number      Exhibit Description                                                                                                                                                Form                           File No.       Exhibit      Filing Date         
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+      3.1      Amended and Restated Certificate of Incorporation (including all amendments thereto).                                                                              10-Q                           001-35551          3.1      August 1, 2024      
+      3.2      Amended and Restated Bylaws.                                                                                                                                       8-K                            001-35551          3.1      September 10, 2024  
+      4.1      Form of Class A Common Stock Certificate.                                                                                                                          10-K                           001-35551          4.1      February 3, 2022    
+      4.2      Form of Class B Common Stock Certificate.                                                                                                                          10-K                           001-35551          4.2      February 3, 2022    
+      4.3      Indenture, dated as of August 9, 2022, between Meta Platforms, Inc. and U. S. Bank Trust Company, National Association, as trustee.                                8-K                            001-35551          4.1      August 9, 2022      
+      4.4      First Supplemental Indenture, dated as of August 9, 2022, between Meta Platforms, Inc. and U. S. Bank Trust Company, National Association, as trustee.             8-K                            001-35551          4.2      August 9, 2022      
+      4.5      Second Supplemental Indenture, dated as of May 3, 2023, by and between Meta Platforms, Inc. and U. S. Bank Trust Company, National Association, as trustee.        8-K                            001-35551          4.1      May 3, 2023         
+      4.6      Third Supplemental Indenture, dated as of August 9, 2024, by and between Meta Platforms, Inc. and U. S. Bank Trust Company, National Association, as trustee.      8-K                            001-35551          4.1      August 9, 2024      
+
+
+  Exhibit                                                                                                                                                                             Incorporated by Reference                                                     
+  Number        Exhibit Description                                                                                                                                                   Form                           File No.        Exhibit      Filing Date       
+  10.2(A)+      2012 Equity Incentive Plan, as amended.                                                                                                                               10-K                           001-35551       10.2(A)      February 2, 2023  
+  10.2(B)+      Third Amendment to the 2012 Equity Incentive Plan.                                                                                                                    10-K                           001-35551       10.2(B)      February 2, 2023  
+  10.2(C)+      Fourth Amendment to the 2012 Equity Incentive Plan.                                                                                                                   10-Q                           001-35551          10.1      August 1, 2024    
+  10.2(D)+      2012 Equity Incentive Plan forms of award agreements.                                                                                                                 10-Q                           001-35551          10.2      April 30, 2020    
+  10.2(E)+      2012 Equity Incentive Plan forms of award agreements (Additional Forms).                                                                                              10-Q                           001-35551          10.2      July 29, 2021     
+  10.2(F)+      2012 Equity Incentive Plan forms of award agreements (Additional Forms).                                                                                              10-Q                           001-35551          10.3      April 28, 2022    
+  10.2(G)+      2012 Equity Incentive Plan forms of award agreements (Additional Forms).                                                                                              10-Q                           001-35551          10.1      April 27, 2023    
+  10.2(H)+      2012 Equity Incentive Plan forms of award agreements (Additional Forms).                                                                                              10-Q                           001-35551          10.2      April 25, 2024    
+  10.4+         Amended and Restated Bonus Plan, effective January 1, 202 6.                                                                                                                                                                                        
+  10.6+         Offer Letter, dated June 5, 2020, between Registrant and Christopher K. Cox.                                                                                          10-Q                           001-35551          10.1      April 29, 2021    
+  10.7+         Offer Letter, dated December 22, 2022, between Registrant and Javier Olivan.                                                                                          10-K                           001-35551          10.8      February 2, 2023  
+  10.8+         Offer Letter, dated March 14, 2022, between Registrant and Andrew Bosworth.                                                                                           10-Q                           001-35551          10.3      April 27, 2023    
+  10.9+         Offer Letter, dated November 1, 2022, between Registrant and Susan Li.                                                                                                10-Q                           001-35551          10.4      April 27, 2023    
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  4.7           Fourth Supplemental Indenture, dated as of November 3, 2025, by and between Meta Platforms, Inc. and U. S. Bank Trust Company, National Association, as trustee.      8-K                            001-35551           4.1      November 3, 2025  
+  4.8           Description of Registrant's Capital Stock.                                                                                                                            10-K                           001-35551           4.6      February 2, 2024  
+  10.1+         Form of Indemnification Agreement.                                                                                                                                    8-K                            001-35551          10.1      April 15, 2019    
+  10.2(I)+      2025 Equity Incentive Plan.                                                                                                                                           10-Q                           001-35551          10.1      July 31, 2025     
+  10.2(J)+      2025 Equity Incentive Plan forms of award agreements.                                                                                                                 10-Q                           001-35551          10.2      July 31, 2025     
+  10.3+         Amended and Restated Bonus Plan, effective January 1, 2025.                                                                                                           10-Q                           001-35551          10.1      May 1, 2025       
+  10.5+         Amended and Restated Offer Letter, dated January 27, 2012, between Registrant and Mark Zuckerberg.                                                                    S-1                            333-179287         10.6      February 8, 2012  
+  10.10+        Form of Executive Officer Offer Letter.                                                                                                                               10-Q                           001-35551          10.3      July 25, 2019     
+  10.11+        Director Compensation Policy, as amended.                                                                                                                             10-Q                           001-35551          10.3      July 31, 2025     
+  10.12+        Amended and Restated Deferred Compensation Plan for Non-Employee Directors.                                                                                           10-Q                           001-35551          10.4      July 31, 2025     
+  10.13+        Indemnification Agreement Relating to Subsidiary Operations, dated March 14, 2021, between Registrant and Mark Zuckerberg.                                            10-Q                           001-35551          10.2      April 29, 2021    
+  10.14+*       Aircraft Time Sharing Agreement, dated March 27, 2024, between Registrant and Mark Zuckerberg.                                                                        10-Q                           001-35551          10.1      April 25, 2024    
+
+
+  Exhibit                                                                                                                                                                                   Incorporated by Reference                                                        Filed     
+                                                                                                                                                                                                                                                                             Herewith  
+  Number        Exhibit Description                                                                                                                                                         Form                           File No.       Exhibit      Filing Date                     
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  10.15+*       Form of Director Aircraft Time Sharing Agreement.                                                                                                                           10-Q                           001-35551         10.1      October 31, 2024                
+  19.1          Insider Trading Policy.                                                                                                                                                     10-K                           001-35551         19.1      January 30, 2025                
+  19.2          10b5-1 Trading Plan Policy.                                                                                                                                                 10-K                           001-35551         19.2      January 30, 2025                
+  21.1          List of Subsidiaries.                                                                                                                                                                                                                                        X         
+  23.1          Consent of Independent Registered Public Accounting Firm.                                                                                                                                                                                                    X         
+  31.1          Certification of Mark Zuckerberg, Chief Executive Officer, pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.                                                                                       X         
+  31.2          Certification of Susan Li, Chief Financial Officer, pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.                                                                                              X         
+  32.1#         Certification of Mark Zuckerberg, Chief Executive Officer, pursuant to 18 U. S. C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.                                                                                       X         
+  32.2#         Certification of Susan Li, Chief Financial Officer, pursuant to 18 U. S. C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.                                                                                              X         
+  97.1          Compensation Recoupment Policy.                                                                                                                                             10-K                           001-35551         97.1      February 2, 2024                
+  101. INS      Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document).                                                                                       X         
+  101. SCH      Inline XBRL Taxonomy Extension Schema Document.                                                                                                                                                                                                              X         
+  101. CAL      Inline XBRL Taxonomy Extension Calculation Linkbase Document.                                                                                                                                                                                                X         
+  101. DEF      Inline XBRL Taxonomy Extension Definition Linkbase Document.                                                                                                                                                                                                 X         
+  101. LAB      Inline XBRL Taxonomy Extension Labels Linkbase Document.                                                                                                                                                                                                     X         
+  101. PRE      Inline XBRL Taxonomy Extension Presentation Linkbase Document.                                                                                                                                                                                               X         
+  104           Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101).                                                                                                                                                                    X         
+
++ Indicates a management contract or compensatory plan.
+
+* Certain portions of this exhibit have been omitted pursuant to Item 601(b)(10) of Regulation S-K.
+
+# This certification is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (Exchange Act), or otherwise subject to the liability of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act.
+
+Item 16. Form 10-K Summary
+
+None.
+
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this Annual Report on Form 10-K to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of Menlo Park, State of California, on this 28th day of January 2026.
+
+  META PLATFORMS, INC.     
+  /s/ Susan Li             
+  Susan Li                 
+  Chief Financial Officer  
+
+
+POWER OF ATTORNEY
+
+KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature appears below constitutes and appoints Susan Li and Katherine R. Kelly, and each of them, as his or her true and lawful attorneys-in-fact and agents, with full power of substitution and resubstitution, for him or her and in his or her name, place and stead, in any and all capacities, to sign any and all amendments to this Annual Report on Form 10-K, and to file the same, with all exhibits thereto, and other documents in 
+connection therewith, with the Securities and Exchange Commission, granting unto said attorneys-in-fact and agents, and each of them, full power and authority to do and perform each and every act and thing requisite and necessary to be done in connection therewith, as fully to all intents and purposes as he or she might or could do in person, hereby ratifying and confirming that all said attorneys-in-fact and agents, or any of them or their or his or her substitute or substitutes, may lawfully 
+do or cause to be done by virtue hereof.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this Annual Report on Form 10-K has been signed by the following persons on behalf of the registrant and in the capacities and on the dates indicated:
+
+  Signature                   Title                                     Date              
+  /s/ Mark Zuckerberg         Chairman and Chief Executive Officer      January 28, 2026  
+                              (Principal Executive Officer)                               
+ ──────────────────────────────────────────────────────────────────────────────────────────
+  Mark Zuckerberg                                                                         
+  /s/ Susan Li                Chief Financial Officer                   January 28, 2026  
+  Susan Li                                                                                
+  / S / Aaron Anderson        Chief Accounting Officer                  January 28, 2026  
+  Aaron Anderson                                                                          
+  /s/ Peggy Alford            Director                                  January 28, 2026  
+  Peggy Alford                                                                            
+  /s/ Marc L. Andreessen      Director                                  January 28, 2026  
+  Marc L. Andreessen                                                                      
+  /s/ John Arnold             Director                                  January 28, 2026  
+  John Arnold                                                                             
+  /s/ Patrick Collison        Director                                  January 28, 2026  
+  Patrick Collison                                                                        
+  /s/ John Elkann             Director                                  January 28, 2026  
+  John Elkann                                                                             
+  /s/ Andrew W. Houston       Director                                  January 28, 2026  
+  Andrew W. Houston                                                                       
+  /s/ Nancy Killefer          Director                                  January 28, 2026  
+  Nancy Killefer                                                                          
+  /s/ Robert M. Kimmitt       Director                                  January 28, 2026  
+  Robert M. Kimmitt                                                                       
+  /s/ Charles Songhurst       Director                                  January 28, 2026  
+  Charles Songhurst                                                                       
+
+
+  Signature                 Title         Date              
+  /s/ Hock E. Tan           Director      January 28, 2026  
+ ────────────────────────────────────────────────────────────
+  Hock E. Tan                                               
+  /s/ Tracey T. Travis      Director      January 28, 2026  
+  Tracey T. Travis                                          
+  /s/ Dana White            Director      January 28, 2026  
+  Dana White                                                
+  /s/ Tony Xu               Director      January 28, 2026  
+  Tony Xu

@@ -1,0 +1,25 @@
+{
+  "ticker": "TSLA",
+  "company_name": "Tesla, Inc.",
+  "filing_date": "2026-01-29",
+  "period_of_report": "2025-12-31",
+  "financials": {
+    "total_revenue": 94827000000.0,
+    "cost_of_revenue": 77733000000.0,
+    "gross_profit": 17094000000.0,
+    "operating_income": 4355000000.0,
+    "net_income": 3855000000.0,
+    "eps_diluted": 1.08,
+    "cash_and_equivalents": 16513000000.0,
+    "total_assets": 137806000000.0,
+    "total_liabilities": 54941000000.0,
+    "gross_margin": 0.1803,
+    "operating_margin": 0.0459,
+    "net_margin": 0.0407
+  },
+  "segments": [],
+  "metadata": {
+    "source": "SEC EDGAR XBRL via edgartools",
+    "accession_number": "0001628280-26-003952"
+  }
+}

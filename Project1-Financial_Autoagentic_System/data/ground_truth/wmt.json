@@ -1,0 +1,21 @@
+{
+  "ticker": "WMT",
+  "company_name": "Walmart Inc.",
+  "filing_date": "2026-03-13",
+  "period_of_report": "2026-01-31",
+  "financials": {
+    "total_revenue": 706413000000.0,
+    "cost_of_revenue": 535395000000.0,
+    "operating_income": 29825000000.0,
+    "cash_and_equivalents": 10727000000.0,
+    "total_assets": 284668000000.0,
+    "long_term_debt": 34624000000.0,
+    "stockholders_equity": 105887000000.0,
+    "operating_margin": 0.0422
+  },
+  "segments": [],
+  "metadata": {
+    "source": "SEC EDGAR XBRL via edgartools",
+    "accession_number": "0000104169-26-000055"
+  }
+}

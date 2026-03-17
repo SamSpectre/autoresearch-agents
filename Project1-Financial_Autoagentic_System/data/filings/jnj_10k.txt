@@ -1,0 +1,1067 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D. C. 20549
+
+FORM 10-K
+
+  ANNUAL REPORT PURSUANT TO SECTION 13 OF THE SECURITIES EXCHANGE ACT OF 1934  
+ ───────────────────────────────────────────────────────────────────────────────
+
+For the fiscal year ended December 28, 2025
+
+or
+
+  Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934  
+  for the transition period from to                                                         
+ ────────────────────────────────────────────────────────────────────────────────────────────
+
+Commission file number 1-3215
+
+Johnson & Johnson
+
+(Exact name of registrant as specified in its charter)
+
+  New Jersey                                    22-1024240                              
+  (State of incorporation)                      (I. R. S. Employer Identification No.)  
+  One Johnson & Johnson Plaza                   08933                                   
+  (Address of principal executive offices)      (Zip Code)                              
+
+One Johnson & Johnson Plaza
+
+New Brunswick New Jersey 08933
+
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code: ( 732 524-0400
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE ACT
+
+  Title of each class                 Trading Symbol      Name of each exchange on which registered  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────
+  Common Stock, Par Value $1.00       JNJ                 New York Stock Exchange                    
+  1.150% Notes Due November 2028      JNJ28               New York Stock Exchange                    
+  2.700% Notes Due February 2029      JNJ29B              New York Stock Exchange                    
+  3.20% Notes Due June 2032           JNJ32               New York Stock Exchange                    
+  3.050% Notes Due February 2033      JNJ33B              New York Stock Exchange                    
+  1.650% Notes Due May 2035           JNJ35               New York Stock Exchange                    
+  3.350% Notes Due June 2036          JNJ36A              New York Stock Exchange                    
+  3.350% Notes Due February 2037      JNJ37B              New York Stock Exchange                    
+  3.550% Notes Due June 2044          JNJ44               New York Stock Exchange                    
+  3.600% Notes Due February 2045      JNJ45               New York Stock Exchange                    
+  3.700% Notes Due February 2055      JNJ55               New York Stock Exchange                    
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes þ No o
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes o No þ
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes þ No o
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes þ No o
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+  Large accelerated filer      Accelerated filer          
+  Non-accelerated filer        Smaller reporting company  
+ ──────────────────────────────────────────────────────────
+  Emerging growth company                                 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U. S. C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. Yes ☑ o
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. o
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). o
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes☐ No þ
+
+The aggregate market value of the Common Stock held by non-affiliates computed by reference to the price at which the Common Stock was last sold as of the last business day of the registrant’s most recently completed second fiscal quarter was approximately $ 367
+
+On February 6, 2026, there were 2,409,898,936
+
+DOCUMENTS INCORPORATED BY REFERENCE
+
+  Part III:      Portions of the registrant’s proxy statement for its 2026 annual meeting of shareholders to be filed within 120 days after the close of the registrant’s fiscal year (the “ Proxy Statement”), ar...  
+
+  Item                                                                                                                                       Page  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  P art I                                                                                                                                          
+  1              Business                                                                                                                       1  
+                 General                                                                                                                        1  
+                 Segments of business                                                                                                           1  
+                 Geographic areas                                                                                                               2  
+                 Raw materials                                                                                                                  3  
+                 Patents                                                                                                                        3  
+                 Trademarks                                                                                                                     3  
+                 Seasonality                                                                                                                    3  
+                 Competition                                                                                                                    4  
+                 Environment                                                                                                                    4  
+                 Regulation                                                                                                                     4  
+                 Employees and human capital management                                                                                         6  
+                 Available information                                                                                                          8  
+  1A.            Risk factors                                                                                                                   9  
+  1B.            Unresolved staff comments                                                                                                     17  
+  1C.            Cybersecurity                                                                                                                 17  
+  2              Properties                                                                                                                    18  
+  3              Legal proceedings                                                                                                             18  
+  4              Mine safety disclosures                                                                                                       18  
+                 Executive officers of the registrant                                                                                          19  
+  P art II                                                                                                                                         
+  5              Market for r egistrant’s c ommon e quity, r elated s tockholder m atters and i ssuer p urchases of e quity s ecurities        21  
+  6              (Reserved)                                                                                                                    21  
+  7              Management’s discussion and analysis of results of operations and financial condition                                         22  
+  7A.            Quantitative and qualitative disclosures about market risk                                                                    41  
+  8              Financial statements and supplementary data                                                                                   42  
+  9              Changes in and disagreements with accountants on accounting and financial disclosure                                         114  
+  9A.            Controls and procedures                                                                                                      114  
+  9B.            Other information                                                                                                            114  
+  9C.            Disclosure regarding foreign jurisdictions that prevent inspections                                                          114  
+  P art III                                                                                                                                        
+  10             Directors, executive officers and corporate governance                                                                       115  
+  11             Executive compensation                                                                                                       115  
+  12             Security ownership of certain beneficial owners and management and related stockholder matters                               115  
+  13             Certain relationships and related transactions, and director independence                                                    116  
+  14             Principal accountant fees and services                                                                                       116  
+  P art IV                                                                                                                                         
+  15             Exhibits and financial statement schedules                                                                                   117  
+  16             Form 10-K summary                                                                                                            117  
+                 Signatures                                                                                                                   118  
+                 Exhibit index                                                                                                                120  
+
+Cautionary note regarding forward-looking statements
+
+This Annual Report on Form 10-K and Johnson & Johnson’s other publicly available documents contain “forward-looking statements” within the meaning of the safe harbor provisions of the United States Private Securities Litigation Reform Act of 1995. Management and representatives of Johnson & Johnson and its subsidiaries (the Company) also may from time to time make forward-looking statements. Forward-looking statements do not relate strictly to historical or current facts and reflect management’s
+assumptions, views, plans, objectives and projections about the future. Forward-looking statements may be identified by the use of words such as “plans,” “expects,” “will,” “anticipates,” “estimates” and other words of similar meaning in conjunction with, among other things: discussions of future operations; expected operating results and financial performance; impact of planned acquisitions and dispositions; impact and timing of restructuring initiatives, including associated cost savings and 
+other benefits; the Company’s strategy for growth; product development activities; regulatory approvals; market position and expenditures.
+
+Because forward-looking statements are based on current beliefs, expectations and assumptions regarding future events, they are subject to uncertainties, risks and changes that are difficult to predict and many of which are outside of the Company’s control. Investors should realize that if underlying assumptions prove inaccurate, or known or unknown risks or uncertainties materialize, the Company’s actual results and financial condition could vary materially from expectations and projections 
+expressed or implied in its forward-looking statements. Investors are therefore cautioned not to rely on these forward-looking statements. Risks and uncertainties include, but are not limited to:
+
+Risks related to product development, market success and competition
+
+• Challenges and uncertainties inherent in innovation and development of new and improved products and technologies on which the Company’s continued growth and success depend, including uncertainty of clinical outcomes, additional analysis of existing clinical data, obtaining regulatory approvals, health plan coverage and customer access, and initial and continued commercial success;
+
+• Challenges to the Company’s ability to secure and maintain adequate patent and other intellectual property rights for new and existing products and technologies in the United States and other important markets;
+
+• The impact of patent expirations, typically followed by the introduction of competing generic, biosimilar or other products and resulting revenue and market share losses;
+
+• Increasingly aggressive and frequent challenges to the Company’s patents by competitors and others seeking to launch competing generic, biosimilar or other products and increased receptivity of courts, the United States Patent and Trademark Office and other decision makers to such challenges, potentially resulting in loss of market exclusivity and rapid decline in sales for the relevant product sooner than expected;
+
+• Competition in research and development of new and improved products, processes and technologies, which can result in product and process obsolescence;
+
+• Competition to reach agreement with third parties for collaboration, licensing, development and marketing agreements for products and technologies;
+
+•Competition based on cost-effectiveness, product performance, technological advances and patents attained by competitors; and
+
+• Allegations that the Company’s products infringe the patents and other intellectual property rights of third parties, which could adversely affect the Company’s ability to sell the products in question and require the payment of money damages and future royalties.
+
+Risks related to product liability, litigation and regulatory activity
+
+• Product efficacy or safety concerns, whether or not based on scientific evidence, potentially resulting in product withdrawals, recalls, regulatory action on the part of the United States Food and Drug Administration (U. S. FDA) (or international counterparts), declining sales, reputational damage, increased litigation expense and share price impact;
+
+• The impact, including declining sales and reputational damage, of significant litigation or government action adverse to the Company, including product liability claims and allegations related to pharmaceutical marketing practices and contracting strategies;
+
+• The impact of an adverse judgment or settlement and the adequacy of reserves related to legal proceedings, including patent litigation, product liability, personal injury claims, securities class actions, government investigations, employment and other legal proceedings;
+
+• Increased scrutiny of the healthcare industry by government agencies and state attorneys general resulting in investigations and prosecutions, which carry the risk of significant civil and criminal penalties, including, but not limited to, debarment from government business;
+
+• Failure to meet compliance obligations in compliance agreements with governments or government agencies, which could result in significant sanctions;
+
+• Potential changes to applicable laws and regulations affecting United States and international operations, including relating to: approval of new products; licensing and patent rights; sales and promotion of healthcare products; access to, and reimbursement and pricing for, healthcare products and services; environmental protection; and sourcing of raw materials;
+
+• Compliance with local regulations and laws that may restrict the Company’s ability to manufacture or sell its products in relevant markets, including requirements to comply with medical device reporting regulations and other requirements such as the European Union’s Medical Devices Regulation;
+
+• Changes in domestic and international tax laws and regulations, increasing audit scrutiny by tax authorities around the world may cause exposures to additional tax liabilities potentially in excess of existing reserves; and
+
+• The issuance of new or revised accounting standards by the Financial Accounting Standards Board and regulations by the Securities and Exchange Commission.
+
+Risks related to the Company’s strategic initiatives, healthcare market trends and the planned separation of the Company's Orthopaedics Business
+
+• Pricing pressures resulting from trends toward healthcare cost containment, including the continued consolidation among healthcare providers and other market participants, trends toward managed care, the shift toward governments increasingly becoming the primary payors of healthcare expenses, significant new entrants to the healthcare markets seeking to reduce costs and government pressure on companies to voluntarily reduce costs and price increases;
+
+• Restricted spending patterns of individual, institutional and governmental purchasers of healthcare products and services due to economic hardship and budgetary constraints;
+
+• Challenges to the Company’s ability to realize its strategy for growth including through externally sourced innovations, such as development collaborations, strategic acquisitions, licensing and marketing agreements, and the potential heightened costs of any such external arrangements due to competitive pressures;
+
+• The potential that the expected strategic benefits and opportunities from any planned or completed acquisition or divestiture by the Company may not be realized or may take longer to realize than expected;
+
+• The potential that the expected benefits and opportunities related to past and ongoing restructuring actions may not be realized or may take longer to realize than expected;
+
+• The Company’s ability to satisfy the necessary conditions to consummate the planned separation of the Company’s Orthopaedics business on a timely basis or at all;
+
+• The Company’s ability to successfully separate the Company’s Orthopaedics business and realize the anticipated benefits from the planned separation; and
+
+• The structure of the separation transaction and the future operating and financial performance, market position and business strategy for each company.
+
+Risks related to economic conditions, financial markets and operating internationally
+
+• The risks associated with global operations on the Company and its customers and suppliers, including foreign governments in countries in which the Company operates;
+
+• The impact of inflation and fluctuations in interest rates and currency exchange rates and the potential effect of such fluctuations on revenues, expenses and resulting margins;
+
+• Potential changes in export/import and trade laws, regulations and policies of the United States and other countries, including any increased trade restrictions or tariffs and potential drug reimportation legislation, and the impact of such changes on raw material prices, supply chains market volatility and the pace of product development;
+
+• The impact on international operations from financial instability in international economies, sovereign risk, possible imposition of governmental controls and restrictive economic policies, and unstable international governments and legal systems;
+
+• The impact of global public health crises and pandemics;
+
+• Changes to global climate, extreme weather and natural disasters that could affect demand for the Company’s products and services, cause disruptions in manufacturing and distribution networks, alter the availability of goods and services within the supply chain, and affect the overall design and integrity of the Company’s products and operations;
+
+•The impact of global or economic changes or events, including global tensions and war; and
+
+• The impact of armed conflicts and terrorist attacks in the United States and other parts of the world, including social and economic disruptions and instability of financial and other markets.
+
+Risks related to supply chain and operations
+
+• Difficulties and delays in manufacturing, internally, through third-party providers or otherwise within the supply chain, that may lead to voluntary or involuntary business interruptions or shutdowns, product shortages, withdrawals or suspensions of products from the market, and potential regulatory action;
+
+• Interruptions and breaches of the Company’s information technology systems or those of the Company’s vendors, which could result in reputational, competitive, operational or other business harm as well as financial costs and regulatory action;
+
+• Reliance on global supply chains and production and distribution processes that are complex and subject to increasing regulatory requirements that may adversely affect supply, sourcing and pricing of materials used in the Company’s products; and
+
+• The potential that the expected benefits and opportunities related to restructuring actions may not be realized or may take longer to realize than expected, including due to any required approvals from applicable regulatory authorities.
+
+Investors also should carefully read the risk factors described in Item 1A of this Annual Report on Form 10-K for a description of certain risks that could, among other things, cause the Company’s actual results to differ materially from those expressed in its forward-looking statements. Investors should understand that it is not possible to predict or identify all such factors and should not consider the risks described above and in Item 1A to be a complete statement of all potential risks and 
+uncertainties. The Company does not undertake to publicly update any forward-looking statement that may be made from time to time, whether as a result of new information or future events or developments.
+
+Part I
+
+Item 1. Business
+
+General
+
+Johnson & Johnson and its subsidiaries (the Company) have approximately 138,200 employees worldwide engaged in the research and development, manufacture and sale of a broad range of products in the healthcare field. Johnson & Johnson is a holding company, with operating companies conducting business in virtually all countries of the world. The Company’s primary focus is products related to human health and well-being. Johnson & Johnson was incorporated in the State of New Jersey in 1887.
+
+The Chief Operating Decision Maker (CODM) is the Company's Chief Executive Officer (Principal Executive Officer). The Executive Committee is Johnson & Johnson’s senior leadership team responsible for setting the strategy and priorities of the Company and driving accountability at all levels. Within the strategic parameters provided by the Executive Committee, senior management groups at U. S. and international operating companies are each responsible for their own strategic plans and the 
+day-to-day operations of those companies.
+
+Segments of business
+
+The Company is organized into two business segments: Innovative Medicine and MedTech. Additional information required by this item is incorporated herein by reference to the narrative and tabular descriptions of segments and operating results under: Item 7. Management’s discussion and analysis of results of operations and financial condition of this Report; and Note 17 Segments of business and geographic areas of the notes to consolidated financial statements included in Item 8 of this Report.
+
+Innovative Medicine
+
+The Innovative Medicine segment is focused on the following therapeutic areas: Oncology (e. g., prostate cancer, hematologic malignancies, lung cancer and bladder cancer), Immunology (e. g., rheumatoid arthritis, psoriatic arthritis, inflammatory bowel disease and psoriasis), Neuroscience (e. g., mood disorders, neurodegenerative disorders and schizophrenia), Pulmonary Hypertension (e. g., Pulmonary Arterial Hypertension), Infectious Diseases (e. g., HIV/AIDS) and Cardiovascular and Metabolism 
+(e. g., thrombosis, diabetes and macular degeneration). Medicines in this segment are distributed directly to retailers, wholesalers, distributors, hospitals and healthcare professionals for prescription use. Key products in the Innovative Medicine segment include: CARVYKTI (ciltacabtagene autoleucel), a chimeric antigen receptor (CAR)-T-cell therapy for the treatment of patients with relapsed/refractory multiple myeloma; DARZALEX (daratumumab), a treatment for multiple myeloma; DARZALEX FASPRO 
+(daratumumab and hyaluronidase-fihj), a treatment for multiple myeloma and light chain (AL) Amyloidosis; ERLEADA (apalutamide), a next-generation androgen receptor inhibitor for the treatment of patients with prostate cancer; IMBRUVICA (ibrutinib), a treatment for certain B-cell malignancies, or blood cancers and chronic graft versus host disease; RYBREVANT (amivantamab), a fully-human bispecific antibody for adults with EGFR-mutated non-small cell lung cancer and LAZCLUZE (lazertinib), an oral,
+brain-penetrant EGFR tyrosine kinase inhibitor for non-small cell lung cancer; RYBREVANT FASPRO (amivantamab and hyaluronidase-lpuj), a subcutaneous therapy for patients with non-small cell lung cancer; TALVEY (talquetamab-tgvs) a bispecific antibody for adults with relapsed or refractory multiple myeloma who have received at least four prior lines of therapy; TECVAYLI (teclistamab-cqyv), a bispecific antibody for adults with relapsed or refractory multiple myeloma who have received at least 
+four prior lines of therapy; ZYTIGA (abiraterone acetate), a treatment for patients with prostate cancer; REMICADE (infliximab), a treatment for a number of immune-mediated inflammatory diseases; SIMPONI (golimumab), a subcutaneous treatment for adults with moderate to severe rheumatoid arthritis, active psoriatic arthritis, active ankylosing spondylitis and moderately active to severely active ulcerative colitis; SIMPONI ARIA (golimumab), an intravenous treatment for adults with moderate to 
+severe rheumatoid arthritis, active psoriatic arthritis and active ankylosing spondylitis and active polyarticular juvenile idiopathic arthritis (pJIA) in people 2 years of age and older; STELARA (ustekinumab), a treatment for adults and children with moderate to severe plaque psoriasis, for adults with active psoriatic arthritis, for adults with moderately to severely active Crohn's disease and treatment of moderately to severely active
+
+  2025 Annual Report       1  
+
+ulcerative colitis; TREMFYA (guselkumab), a treatment for patients with moderate-to-severe plaque psoriasis, active psoriatic arthritis, moderate-to-severe Crohn’s disease and moderate-to-severe ulcerative colitis; CAPLYTA (lumateperone) is used in adults along with an antidepressant to treat major depressive disorder (MDD), depressive episodes associated with bipolar I or bipolar II disorder (bipolar depression) alone or with lithium or valproate; or to treat schizophrenia; CONCERTA 
+(methylphenidate HCl) extended-release tablets CII, a treatment for attention deficit hyperactivity disorder; INVEGA SUSTENNA/XEPLION (paliperidone palmitate), for the treatment of schizophrenia and schizoaffective disorder in adults; INVEGA TRINZA/TREVICTA (paliperidone palmitate), for the treatment of schizophrenia in patients after they have been adequately treated with INVEGA SUSTENNA for at least four months; SPRAVATO (Esketamine), a nasal spray, used along with an oral antidepressant, to 
+treat adults with treatment-resistant depression (TRD) and depressive symptoms in adults with major depressive disorder (MDD) with suicidal thoughts or actions; EDURANT (rilpivirine), PREZISTA (darunavir) and PREZCOBIX/REZOLSTA (darunavir/cobicistat), antiretroviral medicines for the treatment of human immunodeficiency virus (HIV) in combination with other antiretroviral products and SYMTUZA (darunavir/cobicistat/emtricitabine/tenofovir alafenamide), a once-daily single tablet regimen for the 
+treatment of HIV; OPSUMIT (macitentan)/OPSYNVI (macitentan/tadalafil) as monotherapy or in combination, indicated for the long-term treatment of pulmonary arterial hypertension (PAH); UPTRAVI (selexipag), the only approved oral and intravenous, selective IP receptor agonist targeting a prostacyclin pathway in PAH; XARELTO (rivaroxaban), an oral anticoagulant for the prevention of deep vein thrombosis (DVT), which may lead to pulmonary embolism (PE) in patients undergoing hip or knee replacement 
+surgery, to reduce the risk of stroke and systemic embolism in patients with nonvalvular atrial fibrillation, and for the treatment and reduction of risk of recurrence of DVT and PE to reduce the risk of major cardiovascular events in patients with coronary artery disease (CAD) and peripheral artery disease (PAD), for the treatment and secondary prevention of thromboembolism in pediatric patients, and for thromboprophylaxis in pediatric patients following the Fontan procedure. Many of these 
+medicines were developed in collaboration with strategic partners or are licensed from other companies and maintain active lifecycle development programs.
+
+MedTech
+
+The MedTech segment develops and manufactures a broad portfolio of products used in cardiovascular, orthopaedics, surgery, and vision supporting physicians, hospitals, eye care professionals and healthcare systems across a wide range of acute and elective procedures. These products are designed to address disease states where procedural intervention plays a central role in treatment and patient outcomes. The Cardiovascular portfolio includes electrophysiology products used to diagnose and treat 
+heart rhythm disorders, mechanical circulatory support technologies (Abiomed) used in patients with cardiogenic shock or those undergoing a high-risk percutaneous coronary intervention (PCI), circulatory restoration products (Shockwave) for the treatment of calcified coronary artery disease (CAD) and peripheral artery disease (PAD), and neurovascular care that treats stroke and other conditions. These offerings are primarily delivered through minimally invasive, catheter based approaches and are
+used by interventional cardiologists, electrophysiologists and neurointerventional specialists. The Orthopaedics portfolio includes products and enabling technologies that support joint reconstruction, trauma, spine, sports-related injuries, and others. The Surgery portfolio includes a range of surgical products and enabling technologies for use across open, laparoscopic and robotic surgical procedures. This portfolio includes instrumentation, energy devices, stapling systems, wound closure, 
+biosurgery products, and digital and robotic technologies designed to support procedural consistency and efficiency across multiple surgical specialties. The Surgery portfolio also includes solutions that focus on breast aesthetics and reconstruction (Mentor). These products are used in hospitals and surgical centers worldwide and are supported by ongoing development of surgical techniques and clinical evidence. The Vision portfolio includes contact lenses marketed under the ACUVUE brand, TECNIS
+premium intraocular lenses for cataract surgery, and other products used in cataract and refractive procedures. Vision products are used by eye care professionals and ophthalmic surgeons and span both corrective and surgical vision care. These MedTech products are distributed to wholesalers, hospitals, and retailers and are used predominantly in the professional fields by physicians, nurses, hospitals, eye care professionals, and clinics.
+
+In October 2025, the Company announced its intention to separate its Orthopaedics business. The Company intends to explore multiple paths to effect the planned separation with a targeted completion within 18 to 24 months after the initial announcement.
+
+Geographic areas
+
+The Company conducts business in virtually all countries of the world with the primary focus on products related to human health and well-being. The products made and sold in the international business include many of those described above under Segments of Business - Innovative Medicine and MedTech. However, the principal markets, products and methods of distribution in the international business vary with the country and the culture. The products sold in the international business include 
+those developed in the U. S. and by subsidiaries abroad.
+
+Investments and activities in some countries outside the U. S. are subject to higher risks than comparable U. S. activities because the investment and commercial climate may be influenced by financial instability in international economies, restrictive economic policies and political and legal system uncertainties.
+
+Raw materials
+
+Raw materials essential to the Company's business are generally readily available from multiple sources. Where there are exceptions, the temporary unavailability of those raw materials would not likely have a material adverse effect on the financial results of the Company.
+
+Patents
+
+The Company's subsidiaries have made a practice of obtaining patent protection on their products and processes where possible. They own, or are licensed under, a significant number of patents in the U. S. and other countries relating to their products, product uses, formulations and manufacturing processes. The Company’s subsidiaries face patent challenges from third parties, including challenges seeking to manufacture and market generic and biosimilar versions of the Company's key 
+pharmaceutical products prior to expiration of the applicable patents covering those products. Significant legal proceedings and claims involving the Company's patent and other intellectual property are described in Note 19 Legal proceedings - Intellectual property of the Notes to Consolidated Financial Statements included in Item 8 of this Report.
+
+Sales of the Company’s largest product, collectively DARZALEX (daratumumab) and DARZALEX FASPRO (daratumumab and hyaluronidase-fihj), accounted for approximately 15.0% of the Company's total revenues for fiscal 2025. Genmab A/S owns two patent families related to DARZALEX, and Janssen Biotech, Inc. (a wholly-owned subsidiary of the Company) has an exclusive license to those patent families. Royalty rate ranges from 12% to 20% of total DARZALEX net sales. For the fiscal 2025 and 2024, royalty 
+amounts to Genmab were approximately $2.4 billion and $2.0 billion, respectively. The two patent families both expire in the United States in 2029, and in Europe, compound/use patent protection in select countries extends to 2031/2032. Janssen Biotech, Inc. owns separate patent portfolios related to DARZALEX FASPRO and DARZALEX IV.
+
+Sales of the Company’s second largest product, STELARA (ustekinumab) accounted for approximately 6.5% of the Company's total revenues for fiscal 2025. Third parties have filed biologics license applications with the U. S. FDA, the European Medicines Agency, and other government authorities seeking approval to market biosimilar versions of STELARA around the globe. The Company expects continued launches of biosimilar versions of STELARA globally which will continue to negatively impact the 
+Company’s sales of STELARA.
+
+Sales of the Company’s third largest product, TREMFYA (guselkumab), accounted for approximately 5.5% of the Company's total revenues for fiscal 2025. Janssen Biotech, Inc. owns multiple patent families related to TREMFYA, including a composition patent family projected to expire in the United States in 2031. In addition, Janssen Biotech, Inc. is a party to license agreements related to TREMFYA with an aggregate royalty rate of approximately 5.0% of total TREMFYA net sales payable to third 
+parties.
+
+Trademarks
+
+The Company’s subsidiaries have made a practice of selling their products under trademarks and of obtaining protection for these trademarks by all available means. These trademarks are protected by registration in the U. S. and other countries where such products are marketed.
+
+Seasonality
+
+Worldwide sales do not reflect any significant degree of seasonality; however, spending has typically been heavier in the fourth quarter of each year than in other quarters. This reflects increased spending decisions, principally for advertising and research and development activity.
+
+  2025 Annual Report       3  
+
+Competition
+
+In all of their product lines, the Company's subsidiaries compete with companies both locally and globally. Competition exists in all product lines without regard to the number and size of the competing companies involved. Competition in research, both internally and externally sourced, involving the development and the improvement of new and existing products and processes, is particularly significant. The development of new and innovative products, as well as protecting the underlying 
+intellectual property of the Company’s product portfolio, is important to the Company's success in all areas of its business. The competitive environment requires substantial investments in continuing research.
+
+Environment
+
+The Company is subject to a variety of environmental laws and regulations in the United States and other jurisdictions. The Company believes that its operations comply in all material respects with applicable environmental laws and regulations. The Company’s compliance with these requirements is not expected to have a material effect upon its capital expenditures, cash flows, earnings or competitive position.
+
+Regulation
+
+The Company’s businesses are subject to varying degrees of governmental regulation in the countries in which operations are conducted, and the general trend is toward increasingly stringent regulation and enforcement. The Company is subject to costly and complex U. S. and foreign laws and governmental regulations, and any adverse regulatory action may materially adversely affect the Company's financial condition and business operations. In the U. S., the pharmaceutical product and medical 
+technology industries have long been subject to regulation by various federal and state agencies, primarily as to product safety, efficacy, manufacturing, advertising, labeling and safety reporting. The exercise of broad regulatory powers by the U. S. Food and Drug Administration (the U. S. FDA) continues to result in increases in the amounts of testing and documentation required for U. S. FDA approval of new drugs and devices and a corresponding increase in the expense of product introduction. 
+Similar trends are also evident in major markets outside of the U. S.
+
+The medical device regulatory framework and the evolving privacy, data localization, and emerging cyber security laws and regulations around the world are examples of such increased regulation. Within the U. S., an increasing number of U. S. States have enacted comprehensive privacy laws, and federal regulators (e. g., the U. S. FDA, FTC and HHS) continue to stress the intersection of health and privacy as a compliance and enforcement priority. In the EU, multiple directives and laws (including 
+NIS2, EHDS, the Data Act, the Cyber Resilience Act, and the AI Act) are rapidly changing privacy and cybersecurity compliance requirements while introducing new enforcement risks. In addition, China has introduced broad personal information protection and data security regulations, with more anticipated, thereby increasing China’s scrutiny of company compliance and data transfer practices. With other jurisdictions enacting similar privacy laws, local data protection authorities will force 
+greater accountability on the collection, access and use of personal data in the healthcare industry. These laws can also restrict transfers of data across borders, potentially impacting how data-driven health care solutions are developed and deployed globally in a compliant manner. Moreover, as a result of the broad scale release and availability of Artificial Intelligence (AI) technologies such as generative AI, a global trend towards more comprehensive and nuanced regulation to ensure the 
+ethical use, privacy, and security of AI is underway that includes standards for transparency, accountability, and fairness, which will require compliance developments or enhancements.
+
+The regulatory agencies under whose purview the Company operates have administrative powers that may subject it to actions such as product withdrawals, recalls, seizure of products and other civil and criminal sanctions. In some cases, the Company’s subsidiaries may deem it advisable to initiate field actions, such as product recalls, regardless of whether it has been required or directed to.
+
+The U. S. FDA and regulatory agencies around the globe are also increasing their enforcement activities. If the U. S. FDA were to conclude that we are not in compliance with applicable laws or regulations, or that any of our pharmaceutical products or medical technologies are ineffective or pose an unreasonable safety risk, the U. S. FDA could ban such products, detain or seize adulterated or misbranded products, order a recall, repair, replacement, or refund of such products, withdraw 
+approval/clearance/classification for such products, refuse to grant pending applications for marketing authorization or require certificates of foreign governments for exports, and/or require us to notify health professionals and others that the products present unreasonable risks of substantial harm to the public health. The U. S. FDA may also assess civil or criminal penalties against us, our officers or employees and impose operating restrictions on a company-wide basis, or enjoin and/or 
+restrain certain conduct resulting in violations of applicable law. The U. S. FDA may also recommend prosecution to the U. S.
+
+Department of Justice. Any adverse regulatory action, depending on its magnitude, may restrict us from effectively marketing and selling our products and limit our ability to obtain future clearances, classifications or approvals, and could result in a substantial modification to our business practices and operations. Equivalent enforcement mechanisms exist in different countries in which we conduct business.
+
+The costs of human healthcare have been and continue to be a subject of study, investigation and regulation by governmental agencies and legislative bodies around the world. In the U. S., attention has been focused by states, regulatory agencies and Congress on prices, profits, overutilization and the quality and costs of healthcare generally. Laws and regulations have been enacted to require adherence to strict compliance standards and prevent fraud and abuse in the healthcare industry. There 
+is increased focus on interactions and financial relationships between healthcare companies and healthcare providers. Various state and federal transparency laws and regulations require disclosures of payments and other transfers of value made to certain healthcare practitioners, including physicians, teaching hospitals, and certain non-physician practitioners. Federal and foreign laws governing international business practices require strict compliance with anti-corruption standards and certain
+prohibitions with respect to payments to any foreign government official. Payors and Pharmacy Benefit Managers (PBMs) are a potent force in the marketplace, and increased attention is being paid to the impact of PBM practices on healthcare cost and access in the U. S.
+
+Our business has been and continues to be affected by federal and state legislation that alters the pricing, coverage, and reimbursement landscape. The federal Inflation Reduction Act of 2022 (IRA) includes provisions that effectively authorize the government to establish prices for certain high-spend single-source drugs and biologics reimbursed by the Medicare program, starting in 2026 for Medicare Part D drugs and 2028 for Medicare Part B drugs. In 2023, the Centers for Medicare & Medicaid 
+Services (CMS) published the first “ Selected Drug” list, which includes XARELTO and STELARA as well as IMBRUVICA, which is developed in collaboration and co-commercialized in the U. S. with Pharmacyclics LLC, an AbbVie company. The IRA specifies a ceiling price but not a minimum price for selected drugs and does not require CMS to use a specific framework for determining selected drug prices. The selected products are subject to a government-established price for the Medicare population 
+beginning in 2026. CMS has indicated that, beginning in 2027, it will remove Xarelto and Stelara from the Selected Drug List, such that the products will no longer be subject to the IRA's minimum pricing provisions. In January 2026, CMS published the Selected Drug list for 2028, which includes ERLEADA.
+
+The IRA also contains provisions that impose rebates if certain prices increase at a rate that outpaces the rate of inflation, beginning October 1, 2022, for Medicare Part D drugs and January 1, 2023, for Medicare Part B drugs. Separate IRA provisions redesign the Medicare Part D benefit in various ways, including by shifting a greater portion of costs to manufacturers within certain coverage phases and replacing the Part D coverage gap discount program with a new manufacturer discounting 
+program. Failure to comply with IRA provisions may subject manufacturers to various penalties, including civil monetary penalties.
+
+In July 2023, Janssen Pharmaceuticals, Inc. (Janssen) filed litigation against the U. S. Department of Health and Human Services as well as the Centers for Medicare and Medicaid Services challenging the constitutionality of the IRA's Medicare Drug Price Negotiation Program. The litigation requests a declaration that the IRA violates Janssen’s rights under the First Amendment and the Fifth Amendment to the Constitution and therefore that Janssen is not subject to the IRA’s mandatory pricing 
+scheme. While the impact of the IRA on our business and the broader pharmaceutical industry remains uncertain, as litigation filed by Janssen and other pharmaceutical companies remains ongoing, CMS has publicly announced the maximum fair price for each of the selected drugs and has recently begun implementing the program. In December 2025, Janssen sought review by the U. S. Supreme Court of the Third Circuit majority's affirmance of the district court's denial of its summary judgment motion.
+
+In January 2026, the Company reached an agreement with the U. S. Administration to improve access to medicines and lower costs for U. S. patients. Additionally, we expect continued scrutiny on drug pricing and government price reporting from Congress, agencies, and other bodies at the federal and state levels, which may result in additional regulations, including models or other mechanisms to increase pricing controls and/or transparency.
+
+There are a number of additional bills pending in Congress and healthcare reform proposals at the state level that would affect drug pricing, including in the Medicare and Medicaid programs. This changing legal landscape has both positive and negative impacts on the U. S. healthcare industry with much remaining uncertain as to how various provisions of federal and state law, and potential modification or repeal of these laws, will ultimately affect the industry. The IRA and any other federal or 
+state legislative change could affect the pricing and market conditions for our products.
+
+In addition, business practices in the healthcare industry have come under increased scrutiny, particularly in the U. S., by government agencies and state attorneys general, and resulting investigations and prosecutions carry the risk of significant civil and criminal penalties. 
+
+[...FILING TEXT TRUNCATED...]
+
+e overwhelming majority of claimants, beginning in October 2021, Johnson & Johnson Consumer Inc. (Old JJCI) implemented a corporate restructuring, through which Old JJCI ceased to exist and three new entities were created: (a) LTL Management LLC, a North Carolina limited liability company (LTL or Debtor); (b) Royalty A& M LLC, a North Carolina limited liability company and a direct subsidiary of LTL (RAM); and (c) the Debtor’s direct 
+parent, Johnson & Johnson Consumer Inc., a New Jersey company (New JJCI). The Debtor received certain of Old JJCI’s assets and became solely responsible for the talc-related liabilities of Old JJCI, including all liabilities related in any way to injury or damage, or alleged injury or damage, sustained or incurred in the purchase or use of, or exposure to, talc, including talc
+
+  2025 Annual Report      95  
+
+contained in any product, or to the risk of, or responsibility for, any such damage or injury, except for any liabilities for which the exclusive remedy is provided under a workers’ compensation statute or act (the Talc-Related Liabilities).
+
+Following the 2021 Corporate Restructuring, Debtor and the Company attempted to achieve a full and comprehensive resolution of the Talc-Related Liabilities. Debtor filed voluntary petitions for Bankruptcy pursuant to Chapter 11 of the Bankruptcy Code in October 2021 and again in April 2023; both petitions were dismissed.
+
+In October 2023, the Company stated that it was pursuing the following four parallel and alternative pathways to achieve a comprehensive and final resolution of the talc claims: (i) the appeal of the LTL 2 dismissal decision; (ii) pursuing a consensual “prepackaged” bankruptcy case, as “strongly encouraged” by the Bankruptcy Court in its dismissal decision; (iii) aggressively litigating the talc claims in the tort system; and (iv) pursuing affirmative claims against experts for false and 
+defamatory narratives regarding the Company’s talc powder products. In December 2023, LTL changed its state of formation to Texas and its name to LLT Management LLC (LLT).
+
+In May 2024, the Company commenced a three-month 6.475 25 8.0 4.4 99.75
+
+In August 2024, LLT engaged in a restructuring that resulted in the creation of three new Texas limited liability companies: (a) Red River Talc, LLC (Red River); (b) Pecos River Talc LLC (Pecos River); and (3) New Holdco (Texas) LLC. As a result of this restructuring, all claims related to ovarian and other gynecological cancers were separated and allocated to Red River, and mesothelioma, governmental unit and certain other claims were allocated to Pecos River.
+
+While the Company had resolved 95
+
+In September 2024, while reiterating the Company's continued confidence in the safety of its talc products, Red River filed a voluntary petition with the United States Bankruptcy Court for the Southern District of Texas, seeking relief under Chapter 11 of the Bankruptcy Code (the Red River Bankruptcy Case), in furtherance of the Company's consensual "prepackaged" Proposed Plan. Shortly thereafter, as a consequence of this filing, the Company withdrew its appeal of the LTL 2 dismissal decision.
+
+To account for the contemplated comprehensive resolution through the Proposed Plan, the Company recorded a cumulative incremental charge of approximately $ 5.0 11.6 13.5
+
+In March 2025, the Texas Bankruptcy Court issued an order dismissing the case (the Texas dismissal) and, as a result, the Company reversed substantially all, or approximately $ 7 3.4
+
+After the Texas dismissal, the Company announced it would not appeal the decision and returned to the tort system to litigate the talc claims and defend the safety of its products. Ovarian cancer trials are being scheduled in various state courts throughout 2026 and beyond. In the MDL, the court is addressing the Company's Daubert motions related to general causation, specific causation, and certain asbestos testing methods. In January 2026, the Special Master issued her Report and 
+Recommendation related to general causation, excluding certain opinions by plaintiff experts, but also allowing other opinions to proceed. The Company will file an appeal of the Report and Recommendation to the District Court. The remaining Daubert motions are expected to be decided in the first half of 2026.
+
+In February 2019, the Company’s talc supplier, Imerys Talc America, Inc., and two of its affiliates, Imerys Talc Vermont, Inc. and Imerys Talc Canada, Inc. (collectively, Imerys), filed voluntary petitions for relief under Chapter 11 of the United States Code (the Bankruptcy Code) in the United States Bankruptcy Court for the District of Delaware (Imerys Bankruptcy).
+
+In February 2021, Cyprus Mines Corporation (Cyprus), which sold certain talc mines and assets to Imerys, filed a voluntary petition for relief under Chapter 11 of the Bankruptcy Code in the Delaware Bankruptcy Court.
+
+In July 2024, the Company, Imerys, and Cyprus and certain of their affiliates (including their parent entities), and the tort claimants' committees and future claimants' representatives appointed in the Imerys debtors' and Cyprus debtors' respective Chapter 11 cases, entered into a global settlement agreement (the Imerys Settlement Agreement) to resolve the parties' ongoing disputes, including disputes raised in the Imerys and Cyprus bankruptcies regarding (i) the Company's alleged obligations 
+to indemnify Imerys and Cyprus for personal injury claims allegedly caused by exposure to talc contained in the Company's products and (ii) entitlements to proceeds of certain of the Company's insurance policies. In October 2024, the Delaware Bankruptcy Court entered an order approving the Imerys Settlement Agreement (the Settlement Order).
+
+Certain insurers have appealed the Settlement Order and sought a stay of the Settlement Order pending appeal, which the Delaware Bankruptcy Court denied in January 2025. In August 2025, the District Court denied the insurers' appeal of the Settlement Order. The insurers have appealed that decision to the Third Circuit. Briefing is expected to be completed in February 2026.
+
+Imerys and Cyprus have both proposed Chapter 11 plans, which contemplate talc claims being channeled to a trust and resolved in accordance with distribution procedures. A joint confirmation hearing for the plans began in April 2025 and is scheduled to continue in February 2026.
+
+In February 2018, a securities class action lawsuit was filed against the Company and certain named officers in the United States District Court for the District of New Jersey, alleging that the Company violated the federal securities laws by failing to disclose alleged asbestos contamination in body powders containing talc, primarily JOHNSON’ S Baby Powder, and that purchasers of the Company’s shares suffered losses as a result. In April 2019, the Company moved to dismiss the complaint. In 
+December 2019, the court denied, in part, the motion to dismiss. In December 2023, the court granted Plaintiff’s motion for class certification. In January 2024, Defendants filed a petition with the Third Circuit under Federal Rule of Civil Procedure 23(f) for permission to appeal the court’s order granting class certification, and in February 2024, the Third Circuit granted Defendants' petition. In February 2024, fact discovery closed, the court ordered the parties to mediate, and stayed the 
+case pending mediation. In May 2024, the parties participated in an unsuccessful mediation. In June 2024, at the parties' request, the court lifted the stay for certain limited discovery, but otherwise kept the stay in place pending a decision from the Third Circuit on the 23(f) petition. Briefing on the 23(f) petition was completed in September 2024, and in March 2025, the Third Circuit heard oral argument. In July 2025, the Third Circuit affirmed the court's order granting class certification.
+In September 2025, Defendants petitioned the Third Circuit for rehearing or rehearing en banc, which was denied in October 2025. In February 2026, the Company filed a writ of certiorari with the United States Supreme Court. In December 2025, the District Court set deadlines for expert discovery through August 2026.
+
+Matters concerning opioids
+
+Beginning in 2014 and continuing to the present, the Company and Janssen Pharmaceuticals, Inc. (JPI), along with other pharmaceutical companies, have been named in close to 3,500
+
+To date, the Company and JPI have litigated two of the cases to judgment and have prevailed in both, either at trial or on appeal.
+
+In July 2021, the Company announced finalization of an agreement to settle the state and subdivision claims for up to $ 5.0 80
+
+The Company and JPI continue to defend the cases brought by the remaining government entity litigants as well as the cases brought by private litigants. In total, there are approximately 23 285 3
+
+In addition, the Province of British Columbia filed suit against the Company and its Canadian affiliate, Janssen Inc., and many other industry members, in Canada. That action was certified as an opt in class action on behalf of other provincial/territorial and the federal governments in Canada in January 2025. The defendants, including the Company, filed appeals from the certification order in late February 2025. That appeal was heard in December 2025. A common issues trial has been scheduled in
+2028. Additional proposed class actions have been filed in Canada against the Company and Janssen Inc., and many other industry members, by and on behalf of people who used opioids (for personal injuries), municipalities and First Nations bands. The proposed class action in Quebec on behalf of residents diagnosed with opioid use disorder was authorized to proceed against Janssen Inc. and other industry members in April 2024; and leave to appeal was denied in October 2024.
+
+  2025 Annual Report      97  
+
+Product liability
+
+The Company and certain of its subsidiaries are involved in numerous product liability claims and lawsuits involving multiple products. Claimants in these cases seek substantial compensatory and, where available, punitive damages. While the Company believes it has substantial defenses, it is not feasible to predict the ultimate outcome of litigation. From time to time, even if it has substantial defenses, the Company considers isolated settlements based on a variety of circumstances. The Company
+has accrued for these matters and will continue to monitor each related legal issue and adjust accruals as might be warranted based on new information and further developments in accordance with ASC 450-20-25, Contingencies. The Company accrues an estimate of the legal defense costs needed to defend each matter when those costs are probable and can be reasonably estimated. For certain of these matters, the Company has accrued additional amounts such as estimated costs associated with 
+settlements, damages and other losses. Product liability accruals can represent projected product liability for thousands of claims around the world, each in different litigation environments and with different fact patterns. Changes to the accruals may be required in the future as additional information becomes available.
+
+The table below contains the most significant of these cases and provides the approximate number of plaintiffs in the United States with direct claims in pending lawsuits regarding injuries allegedly due to the relevant product or product category as of December 28, 2025.
+
+  Product or product category                                              Number of plaintiffs  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────
+  Body powders containing talc, primarily JOHNSON’ S Baby Powder                         74,360  
+  DePuy ASR XL Acetabular System and DePuy ASR Hip Resurfacing System                        30  
+  PINNACLE Acetabular Cup System                                                            680  
+  Pelvic meshes                                                                           5,190  
+  ETHICON PHYSIOMESH Flexible Composite Mesh                                                110  
+  ELMIRON                                                                                   790  
+
+The number of pending lawsuits is expected to fluctuate as certain lawsuits are settled or dismissed and additional lawsuits are filed. There may be additional claims that have not yet been filed.
+
+MedTech
+
+DePuy ASR XL Acetabular System and ASR Hip Resurfacing System
+
+In August 2010, DePuy Orthopaedics, Inc. (DePuy) announced a worldwide voluntary recall of its ASR XL Acetabular System and DePuy ASR Hip Resurfacing System (ASR Hip) used in hip replacement surgery. Claims for personal injury have been made against DePuy and the Company. Cases filed in federal courts in the United States have been organized as a multi-district litigation in the United States District Court for the Northern District of Ohio. In November 2013, DePuy reached an agreement with a 
+Court-appointed committee of lawyers representing ASR Hip plaintiffs to establish a program to settle claims with eligible ASR Hip patients in the United States. This settlement program has resolved more than 10,000
+
+DePuy PINNACLE Acetabular Cup System
+
+Claims for personal injury have also been made against DePuy Orthopaedics, Inc. and the Company (collectively, DePuy) relating to the PINNACLE Acetabular Cup System used in hip replacement surgery. Product liability lawsuits continue to be filed, and the Company continues to receive information with respect to potential costs and the anticipated number of cases. Most cases filed in federal courts in the United States have been organized as a multi-district litigation in the United States 
+District Court for the Northern District of Texas (Texas MDL). Beginning in June 2022, the Judicial Panel on Multidistrict Litigation ceased transfer of new cases into the Texas MDL, and there are now cases pending in federal court outside the Texas MDL. Litigation also has been filed in state courts and in countries outside of the United States. During the first quarter of 2019, DePuy established a United States settlement program to resolve these cases. As part of the settlement program, 
+adverse verdicts have been settled. The Company has established an accrual for product liability litigation associated with the PINNACLE Acetabular Cup System and the related settlement program.
+
+Ethicon Pelvic Mesh
+
+Claims for personal injury have been made against Ethicon, Inc. (Ethicon) and the Company arising out of Ethicon’s pelvic mesh devices used to treat stress urinary incontinence and pelvic organ prolapse. The Company continues to receive information with respect to potential costs and additional cases. Cases filed in federal courts in the United States had been organized as a multi-district litigation (MDL) in the United States District Court for the Southern District of West Virginia. In March 
+2021, the MDL Court entered an order closing the MDL. The MDL Court has remanded cases for trial to the jurisdictions where the case was originally filed and additional pelvic mesh lawsuits have been filed, and remain, outside of the MDL. The Company has settled or otherwise resolved the majority of the United States cases and the estimated costs associated with these settlements and the remaining cases are reflected in the Company’s accruals. In addition, class actions and individual personal 
+injury cases or claims seeking damages for alleged injury resulting from Ethicon’s pelvic mesh devices have been commenced in various countries outside of the United States, including claims and cases in the United Kingdom, the Netherlands, and Ireland, and class actions in Israel, Australia, Canada and South Africa. The vast majority of these actions are now resolved. The Company has established accruals with respect to product liability litigation associated with Ethicon’s pelvic mesh 
+products.
+
+Ethicon Physiomesh
+
+Following a June 2016 worldwide market withdrawal of Ethicon Physiomesh Flexible Composite Mesh (Physiomesh), claims for personal injury have been made against Ethicon, Inc. (Ethicon) and the Company alleging personal injury arising out of the use of this hernia mesh device. Cases filed in federal courts in the United States have been organized as a multi-district litigation (MDL) in the United States District Court for the Northern District of Georgia. A multi-county litigation (MCL) also has 
+been formed in New Jersey state court and assigned to Atlantic County for cases pending in New Jersey. In addition to the matters in the MDL and MCL, there are additional lawsuits pending in the United States District Court for the Southern District of Ohio, which are part of the MDL for polypropylene mesh devices manufactured by C. R. Bard, Inc., and lawsuits pending in two New Jersey MCLs formed for Proceed/Proceed Ventral Patch and Prolene Hernia systems, and lawsuits pending outside the 
+United States. In May 2021, Ethicon and lead counsel for the plaintiffs entered into a term sheet to resolve approximately 3,600 4,300 3,729
+
+Claims have also been filed against Ethicon and the Company alleging personal injuries arising from the PROCEED Mesh and PROCEED Ventral Patch hernia mesh products. In March 2019, the New Jersey Supreme Court entered an order consolidating these cases pending in New Jersey as an MCL in Atlantic County Superior Court. Additional cases have been filed in various federal and state courts in the United States, and in jurisdictions outside the United States.
+
+Ethicon and the Company also have been subject to claims for personal injuries arising from the PROLENE Polypropylene Hernia System. In January 2020, the New Jersey Supreme Court created an MCL in Atlantic County Superior Court to handle such cases. Cases involving this product have also been filed in other federal and state courts in the United States.
+
+In October 2022, an agreement in principle, subject to various conditions, was reached to settle the majority of the pending cases involving Proceed, Proceed Ventral Patch, Prolene Hernia System and related multi-layered mesh products, as well as a number of unfiled claims. All litigation activities in the two New Jersey MCLs are stayed pending effectuation of the proposed settlement. Future cases that are filed in the New Jersey MCLs will be subject to docket control orders requiring early 
+expert reports and discovery requirements.
+
+The Company has established accruals with respect to product liability litigation associated with Ethicon Physiomesh Flexible Composite Mesh, PROCEED Mesh and PROCEED Ventral Patch, and PROLENE Polypropylene Hernia System products.
+
+Innovative Medicine
+
+ELMIRON
+
+Claims for personal injury have been made against a number of Johnson & Johnson companies, including Janssen Pharmaceuticals, Inc. and the Company, arising out of the use of ELMIRON, a prescription medication indicated for the relief of bladder pain or discomfort associated with interstitial cystitis. These lawsuits, which allege that ELMIRON contributes to the development of permanent retinal injury and vision loss, have been filed in both state and federal courts across the United States. In 
+December 2020, lawsuits filed in federal courts in the United States, including putative class action cases seeking medical monitoring, were organized as a multi-district litigation in the United States District Court for the District of New Jersey (MDL). In addition, cases have been filed in various state courts of New Jersey, which have been coordinated in a multi- county litigation in Bergen County, as well as the Court of Common Pleas in Philadelphia, which have been coordinated
+
+  2025 Annual Report      99  
+
+and granted mass tort designation. In addition, three class action lawsuits have been filed in Canada. The Company continues to defend ELMIRON product liability lawsuits and continues to evaluate potential costs related to those claims. All U. S. based ELMIRON matters have been resolved or are undergoing formal review for purposes of settlement. The Company has established accruals for defense and indemnity costs associated with ELMIRON related product liability litigation.
+
+Intellectual property
+
+Certain subsidiaries of the Company are subject, from time to time, to legal proceedings and claims related to patent, trademark and other intellectual property matters arising out of their businesses. Many of these matters involve challenges to the scope and/or validity of patents that relate to various products and allegations that certain of the Company’s products infringe the intellectual property rights of third parties. Although these subsidiaries believe that they have substantial 
+defenses to these challenges and allegations with respect to all significant patents, there can be no assurance as to the outcome of these matters. A loss in any of these cases could adversely affect the ability of these subsidiaries to sell their products, result in loss of sales due to loss of market exclusivity, require the payment of past damages and future royalties, and may result in a non-cash impairment charge for any associated intangible asset.
+
+The Company’s Innovative Medicine subsidiaries have brought lawsuits against generic companies that have filed ANDAs with the U. S. FDA (or similar lawsuits outside of the United States) seeking to market generic versions of products sold by various subsidiaries of the Company prior to expiration of the applicable patents covering those products. These lawsuits typically include allegations of non-infringement and/or invalidity of patents listed in FDA’s publication “ Approved Drug Products with
+Therapeutic Equivalence Evaluations” (commonly known as the Orange Book). In each of these lawsuits, the Company’s subsidiaries are seeking an order enjoining the defendant from marketing a generic version of a product before the expiration of the relevant patents (Orange Book Listed Patents). In the event the Company’s subsidiaries are not successful in an action, or any automatic statutory stay expires before the court rulings are obtained, the generic companies involved would have the 
+ability, upon regulatory approval, to introduce generic versions of their products to the market, resulting in the potential for substantial market share and revenue losses for the applicable products, and which may result in a non-cash impairment charge in any associated intangible asset. In addition, from time to time, the Company’s subsidiaries may settle these types of actions and such settlements can involve the introduction of generic versions of the products at issue to the market prior 
+to the expiration of the relevant patents.
+
+The Inter Partes Review (IPR) process with the United States Patent and Trademark Office (USPTO), created under the 2011 America Invents Act, is also being used at times by generic companies in conjunction with ANDAs and lawsuits to challenge the applicable patents.
+
+Innovative Medicine
+
+XARELTO
+
+Beginning in March 2021, Janssen Pharmaceuticals, Inc., Bayer Pharma AG, Bayer AG, and Bayer Intellectual Property GmbH filed patent infringement lawsuits in United States district courts against generic manufacturers who have filed ANDAs seeking approval to market generic versions of XARELTO before expiration of certain Orange Book Listed Patents. The following entities are named defendants: Dr. Reddy’s Laboratories, Inc.; Dr. Reddy’s Laboratories, Ltd.; Lupin Limited; Lupin Pharmaceuticals, 
+Inc.; Taro Pharmaceutical Industries Ltd.; Taro Pharmaceuticals U. S. A., Inc.; Teva Pharmaceuticals USA, Inc.; Mylan Pharmaceuticals Inc.; Mylan Inc.; Mankind Pharma Limited; Apotex Inc.; Apotex Corp.; Cipla Ltd.; Cipla USA Inc.; InvaGen Pharmaceuticals, Inc.; and Prinston Pharmaceuticals, Inc. The following U. S. patents are included in one or more cases: 9,539,218 and 10,828,310. In December 2025 and January 2026, the cases against Dr. Reddy's Laboratories, Inc.; Dr. Reddy's Laboratories, 
+Ltd.; Lupin Limited; Lupin Pharmaceuticals, Inc.; Taro Pharmaceutical Industries Ltd.; Taro Pharmaceuticals U. S. A., Inc.; Teva Pharmaceuticals USA, Inc.; Mylan Pharmaceuticals Inc.; Mylan Inc.; Mankind Pharma Limited; Apotex Inc.; Apotex Corp.; Cipla Ltd.; Cipla USA Inc.; InvaGen Pharmaceuticals, Inc.; and Prinston Pharmaceuticals, Inc. were dismissed with prejudice. In January 2026, the Company entered into a confidential settlement agreement with Mankind Pharma Limited.
+
+U. S. Patent No. 10,828,310 was also under consideration by the USPTO in an IPR proceeding. In July 2023, the USPTO issued a final written decision finding the claims of the patent invalid. In September 2023, Bayer Pharma AG filed an appeal to the U. S. Court of Appeals for the Federal Circuit. In September 2025, the Federal Circuit entered a decision affirming-in-part, vacating- in-part, and remanding for further proceedings. In January 2026, the USPTO entered judgment against petitioners upon 
+remand.
+
+INVEGA SUSTENNA
+
+Beginning in January 2018, Janssen Pharmaceutica NV and Janssen Pharmaceuticals, Inc. filed patent infringement lawsuits in United States district courts against generic manufacturers who have filed ANDAs seeking approval to market generic versions of INVEGA SUSTENNA before expiration of the Orange Book Listed Patent. The following entities are named defendants: Pharmascience Inc.; Mallinckrodt PLC; Specgx LLC; Tolmar, Inc.; Accord Healthcare, Inc.; Qilu Pharmaceutical Co. Ltd.; Qilu Pharma 
+Inc.; Sun Pharmaceutical Industries Ltd.; and Sun Pharmaceutical Industries, Inc. The following U. S. patent is included in one or more cases: 9,439,906. In February 2024, the district court issued a decision in the case against Tolmar Inc. finding that United States Patent No. 9,439,906 is not invalid. Tolmar previously stipulated to infringement of a subset of the claims, and based on a claim construction ruling, the district court entered a non-infringement order with respect to the remaining
+asserted claims. Tolmar has appealed the validity decision, and Janssen appealed the non-infringement decision. In November 2025, the court entered judgments against the Accord and Qilu defendants. In December 2025, Janssen and the Sun defendants entered into a confidential settlement agreement and a consent judgment was entered by the court.
+
+Beginning in February 2018, Janssen Inc. and Janssen Pharmaceutica NV initiated a Statement of Claim under Section 6 of the Patented Medicines (Notice of Compliance) Regulations against generic manufacturers who have filed ANDSs seeking approval to market generic versions of INVEGA SUSTENNA before expiration of the listed patent. The following entities are named defendants: Pharmascience Inc. and Apotex Inc. The following Canadian patent is included in one or more cases: 2,655,335. In June 2024,
+the Supreme Court dismissed the Apotex case. In September 2024, the Supreme Court granted Pharmascience's motion to appeal the Federal Court's decision that the 2,655,335 Patent is not invalid.
+
+ERLEADA
+
+In January 2025, Aragon Pharmaceuticals, Inc., Janssen Inc., (collectively, Janssen Inc.) and Sloan-Kettering Institute for Cancer Research (SKI) initiated Statements of Claims under Section 6 of the Patented Medicines (Notice of Compliance) Regulations against Sandoz Canada Inc. (Sandoz) in response to Sandoz’s filing of an ANDS seeking approval to market a generic version of ERLEADA before the expiration of CA Patent Nos. 3,008,345 (the ’345 patent), 2,875,767 (the ’767 patent), 2,885,415 (the
+’415 patent), and 3,128,331 (the ’331 patent). Janssen Inc. and SKI are seeking an order enjoining Sandoz from marketing a generic version of ERLEADA before the expiration of the relevant patents.
+
+Beginning in April 2025, Aragon Pharmaceuticals, Inc., Janssen Biotech, Inc., The Regents of the University of California, and Sloan-Kettering Institute for Cancer Research variously initiated patent infringement lawsuits in U. S. District Court for the District of New Jersey against generic manufacturers who have filed ANDAs seeking approval to market generic versions of ERLEADA before the expiration of certain Orange Book Listed Patents. The following entities are named defendants: Lupin 
+Limited; Lupin Pharmaceuticals, Inc.; Hetero Labs Limited Unit V; and Hetero USA, Inc. The following U. S. patents are included in one or more cases: 8,445,507; 8,802,689; 9,338,159; 9,987,261; 9,481,663; 9,884,054; RE49,353; 10,849,888; 10,702,508; and 11,963,952. Aragon Pharmaceuticals, Inc., Janssen Biotech, Inc. and the Lupin parties entered into a confidential settlement in August 2025, and the case was dismissed.
+
+SPRAVATO
+
+Beginning in May 2023, Janssen Pharmaceuticals, Inc. and Janssen Pharmaceutica NV filed patent infringement lawsuits in United States district courts against generic manufacturers who have filed ANDAs seeking approval to market generic versions of SPRAVATO before expiration of certain Orange Book Listed Patents. The following entities are named defendants: Sandoz Inc.; Hikma Pharmaceuticals Inc. USA; Hikma Pharmaceuticals PLC; and Alkem Laboratories Ltd. The following U. S. patents are included 
+in one or more cases: 10,869,844; 11,173,134; 11,311,500; and 11,446,260. In January 2026, Janssen and Hikma entered into a confidential settlement agreement, and a consent judgment was entered by the court. A trial against Sandoz is scheduled to begin in February 2026.
+
+CAPLYTA
+
+Beginning in March 2024, Intra-Cellular Therapies, Inc. (Intra-Cellular) filed patent infringement lawsuits in the United States District Court for the District of New Jersey against generic manufacturers who have filed ANDAs seeking approval to market generic versions of CAPLYTA before expiration of certain Orange Book Listed Patents. The following entities are named defendants: Aurobindo Pharma Ltd., Aurobindo Pharma USA, Inc., Alkem Laboratories Ltd., Dr. Reddy’s Laboratories Inc., Dr. 
+Reddy’s Laboratories Ltd., MSN Laboratories Private Ltd., Zydus Pharmaceuticals (USA) Inc., and Zydus Lifesciences Ltd. The following U. S. Patents are included in one or more cases: US RE 48,825; RE 48,839; 8,648,077; 9,168,258; 9,199,995; 9,616,061; 9,956,227; 10,117,867; 10,464,938; 10,960,009; 11,026,951; 11,753,419; 11,980,617; 12,070,459; 12,090,155; 12,122,792; 12,128,043; 12,409,176; and 12,410,195. In December 2025, Intra-Cellular, Dr. Reddy's Laboratories Inc., and Dr. Reddy's 
+Laboratories Ltd. entered into a confidential settlement agreement, and the case was dismissed.
+
+  2025 Annual Report      101  
+
+UPTRAVI
+
+Beginning in September 2025, Actelion Pharmaceuticals Ltd, Actelion Pharmaceuticals US, Inc., and Nippon Shinyaku Co. Ltd. filed a patent infringement lawsuit in the United States District Court for the District of New Jersey against generic manufacturers who have filed ANDAs seeking approval to market generic versions of UPTRAVI before expiration of certain Orange Book Listed Patents. The following entities are named defendants: VGYAAN Pharmaceuticals LLC, RK Pharma, Inc., Apotex Inc., and 
+Apotex Corp. The following patents are included in one or more cases: 7,205,302; 8,791,122; and 9,284,280. In November 2025, Actelion, Nippon Shinyaku Co. Ltd., VGYAAN Pharmaceuticals LLC, and RK Pharma Inc. entered into a confidential settlement agreement, and the court entered a consent judgment ending the action.
+
+CARVYKTI
+
+In January 2026, 2seventy bio, Inc. filed suit in the Unitary Patent Court, Local Division of Brussels, against Johnson & Johnson, Janssen Biotech, Inc., Janssen Pharmaceuticals Inc., Janssen-Cilag International NV, Janssen Pharmaceutica NV, Janssen-Cilag NV, Janssen Biologics B. V., Janssen-Cilag B. V., Janssen-Cilag GmbH, Janssen-Cilag, Janssen-Cilag SpA, Janssen-Cilag A/S, Janssen-Cilag Aktiebolag, Janssen-Cilag Farmaceutica Lda., Legend Biotech Corporation, Legend Biotech USA Inc., Legend 
+Biotech Ireland Limited, and Legend Biotech Belgium BV. alleging that the manufacture and sale of CARVYKTI infringes EU Patent No. 3 689 383. In the suit, 2seventy bio, Inc. seeks damages and an injunction.
+
+MedTech
+
+In March 2016, Abiomed, Inc. filed a declaratory judgment action against Maquet Cardiovascular LLC (Maquet) in the U. S. District Court for the District of Massachusetts seeking a declaration that certain Impella products do not infringe Maquet patents, including U. S. Patent Nos. 7,022,100 (’100 patent); 8,888,728; and 9,327,068. Maquet counterclaimed for infringement of those patents against Abiomed, Inc., Abiomed Europe GmbH, and Abiomed R& D, Inc. (collectively, Abiomed), and later added 
+claims for infringement of U. S. Patent Nos. 9,545,468; 9,561,314; and 9,597,437. After claim construction, Maquet alleged infringement of only the ’100 patent. In September 2021, the court granted Abiomed’s motion for summary judgment of non-infringement of the ’100 patent and, in September 2023, the district court entered final judgment in favor of Abiomed on all patents-in-suit. Maquet appealed. In February 2026, the U. S. Court of Appeals for the Federal Circuit affirmed-in-part, 
+vacated-in-part, and remanded to the District Court.
+
+In November 2017, Maquet Cardiovascular LLC filed suit against Abiomed, Inc., Abiomed R& D, Inc., and Abiomed Europe GmbH (collectively, Abiomed) in the U. S. District Court for the District of Massachusetts, alleging that certain Impella products infringe U. S. Patent No. 9,789,238 (’238 patent). Maquet subsequently added U. S. Patent No. 10,238,783 (’783 patent). After claim construction, the court entered a stipulated judgment of non-infringement of both patents. Maquet appealed. In March 
+2025, the U. S. Court of Appeals for the Federal Circuit left undisturbed the judgment on non-infringement of the ’238 patent, vacated the judgment regarding the ’783 patent, and remanded the case to the District Court for further proceedings on the ’783 patent. Trial is scheduled to begin in May 2026.
+
+Government proceedings
+
+Like other companies in the pharmaceutical and medical technologies industries, the Company and certain of its subsidiaries are subject to extensive regulation by national, state and local government agencies in the United States and other countries in which they operate. Such regulation has been the basis of government investigations and litigations. The most significant litigation brought by, and investigations conducted by, government agencies are listed below. It is possible that criminal 
+charges and substantial fines and/or civil penalties or damages could result from government investigations or litigation.
+
+MedTech
+
+In July 2023, the DOJ issued Civil Investigative Demands to the Company, Johnson & Johnson Surgical Vision, Inc., and Johnson & Johnson Vision Care, Inc. (collectively, J& J Vision) in connection with a civil investigation under the False Claims Act relating to free or discounted intraocular lenses and equipment used in eye surgery, such as phacoemulsification and laser systems. J& J Vision has provided documents and information responsive to the Civil Investigative Demands and is continuing to 
+cooperate with the DOJ regarding its inquiry.
+
+Innovative Medicine
+
+In July 2016, the Company and Janssen Products, LP were served with a qui tam complaint pursuant to the False Claims Act filed in the United States District Court for the District of New Jersey alleging the off-label promotion of two HIV products, PREZISTA and INTELENCE, and anti-kickback violations in connection with the promotion of these products. The complaint was filed under seal in December 2012. The federal and state governments have declined to intervene, and the lawsuit is being
+
+prosecuted by the relators. The Court denied summary judgment on all claims in December 2021. Daubert motions were granted in part and denied in part in January 2022, and trial commenced in May 2024. In June 2024, a jury found no liability regarding the anti-kickback violations but found liability for a portion of the off-label promotion claims. The Company challenged the verdict on the off-label claims in post-trial briefing. In March 2025, the court dismissed the state law portion of the 
+claims but entered judgment on the federal claims. The Company appealed the remainder of the verdict to the Third Circuit. Briefing is complete and oral argument is scheduled for March 2026.
+
+In March 2017, Janssen Biotech, Inc. (JBI) received a Civil Investigative Demand from the United States Department of Justice regarding a False Claims Act investigation concerning management and advisory services provided to rheumatology and gastroenterology practices that purchased REMICADE or SIMPONI ARIA. In August 2019, the United States Department of Justice notified JBI that it was closing the investigation. Subsequently, the United States District Court for the District of Massachusetts 
+unsealed a qui tam False Claims Act complaint, which was served on the Company. The Department of Justice had declined to intervene in the qui tam lawsuit in August 2019. The Company filed a motion to dismiss, which was granted in part and denied in part. Discovery is underway.
+
+General litigation
+
+The Company or its subsidiaries regularly face claims in legal proceedings related to contracts, trade secrets, antitrust, unfair competition, consumer protection, and environmental issues, the most significant of which are listed below. Although the Company and its subsidiaries believe that they have substantial defenses to these cases, there can be no assurance as to the outcome of these matters. A loss in any of these cases could require the payment of damages, injunctions, and/or other 
+relief.
+
+In October 2017, certain United States service members and their families brought a complaint against a number of pharmaceutical and medical devices companies, including Johnson & Johnson and certain of its subsidiaries in United States District Court for the District of Columbia, alleging that the defendants violated the United States Anti-Terrorism Act. The complaint alleges that the defendants provided funding for terrorist organizations through their sales practices pursuant to 
+pharmaceutical and medical device contracts with the Iraqi Ministry of Health. In July 2020, the District Court dismissed the complaint. In January 2022, the United States Court of Appeals for the District of Columbia Circuit reversed the District Court’s decision. In June 2024, the Supreme Court vacated the D. C. Circuit's decision and remanded the case to the D. C. Circuit for reconsideration. In January 2026, the D. C. Circuit affirmed its reversal of the District Court's dismissal of the 
+complaint.
+
+In February 2024, a putative class action was filed against the Company and the Pension & Benefits Committee of Johnson & Johnson (Committee) in United States District Court for the District of New Jersey. The complaint alleges that defendants breached fiduciary duties under the Employee Retirement Income Security Act (ERISA) by allegedly mismanaging the Company’s prescription-drug benefits program. The complaint seeks damages and other relief. In January 2025, the court granted in part and 
+denied in part defendants’ motion to dismiss, with leave to replead. In March 2025, plaintiffs filed a second amended complaint. In April 2025, defendants filed a motion to dismiss plaintiffs' fiduciary duty claims. In November 2025, the court granted defendants' motion to dismiss plaintiffs' fiduciary duty claims. Plaintiffs voluntarily withdrew their remaining claim, and the court entered final judgment in defendants' favor in January 2026. Plaintiffs have filed a notice of appeal to the 
+United States Court of Appeals for the Third Circuit.
+
+MedTech
+
+In October 2020, Fortis Advisors LLC (Fortis), in its capacity as representative of the former stockholders of Auris Health Inc. (Auris), filed a complaint against the Company, Ethicon Inc., and certain named officers and employees (collectively, Ethicon) in the Court of Chancery of the State of Delaware. The complaint alleges breach of contract, fraud, and other causes of action against Ethicon in connection with Ethicon’s acquisition of Auris in 2019. The complaint seeks damages and other 
+relief. In December 2021, the court granted in part and denied in part defendants’ motion to dismiss certain causes of action. All claims against the individual defendants were dismissed. Trial occurred in January 2024. In September 2024, the court found liability with respect to certain claims and no liability with respect to other claims. In January 2026, the Delaware Supreme Court reversed in part and affirmed in part the Chancery Court's decision, including a $ 0.8
+
+In October 2019, Innovative Health, LLC filed a complaint against Biosense Webster, Inc. (BWI) in the United States District Court for the Central District of California. The complaint alleges that certain of BWI's business practices and contractual terms violate the antitrust laws of the United States and the State of California by restricting competition in the sale of High Density Mapping Catheters and Ultrasound Catheters. In May 2025, a jury returned its verdict in favor of Innovative 
+Health. In August 2025, the court issued a permanent injunction concerning BWI's business practices. BWI appealed both the jury verdict and the permanent injunction.
+
+  2025 Annual Report      103  
+
+Innovative Medicine
+
+In October 2018, two separate putative class actions were filed against Actelion Pharmaceutical Ltd., Actelion Pharmaceuticals U. S., Inc. and Actelion Clinical Research, Inc. (collectively, Actelion) in United States District Court for the District of Maryland and United States District Court for the District of Columbia. The complaints allege that Actelion violated state and federal antitrust and unfair competition laws by allegedly refusing to supply generic pharmaceutical manufacturers with 
+samples of TRACLEER. TRACLEER is subject to a Risk Evaluation and Mitigation Strategy required by the U. S. Food and Drug Administration, which imposes restrictions on distribution of the product. In January 2019, the plaintiffs dismissed the District of Columbia case and filed a consolidated complaint in the United States District Court for the District of Maryland. In September 2024, the district court granted plaintiffs' motion for class certification. Trial is scheduled for March 2026.
+
+In December 2023, a putative class action lawsuit was filed against the Company and Janssen Biotech Inc. (collectively, Janssen) in the United States District Court for the Eastern District of Virginia. The complaint alleges that Janssen violated federal and state antitrust laws and other state laws by delaying biosimilar competition with STELARA through Janssen's enforcement of patent rights covering STELARA. The complaint seeks damages and other relief. In February 2024, plaintiffs filed an 
+amended complaint, which Janssen moved to dismiss in March 2024. In August 2024, the court granted in part and denied in part Janssen's motion to dismiss. In December 2025, the court granted plaintiffs' motion for class certification. In January 2026, the court granted summary judgment for Janssen on plaintiffs' claim regarding patents obtained through the acquisition of Momenta Pharmaceuticals, Inc. in 2020.
+
+In December 2018, Janssen Biotech, Inc., Janssen Oncology, Inc., Janssen Research & Development, LLC, and Johnson & Johnson (collectively, Janssen) were served with a qui tam complaint on behalf of the United States, certain states, and the District of Columbia. The complaint alleges that Janssen violated the federal False Claims Act and state law when providing pricing information for ZYTIGA to the government in connection with direct sales and reimbursement programs. At this time, the federal 
+and state governments have declined to intervene. In December 2021, the United States District Court for the District of New Jersey denied Janssen's motion to dismiss.
+
+In August 2025, Xoma Corporation (Xoma) filed a complaint against Janssen Biotech, Inc. (Janssen) in the United States District Court for the Eastern District of Pennsylvania. The complaint alleges breach of contract, unjust enrichment, and declaratory relief claims against Janssen regarding the alleged failure to obtain a license from Xoma in connection with Janssen's commercialization of TREMFYA. In December 2025, the court denied Janssen's motion to dismiss the complaint.
+
+20. Restructuring
+
+In fiscal 2025, the company initiated a restructuring program of its Surgery franchise within the MedTech segment to simplify and focus operations by exiting certain non-strategic product lines and optimize select sites across the network. The pre-tax restructuring expense of $ 0.2 0.9 1.0
+
+In fiscal 2023, the Company initiated a restructuring program of its Orthopaedics franchise within the MedTech segment to streamline operations by exiting certain markets, product lines and distribution network arrangements. The pre-tax restructuring expense of $ 0.3 0.2 0.3 0.8
+
+In fiscal 2023, the Company completed a prioritization of its research and development (R& D) investment within its Innovative Medicine segment to focus on the most promising medicines with the greatest benefit to patients. This resulted in the exit of certain programs within certain therapeutic areas. The R& D program exits are primarily in infectious diseases and vaccines including the discontinuation of its respiratory syncytial virus (RSV) adult vaccine program, hepatitis and HIV 
+development. Pre-tax Restructuring expenses of $ 0.1 0.5 0.6
+
+The following table summarizes the restructuring expenses for the fiscal years 2025, 2024 and 2023:
+
+  (Pre-tax Dollars in Millions)                   2025       2024      2023           
+  MedTech Segment Surgery franchise (1)                     $ 205         —        —  
+ ──────────────────────────────────────────────────────────────────────────────────────
+  MedTech Segment Orthopaedics franchise (2)                  307       167      319  
+  Innovative Medicine Segment (3)                               —       102      479  
+  Total Programs                                            $ 512       269      798  
+
+(1) The fiscal year of 2025 included $ 76 122 7
+
+(2) The fiscal year of 2025 included $ 152 71 84 132 35 40 279
+
+(3) The fiscal year of 2024 included $102million in Restructuring on the Consolidated Statement of Earnings. The fiscal year of 2023 included $449million in Restructuring and $30million in Cost of products sold on the Consolidated Statement of Earnings. This program was completed in the fiscal fourth quarter of 2024.
+
+Restructuring reserves as of December 28, 2025, December 29, 2024 and December 31, 2023 were insignificant.
+
+  2025 Annual Report      105  
+
+21. Kenvue separation and discontinued operations
+
+The results of the Consumer Health business (previously reported as a separate business segment) have been reflected as discontinued operations in the Company’s consolidated statements of earnings as Net earnings from discontinued operations, net of taxes through August 23, 2023, the date of the exchange offer.
+
+On May 15, 2024, the Company issued $ 3.6 3.6 182,329,550 0.4
+
+On May 8, 2023, Kenvue, completed an initial public offering (the IPO) resulting in the issuance of 198,734,444 0.01 22.00 4.2 2.5 89.6 1.3
+
+On August 23, 2023, Johnson & Johnson completed the disposition of an additional 80.1 190,955,436 1,533,830,450 31.4 9.5 4.3 0.4
+
+Johnson & Johnson divested net assets of $ 11.6 4.3 1.2 21.0 2.8
+
+Also in connection with the separation, Johnson & Johnson and Kenvue entered into a separation agreement and also entered into various other agreements that provide for certain transactions to effect the transfer of the assets and liabilities of the Consumer Health business to Kenvue and to govern various interim and ongoing relationships between Kenvue and Johnson & Johnson following the completion of the Kenvue IPO, including transition services agreements (TSAs), transition manufacturing 
+agreements (TMAs), trademark agreements, intellectual property agreements, an employee matters agreement, and a tax matters agreement. Under the TSAs, Johnson & Johnson will provide Kenvue various services and, similarly, Kenvue will provide Johnson & Johnson various services. The provision of the majority of services under the TSAs generally terminated 24 3 5
+
+Amounts related to the TSAs and TMAs included in the consolidated statements of earnings were immaterial for fiscal years 2025, 2024 and 2023. Additionally, the amounts due to and from Kenvue for the above agreements was not material as of December 28, 2025.
+
+The results of the Consumer Health business (previously reported as a separate business segment), as well as the associated gain, have been reflected as discontinued operations in the Company’s consolidated statements of earnings as Net earnings from discontinued operations, net of taxes. As a result of the separation of Kenvue, Johnson & Johnson incurred separation costs of $ 145 986
+
+Details of Net Earnings from Discontinued Operations, net of taxes are as follows:
+
+  (Dollars in Millions)                                                           2023 (1)  
+  Sales to customers                                                              $ 10,036  
+  Cost of products sold                                                              4,369  
+  Gross profit                                                                       5,667  
+  Selling, marketing and administrative expenses                                     3,085  
+  Research and development expense                                                     258  
+  Interest Income                                                                   ( 117)  
+  Interest expense, net of portion capitalized                                         199  
+  Other (income) expense, net                                                        1,092  
+  (Gain) on separation of Kenvue                                                            
+  Earnings from Discontinued Operations Before Provision for Taxes on Income        22,134  
+  Provision for taxes on income                                                        307  
+  Net earnings from Discontinued Operations                                       $ 21,827  
+
+(1) The Company ceased consolidating the results of the Consumer Health business on August 23, 2023, the date of the exchange offer, but continued to reflect any separation costs incurred as part of discontinued operations through the end of the fiscal fourth quarter.
+
+The following table presents depreciation, amortization and capital expenditures of the discontinued operations related to Kenvue:
+
+  (Dollars in Millions)              2023 (1)  
+  Depreciation and Amortization      $ 383     
+  Capital expenditures               $ 162     
+
+  2025 Annual Report      107  
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Shareholders of Johnson & Johnson
+
+Opinions on the Financial Statements and Internal Control over Financial Reporting
+
+We have audited the accompanying consolidated balance sheets of Johnson & Johnson and its subsidiaries (the "Company") as of December 28, 2025 and December 29, 2024, and the related consolidated statements of earnings, of comprehensive income, of equity and of cash flows for each of the three fiscal years in the period ended December 28, 2025, including the related notes (collectively referred to as the "consolidated financial statements"). We also have audited the Company's internal control 
+over financial reporting as of December 28, 2025, based on criteria established inInternal Control - Integrated Framework(2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of December 28, 2025 and December 29, 2024, and the results of its operations and its cash flows for each of the three fiscal years in the period ended December 28, 2025 in conformity with accounting principles generally accepted in the United States of America. Also in our opinion, the Company maintained, in all material respects, effective 
+internal control over financial reporting as of December 28, 2025, based on criteria established inInternal Control - Integrated Framework(2013) issued by the COSO.
+
+Basis for Opinions
+
+The Company's management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management’s Report on Internal Control over Financial Reporting. Our responsibility is to express opinions on the Company’s consolidated financial statements and on the Company's internal control over financial reporting based
+on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U. S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects.
+
+Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by 
+management, as well as evaluating the overall presentation of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the 
+circumstances. We believe that our audits provide a reasonable basis for our opinions.
+
+As described in Management’s Report on Internal control over Financial Reporting, management has excluded Intra-Cellular Therapies, Inc. (“ Intra-Cellular”), from its assessment of internal control over financial reporting as of December 28, 2025 because it was acquired by the Company in a purchase business combination during 2025. We have also excluded Intra-Cellular from our audit of internal control over financial reporting. Intra-Cellular is a wholly-owned subsidiary whose total assets and 
+total sales excluded from management’s assessment and our audit of internal control over financial reporting represent less than 1% of each of the related consolidated financial statement amounts as of and for the fiscal year ended December 28, 2025.
+
+Definition and Limitations of Internal Control over Financial Reporting
+
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions 
+and dispositions of the assets of the company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or 
+disposition of the company’s assets that could have a material effect on the financial statements.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Critical Audit Matters
+
+The critical audit matters communicated below are matters arising from the current period audit of the consolidated financial statements that were communicated or required to be communicated to the audit committee and that (i) relate to accounts or disclosures that are material to the consolidated financial statements and (ii) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the 
+consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+
+U. S. Innovative Medicine Rebate Reserves - Managed Care, Medicare and Medicaid
+
+As described in Note 1 to the consolidated financial statements, the Company recognizes revenue from product sales when obligations under the terms of a contract with the customer are satisfied. Rebates and discounts provided to customers are accounted for as variable consideration and recorded as a reduction in sales. The liability for such rebates and discounts is recognized within Accrued rebates, returns, and promotions on the consolidated balance sheet. A significant portion of the 
+liability related to rebates is from the sale of pharmaceutical products within the U. S., primarily the Managed Care, Medicare and Medicaid programs, which amounted to $13.0 billion as of December 28, 2025. Rebates estimated by management are based on contractual terms, historical experience, patient outcomes, trend analysis, and projected market conditions in the various markets served.
+
+The principal considerations for our determination that performing procedures relating to U. S. Innovative Medicine rebate reserves - Managed Care, Medicare and Medicaid is a critical audit matter are (i) the significant judgment by management due to the significant measurement uncertainty when developing the estimate of these reserves and (ii) a high degree of auditor judgment, subjectivity, and effort in performing procedures and evaluating the assumptions related to contractual terms, 
+historical experience, patient outcomes, trend analysis, and projected market conditions in the U. S. pharmaceutical market.
+
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to management’s estimate of the U. S. Innovative Medicine rebate reserves - Managed Care, Medicare and Medicaid, including controls over the assumptions used to estimate these rebates. These procedures also included, among others (i) developing an 
+independent estimate of the rebates by utilizing third party information on price and market conditions in the U. S. pharmaceutical market, the contractual terms of the specific rebate programs, and the historical experience, patient outcomes, and trend analysis of actual rebate claims paid; (ii) testing, on a sample basis, rebate claims processed by the Company, including evaluating those claims for consistency with the contractual terms of the Company’s rebate arrangements; and (iii) comparing
+the independent estimates to management’s estimates to evaluate the reasonableness of management’s estimates.
+
+  2025 Annual Report      109  
+
+Litigation Contingencies - Talc
+
+As described in Notes 1 and 19 to the consolidated financial statements, a significant number of personal injury claims alleging that talc causes cancer have been asserted against the Company and its affiliates arising out of the use of body powders containing talc, primarily JOHNSON’ S Baby Powder. The Company records accruals for loss contingencies associated with legal matters, including talc, when it is probable that a liability will be incurred and the amount of the loss can be reasonably 
+estimated. To the extent adverse awards, judgments, or verdicts have been rendered against the Company, management does not record an accrual until a loss is determined to be probable and can be reasonably estimated. For these matters, management is unable to estimate the possible loss or range of loss beyond the amounts accrued. Amounts accrued for legal contingencies often result from a complex series of judgments about future events and uncertainties that rely heavily on estimates and 
+assumptions including timing of related payments. The ability to make such estimates and judgments can be affected by various factors, including, among other things, whether damages sought in the proceedings are unsubstantiated or indeterminate; scientific and legal discovery has not commenced or is not complete; proceedings are in early stages; matters present legal uncertainties; there are significant facts in dispute; procedural or jurisdictional issues; the uncertainty and unpredictability 
+of the number of potential claims; ability to achieve comprehensive multi-party settlements; complexity of related cross-claims and counterclaims; and/or there are numerous parties involved. As of December 28, 2025, the total present value of the reserve to resolve the talc claims is approximately $3.4 billion, comprising previously executed settlement agreements, litigation defense, and other costs.
+
+The principal considerations for our determination that performing procedures relating to the litigation contingencies - talc is a critical audit matter are (i) the significant judgment by management when assessing the likelihood of a loss being incurred for the remaining unresolved talc claims and when determining whether a reasonable estimate of the loss or range of loss for the remaining unresolved talc claims can be made and (ii) a high degree of auditor judgment, subjectivity, and effort in
+performing procedures and evaluating audit evidence related to management’s assessment of the litigation contingencies associated with the unresolved talc claims.
+
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to management’s assessment of the litigation contingencies - talc claims, including controls over determining whether a loss is probable and whether the amount of loss can be reasonably estimated, as well as financial statement disclosures. These 
+procedures also included, among others (i) testing management’s process for developing the estimated loss contingency related to the talc claims; (ii) evaluating the appropriateness of the methodology used by management to develop the estimated loss or range of loss; (iii) obtaining and evaluating certain executed settlement agreements related to the talc litigation; (iv) testing a sample of payments for litigation defense and other costs; (v) discussing the status of significant known actual 
+and potential litigation and settlements activity with the Company’s internal legal counsel; (vi) confirming with internal and external legal counsel the possibility or probability of an unfavorable outcome and the extent to which the loss or range of loss is reasonably estimable related to talc claims; (vii) evaluating the reasonableness of management’s assessment regarding whether an unfavorable outcome is reasonably possible or probable and reasonably estimable; and (viii) evaluating the 
+sufficiency of the Company’s litigation contingencies disclosures.
+
+/s/ PricewaterhouseCoopers LLP
+
+Florham Park, New Jersey
+
+February 11, 2026
+
+We have served as the Company’s auditor since at least 1920. We have not been able to determine the specific year we began serving as auditor of the Company.
+
+Management’s report on internal control over financial reporting
+
+Under Section 404 of the Sarbanes-Oxley Act of 2002, management is required to assess the effectiveness of the Company’s internal control over financial reporting as of the end of each fiscal year and report, based on that assessment, whether the Company’s internal control over financial reporting is effective.
+
+Management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting. The Company’s internal control over financial reporting is designed to provide reasonable assurance as to the reliability of the Company’s financial reporting and the preparation of external financial statements in accordance with generally accepted accounting principles.
+
+Internal controls over financial reporting, no matter how well designed, have inherent limitations. Therefore, internal control over financial reporting determined to be effective can provide only reasonable assurance with respect to financial statement preparation and may not prevent or detect all misstatements. Moreover, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the 
+degree of compliance with the policies or procedures may deteriorate.
+
+The Company’s management has assessed the effectiveness of the Company’s internal control over financial reporting as of December 28, 2025. In making this assessment, the Company used the criteria established by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in “ Internal Control-Integrated Framework (2013).” These criteria are in the areas of control environment, risk assessment, control activities, information and communication, and monitoring. The Company’s 
+assessment included extensive documenting, evaluating and testing the design and operating effectiveness of its internal controls over financial reporting.
+
+The Company acquired Intra-Cellular Therapies, Inc. (Intra-Cellular), in a business combination in April 2025. Intra-Cellular's total assets, excluding intangible assets and goodwill, and total sales represented less than 1% of each of the related consolidated financial statement amounts as of and for the fiscal year ended December 28, 2025. As the acquisition occurred in the fiscal year 2025, the scope of the Company's assessment of the design and effectiveness of internal control over 
+financial reporting for the fiscal year 2025 excluded the above mentioned acquisition. This exclusion is in accordance with the SEC's general guidance that an assessment of a recently acquired business may be omitted from the scope in the year of acquisition.
+
+Based on the Company’s processes and assessment, as described above, management has concluded that, as of December 28, 2025, the Company’s internal control over financial reporting was effective.
+
+The effectiveness of the Company’s internal control over financial reporting as of December 28, 2025 has been audited by PricewaterhouseCoopers LLP, an independent registered public accounting firm, as stated in their report, which appears herein.
+
+  /s/ J. Duato                      /s/ J. J. Wolk                                     
+  Joaquin Duato                     Joseph J. Wolk                                     
+  Chairman, Board of Directors      Executive Vice President, Chief Financial Officer  
+  Chief Executive Officer                                                              
+
+  2025 Annual Report      111  
+
+Shareholder return performance graphs
+
+Set forth below are line graphs comparing the cumulative total shareholder return on the Company’s Common Stock for periods of five years and ten years ending December 31, 2025, against the cumulative total return of the Standard & Poor’s 500 Stock Index, the Standard & Poor’s Pharmaceutical Index and the Standard & Poor’s Healthcare Equipment Index. The graphs and tables assume that $100 was invested on December 31, 2020 and December 31, 2015 in each of the Company’s Common Stock, the Standard 
+& Poor’s 500 Stock Index, the Standard & Poor’s Pharmaceutical Index and the Standard & Poor’s Healthcare Equipment Index and that all dividends were reinvested.
+
+5 Year Shareholder Return Performance J& J vs. Indices
+
+  Johnson & Johnson                
+  S& P 500 Index                   
+  S& P Pharmaceutical Index        
+  S& P Healthcare Equipment Index  
+
+  5-year CAGR               
+  J& J                 8.7  
+  S& P 500            14.4  
+  S& P Pharm          13.5  
+  S& P H/C Equip       4.9  
+
+                                          2020         2021         2022         2023         2024         2025  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Johnson & Johnson                    $100.00      $111.40      $118.08      $107.93      $102.75      $151.55  
+  S& P 500 Index                       $100.00      $128.70      $105.41      $133.13      $166.41      $196.20  
+  S& P Pharmaceutical Index            $100.00      $125.90      $136.60      $137.01      $148.25      $188.57  
+  S& P Healthcare Equipment Index      $100.00      $119.40       $96.83      $105.55      $117.05      $126.77  
+
+10 Year Shareholder Return Performance J& J vs. Indices
+
+  Johnson & Johnson                
+  S& P 500 Index                   
+  S& P Pharmaceutical Index        
+  S& P Healthcare Equipment Index  
+
+  10-year CAGR              
+  J& J                10.3  
+  S& P 500            14.8  
+  S& P Pharm          10.8  
+  S& P H/C Equip      12.1  
+
+     2015         2016         2017         2018         2019         2020         2021         2022  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────
+  $100.00      $115.30      $143.43      $136.12      $158.17      $175.41      $195.41      $207.13  
+  $100.00      $112.00      $136.42      $130.41      $171.49      $203.05      $261.32      $214.02  
+  $100.00       $98.40      $110.80      $119.77      $137.86      $148.20      $186.58      $202.44  
+  $100.00      $106.50      $139.41      $161.99      $209.46      $246.32      $294.11      $238.52  
+
+  2025 Annual Report      113  
+
+Item 9. Changes in and disagreements with accountants on accounting and financial disclosure
+
+Not applicable.
+
+Item 9A. Controls and procedures
+
+Disclosure controls and procedures. At the end of the period covered by this Report, the Company evaluated the effectiveness of the design and operation of its disclosure controls and procedures. The Company’s disclosure controls and procedures are designed to ensure that information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms. 
+Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the Company’s management, including its principal executive and principal financial officers, or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure. Joaquin Duato, Chairman and 
+Chief Executive Officer, and Joseph J. Wolk, Executive Vice President, Chief Financial Officer, reviewed and participated in this evaluation. Based on this evaluation, Messrs. Duato and Wolk concluded that, as of the end of the period covered by this Report, the Company’s disclosure controls and procedures were effective.
+
+Reports on internal control over financial reporting. The information called for by this item is incorporated herein by reference to Management’s report on internal control over financial reporting, and the attestation regarding internal controls over financial reporting included in the report of independent registered public accounting firm included in Item 8 of this Report.
+
+Changes in internal control over financial reporting. During the fiscal quarter ended December 28, 2025, there were no changes in the Company’s internal control over financial reporting identified in connection with the evaluation required under Rules 13a-15 and 15d-15 under the Exchange Act that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting. The Company continues to monitor and assess the effectiveness of the 
+design and operation of its disclosure controls and procedures.
+
+The Company is implementing a multi-year, enterprise-wide initiative to integrate, simplify and standardize processes and systems for the human resources, information technology, procurement, supply chain and finance functions. These are enhancements to support the growth of the Company’s financial shared service capabilities and standardize financial systems. This initiative is not in response to any identified deficiency or weakness in the Company’s internal control over financial reporting. 
+In response to this initiative, the Company has and will continue to align and streamline the design and operation of its financial control environment.
+
+Item 9B. Other information
+
+Securities trading plans of Directors and Executive Officers. During the fiscal fourth quarter of 2025, none of our directors or officers (as defined in Rule 16a-1(f) of the Exchange Act) informed us of the adoption termination
+
+Item 9C. Disclosure regarding foreign jurisdictions that prevent inspections
+
+Not applicable.
+
+Part III
+
+Item 10. Directors, executive officers and corporate governance
+
+The information called for by this item is incorporated herein by reference to the discussion of the Audit Committee under the caption Item 1. Election of Directors - Board committees; and the material under the captions Item 1. Election of Directors and, if applicable, Delinquent Section 16(a) reporting in the Proxy Statement; and the material under the caption “ Executive Officers of the Registrant” in Part I of this Report.
+
+The Company’s Code of Business Conduct, which covers all employees (including the Chief Executive Officer, Chief Financial Officer and Controller), meets the requirements of the SEC rules promulgated under Section 406 of the Sarbanes-Oxley Act of 2002. The Code of Business Conduct is available on the Company’s website at www. jnj. com/code-of-business-conduct, and copies are available to shareholders without charge upon written request to the Secretary at the Company’s principal executive 
+offices. Any substantive amendment to the Code of Business Conduct or any waiver of the Code granted to the Chief Executive Officer, the Chief Financial Officer or the Controller will be posted on the Company’s website at www. jnj. com/code-of-business-conduct within five business days (and retained on the website for at least one year).
+
+In addition, the Company has adopted a Code of Business Conduct & Ethics for Members of the Board of Directors and Executive Officers. The Code of Business Conduct & Ethics for Members of the Board of Directors and Executive Officers is available on the Company’s website at www. investor. jnj. com/governance/corporate-governance-overview/code-of-business-conduct--ethics, and copies are available to shareholders without charge upon written request to the Secretary at the Company’s principal 
+executive offices. Any substantive amendment to the Code or any waiver of the Code granted to any member of the Board of Directors or any executive officer will be posted on the Company’s website at www. investor. jnj. com/governance/corporate-governance-overview/code-of-business-conduct--ethics within five business days (and retained on the website for at least one year).
+
+In addition to the prohibition on insider trading for all employees covered in our Code of Business Conduct, the Company has adopted
+
+Item 11. Executive compensation
+
+The information called for by this item is incorporated herein by reference to the material under the captions Item 1. Election of Directors - Director compensation, and Item 2. Compensation Committee report, Compensation discussion and analysis and Executive compensation tables in the Proxy Statement.
+
+The material incorporated herein by reference to the material under the caption Compensation Committee report in the Proxy Statement shall be deemed furnished, and not filed, in this Report and shall not be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, as a result of this furnishing, except to the extent that the Company specifically incorporates it by reference.
+
+Item 12. Security ownership of certain beneficial owners and management and related stockholder matters
+
+The information called for by this item is incorporated herein by reference to the material under the caption Stock ownership in the Proxy Statement; and Note 16 Common stock, stock option plans and stock compensation agreements of the Notes to Consolidated Financial Statements in Item 8 of this Report.
+
+  2025 Annual Report      115  
+
+Equity compensation plan information
+
+The following table provides certain information as of December 28, 2025 concerning the shares of the Company’s Common Stock that may be issued under existing equity compensation plans.
+
+  Plan Category                                                   Number of               Weighted Average       Number of Securities     
+  Equity Compensation Plans Approved by Security Holders (1)      107,318,427             $131.08                93,216,941               
+  Equity Compensation Plans Not Approved by Security Holders      —                       —                      —                        
+  Total                                                           107,318,427             $131.08                93,216,941               
+
+(1) Included in this category are the following equity compensation plans which have been approved by the Company’s shareholders: 2012 Long-Term Incentive Plan and 2022 Long-Term Incentive Plan.
+
+(2) This column excludes shares reflected under the column “ Number of Securities to be Issued Upon Exercise of Outstanding Options and Rights.”
+
+(3) The 2012 Long-Term Incentive Plan expired April 26, 2022. All options and restricted shares granted subsequent to that date were under the 2022 Long-Term Incentive Plan.
+
+Item 13. Certain relationships and related transactions, and director independence
+
+The information called for by this item is incorporated herein by reference to the material under the captions Item 1. Election of Directors - Related person transactions & Director independence in the Proxy Statement.
+
+Item 14. Principal accountant fees and services
+
+The information called for by this item is incorporated herein by reference to the material under the caption Item 3. Ratification of appointment of independent registered public accounting firm in the Proxy Statement.
+
+Part IV
+
+Item 15. Exhibits and financial statement schedules
+
+The following documents are filed as part of this report:
+
+1. Financial Statements
+
+Consolidated balance sheets at end of fiscal years 2025 and 2024
+
+Consolidated statements of earnings for fiscal years 2025, 2024 and 2023
+
+Consolidated statements of comprehensive income for fiscal years 2025, 2024 and 2023
+
+Consolidated statements of equity for fiscal years 2025, 2024 and 2023
+
+Consolidated statements of cash flows for fiscal years 2025, 2024 and 2023
+
+Notes to Consolidated Financial Statements
+
+Report of independent registered public accounting firm
+
+All schedules are omitted because they are not applicable, not material or the required information is included in the financial statements or notes.
+
+2. Exhibits required to be filed by item 60l of regulation S-K
+
+The information called for by this item is incorporated herein by reference to the Exhibit Index in this Report.
+
+Item 16. Form 10-K summary
+
+Registrants may voluntarily include a summary of information required by Form 10-K under this Item 16. The Company has elected not to include such summary information.
+
+  2025 Annual Report      117  
+
+Signatures
+
+Pursuant to the requirements of Section 13 of the Securities Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+Date: February 11, 2026
+
+  JOHNSON & JOHNSON  
+  (Registrant)       
+
+  By      /s/ J. Duato                     
+          J. Duato, Chairman of the Board  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.
+
+  Signature                 Title                                        Date               
+  /s/ J. Duato              Chairman of the Board                        February 11, 2026  
+ ────────────────────────────────────────────────────────────────────────────────────────────
+  J. Duato                  Chief Executive Officer                                         
+  /s/ J. J. Wolk            Chief Financial Officer                      February 11, 2026  
+  J. J. Wolk                (Principal Financial Officer)                                   
+  /s/ R. J. Decker Jr.      Controller and Chief Accounting Officer      February 11, 2026  
+  R. J. Decker Jr.          (Principal Accounting Officer)                                  
+  /s/ M. C. Beckerle        Director                                     February 11, 2026  
+  M. C. Beckerle                                                                            
+  /s/ J. A. Doudna          Director                                     February 11, 2026  
+  J. A. Doudna                                                                              
+  /s/ M. A. Hewson          Director                                     February 11, 2026  
+  M. A. Hewson                                                                              
+
+  Signature                 Title         Date               
+  /s/ P. A. Johnson         Director      February 11, 2026  
+ ─────────────────────────────────────────────────────────────
+  P. A. Johnson                                              
+  /s/ H. Joly               Director      February 11, 2026  
+  H. Joly                                                    
+  /s/ M. B. McClellan       Director      February 11, 2026  
+  M. B. McClellan                                            
+  /s/ J. G. Morikis         Director      February 11, 2026  
+  J. G. Morikis                                              
+  /s/ D. E. Pinto           Director      February 11, 2026  
+  D. E. Pinto                                                
+  /s/ M. A. Weinberger      Director      February 11, 2026  
+  M. A. Weinberger                                           
+  /s/ N. Y. West            Director      February 11, 2026  
+  N. Y. West                                                 
+  /s/ E. A. Woods           Director      February 11, 2026  
+  E. A. Woods                                                
+
+  2025 Annual Report      119  
+
+Exhibit index
+
+  Reg. S-K           Description                                                                                                                                                                                           
+  Exhibit Table      of Exhibit                                                                                                                                                                                            
+  Item No.                                                                                                                                                                                                                 
+  2(i)               Agreement and Plan of Merger, dated as of October 31, 2022, by and among Johnson & Johnson, Athos Merger Sub, Inc. and ABIOMED, Inc. – Incorporated herein by reference to Exhibit 2.1 of the Reg...  
+  3(i)               Restated Certificate of Incorporation effective February 19, 2016 — Incorporated herein by reference to Exhibit 3(i) of the Registrant’s Form 10-K Annual Report for the fiscal year ended Januar...  
+  3(ii)              Certificate of Amendment to the Certificate of Incorporation of Johnson & Johnson effective April 30, 2020 — Incorporated herein by reference to Exhibit 3.1 of the Registrant's Form 8-K Current...  
+  3(iii)             Amended and Restated By-Laws of the Company, as amended effective April 25, 2024 — Incorporated herein by reference to Exhibit 3.1 of the Registrant’s Form 8-K Current Report filed April 29, 2024.  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  4(a)               Upon the request of the Securities and Exchange Commission, the Registrant will furnish a copy of all instruments defining the rights of holders of long-term debt of the Registrant.                 
+  4(b)               Description of Securities Registered Pursuant to Section 12 of the Securities Exchange Act of 1934 — Filed with this document.                                                                        
+  4(c)**             Indenture, dated as of September 15, 1987 – Incorporated herein by reference to Exhibit 4(a) to the Registrant’s Form S-3 Registration Statement filed on October 11, 1994                            
+  4(d)**             First Supplemental Indenture, dated as of September 1, 1990 – Incorporated herein by reference to Exhibit 4(b) to the Registrant’s Form S-3 Registration Statement filed on October 11, 1994          
+  4(e)               Second Supplemental Indenture, dated as of November 9, 2017 – Incorporated herein by reference to Exhibit 4.1 to the Registrant’s Form 8-K Current Report filed on November 13, 2017                  
+  10(a)              2012 Long-Term Incentive Plan — Incorporated herein by reference to Appendix A of the Registrant’s Proxy Statement filed on March 15, 2012.*                                                          
+  10(b)              Form of Stock Option Certificate under the 2012 Long-Term Incentive Plan — Incorporated herein by reference to Exhibit 10.2 of the Registrant’s Form 10-Q Quarterly Report for the quarter ended ...  
+  10(c)              Global NonQualified Stock Option Award Agreement under the 2012 Long-Term Incentive Plan — Incorporated herein by reference to Exhibit 10.1 of the Registrant’s Form 10-Q Quarterly Report for th...  
+  10(d)              Global Restricted Share Unit Award Agreement under the 2012 Long-Term Incentive Plan — Incorporated herein by reference to Exhibit 10.2 of the Registrant’s Form 10-Q Quarterly Report for the qu...  
+  10(e)              Global Performance Share Unit Award Agreement under the 2012 Long-Term Incentive Plan — Incorporated herein by reference to Exhibit 10.3 of the Registrant’s Form 10-Q Quarterly Report for the q...  
+  10(f)              Global Restricted Share Unit Award Agreement granted to John Reed on May 1, 2023 under the 2022 Long-Term Incentive Plan — Incorporated herein by reference to Exhibit 10(h) of the Registrant’s ...  
+  10(g)              Domestic Deferred Compensation (Certificate of Extra Compensation) Plan — Incorporated herein by reference to Exhibit 10(g) of the Registrant’s Form 10-K Annual Report for the year ended Decemb...  
+  10(h)              Amendments to the Certificate of Extra Compensation Plan effective as of January 1, 2009 — Incorporated herein by reference to Exhibit 10(j) of the Registrant’s Form 10-K Annual Report for the ...  
+  10(i)              Amended and Restated Deferred Fee Plan for Directors (Amended as of January 17, 2012) — Incorporated herein by reference to Exhibit 10(k) of the Registrant's Form 10-K Annual Report for the fis...  
+
+  Reg. S-K           Description                                                                                                                                                                                           
+  Exhibit Table      of Exhibit                                                                                                                                                                                            
+  Item No.                                                                                                                                                                                                                 
+  10(j)              The Johnson & Johnson Executive Income Deferral Plan Amended and Restated Effective January 1, 2010 — Incorporated herein by reference to Exhibit 10.1 of the Registrant’s Form 10-Q Quarterly Re...  
+  10(k)              The Johnson & Johnson Excess Savings Plan (amended and restated as of January 1, 2022) — Incorporated herein by reference to Exhibit 10(l) of the Registrant’s Form 10-K Annual Report for the fi...  
+  10(l)              Excess Benefit Plan of Johnson & Johnson and Affiliated Companies (amended and restated as of January 1, 2020) — incorporated by reference to Exhibit 10(m) of the Registrant’s Form 10-K Annual ...  
+  10(m)**            Executive Life Plan Agreement — Incorporated herein by reference to Exhibit 10(i) of the Registrant’s Form 10-K Annual Report for the fiscal year ended January 3, 1993.*                             
+  10(n)              Executive Life Plan Agreement Closure Letter — Incorporated herein by reference to Exhibit 10.1 of the Registrant’s Form 10-Q Quarterly Report for the quarter ended March 29, 2015.*                 
+  10(o)              2022 Long-Term Incentive Plan — Incorporated by reference to Appendix A of the Registrant’s Proxy Statement filed on March 16, 2022.*                                                                 
+  10(p)              Severance Pay Plan of Johnson & Johnson and U. S. Affiliated Companies, Amended and Restated as of October 1, 2014 — Incorporated herein by reference to Exhibit 10.1 of the Registrant's Form 10...  
+  10(q)              First Amendment to the Severance Pay Plan of Johnson & Johnson and U. S. Affiliated Companies (as amended and restated effective October 1, 2014) — Incorporated herein by reference to Exhibit 1...  
+  10(r)              Second Amendment to the Severance Pay Plan of Johnson & Johnson and U. S. Affiliated Companies (as amended and restated effective October 1, 2014) — Incorporated herein by reference to Exhibit ...  
+  10(s)              Contingent Value Rights Agreement, dated as of December 22, 2022, by and between Johnson & Johnson and American Stock Transfer & Trust Company, LLC – Incorporated herein by reference to Exhibit...  
+  10(t)              Intellectual Property Agreement, dated as of May 3, 2023, by and between Johnson & Johnson and Kenvue Inc. — Incorporated herein by reference to Exhibit 10.4 of the Registrant's Form 8-K Curren...  
+  10(u)              Trademark Phase-Out License Agreement, dated as of April 3, 2023, by and between Johnson & Johnson and Johnson & Johnson Consumer Inc. — Incorporated herein by reference to Exhibit 10.5 of the ...  
+  10( v)             Johnson & Johnson Deferred Compensation Plan — Incorporated herein by reference to Exhibit 10.1 of the Registrant's Form 8-K Current Report filed November 27, 2023.*                                 
+  10(w)              Global Performance Share Unit Award Agreement under the Johnson & Johnson 2022 Long-Term Incentive Plan — Incorporated herein by reference to Exhibit 10.1 of the Registrant’s Form 10-Q Quarterl...  
+  10(x)              Global Restricted Share Unit Award Agreement under the Johnson & Johnson 2022 Long-Term Incentive Plan — Incorporated herein by reference to Exhibit 10.2 of the Registrant’s Form 10-Q Quarterly...  
+  10(y)              Global Nonqualified Stock Option Award Agreement under the Johnson & Johnson 2022 Long-Term Incentive Plan — Incorporated herein by reference to Exhibit 10.3 of the Registrant’s Form 10-Q Quart...  
+  10(z)              Amendment One to the Johnson & Johnson Excess Savings Plan (amended and restated effective as of January 1, 2022) — Incorporated herein by reference to Exhibit 10.1 of the Registrant’s Form 10-...  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  2025 Annual Report      121  
+
+  Reg. S-K           Description                                                                                                                                                                                           
+  Exhibit Table      of Exhibit                                                                                                                                                                                            
+  Item No.                                                                                                                                                                                                                 
+  10(aa)             Johnson & Johnson Executive Incentive Plan (Amended as of September 7, 2023) — Incorporated herein by reference to Exhibit 10.2 of the Registrant’s Form 10-Q Quarterly Report for the quarter en...  
+  10(ab)             Johnson & Johnson Executive Officer Cash Severance Policy — Incorporated herein by reference to Exhibit 10(ab) of the Registrant's Form 10-K Annual Report for the fiscal year ended December 29,...  
+  19                 Johnson & Johnson Stock Trading Policy for Directors, Executive Officers and Insiders (Amended as of April 27, 2023) — Incorporated herein by reference to Exhibit 19 of the Registrant’s Form 10...  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  21                 Subsidiaries — Filed with this document.                                                                                                                                                              
+  23                 Consent of Independent Registered Public Accounting Firm — Filed with this document.                                                                                                                  
+  31.1               Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act — Filed with this document.                                                                                
+  31.2               Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act — Filed with this document.                                                                                
+  32.1               Certification of Chief Executive Officer Pursuant to Section 906 of the Sarbanes-Oxley Act — Furnished with this document.                                                                            
+  32.2               Certification of Chief Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act — Furnished with this document.                                                                            
+  97                 Johnson & Johnson Clawback Policy (effective as of August 8, 2023) — Incorporated herein by reference to                                                                                              
+  Exhibit 101:                                                                                                                                                                                                             
+  EX-101. INS        Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document                                             
+  EX-101. SCH        Inline XBRL Taxonomy Extension Schema                                                                                                                                                                 
+  EX-101. CAL        Inline XBRL Taxonomy Extension Calculation Linkbase                                                                                                                                                   
+  EX-101. LAB        Inline XBRL Taxonomy Extension Label Linkbase                                                                                                                                                         
+  EX-101. PRE        Inline XBRL Taxonomy Extension Presentation Linkbase                                                                                                                                                  
+  EX-101. DEF        Inline XBRL Taxonomy Extension Definition Document                                                                                                                                                    
+  Exhibit 104:       Cover Page Interactive Data File––the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.               
+
+  Management contract or compensatory plan.                                                                                            
+  Paper filing.                                                                                                                        
+  Certain exhibits and schedules have been omitted pursuant to Item 601(b)(2)(ii) or 601(b)(10)(iv) of Regulation S-K, as applicable.  
+
+A copy of any of the Exhibits listed above will be provided without charge to any shareholder submitting a written request specifying the desired exhibit(s) to the Secretary at the principal executive offices of the Company. Pursuant to Item 601(b)(4)(iii)(A) of Regulation S-K, the Company has not filed as exhibits to this Form 10-K certain long-term debt instruments, under which the total amount of securities authorized does not exceed 10% of the total assets of the Company and its subsidiaries
+on a consolidated basis. The Company hereby agrees to furnish a copy of any such instrument to the SEC upon request.

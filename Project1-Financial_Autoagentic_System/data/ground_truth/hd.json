@@ -1,0 +1,23 @@
+{
+  "ticker": "HD",
+  "company_name": "HOME DEPOT, INC.",
+  "filing_date": "2025-03-21",
+  "period_of_report": "2025-02-02",
+  "financials": {
+    "total_revenue": 159514000000.0,
+    "cost_of_revenue": 106206000000.0,
+    "gross_profit": 53308000000.0,
+    "operating_income": 21526000000.0,
+    "cash_and_equivalents": 1659000000.0,
+    "total_assets": 96119000000.0,
+    "long_term_debt": 48485000000.0,
+    "total_liabilities": 89479000000.0,
+    "gross_margin": 0.3342,
+    "operating_margin": 0.1349
+  },
+  "segments": [],
+  "metadata": {
+    "source": "SEC EDGAR XBRL via edgartools",
+    "accession_number": "0000354950-25-000085"
+  }
+}

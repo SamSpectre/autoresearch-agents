@@ -1,0 +1,1185 @@
+Table of Contents
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D. C. 20549
+
+FORM 10-K
+
+(Mark One)
+
+  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+ ────────────────────────────────────────────────────────────────────────────────────────
+
+For the fiscal year ended December 31, 2025
+
+OR
+
+  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+ ────────────────────────────────────────────────────────────────────────────────────────────
+
+For the transition period from to.
+
+Commission File No. 1-768
+
+CATERPILLAR INC
+
+(Exact name of Registrant as specified in its charter)
+
+  Delaware                                                                         37-0602744                                
+  (State or other jurisdiction of incorporation)                                   (IRS Employer I. D. No.)                  
+  5205 N. O'Connor Boulevard,                         Suite 100,      Irving,      Texas                         75039       
+  (Address of principal executive offices)                                                                       (Zip Code)  
+
+Registrant’s telephone number, including area code: ( 972 891-7700
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+  Title of each class                         Trading Symbol (s)      Name of each exchange on which registered  
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Common Stock ($1.00 par value)              CAT                     New York Stock Exchange                    
+  5.3% Debentures due September 15, 2035      CAT35                   New York Stock Exchange                    
+
+Securities registered pursuant to Section 12(g) of the Act: None
+
+Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ý No o
+
+Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes o No ý
+
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ý No o
+
+Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ý No o
+
+Table of Contents
+
+Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company” and "emerging growth company" in Rule 12b-2 of the Exchange Act. (Check one):
+
+  Large accelerated filer      Accelerated filer          
+  Non-accelerated filer        Smaller reporting company  
+ ──────────────────────────────────────────────────────────
+                               Emerging growth company    
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U. s. C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ý
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. o
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). o
+
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes☐ No ý
+
+As of June 30, 2025, there were 468,478,923 shares of common stock of the Registrant outstanding, and the aggregate market value of the voting stock held by non-affiliates of the Registrant (assuming only for purposes of this computation that directors and executive officers may be affiliates) was approximately $ 180.9
+
+As of December 31, 2025, there were 465,287,332
+
+Documents Incorporated by Reference
+
+Portions of the documents listed below have been incorporated by reference into the indicated parts of this Form 10-K, as specified in the responses to the item numbers involved.
+
+  Part III      2026 Annual Meeting Proxy Statement (Proxy Statement) to be filed with the Securities and Exchange Commission (SEC) within 120 days after the end of the fiscal year.  
+
+
+TABLE OF CONTENTS
+
+  Part I        Item 1.       Business                                                                                                             1  
+                Item 1A.      Risk Factors                                                                                                         9  
+                Item 1B.      Unresolved Staff Comments                                                                                           19  
+                Item 1C.      Cybersecurity                                                                                                       19  
+                Item 1D.      Information about our Executive Officers                                                                            22  
+                Item 2.       Properties                                                                                                          23  
+                Item 3.       Legal Proceedings                                                                                                   25  
+                Item 4.       Mine Safety Disclosures                                                                                             25  
+  Part II       Item 5.       Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities        25  
+                Item 6.       [Reserved]                                                                                                          27  
+                Item 7.       Management’s Discussion and Analysis of Financial Condition and Results of Operations                               28  
+                Item 7A.      Quantitative and Qualitative Disclosures About Market Risk                                                          54  
+                Item 8.       Financial Statements and Supplementary Data                                                                         55  
+                Item 9.       Changes in and Disagreements with Accountants on Accounting and Financial Disclosure                               124  
+                Item 9A.      Controls and Procedures                                                                                            124  
+                Item 9B.      Other Information                                                                                                  124  
+                Item 9C.      Disclosure Regarding Foreign Jurisdictions that Prevent Inspections                                                124  
+  Part III      Item 10.      Directors, Executive Officers and Corporate Governance                                                             125  
+                Item 11.      Executive Compensation                                                                                             125  
+                Item 12.      Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters                     126  
+                Item 13.      Certain Relationships and Related Transactions, and Director Independence                                          126  
+                Item 14.      Principal Accountant Fees and Services                                                                             126  
+  Part IV       Item 15.      Exhibits and Financial Statement Schedules                                                                         127  
+                Item 16.      Form 10-K Summary                                                                                                  131  
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                                                                Page  
+
+
+PART I
+
+Item 1. Business.
+
+General
+
+Originally organized as Caterpillar Tractor Co. in 1925 in the State of California, our company was reorganized as Caterpillar Inc. in 1986 in the State of Delaware. As used herein, the term “ Caterpillar,” “we,” “us,” “our” or “the company” refers to Caterpillar Inc. and its subsidiaries unless designated or identified otherwise.
+
+Overview
+
+With 2025 sales and revenues of $67.589 billion, Caterpillar Inc. is shaping the future as the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives. Backed by one of the largest independent global dealer networks and financing services through Cat Financial, the company’s primary business segments: Power & Energy, Construction Industries and Resource Industries are solving customers’
+toughest challenges through commercial excellence and advanced technology, driven by a highly skilled, dedicated global team.
+
+Enterprise Strategy
+
+In 2025, our company introduced a revised strategy anchored by a new mission statement: Solving our customers' toughest challenges. Coupled with our purpose, we build a better, more sustainable world, this strategy guides how we operate with our global team and engage with customers, dealers and suppliers. The refreshed strategy establishes three profitable growth pillars focused on addressing customers' needs; Commercial Excellence, Advanced Technology Leader, and Transform How We Work. These 
+pillars are built upon our longstanding foundation of Operational Excellence and guided by the Operating & Execution model. We also re-enforced our commitment to our Values in Action - Safety, Integrity, Teamwork, Excellence and Commitment. Caterpillar continues to operate through five operating segments, four of which are reportable segments and are described below.
+
+Categories of Business Organization
+
+1. Machinery, Power & Energy - Caterpillar Inc. and its subsidiaries, excluding Financial Products. Machinery, Power & Energy information relates to the design, manufacturing and marketing of our products.
+
+2. Financial Products - Our finance and insurance subsidiaries, primarily Caterpillar Financial Services Corporation (Cat Financial) and Caterpillar Insurance Holdings Inc. (Insurance Services). Financial Products information relates to the financing to customers and dealers for the purchase and lease of Caterpillar and other equipment.
+
+Other information about our operations in 2025, including certain risks associated with our operations, is included in Part II, Item 7 “ Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+
+Construction Industries
+
+Our Construction Industries segment is primarily responsible for supporting customers using machinery in infrastructure and building construction applications. The majority of machine sales in this segment are made in the heavy and general construction, rental, quarry and aggregates and mining industries.
+
+The nature of customer demand for construction machinery varies around the world. Customers in developing economies often prioritize purchase price in making their investment decisions, while customers in developed economies generally weigh productivity and other performance criteria that contribute to lower owning and operating costs over the lifetime of the machine. To meet customer expectations in developing economies, Caterpillar developed differentiated product offerings that target 
+customers in those regions, including our SEM brand machines. We believe that these customer-driven product innovations enable us to compete more effectively in developing economies. The majority of Construction Industries' research and development spending in 2025 focused on the next generation of construction machines.
+
+
+The competitive environment for construction machinery is characterized by some global competitors and many regional and specialized local competitors. Examples of global competitors include CASE (part of CNH Industrial N. V.), Deere Construction & Forestry (part of Deere & Company), Doosan Bobcat (Part of Doosan Group), Hitachi Construction Machinery Co., Ltd., Hyundai Construction Equipment Co., Ltd., Hyundai Doosan Infracore Co., Ltd. (both part of Hyundai Heavy Industries Group), J. C. 
+Bamford Excavators Ltd., Kobelco Construction Machinery (part of Kobe Steel, Ltd), Komatsu Ltd., Kubota Farm & Industrial Machinery (part of Kubota Corporation), Sany Heavy Industry Co., Ltd., and Volvo Construction Equipment (part of the Volvo Group). As an example of regional and local competitors, our competitors in China also include Guangxi LiuGong Machinery Co., Ltd., Longking Holdings Ltd., Sany Heavy Industry Co, XCMG Construction Machinery Co., Ltd., Shandong Lingong Construction 
+Machinery Co., Ltd. (SDLG, JV with Volvo Construction Equipment) and Shantui Construction Machinery Co., Ltd., (part of Shandong Heavy Industry Group Co.). Each of these companies has varying product lines that compete with Caterpillar products, and each has varying degrees of regional focus.
+
+The Construction Industries product portfolio includes the following machines and related parts, services and worktools:
+
+  · asphalt pavers             · motor graders           · track-type tractors (small, medium)  
+  · backhoe loaders            · pipelayers              · track excavators (mini, small        
+  · cold planers               · road reclaimers         medium, large)                         
+  · compactors                 · skid steer loaders      · wheel excavators                     
+  · compact track loaders      · telehandlers            · wheel loaders (compact, small,       
+  · forestry machines          · track-type loaders      medium)                                
+ ────────────────────────────────────────────────────────────────────────────────────────────────
+  · material handlers                                                                           
+
+Resource Industries
+
+The Resource Industries segment is primarily responsible for supporting customers using machinery in mining, heavy construction and quarry and aggregates. Caterpillar offers a broad product range and services to deliver comprehensive solutions for our customers. We develop and manufacture high productivity equipment for both surface and underground mining operations around the world, as well as provide select work tools, machinery components, wear and maintenance components and related parts. 
+Our equipment is used to extract and haul copper, iron ore, coal, oil sands, aggregates, gold and other minerals and ores, as well as a variety of heavy construction applications. In addition to equipment, Resource Industries sells technology products and services to provide customers fleet management, equipment management analytics, autonomous machine capabilities, safety services and mining performance solutions.
+
+Customers in most markets place an emphasis on equipment that is highly productive, reliable and provides the lowest total cost of ownership over the life of the equipment. In some developing markets, customers often prioritize purchase price in making their investment decisions. We believe our ability to control the integration and design of key machine components and innovative technologies represents a competitive advantage. Our research and development efforts remain focused on providing 
+customers the lowest total cost of ownership enabled through the highest quality, most productive products and services in the industry.
+
+The competitive environment for Resource Industries consists of a few larger global competitors that compete in several of the markets that we serve and a substantial number of smaller companies that compete in a more limited range of products, applications, and regional markets. Our global surface competitors include Deere Construction & Forestry (part of Deere & Company), Epiroc AB, Hitachi Construction Machinery Co., Ltd., Komatsu Ltd., Liebherr-International AG, Sandvik AB, and Volvo 
+Construction Equipment. Our global underground competitors include Epiroc AB, Komatsu Ltd., and Sandvik AB.
+
+The Resource Industries product portfolio includes the following machines and related parts, services and worktools:
+
+  · electric rope shovels          · large wheel loaders           
+  · draglines                      · off-highway trucks            
+  · hydraulic shovels              · wide-body trucks              
+  · rotary drills                  · articulated trucks            
+  · hard rock vehicles             · wheel tractor scrapers        
+  · large track-type tractors      · wheel dozers                  
+  · large mining trucks            · landfill and soil compactors  
+
+
+Power & Energy
+
+Our Power & Energy segment supports customers in oil and gas, power generation, marine, rail and industrial applications, including Caterpillar machines. The product and services portfolio includes reciprocating engines, generator sets, integrated systems and solutions, turbines and turbine-related services, electrified powertrain and zero-emission power sources and service solutions development, the remanufacturing of Caterpillar engines and components, remanufacturing services for other 
+companies, diesel-electric locomotives and other rail-related products and services as well as product support of on-highway engines.
+
+Regulatory emissions standards require us to continue to make investments as new products and new regulations are introduced. Ongoing compliance with these regulations remains a focus. Emissions compliance in developing markets is complex due to rapidly evolving and unique requirements where enforcement processes can often vary. We employ robust product development, manufacturing processes and testing to help us comply with these regulations.
+
+The competitive environment for reciprocating engines in marine, oil and gas, industrial and electric power generation systems along with turbines in oil and gas and electric power generation consists of a few larger global competitors that compete in a variety of markets that Caterpillar serves, and a substantial number of smaller companies that compete in a limited-size product range, geographic region and/or application. Principal global competitors include Cummins Inc., Deutz AG, Rolls-Royce
+Power Systems AG and Siemens Energy AG. Other competitors, such as Volvo Penta AB, FPT Industrial SpA (Iveco Group), INNIO Group, GE Vernova Inc., Kawasaki Heavy Industries Ltd., Everllence SE (formerly MAN Energy Solutions SE), Weichai Power Co., Ltd., and other emerging market competitors compete in certain markets in which Caterpillar competes. An additional set of competitors, including Aggreko plc, Generac Holdings Inc., Discovery Energy, LLC (Rehlko, formerly Kohler Energy), Baker Hughes 
+Co., and others, are primarily packagers who source engines and/or other components from domestic and international suppliers and market products regionally and internationally through a variety of distribution channels. In rail-related businesses, our global competitors include Wabtec Corp, Greenbrier Companies, Inc., Voestalpine AG, Vossloh AG, Alstom SA, and Siemens Mobility A/S. We also compete with other companies on a more limited range of products, services and/or geographic regions.
+
+The Power & Energy portfolio includes the following products and related parts:
+
+•Reciprocating engine-powered generator sets
+
+• Reciprocating engines, drivetrain and integrated systems and solutions supplied to the industrial industry as well as Caterpillar machinery
+
+• Integrated systems and solutions used in the electric power generation industry
+
+•Turbines, centrifugal gas compressors and turbine-related services
+
+• Reciprocating engines, drivetrain and integrated systems and solutions for the marine and oil and gas industries
+
+•Electrified powertrain and zero-emission power sources and service solutions
+
+•Diesel-electric and hybrid locomotives and components and other rail-related products and services
+
+Financial Products Segment
+
+The business of our Financial Products Segment is primarily conducted by Cat Financial, Insurance Services and their respective subsidiaries and affiliates. Cat Financial is a wholly owned finance subsidiary of Caterpillar Inc., and it provides retail and wholesale financing alternatives to customers and dealers around the world for Caterpillar products and services, as well as financing for power generation facilities that incorporate Caterpillar products. The various financing plans offered by
+Cat Financial are designed to support sales of Caterpillar products and services and generate financing income for Cat Financial. In addition, Cat Financial purchases short-term wholesale trade receivables from Caterpillar. A significant portion of Cat Financial’s activity is conducted in North America, and Cat Financial has additional offices and subsidiaries in Latin America, Asia/Pacific, Europe and Africa.
+
+For over 40 years, Cat Financial has been providing financing for Caterpillar products, contributing to our knowledge of asset values, industry trends, financing structures and customer needs.
+
+Cat Financial offers the following financing products to customers:
+
+• Loans - Cat Financial offers loans that allow customers to purchase equipment with structured payments over time. These loans are typically secured by the equipment purchased.
+
+• Revolving Charge Accounts - Cat Financial offers revolving charge accounts that primarily allow customers to pay for parts, services and rentals at participating Caterpillar dealers.
+
+• Leases - Cat Financial offers non-tax finance leases and tax leases which may be classified as either finance or operating leases for accounting purposes based on the characteristics of the lease. Non-tax leases are finance leases
+
+
+that either require or allow the customer to purchase the equipment for a fixed price at the end of the term and the lessee for tax purposes is considered the owner of the equipment during the term of the lease. Tax leases are either operating or finance leases for accounting purposes, and for tax purposes, we are considered the owner of the equipment. At the end of tax leases, Lessees have the option to return the equipment or purchase it at market value. Lessees are obligated to maintain the 
+equipment and insure it against damage and are responsible for payment of property and sales taxes, maintenance and other operating costs.
+
+Cat Financial offers the following financing products to dealers:
+
+• Wholesale Financing - Cat Financial provides dealers with inventory and rental fleet financing.
+
+• Retail Loans - Cat Financial makes loans to certain dealers for working capital and other purposes. These loans are typically secured by dealership assets.
+
+Cat Financial’s financing products may be offered at fixed or floating interest rates. Cat Financial typically maintains a security interest in retail-financed equipment and generally requires physical damage insurance coverage on financed equipment.
+
+Cat Financial operates in a highly competitive environment, with financing for users of Caterpillar equipment and services available through a variety of sources, principally commercial banks and finance and leasing companies. Cat Financial’s competitors include Wells Fargo Equipment Finance Inc., Banc of America Leasing & Capital LLC, BNP Paribas Leasing Solutions Limited, Australia and New Zealand Banking Group Limited, Société Générale S. A. and various other banks and finance companies. In 
+addition, many of the manufacturers that compete with Caterpillar also own financial subsidiaries, such as John Deere Capital Corporation, Komatsu Financial L. P., Volvo Financial Services and Kubota Credit Corporation, which utilize many below-market interest rate programs (funded by the manufacturer) to support machine sales. Cat Financial works with the broader Caterpillar organization to provide a broad array of financial merchandising programs to compete around the world.
+
+Cat Financial provides financing only when certain criteria are met. Credit decisions are based on a variety of credit quality factors including prior payment experience, customer financial information, credit ratings, loan-to-value ratios and other internal metrics. Cat Financial typically maintains a security interest in retail-financed equipment and generally requires physical damage insurance coverage on financed equipment. Cat Financial finances a significant portion of Caterpillar dealers’
+sales and inventory of Caterpillar equipment throughout the world. Cat Financial’s competitive position is improved by marketing programs offered in conjunction with Caterpillar and/or Caterpillar dealers. Under these programs, Caterpillar, or the dealer, funds an amount at the outset of the transaction, which Cat Financial then recognizes as revenue over the term of the financing. We believe that these marketing programs provide Cat Financial a significant competitive advantage in financing 
+Caterpillar products.
+
+In certain instances, Cat Financial’s operations are subject to supervision and regulation by state, federal and various foreign governmental authorities, and may be subject to various laws and judicial and administrative decisions imposing various requirements and restrictions which, among other things, (i) regulate credit granting activities and the administration of loans, (ii) establish maximum interest rates, finance charges and other charges, (iii) require disclosures to customers, (iv) 
+govern secured transactions, (v) set collection, foreclosure, repossession and other trade practices and (vi) regulate the use and reporting of information related to a borrower’s credit experience. Cat Financial’s ability to comply with these and other governmental and legal requirements and restrictions affects its operations.
+
+The financial results of Cat Financial are largely dependent upon the ability of Caterpillar dealers to sell equipment and customers’ willingness to enter into financing or leasing agreements. Cat Financial is also affected by, among other things, the availability of funds from its financing sources, its cost of funds relative to its competitors and general economic conditions such as inflation and market interest rates.
+
+Cat Financial has a match-funding policy that addresses interest rate risk by aligning the interest rate profile (fixed or floating rate and duration) of its debt portfolio with the interest rate profile of its receivables portfolio within predetermined ranges on an ongoing basis. In connection with that policy, Cat Financial uses interest rate derivative instruments to modify the debt structure to match assets within the receivables portfolio. This matched funding reduces the volatility of 
+margins between interest-bearing assets and interest-bearing liabilities, regardless of which direction interest rates move. For more information regarding match funding, please see Note 4 - “ Derivative financial instruments and risk management” of Part II, Item 8 "Financial Statements and Supplementary Data." See also the risk factors associated with our financial products business included in Item 1A. of this Form 10-K.
+
+
+In managing foreign currency risk for Cat Financial’s operations, the objective is to minimize earnings volatility resulting from conversion and the remeasurement of net foreign currency balance sheet positions, and future transactions denominated in foreign currencies. This policy allows the use of foreign currency forward, option and cross currency contracts to offset the risk of currency mismatch between the assets and liabilities, and exchange rate risk associated with future transactions 
+denominated in foreign currencies.
+
+Caterpillar Insurance Company, a wholly owned subsidiary of Caterpillar Insurance Holdings Inc., is a U. S. insurance company domiciled in Missouri and primarily regulated by the Missouri Department of Insurance. Caterpillar Insurance Company is licensed to conduct property and casualty insurance business in 50 states, the District of Columbia and Guam and, as such, is also regulated in those jurisdictions. The State of Missouri acts as the lead regulatory authority and monitors Caterpillar 
+Insurance Company’s financial status to ensure that it is in compliance with minimum solvency requirements, as well as other financial ratios prescribed by the National Association of Insurance Commissioners. Caterpillar Insurance Company is also licensed to conduct insurance business through a branch in Zurich, Switzerland and, as such, is regulated by the Swiss Financial Market Supervisory Authority.
+
+Caterpillar Life Insurance Company, a wholly owned subsidiary of Caterpillar, is a U. S. insurance company domiciled in Missouri and primarily regulated by the Missouri Department of Insurance. Caterpillar Life Insurance Company is licensed to conduct life and accident and health insurance business in 26 states and the District of Columbia and, as such, is also regulated in those jurisdictions. The State of Missouri acts as the lead regulatory authority, and it monitors the financial status to 
+ensure that it is in compliance with minimum solvency requirements, as well as other financial ratios prescribed by the National Association of Insurance Commissioners. Caterpillar Life Insurance Company provides reinsurance coverage to Caterpillar Insurance Company. Specifically, Caterpillar Life Insurance Company has entered into a reinsurance agreement with Caterpillar Insurance Company, assuming 100% of the risk of an Accident and Health Stop Loss Insurance Policy to cover a Caterpillar 
+Voluntary Employees' Benefits Association (VEBA) Trust for medical losses sustained by a select group of Caterpillar retirees and dependents.
+
+Caterpillar Insurance Co. Ltd., a wholly owned subsidiary of Caterpillar Insurance Holdings Inc., is a captive insurance company domiciled in Bermuda and regulated by the Bermuda Monetary Authority. Caterpillar Insurance Co. Ltd. is registered as a Class 2 (General Business) and Class B (Long-Term) insurer with the Bermuda Monetary Authority. Under its Class 2 insurance license, Caterpillar Insurance Co. Ltd. insures its parent and affiliates for general liability, property, auto liability and 
+cargo. It also provides reinsurance to Caterpillar Insurance Company under a quota share reinsurance agreement for its Domestic Machine contractual liability policy in the United States. In addition, Caterpillar Insurance Co. Ltd. reinsures 100% of the international employee benefit plans of Caterpillar Inc. through retrocession agreements with other insurers. The employee benefits coverages include medical and accident coverages, which are reported under its Class 2 insurance license, and life 
+and disability coverages, which are reported under its Class B insurance license. The Bermuda Monetary Authority is responsible for monitoring compliance with solvency requirements and requires an Annual Financial Filing for this purpose.
+
+Caterpillar Insurance Services Corporation, a wholly owned subsidiary of Caterpillar Insurance Holdings Inc., is a Tennessee insurance agency licensed in all 50 states, the District of Columbia and Guam. It provides brokerage and insurance services for all property and casualty and life and health lines of business.
+
+Caterpillar’s insurance group provides protection and service for claims under the following programs:
+
+• Contractual Liability Insurance to insure certain service contract obligations of Caterpillar and its affiliates, Caterpillar dealers and original equipment manufacturers (OEMs).
+
+• Cargo reinsurance for the worldwide cargo risks of Caterpillar products.
+
+• Contractors’ Equipment Physical Damage Insurance for equipment manufactured by Caterpillar or OEMs, which is leased, rented or sold by third party dealers to customers.
+
+• General liability, employer’s liability, auto liability and property insurance for Caterpillar.
+
+• Life, disability, medical and accident reinsurance for Caterpillar's international employee benefits program (non-U. S.).
+
+• Reinsurance to cover VEBA Trust for medical claims of certain Caterpillar retirees and dependents.
+
+• Brokerage and insurance services for property and casualty and life and health business.
+
+
+Competitive Environment
+
+Caterpillar products and services are sold worldwide into a variety of highly competitive markets. In all markets, we compete on the basis of product performance, customer service, quality and price. From time to time, the intensity of competition results in price discounting in a particular industry or region. Such price discounting puts pressure on margins and can negatively impact operating profit. Outside the United States, certain competitors enjoy competitive advantages inherent to 
+operating in their home countries or regions.
+
+Raw Materials and Component Products
+
+We source our raw materials and manufactured components from suppliers both domestically and internationally. These purchases include unformed materials and rough and finished parts. Unformed materials include a variety of steel products, which are then cut or formed to shape and machined in our facilities. Rough parts include various sized steel and iron castings and forgings, which are machined to final specification levels inside our facilities. Finished parts are ready to assemble 
+components, which are made either to Caterpillar specifications or to supplier developed specifications. We machine and assemble some of the components used in our machines, engines and power generation units and to support our after-market dealer parts sales. We also purchase various goods and services used in production, logistics, offices and product development processes. We maintain global strategic sourcing models to meet our global facilities’ production needs while building long-term 
+supplier relationships and leveraging enterprise spend. We expect our suppliers to maintain, at all times, industry-leading levels of quality and the ability to timely deliver raw materials and component products for our machine and engine products. However, in some cases, increases in demand or supply chain disruptions have led to parts and components constraints across some products. We use a variety of agreements with suppliers to protect our intellectual property and processes to monitor and
+mitigate risks of the supply base causing a business disruption. The risks monitored include supplier financial viability, the ability to increase or decrease production levels, business continuity, quality and delivery.
+
+Patents and Trademarks
+
+We own a number of patents and trademarks, which have been obtained over a period of years and relate to the products we manufacture and the services we provide. These patents and trademarks are generally considered beneficial to our business. We do not regard our business as being dependent upon any single patent or group of patents.
+
+Order Backlog
+
+The dollar amount of backlog believed to be firm was approximately $51.2 billion at December 31, 2025 and $30.0 billion at December 31, 2024. Compared with year-end 2024, the order backlog increased across the primary segments, with the largest increase in Power & Energy. Of the total backlog at December 31, 2025, approximately $19.3 billion was not expected to be filled in 2026.
+
+Dealers and Distributors
+
+We distribute our machines principally through a worldwide organization of dealers (dealer network), 41 located in the United States and 109 located outside the United States, serving 190 countries. We sell reciprocating engines principally through the dealer network and to other manufacturers for use in products. We also sell some of the reciprocating engines manufactured by our subsidiary Perkins Engines Company Limited through its worldwide network of 86 distributors covering 183 countries. 
+We sell the FG Wilson branded electric power generation systems through its worldwide network of 108 distributors covering 159 countries.
+
+Our dealers do not deal exclusively with our products; however, in most cases sales and servicing of our products are the dealers’ principal business. We sell some products, primarily turbines and locomotives, directly to end customers through sales forces employed by the company. At times, these employees are assisted by independent sales representatives.
+
+While the large majority of our worldwide dealers are independently owned and operated, we own and operate a dealership in Japan that covers approximately 80% of the Japanese market: Nippon Caterpillar Division. We are currently operating this Japanese dealer directly and we report its results in the All Other Segment. There are also three independent dealers in the Southern Region of Japan.
+
+
+For Caterpillar-branded products, the company’s relationship with each of its independent dealers is memorialized in standard sales and service agreements. Pursuant to these agreements, the company grants the dealer the right to purchase and sell its products and to service the products in a specified geographic service territory. The company establishes prices to dealers after receiving input from dealers on transactional pricing in the marketplace. The company also agrees to defend its 
+intellectual property and to provide warranty and technical support to the dealer. The agreement further grants the dealer a non-exclusive license to use the company’s trademarks, service marks and brand names. In some instances, a separate trademark agreement exists between the company and a dealer.
+
+In exchange for these rights, the agreement obligates the dealer to develop and promote the sale of the company’s products to current and prospective customers in the dealer’s service territory. Each dealer agrees to employ adequate sales and support personnel to market, sell and promote the company’s products, demonstrate and exhibit the products, perform the company’s product improvement programs, inform the company concerning any features that might affect the safe operation of any of the 
+company’s products and maintain detailed books and records of the dealer’s financial condition, sales and inventories and make these books and records available at the company’s reasonable request.
+
+These sales and service agreements are terminable at will by either party primarily upon 90 days written notice.
+
+Human Capital
+
+Core Values
+
+Caterpillar’s global workforce is united by Our Values In Action, Caterpillar’s Code of Conduct. Safety, Integrity, Teamwork, Excellence, and Commitment provide the foundation for our values-based culture. Our human capital management principles are embedded in our values. Our values unite us, and reflect our diverse cultures, languages, geographies, and businesses, as one Caterpillar team.
+
+Health and Safety
+
+The health and safety of our employees is an important focus at Caterpillar. Our safety driven strategy is focused on preventing serious injuries and learning from those closest to the work. In 2025, the Company achieved a recordable injury frequency rate of 0.41, compared to the 2024 recordable injury frequency rate of 0.43. We strive to continually reduce our recordable injuries utilizing programs that amplify our safety culture globally.
+
+Talent and Leadership Development
+
+In addition to our focus on values and safety, we strive to continually attract, develop, engage, and retain a high-performing global team that executes our enterprise strategy of long-term profitable growth. We are committed to fostering an inclusive environment and a workforce that is representative of the diverse customers and communities we serve around the globe. Our Values In Action enable every individual to achieve their fullest potential and every team to help drive business success. 
+These principles guide us in our daily operating rhythm. In addition, we make on-going investments in our team to develop employees and help individuals reach their full potential.
+
+Our leadership development programs focus on encouraging a variety of experiences to help employees broaden understanding and increase perspective. Our leadership curriculums include building resilient and high performing teams as core development principles. Additionally, skill-based programs to upskill our manufacturing employees are developed locally and tailored to the specific needs of the business. All employees have access to mentoring programs that connect participants with senior 
+leaders and peers who can support their career goals and development.
+
+Our global internships, engineering co-ops, and career programs for engineering, marketing, and manufacturing provide development opportunities for early career employees. We also have a continual focus on strengthening technical, professional and leadership capabilities at every level using contemporary learning strategies to foster high performance. Strategic talent reviews and succession planning occur at a minimum, annually, across our businesses. Mentoring programs connect participants with
+senior leaders and peers who can support their career goals and development.
+
+Our 14 Employee Resource Groups (ERGs), which are sponsored and supported by leadership, help ensure different voices and perspectives contribute to our strategy for long-term profitable growth. They also engage our employees, helping contribute to development and retention. Our ERGs provide many contributions to help further our business strategy including partnerships with recruiters and early career and professional organizations that can assist in strengthening the talent pipeline and 
+programs that educate and inform on the richness of the global cultures that we share.
+
+
+Compensation, Benefits and Employee Insights
+
+Providing competitive benefits and compensation underpins our commitment to our engaged and productive employees. Our pay-for-performance philosophy aligns employee’s individual contributions, behaviors and business results with individual rewards. Our comprehensive Total Health programs focus on purpose, as well as physical and mental health, emotional and social support, and financial wellness. The annual Employee Insights Survey provides all employees the opportunity to confidentially share 
+their perspectives and engages leaders to listen, learn and respond to employee feedback to help foster a positive work environment.
+
+Employment
+
+Management aligns employment levels with the needs of the business. We believe we have the appropriate human capital resources to successfully operate and deliver our enterprise strategy. As of December 31, 2025, we employed about 118,000 full-time persons of whom approximately 66,400 were located outside the United States. In the United States, we employed approximately 51,600 full-time persons, most of whom are at-will employees and, therefore, not subject to any type of employment contract or
+agreement. At select business units, we have hired certain highly specialized employees under employment contracts that specify a term of employment, pay and other benefits.
+
+  Full-Time Employees at Year-End                            
+                                          2025         2024  
+  Inside U. S.                          51,600       51,500  
+  Outside U. S.                         66,400       61,400  
+  Total                                118,000      112,900  
+  By Region:                                                 
+  North America                         52,100       52,000  
+  EAME                                  16,700       15,900  
+  Latin America                         22,300       19,700  
+  Asia/Pacific                          26,900       25,300  
+  Total                                118,000      112,900  
+
+As of December 31, 2025, there were 7,972 hourly production employees in the United States who were covered by collective bargaining agreements with various labor unions, including The United Automobile, Aerospace and Agricultural Implement Workers of America (UAW), The International Association of Machinists and The United Steelworkers. Outside the United States, the company enters into employment contracts and agreements in those countries in which such relationships are mandatory or 
+customary. The provisions of these agreements generally correspond in each case with the required or customary terms in the subject jurisdiction.
+
+Environmental Matters
+
+The company is regulated by federal, state and international environmental laws governing our use, transport and disposal of substances and control of emissions. In addition to governing our manufacturing and other operations, these laws often impact the development of our products, including, but not limited to, required compliance with air emissions standards applicable to internal combustion engines. We have made, and will continue to make, significant research and development and capital 
+expenditures to comply with these emissions standards.
+
+We are engaged in remedial activities at a number of locations, often with other companies, pursuant to federal and state laws. When it is probable we will pay remedial costs at a site, and those costs can be reasonably estimated, the investigation, remediation, and operating and maintenance costs of the remedial action are accrued against our earnings. Costs are accrued based on consideration of currently available data and information with respect to each individual site, including available 
+technologies, current applicable laws and regulations, and prior remediation experience. Where no amount within a range of estimates is more likely, we accrue the minimum. Where multiple potentially responsible parties are involved, we consider our proportionate share of the probable costs. In formulating the estimate of probable costs, we do not consider amounts expected to be recovered from insurance companies or others. We reassess these accrued amounts on a quarterly basis. The amount 
+recorded for environmental remediation is not material and is included in the line item "Accrued expenses" in Statement 3 - "Consolidated Financial Position at December 31" of Part II, Item 8 "Financial Statements and Supplementary Data." There is no more than a remote chance that a material amount for remedial activities at any individual site, or at all the sites in the aggregate, will be required.
+
+Available Information
+
+The company files electronically with the Securities and Exchange Commission (SEC) required reports on Form 8-K, Form 10-Q, Form 10-K and Form 11-K; proxy materials; ownership reports for insiders as required by Section 16 of the Securities Exchange Act of 1934 (Exchange Act); registration statements on Forms S-3 and S-8, as necessary; and other forms or reports as required. The SEC maintains a website (www. sec. gov) that contains reports, proxy and information statements, and other information
+regarding issuers that file electronically with the SEC. The company maintains a website (www. Caterpillar. com) and copies of our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to these reports filed or furnished with the SEC are available free of charge through our website (www. Caterpillar. com/secfilings) as soon as reasonably practicable after filing with the SEC. Copies of our board committee charters, our board’s Guidelines on 
+Corporate Governance Issues, Worldwide Code of Conduct and other corporate governance information are available on our website (www. Caterpillar. com/governance) and are also available free of charge. The information contained on the company’s website is not included in, or incorporated by reference into, this annual report on Form 10-K.
+
+Additional company information may be obtained as follows:
+
+Current information -
+
+• view additional financial information on-line at www. Caterpillar. com/en/investors/financial-information. html
+
+• request, view or download materials on-line or register for email alerts at www. Caterpillar. com/materialsrequest
+
+Historical information -
+
+• view/download on-line at www. Caterpillar. com/historical
+
+Item 1A. Risk Factors.
+
+The statements in this section describe the most significant risks to our business and should be considered carefully in conjunction with Part II, Item 7 “ Management’s Discussion and Analysis of Financial Condition and Results of Operations” and the “ Notes to Consolidated Financial Statements” of Part II, Item 8 “ Financ
+
+[...FILING TEXT TRUNCATED...]
+
+                                                                                                                                       
+  Derivative financial instruments - liabilities                                                                                                                         
+  Interest rate contracts - net                       $                      $               40      $            $                                        $         40  
+  Total return swap contracts - net                   —                      1                       —            —                                        1             
+  Total liabilities                                   $                      $               41      $            $                                        $         41  
+
+
+                                                      December 31, 2024                                                                                                  
+  (Millions of dollars)                               Level 1                Level 2                 Level 3      Measured at NAV                      Total             
+                                                                                                                                       Assets / Liabilities,             
+                                                                                                                                               at Fair Value             
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Assets                                                                                                                                                                 
+  Debt securities                                                                                                                                                        
+  Government debt securities                                                                                                                                             
+  U. S. treasury bonds                                $                      $                —      $            $                                        $         10  
+  Other U. S. and non-U. S. government bonds          —                      68                      —            —                                       68             
+  Corporate debt securities                                                                                                                                              
+  Corporate bonds and other debt securities           —                                   3,170      —            —                                               3,170  
+  Asset-backed securities                             —                      219                     —            —                                      219             
+  Mortgage-backed debt securities                                                                                                                                        
+  U. S. governmental agency                           —                      443                     —            —                                      443             
+  Residential                                         —                      2                       —            —                                        2             
+  Commercial                                          —                      130                     —            —                                      130             
+  Total debt securities                               10                                  4,032      —            —                                               4,042  
+  Equity securities                                                                                                                                                      
+  Large capitalization value                          261                    —                       —                                                   261             
+  Smaller company growth                              41                     —                       —                                                    41             
+  REIT                                                —                      —                       —            167                                    167             
+  Total equity securities                             302                    —                       —            167                                    469             
+  Derivative financial instruments - assets                                                                                                                              
+  Foreign currency contracts - net                    —                      117                     —            —                                      117             
+  Total assets                                        $                      $            4,149      $            $                                        $      4,628  
+  Liabilities                                                                                                                                                            
+  Derivative financial instruments - liabilities                                                                                                                         
+  Interest rate contracts - net                       $                      $              191      $            $                                        $        191  
+  Commodity contracts - net                           —                      2                       —            —                                        2             
+  Total return swap contracts - net                   —                      33                      —            —                                       33             
+  Total liabilities                                   $                      $              226      $            $                                        $        226  
+
+In addition to the amounts above, certain Cat Financial loans are subject to measurement at fair value on a nonrecurring basis and are classified as Level 3 measurements. A loan is measured at fair value when management determines that collection of contractual amounts due is not probable and the loan is individually evaluated. In these cases, an allowance for credit losses may be established based either on the present value of expected future cash flows discounted at the receivables’ effective
+interest rate, the fair value of the collateral for collateral-dependent receivables, or the observable market price of the receivable. In determining collateral value, Cat Financial estimates the current fair market value of the collateral less selling costs. Cat Financial had loans carried at fair value of $ 63 59
+
+B. Fair values of financial instruments
+
+In addition to the methods and assumptions we use to record the fair value of financial instruments as discussed in the Fair value measurements section above, we use the following methods and assumptions to estimate the fair value of our financial instruments:
+
+
+Cash and cash equivalents
+
+Carrying amount approximates fair value. We classify cash and cash equivalents as Level 1. See Statement 3.
+
+Restricted cash and short-term investments
+
+Carrying amount approximates fair value. We include restricted cash and short-term investments in Prepaid expenses and other current assets in Statement 3. We classify these instruments as Level 1 except for time deposits which are Level 2. See Note 11 for additional information.
+
+Finance receivables
+
+We estimate fair value by discounting the future cash flows using current rates, representative of receivables with similar remaining maturities.
+
+Wholesale inventory receivables
+
+We estimate fair value by discounting the future cash flows using current rates, representative of receivables with similar remaining maturities.
+
+Short-term borrowings
+
+Carrying amount approximates fair value. We classify short-term borrowings as Level 1. See Note 13 for additional information.
+
+Long-term debt
+
+We estimate fair value for fixed and floating rate debt based on quoted market prices.
+
+Our financial instruments not carried at fair value were as follows:
+
+                                                                        2025                                  2024                                             
+  (Millions of dollars)                                                 Carrying                              Carrying                              Reference  
+                                                                        Amount                                Amount                                           
+  Assets at December 31,                                                                                                                                       
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Finance receivables–net (excluding finance leases 1)                  $             17,922      17,648      $             16,180      15,788      Note 7     
+  Wholesale inventory receivables–net (excluding finance leases 1)                     1,931       1,871                     1,568       1,527      Note 7     
+  Liabilities at December 31,                                                                                                                                  
+  Long-term debt (including amounts due within one year):                                                                                                      
+  Machinery, Power & Energy                                                           10,713      10,363                     8,610       7,980      Note 14    
+  Financial Products                                                                  27,103      27,204                    25,406      25,304      Note 14    
+
+1 Represents finance leases and failed sale leasebacks of $ 7,189 6,769
+
+19. Supplier finance programs
+
+We facilitate voluntary supplier finance programs (the “ Programs”) through participating financial institutions. The Programs are available to a wide range of suppliers and allow them the option to manage their cash flow. We are not a party to the agreements between the participating financial institutions and the suppliers in connection with the Programs. The range of payment terms, typically 60 90 Accounts payable 936 830
+
+
+The rollforward of our outstanding obligations confirmed as valid under the Programs for the Years ended December 31, were as follows:
+
+  (Millions of dollars)                                       2025                     2024                 
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Confirmed obligations outstanding, beginning of period      $               830      $               803  
+  Invoices confirmed during the period                                      5,669                    5,140  
+  Confirmed invoices paid during the period                   ( 5,563)                 ( 5,113)             
+  Confirmed obligations outstanding, end of period            $               936      $               830  
+
+20. Leases
+
+A. Lessee arrangements
+
+We lease certain property, information technology equipment, warehouse equipment, vehicles and other equipment through operating leases. We recognize a lease liability and corresponding right-of-use asset based on the present value of lease payments. To determine the present value of lease payments for most of our leases, we use our incremental borrowing rate based on information available on the lease commencement date. For certain property and information technology equipment leases, we have 
+elected to separate payments for lease components from non-lease components. For all other leases, we have elected not to separate payments for lease and non-lease components. Our lease agreements may include options to extend or terminate the lease. When it is reasonably certain that we will exercise that option, we have included the option in the recognition of right-of-use assets and lease liabilities. We have elected not to recognize right-of-use assets or lease liabilities for leases with a
+term of twelve months or less.
+
+Our finance leases are not significant and therefore are not included in the following disclosures.
+
+The components of lease costs were as follows:
+
+  (Millions of dollars)                                                                               
+                             Years Ended December 31,                                                 
+                             2025                                   2024               2023           
+  Operating lease cost       $                             192      $         185      $         189  
+  Short-term lease cost      $                              67      $          65      $          62  
+
+We recognize operating lease right-of-use assets in Other assets in Statement 3. We recognize the operating lease liabilities in Other current liabilities and Other liabilities.
+
+Supplemental information related to leases was as follows:
+
+  (Millions of dollars)                                                                                  
+                                             December 31, 2025               December 31, 2024           
+  Operating Leases                                                                                       
+  Other assets                               $                      708      $                      592  
+  Other current liabilities                  $                      158      $                      143  
+  Other liabilities                          $                      570      $                      459  
+  Weighted average remaining lease term                                                                  
+  Operating leases                           7 years                         7 years                     
+  Weighted average discount rates                                                                        
+  Operating leases                           4                               3                           
+
+Maturities of operating lease liabilities were as follows:
+
+  (Millions of dollars)       December 31, 2025           
+ ──────────────────────────────────────────────────────────
+  Amounts Due In                                          
+  2026                                        $      183  
+  2027                                      149           
+  2028                                      115           
+  2029                                       98           
+  2030                                       74           
+  Thereafter                                223           
+  Total lease payments                      842           
+  Less: Imputed interest                 ( 114)           
+  Total                                       $      728  
+
+Supplemental cash flow information related to leases was as follows:
+
+  (Millions of dollars)                                                                                                                                
+                                                                              Years ended December 31,                                                 
+                                                                              2025                                   2024               2023           
+  Cash paid for amounts included in the measurement of lease liabilities                                                                               
+  Operating cash flows from operating leases                                  $                             185      $         179      $         180  
+  Right-of-use assets obtained in exchange for lease obligations:                                                                                      
+  Operating leases                                                            $                             259      $         187      $         148  
+
+B. Lessor arrangements
+
+We lease Caterpillar machinery, engines and other equipment to customers and dealers around the world, primarily through Cat Financial. Cat Financial leases to customers primarily through sales-type (non-tax) leases, where the lessee for tax purposes is considered to be the owner of the equipment during the term of the lease. Cat Financial also offers tax leases that are classified as either operating or direct finance leases for financial accounting purposes, depending on the characteristics of
+the lease. For tax purposes, Cat Financial is considered the owner of the equipment. Our lease agreements may include options for the lessee to purchase the underlying asset at the end of the lease term for either a stated fixed price or fair market value.
+
+We determine the residual value of Cat Financial’s leased equipment based on its estimated end-of-term market value. We estimate the residual value of leased equipment at the inception of the lease based on a number of factors, including historical wholesale market sales prices, past remarketing experience and any known significant market/product trends. We also consider the following critical factors in our residual value estimates: lease term, market size and demand, total expected hours of 
+usage, machine configuration, application, location, model changes, quantities, third-party residual guarantees and contractual customer purchase options.
+
+During the term of our leases, we monitor residual values. For operating leases, we record adjustments to depreciation expense reflecting changes in residual value estimates prospectively on a straight-line basis. For finance leases, we recognize residual value adjustments through a reduction of finance revenue over the remaining lease term.
+
+See Note 7 for contractual maturities of finance lease receivables (sales-type and direct finance leases).
+
+The carrying amount of equipment leased to others, included in Property, plant and equipment - net in Statement 3, under operating leases was as follows:
+
+                                                     December 31,                                      
+  (Millions of dollars)                              2025                         2024                 
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────
+  Equipment leased to others - at original cost      $                 6,004      $             5,701  
+  Less: Accumulated depreciation                     ( 1,999)                     ( 1,927)             
+  Equipment leased to others - net                   $                 4,005      $             3,774  
+
+Payments due for operating leases as of December 31, 2025, were as follows:
+
+  (Millions of dollars)                                                                           
+  2026                        2027       2028       2029       2030      Thereafter      Total    
+  $ 896                      $ 598      $ 397      $ 200      $ 104      $ 80            $ 2,275  
+
+Revenues from finance and operating leases, primarily included in Revenues of Financial Products
+
+  (Millions of dollars)                                                                                      
+                               Year ended December 31,                                                       
+                               2025                                    2024                 2023             
+  Finance lease revenue        $                              473      $           440      $           420  
+  Operating lease revenue                                   1,216                1,212                1,166  
+  Total                        $                            1,689      $         1,652      $         1,586  
+
+We present revenues net of sales and other related taxes.
+
+
+21. Guarantees and product warranty
+
+We have provided various guarantees that have varying terms and limit potential payment. Under the guarantees, non-performance by the third parties could require Caterpillar to satisfy the contractual obligation by providing goods, services or financial compensation. The maximum potential amount of future payments (undiscounted and without reduction for any amounts possibly recoverable) that we could be required to make under the guarantees was $ 458 368
+
+We have dealer performance guarantees and third-party performance guarantees that do not limit potential payment to end users related to indemnities and other commercial contractual obligations. In addition, we have entered into contracts involving industry standard indemnifications that do not limit potential payment. For these unlimited guarantees, we are unable to estimate a maximum potential amount of future payments that could result from claims made.
+
+No significant loss has been experienced or is anticipated under any of these guarantees.
+
+Cat Financial provides guarantees to purchase certain loans of Caterpillar dealers from a special-purpose corporation (SPC) that qualifies as a variable interest entity. Cat Financial receives a fee for providing this guarantee. The purpose of the SPC is to provide short-term working capital loans to Caterpillar dealers. This SPC issues commercial paper and uses the proceeds to fund its loan program. Cat Financial is the primary beneficiary of the SPC as its guarantees result in Cat Financial 
+having both the power to direct the activities that most significantly impact the SPC’s economic performance and the obligation to absorb losses, and therefore Cat Financial has consolidated the financial statements of the SPC. As of December 31, 2025 and 2024, the SPC’s assets of $ 1.19 1.14 1.19 1.14
+
+Cat Financial has commitments to extend credit to customers and Caterpillar dealers through lines of credit and other pre-approved credit arrangements. Cat Financial applies the same credit policies and approval process for these commitments as we do for other financing. If credit is extended, collateral is generally required upon funding. The unused commitments to extend credit to customers and dealers that are not unconditionally cancellable were $ 901 291
+
+We determine our product warranty liability by applying historical claim rate experience to the current field population and dealer inventory. Generally, we base historical claim rates on actual warranty experience for each product by machine model/engine size by customer or dealer location (inside or outside North America). We develop specific rates for each product shipment month and update them monthly based on actual warranty claim experience.
+
+The reconciliation of the change in our product warranty liability balances for the years ended December 31, was as follows:
+
+  (Millions of dollars)                        2025                   2024               
+ ─────────────────────────────────────────────────────────────────────────────────────────
+  Warranty liability, beginning of period      $           1,700      $           1,894  
+  Reduction in liability (payments)            ( 836)                 ( 824)             
+  Increase in liability (new warranties)       762                    630                
+  Warranty liability, end of period            $           1,626      $           1,700  
+
+22. Environmental and legal matters
+
+The Company is regulated by federal, state and international environmental laws governing its use, transport and disposal of substances and control of emissions. In addition to governing our manufacturing and other operations, these laws often impact the development of our products, including, but not limited to, required compliance with air emissions standards applicable to internal combustion engines. We have made, and will continue to make, significant research and development and capital 
+expenditures to comply with these emissions standards.
+
+
+We are engaged in remedial activities at a number of locations, often with other companies, pursuant to federal and state laws. When it is probable we will pay remedial costs at a site, and those costs can be reasonably estimated, we accrue the investigation, remediation, and operating and maintenance costs against our earnings. We accrue costs based on consideration of currently available data and information with respect to each individual site, including available technologies, current 
+applicable laws and regulations, and prior remediation experience. Where no amount within a range of estimates is more likely, we accrue the minimum. Where multiple potentially responsible parties are involved, we consider our proportionate share of the probable costs. In formulating the estimate of probable costs, we do not consider amounts expected to be recovered from insurance companies or others. We reassess these accrued amounts on a quarterly basis. The amount recorded for environmental 
+remediation is not material and is included in Accrued expenses. We believe there is no more than a remote chance that a material amount for remedial activities at any individual site, or at all the sites in the aggregate, will be required.
+
+Our operations in Brazil are subject to highly complex labor, tax, customs and other laws. While we believe that we are in compliance with such laws, we are periodically engaged in litigation regarding the application of these laws, including certain tax and customs disputes with federal, state and municipal authorities in Brazil relating to export activities associated with Caterpillar Brasil Ltda. The Company is unable to predict the outcome or reasonably estimate any potential losses; 
+however, we currently believe that any matters raised will not have a material adverse effect on the Company's consolidated results of operations, financial position or liquidity.
+
+In addition, we are involved in other unresolved legal actions that arise in the normal course of business. The most prevalent of these unresolved actions involve disputes related to product design, manufacture and performance liability (including claimed asbestos exposure), contracts, employment issues, environmental matters, intellectual property rights, taxes (other than income taxes) and securities laws. The aggregate range of reasonably possible losses in excess of accrued liabilities, if 
+any, associated with these unresolved legal actions is not material. In some cases, we cannot reasonably estimate a range of loss because there is insufficient information regarding the matter. However, we believe there is no more than a remote chance that any liability arising from these matters would be material. Although it is not possible to predict with certainty the outcome of these unresolved legal actions, we believe that these actions will not individually or in the aggregate have a 
+material adverse effect on our consolidated results of operations, financial position or liquidity.
+
+23. Segment information
+
+A. Basis for segment information
+
+Our Executive Office is comprised of a Chief Executive Officer (CEO), four
+
+Three One One one
+
+Effective July 1, 2025, we made the following changes to segment reporting. These changes were made to reflect changes in organizational accountabilities and refinements to our internal reporting.
+
+• Responsibility for business strategy, product design, product management and development, manufacturing, marketing and sales and product support for and sourcing of wear and maintenance components and related parts moved from All Other Segment to Resource Industries.
+
+• Responsibility for business strategy, product design, product management and development, manufacturing and product support for electronics and control systems moved from Resource Industries to All Other Segment.
+
+• Responsibility for research and development for automation, electronics and software for machines and engines moved from Resource Industries to the All Other Segment.
+
+
+Segment information for 2024 and 2023 has been retrospectively adjusted to conform to the 2025 presentation.
+
+B. Description of segments
+
+We have five four
+
+Construction Industries: A segment primarily responsible for supporting customers using machinery in infrastructure and building construction applications. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales and product support. The product portfolio includes asphalt pavers; backhoe loaders; cold planers; compactors; compact track loaders; forestry machines; material handlers; motor graders; pipelayers; road 
+reclaimers; skid steer loaders; telehandlers; track-type loaders; track-type tractors (small, medium); track excavators (mini, small, medium, large); wheel excavators; wheel loaders (compact, small, medium); and related parts and work tools. Inter-segment sales are a source of revenue for this segment.
+
+Resource Industries: A segment primarily responsible for supporting customers using machinery in mining, heavy construction and quarry and aggregates. Responsibilities include business strategy, product design, product management and development, manufacturing, marketing and sales and product support. The product portfolio includes large track-type tractors; large mining trucks; hard rock vehicles; electric rope shovels; draglines; hydraulic shovels; rotary drills; large wheel loaders; 
+off-highway trucks; articulated trucks; wheel tractor scrapers; wheel dozers; landfill compactors; soil compactors; wide-body trucks; select work tools; machinery components; wear and maintenance components and related parts. In addition to equipment, Resource Industries also sells technology products and services to provide customers fleet management, equipment management analytics, autonomous machine capabilities, safety services and mining performance solutions. Resource Industries also 
+manages areas that provide services to other parts of the company, including strategic procurement, lean center of excellence, integrated component design and manufacturing and research and development for hydraulic systems and cabs. Inter-segment sales are a source of revenue for this segment.
+
+Power & Energy: A segment primarily responsible for supporting customers using reciprocating engines, turbines, diesel-electric locomotives and related services across industries serving Oil and Gas, Power Generation, Industrial and Transportation applications, including marine- and rail-related businesses as well as product support of on-highway engines. Responsibilities include business strategy, product design, product management, development and testing, manufacturing, marketing and sales 
+and product support. The product and services portfolio includes turbines, centrifugal gas compressors, and turbine-related services; reciprocating engine-powered generator sets; integrated systems and solutions used in the electric power generation industry; reciprocating engines, drivetrain and integrated systems and solutions for the marine and oil and gas industries; reciprocating engines, drivetrain and integrated systems and solutions supplied to the industrial industry as well as 
+Caterpillar machines; electrified powertrain and zero-emission power sources and service solutions development; and diesel-electric and hybrid locomotives and components and other rail-related products and services, including remanufacturing and leasing. Responsibilities also include the remanufacturing of Caterpillar reciprocating engines and components and remanufacturing services for other companies. Inter-segment sales are a source of revenue for this segment.
+
+Financial Products Segment: Provides financing alternatives to customers and dealers around the world for Caterpillar products and services, as well as financing for power generation facilities that incorporate Caterpillar products. Financing plans include operating and finance leases, revolving charge accounts, installment sale contracts, repair/rebuild financing, working capital loans and wholesale financing plans. The segment also provides insurance and risk management products and services 
+that help customers and dealers manage their business risk. Insurance and risk management products offered include physical damage insurance, inventory protection plans, extended service coverage and maintenance plans for machines and engines, and dealer property and casualty insurance. The various forms of financing, insurance and risk management products offered to customers and dealers help support the purchase and lease of Caterpillar equipment. The segment also earns revenues from 
+Machinery, Power & Energy, but the related costs are not allocated to operating segments. Financial Products’ segment profit is determined on a pretax basis and includes other income/expense items.
+
+
+All Other Segment: Primarily includes activities such as: business strategy; product management and development; parts distribution; integrated logistics solutions; electronics and control systems; distribution services responsible for dealer development and administration, including a wholly owned dealer in Japan; dealer portfolio management and ensuring the most efficient and effective distribution of machines, engines and parts; brand management and marketing strategy; research and 
+development for automation, electronics and software for machines and engines and digital investments for new customer and dealer solutions that integrate data analytics with state-of-the-art digital technologies while transforming the buying experience. Results for the All Other Segment are included as a reconciling item between reportable segments and consolidated external reporting.
+
+C. Segment measurement and reconciliations
+
+We determine the segment profit of Construction Industries, Resource Industries, Power & Energy and our All Other Segment on a pretax basis and exclude most interest expense and certain other income (expense) items. We determine Financial Products Segment profit on a pretax basis and include other income (expense) items.
+
+Our CODM evaluates the operating performance of the segments using segment profit as it provides insight into the financial health of each segment. The CODM reviews this metric regularly to compare the profitability of segments, identify trends, and evaluate which segments require additional resources or strategic adjustments. The CODM uses segment profit to support the allocation of resources predominantly in the annual budget and forecasting process. Additionally, the CODM monitors 
+forecast-to-actual variances, focusing on areas where performance deviates from expectations, when evaluating the performance of each segment and making decisions about allocating capital and other resources to each segment.
+
+There are several methodology differences between our segment reporting and our external reporting. The following is a list of the more significant methodology differences:
+
+• For Construction Industries, Resource Industries, Power & Energy and our All Other Segment, net assets generally include inventories, receivables, property, plant and equipment, goodwill, intangibles, accounts payable and customer advances. We generally manage at the corporate level liabilities other than accounts payable and customer advances, and we do not include these in segment operations. Financial Products Segment assets generally include all categories of assets.
+
+• We value segment inventories and cost of sales using a current cost methodology.
+
+• We amortize goodwill allocated to segments using a fixed amount based on a 20-year
+
+• We generally manage currency exposures for operating segments, other than Financial Products, at the corporate level and do not include in segment profit the effects of changes in exchange rates on results of operations within the year. We report the net difference created in the translation of revenues and costs between exchange rates used for U. S. GAAP reporting and exchange rates used for segment reporting as a methodology difference.
+
+• We do not include stock-based compensation expense in segment profit.
+
+• Postretirement benefit expenses are split; segments are generally responsible for service costs, with the remaining elements of net periodic benefit cost included as a methodology difference.
+
+Reconciling items are created based on accounting differences between segment reporting and our consolidated external reporting. Please refer to pages 121 to 122 for financial information regarding significant reconciling items. Most of our reconciling items are self-explanatory given the above explanations. For the reconciliation of profit, we have grouped the reconciling items as follows:
+
+•Corporate costs: These costs are related to corporate requirements primarily for compliance and legal functions for the benefit of the entire organization.
+
+
+•Restructuring income/costs: May include costs for employee separation, long-lived asset impairments, contract terminations and (gains)/losses on divestitures. These costs are included in Other operating (income) expenses
+
+•Methodology differences: See previous discussion of significant accounting differences between segment reporting and consolidated external reporting.
+
+•Timing: Timing differences in the recognition of costs between segment reporting and consolidated external reporting. For example, we report certain costs on the cash basis for segment reporting and the accrual basis for consolidated external reporting.
+
+For the years ended December 31, 2025, 2024 and 2023, sales and revenues by geographic region reconciled to consolidated sales and revenues were as follows:
+
+  Sales and Revenues by Geographic Region                                                                                                                        
+  (Millions of dollars)                                                                                             Intersegment Sales and Revenues              
+  2025                                                                                                                                                           
+  Construction Industries                                14,064      2,358       4,595       3,783      24,800      $                                    25,060  
+  Resource Industries                                     4,643      2,292       2,061       3,189      12,185      289                                  12,474  
+  Power & Energy                                         15,558      1,985       5,717       3,883      27,143                                           32,201  
+  Financial Products Segment                              2,841                                          4,220      —                                     4,220  
+  Total sales and revenues from reportable segments      37,106      7,077      12,884      11,281      68,348                                           73,955  
+  All Other Segment                                                                                                 281                                          
+  Corporate Items and Eliminations                                                                                  ( 5,888)                                     
+  Total Sales and Revenues                               36,609      6,988      12,793      11,199      67,589      $                                    67,589  
+  2024                                                                                                                                                           
+  Construction Industries                                14,576      2,553       4,315       3,900      25,344      $                                    25,455  
+  Resource Industries                                     4,597      2,079       1,809       3,615      12,100      371                                  12,471  
+  Power & Energy                                         13,005      1,763       5,787       3,533      24,088                                           28,854  
+  Financial Products Segment                              2,702                                          4,053      —                                     4,053  
+  Total sales and revenues from reportable segments      34,880      6,797      12,416      11,492      65,585                                           70,833  
+  All Other Segment                                                                                                 308                                          
+  Corporate Items and Eliminations                                                                                  ( 5,556)                                     
+  Total Sales and Revenues                               34,397      6,708      12,316      11,388      64,809      $                                    64,809  
+  2023                                                                                                                                                           
+  Construction Industries                                15,343      2,307       5,254       4,390      27,294      $                                    27,418  
+  Resource Industries                                     5,292      2,040       2,075       3,922      13,329      340                                  13,669  
+  Power & Energy                                         11,982      1,983       5,929       3,461      23,355                                           28,001  
+  Financial Products Segment                              2,440                                          3,785      —                                     3,785  
+  Total sales and revenues from reportable segments      35,057      6,746      13,749      12,211      67,763                                           72,873  
+  All Other Segment                                                                                                 318                                          
+  Corporate Items and Eliminations                                                                                  ( 5,428)                                     
+  Total Sales and Revenues                               34,606      6,665      13,673      12,116      67,060      $                                    67,060  
+
+1 Includes revenues from Construction Industries, Resource Industries, Power & Energy and All Other Segment of $ 712 711 690
+
+
+For the years ended December 31, 2025, 2024 and 2023, Power & Energy segment sales by end user application were as follows:
+
+  Power & Energy External Sales                                                                    
+  (Millions of dollars)                                                                            
+                                     2025                  2024                  2023              
+  Oil and Gas                        $          7,502      $          6,980      $          6,988  
+  Power Generation                             10,275                 7,756                 6,362  
+  Industrial                                    4,071                 3,990                 4,871  
+  Transportation                                5,295                 5,362                 5,134  
+  Power & Energy External Sales      $         27,143      $         24,088      $         23,355  
+
+
+  Profit from Reportable Segments                                                                                                                                                                                                                                                                                           
+  (Millions of dollars)                                                                                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                        Resource Industries                              Financial Products Segment                         
+  2025                                                                                                                                                                                                                                                                                                                      
+  Sales and revenues                                                                                                                                                                                        25,060      $                        12,474      32,201      $                               4,220      73,955  
+  Less 1:                                                                                                                                                                                                                                                                                                                   
+  Cost of goods sold                                                                                                                                                                                        18,393                                9,018      22,474      —                                          49,885  
+  SG& A/R& D 2                                                                                                                                                                                               1,902                                1,513       3,330      829                                         7,574  
+  Other segment items 3                                                                                                                                                                                                 ( 45)                                                                            2,425       2,449  
+  Segment Profit                                                                                                                                                                                             4,675      $                         1,988       6,418      $                                 966      14,047  
+  2024                                                                                                                                                                                                                                                                                                                      
+  Sales and revenues                                                                                                                                                                                        25,455      $                        12,471      28,854      $                               4,053      70,833  
+  Less 1:                                                                                                                                                                                                                                                                                                                   
+  Cost of goods sold                                                                                                                                                                                        17,326                                8,452      19,796      —                                          45,574  
+  SG& A/R& D 2                                                                                                                                                                                               1,931                                1,460       3,241      771                                         7,403  
+  Other segment items 3                                                                                                                                                                                                 21                                                                               2,350       2,485  
+  Segment Profit                                                                                                                                                                                             6,165      $                         2,538       5,736      $                                 932      15,371  
+  2023                                                                                                                                                                                                                                                                                                                      
+  Sales and revenues                                                                                                                                                                                        27,418      $                        13,669      28,001      $                               3,785      72,873  
+  Less 1:                                                                                                                                                                                                                                                                                                                   
+  Cost of goods sold                                                                                                                                                                                        18,658                                9,439      19,875      —                                          47,972  
+  SG& A/R& D 2                                                                                                                                                                                               1,844                                1,395       3,084      691                                         7,014  
+  Other segment items 3                                                                                                                                                                                                 ( 1)                                                                             2,185       2,231  
+  Segment Profit                                                                                                                                                                                             6,975      $                         2,836       4,936      $                                 909      15,656  
+  1 The significant expense categories and amounts align with the segment-level information that is regularly provided to the CODM. Inter-segment income/expenses are included within the amounts s...                                                                                                                      
+  2 Includes selling, general and administrative (SG& A) and research and development (R& D) expenses. The combined presentation aligns with the segment-level information that is regularly provid...                                                                                                                      
+  3 Other segment items for each reportable segment primarily includes:                                                                                                                                                                                                                                                     
+
+
+  Reconciliation of Consolidated profit before taxes:                                                                            
+  (Millions of dollars)                                                                                                          
+                                                               2025                    2024                    2023              
+  Total profit from reportable segments                                  14,047                  15,371                  15,656  
+  Profit from All Other Segment                                ( 8)                      43                      16              
+  Cost centers                                                ( 11)                    ( 1)                    ( 7)              
+  Corporate costs                                          ( 1,006)                  ( 889)                  ( 913)              
+  Timing                                                     ( 175)                     133                   ( 30)              
+  Restructuring costs                                        ( 445)                  ( 359)                  ( 780)              
+  Methodology differences:                                                                                                       
+  Inventory/cost of sales                                        49                      33                     160              
+  Postretirement benefit income (expense)                       185                      67                   ( 65)              
+  Stock-based compensation expense                           ( 230)                  ( 223)                  ( 208)              
+  Financing costs                                            ( 180)                  ( 126)                   ( 91)              
+  Currency                                                    ( 81)                     145                       6              
+  Goodwill impairment charge                                      —                       —                       —              
+  Other income/expense methodology differences               ( 470)                  ( 740)                  ( 624)              
+  Other methodology differences                              ( 134)                   ( 81)                   ( 70)              
+  Total consolidated profit before taxes                          $      11,541           $      13,373           $      13,050  
+
+  Reconciliation of Assets:                                                                                     
+  (Millions of dollars)                                     December 31,                                        
+                                                            2025                          2024                  
+  Assets from reportable segments:                                                                              
+  Construction Industries                                   $                  5,442      $              5,546  
+  Resource Industries                                                          6,087                     6,082  
+  Power & Energy                                                              11,387                    11,772  
+  Financial Products Segment                                                  41,476                    36,925  
+  Total assets from reportable segments                                       64,392                    60,325  
+  Assets from All Other Segment                                                1,516                     1,403  
+  Items not included in segment assets:                                                                         
+  Cash and cash equivalents                                                    9,333                     6,165  
+  Deferred income taxes                                                        2,749                     3,194  
+  Goodwill and intangible assets                                               4,669                     4,478  
+  Property, plant and equipment – net and other assets                         4,689                     4,808  
+  Inventory methodology differences                         ( 3,622)                      ( 3,560)              
+  Liabilities included in segment assets                                      15,330                    11,973  
+  Other                                                     ( 471)                        ( 1,022)              
+  Total assets                                              $                 98,585      $             87,764  
+
+
+  Reconciliation of Depreciation and amortization:                                                                             
+  (Millions of dollars)                                                                                                        
+                                                                    2025                 2024                 2023             
+  Depreciation and amortization from reportable segments:                                                                      
+  Construction Industries                                              $        266         $        233         $        221  
+  Resource Industries                                                252                  230                  277             
+  Power & Energy                                                     661                  578                  551             
+  Financial Products Segment                                         719                  740                  731             
+  Total depreciation and amortization from reportable segments                1,898                1,781                1,780  
+  Items not included in segment depreciation and amortization:                                                                 
+  All Other Segment                                                  267                  284                  261             
+  Cost centers                                                       103                   95                   91             
+  Other                                                             ( 6)                 ( 7)                   12             
+  Total depreciation and amortization                                  $      2,262         $      2,153         $      2,144  
+
+  Reconciliation of Capital expenditures:                                                                                
+  (Millions of dollars)                                                                                                  
+                                                           2025                   2024                  2023             
+  Capital expenditures from reportable segments:                                                                         
+  Construction Industries                                     $        358           $        323          $        376  
+  Resource Industries                                       353                    228                   210             
+  Power & Energy                                                     1,774                  1,279        944             
+  Financial Products Segment                                         1,341                  1,085                 1,299  
+  Total capital expenditures from reportable segments                3,826                  2,915                 2,829  
+  Items not included in segment capital expenditures:                                                                    
+  All Other Segment                                         254                    285                   295             
+  Cost centers                                               98                    193                   102             
+  Timing                                                     22                 ( 149)                 ( 44)             
+  Other                                                      86                  ( 29)                 ( 90)             
+  Total capital expenditures                                  $      4,286           $      3,215          $      3,092  
+
+  Enterprise-wide Disclosures:                                                                                                                                                                                                                                                
+  Information about Geographic Areas:                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                 Property, plant and equipment - net                          
+                                                                                                                                          External sales and revenues 1                                          December 31,                                                 
+  (Millions of dollars)                                                                                                                   2025                                                                   2025                                                         
+  Inside United States                                                                                                                    $                                  32,880      30,624      31,053      $                                         9,455       8,213  
+  Outside United States                                                                                                                                                      34,709      34,185      36,007                                                5,685       5,148  
+  Total                                                                                                                                   $                                  67,589      64,809      67,060      $                                        15,140      13,361  
+  1 Sales of MP& E are based on dealer or customer location. Revenues from services provided are based on where service is rendered.                                                                                                                                          
+
+
+24. Restructuring income/costs
+
+Our accounting for employee separations is dependent upon how the particular program is designed. For voluntary programs, we recognize eligible separation costs at the time of employee acceptance unless the acceptance requires explicit approval by the company. For involuntary programs, we recognize eligible costs when management has approved the program, the affected employees have been properly notified and the costs are estimable.
+
+Restructuring costs for 2025, 2024 and 2023 were as follows:
+
+  (Millions of dollars)                                                                                                                                                                                     2025               2024               2023           
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Employee separations 1                                                                                                                                                                                    $         106      $          64      $          74  
+  Divestitures 1                                                                                                                                                                                            30                 164                586            
+  Contract terminations 1                                                                                                                                                                                   4                  7                  7              
+  Long-lived asset impairments 1                                                                                                                                                                            17                 6                  3              
+  Other 2                                                                                                                                                                                                   291                118                110            
+  Total restructuring (income) costs                                                                                                                                                                        $         448      $         359      $         780  
+  1 Recognized in Other operating (income) expenses.                                                                                                                                                                                                             
+  2 Represents costs related to our restructuring programs, primarily for inventory write-downs, project management and accelerated depreciation, all of which are primarily included in Cost of go...                                                           
+
+The restructuring costs in 2025 were related to restructuring actions across the company including write-downs in the value of inventory in the Rail division. The restructuring costs in 2024 were related to restructuring actions across the company including the divestitures of certain non-U. S. entities. The restructuring costs in 2023 were primarily related to the divestiture of the company's Longwall business within Resource Industries.
+
+In 2025, 2024 and 2023, all restructuring costs were excluded from segment profit.
+
+25. Subsequent event
+
+On February 3, 2026, the Federal Court of Australia approved Caterpillar's acquisition of RPMGlobal Holdings Limited, an Australian based software company. The transaction is expected to close in the final two weeks of February with a purchase price of approximately $790million, excluding cash acquired. RPMGlobal is a leading provider of mining software solutions with deep domain expertise in mining technology enablement and data-driven software solutions at every stage of the mining lifecycle.
+
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+
+Not Applicable.
+
+Item 9A. Controls and Procedures.
+
+Disclosure Controls and Procedures
+
+An evaluation was performed under the supervision and with the participation of the company’s management, including the Chief Executive Officer (CEO) and Chief Financial Officer (CFO), of the effectiveness of the design and operation of the company's disclosure controls and procedures, as that term is defined in Rule 13a-15(e) under the Exchange Act, as of the end of the period covered by this annual report. Based on that evaluation, the CEO and CFO concluded that the company’s disclosure 
+controls and procedures were effective as of the end of the period covered by this annual report.
+
+Management’s Report on Internal Control Over Financial Reporting
+
+Management’s report on the company’s internal control over financial reporting as of December 31, 2025 is included on page 55 of Part II, Item 8 “ Financial Statements and Supplementary Data.” The effectiveness of the company’s internal control over financial reporting as of December 31, 2025 has been audited by PricewaterhouseCoopers LLP, an independent registered public accounting firm. Their report appears on pages 56-57 of Part II, Item 8 “ Financial Statements and Supplementary Data.”
+
+Changes in Internal Control over Financial Reporting
+
+During the last fiscal quarter, there has been no significant change in the company’s internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, the company’s internal control over financial reporting.
+
+Item 9B. Other Information.
+
+On August 28, 2025 Andrew R. J. Bonfield Chief Financial Officer entered Rule 10b5-1 November 13, 2026 20,000
+
+On November 21, 2025 Joseph E. Creed Chief Executive Officer entered March 5, 2026 2,500
+
+Disclosure Required Pursuant to Section 13(r) of the Securities Exchange Act of 1934
+
+Caterpillar maintains a portfolio of trademarks in Iran, which it registers with the Intellectual Property Center of the Islamic Republic of Iran (IPC), through intellectual property counsel and service providers located in United Arab Emirates and Iran. On November 30, 2023, the U. S. Department of the Treasury’s Office of Foreign Assets Control (“ OFAC”) granted Caterpillar a specific license to make payments to IPC at its account in Bank Melli, which was designated on November 5, 2018, by 
+OFAC under its counter terrorism authority pursuant to Executive Order 13224. As authorized by OFAC’s specific license, in the period ended December 31, 2024, Caterpillar paid approximately $608 to IPC as part of its intellectual property protection efforts in Iran. Caterpillar plans to continue these activities, as authorized under the specific license, and does not generate any revenues or profits from this activity.
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+
+Not Applicable.
+
+PART III
+
+Item 10. Directors, Executive Officers and Corporate Governance.
+
+Identification of Directors and Business Experience
+
+Information required by this Item is incorporated by reference from the 2026 Proxy Statement.
+
+Identification of Executive Officers and Business Experience
+
+Information required by this Item appears in Item 1D of this Form 10-K.
+
+Family Relationships
+
+There are no family relationships between the officers and directors of the company.
+
+Legal Proceedings Involving Officers and Directors
+
+If applicable, information required by this Item is incorporated by reference from the 2026 Proxy Statement.
+
+Audit Committee Financial Expert
+
+Information required by this Item is incorporated by reference from the 2026 Proxy Statement.
+
+Identification of Audit Committee
+
+Information required by this Item is incorporated by reference from the 2026 Proxy Statement.
+
+Shareholder Recommendation of Board Nominees
+
+Information required by this Item is incorporated by reference from the 2026 Proxy Statement.
+
+Compliance with Section 16(a) of the Exchange Act
+
+If applicable, information required by this Item relating to compliance with Section 16(a) of the Exchange Act is incorporated by reference from the 2026 Proxy Statement.
+
+Code of Ethics
+
+Our Worldwide Code of Conduct (Code), first published in 1974 and most recently updated in 2019, sets a high standard for honesty and ethical behavior by every director and employee, including the principal executive officer, principal financial officer and principal accounting officer. The Code is posted on our website at www. Caterpillar. com/code. To obtain a copy of the Code at no charge, submit a written request to the Corporate Secretary at 5205 N. O'Connor Boulevard, Suite 100, Irving, TX
+75039. We post on our website at www. Caterpillar. com/code any required amendments to or waivers granted under our Code pursuant to SEC or New York Stock Exchange disclosure rules.
+
+Insider Trading Laws and Policies
+
+From time to time, the Company may engage in transactions in its own securities. It is the Company’s policy to comply with all applicable securities and state laws (including appropriate approvals by the Board of Directors or appropriate committee, if required) when engaging in transactions in Company securities.
+
+The other information required by this Item is incorporated by reference from the 2026 Proxy Statement.
+
+Item 11. Executive Compensation.
+
+Information required by this Item is incorporated by reference from the 2026 Proxy Statement.
+
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+
+Information required by this Item relating to security ownership of certain beneficial owners and management is incorporated by reference from the 2026 Proxy Statement.
+
+Information required by this Item relating to securities authorized for issuance under equity compensation plans is included in the following table:
+
+Equity Compensation Plan Information
+
+(as of December 31, 2025)
+
+  Plan category                                                   (a)                                                                                                             (b)                                                                (c)                                                                                                                                          
+  Equity compensation plans approved by security holders                                                                                                           4,710,403      $                                                      220.52      39,336,515                                                                                                                                   
+  Equity compensation plans not approved by security holders      N/A                                                                                                             N/A                                                                N/A                                                                                                                                          
+  Total                                                                                                                                                            4,710,403      $                                                      220.52      39,336,515                                                                                                                                   
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence.
+
+Information required by this Item is incorporated by reference from the 2026 Proxy Statement.
+
+Item 14. Principal Accountant Fees and Services.
+
+Our independent registered public accounting firm is PricewaterhouseCoopers LLP Dallas, Texas 238
+
+Information required by this Item is incorporated by reference from the 2026 Proxy Statement.
+
+
+PART IV
+
+Item 15. Exhibits and Financial Statement Schedules.
+
+  Exhibits:                                                                                                                                                                                                            
+        3.1      Restated Certificate of Incorporation, effective February 3, 2021 (incorporated by reference from Exhibit 3.2 to the Company's Form 8-K filed February 9, 2021)                                       
+        3.2      Bylaws amended and restated as of January 6, 2026 (incorporated by reference from Exhibit 3.1 to the Company's Current Report on Form 8-K filed January 6, 2026)                                      
+        4.1      Indenture dated as of May 1, 1987, between Caterpillar Inc. and The First National Bank of Chicago, as Trustee (incorporated by reference from Exhibit 4.1 to Form S-3 filed February 19, 1997)       
+        4.2      First Supplemental Indenture, dated as of June 1, 1989, between Caterpillar Inc. and The First National Bank of Chicago, as Trustee (incorporated by reference from Exhibit 4.2 to Form S-3 filed...  
+        4.3      Appointment of Citibank, N. A. as Successor Trustee, dated October 1, 1991, under the Indenture, as supplemented, dated as of May 1, 1987 (incorporated by reference from Exhibit 4.3 to Form S-3...  
+        4.4      Second Supplemental Indenture, dated as of May 15, 1992, between Caterpillar Inc. and Citibank, N. A., as Successor Trustee (incorporated by reference from Exhibit 4.4 to Form S-3 filed Februar...  
+        4.5      Third Supplemental Indenture, dated as of December 16, 1996, between Caterpillar Inc. and Citibank, N. A., as Successor Trustee (incorporated by reference from Exhibit 4.5 to Form S-3 filed Feb...  
+        4.6      Tri-Party Agreement, dated as of November 2, 2006, between Caterpillar Inc., Citibank, N. A. and U. S. Bank National Association appointing U. S. Bank as Successor Trustee under the Indenture d...  
+        4.7      Form of 3.803% Rule 144A Global Debenture due 2042 (incorporated by reference from Exhibit 4.1 to the Company's Current Report on Form 8-K, filed August 28, 2012)                                    
+        4.8      Form of 3.803% Regulation S Global Debenture due 2042 (incorporated by reference from Exhibit 4.2 to Form 8-K, filed August 28, 2012)                                                                 
+        4.9      Form of 3.803% Global Debenture due 2042 (incorporated by reference from Exhibit 4.9 to Form S-4 filed on September 7, 2012)                                                                          
+       4.10      Form of 4.30% Senior Note due 2044 (incorporated by reference from Exhibit 4.2 to the Company's Current Report on Form 8-K, filed on May 8, 2014)                                                     
+       4.11      Form of 4.75% Senior Note due 2064 (incorporated by reference from Exhibit 4.3 to the Company's Current Report on Form 8-K, filed on May 8, 2014)                                                     
+       4.12      Form of 2.600% Senior Note due 2029 (incorporated by reference from Exhibit 4.1 to the Company's Current Report on Form 8-K filed September 19, 2019)                                                 
+       4.13      Form of 3.250% Senior Note due 2049 (incorporated by reference from Exhibit 4.2 to the Company's Current Report on Form 8-K filed September 19, 2019)                                                 
+       4.14      Form of 2.600% Senior Notes due 2030 (incorporated by reference from Exhibit 4.1 to the Company’s Current Report on Form 8-K filed April 9, 2020)                                                     
+       4.15      Form of 3.250% Senior Notes due 2050 (incorporated by reference from Exhibit 4.2 to the Company’s Current Report on Form 8-K filed April 9, 2020)                                                     
+       4.16      Form 1.900% Senior Notes due 2031 (incorporated by reference from Exhibit 4.1 to the Company’s Current Report on Form 8-K filed March 12, 2021)                                                       
+       4.17      Form of 5.200% Senior Note due 2035 (incorporated by reference from Exhibit 4.1 to the Company’s Current Report on Form 8-K filed May 15, 2025)                                                       
+       4.18      Form of 5.500% Senior Note due 2055 (incorporated by reference from Exhibit 4.2 to the Company’s Current Report on Form 8-K filed May 15, 2025)                                                       
+       4.19      Description of Securities (incorporated by reference from Exhibit 4.16 to the Company’s Annual Report on Form 10-K for the year ended December 31, 2019)                                              
+       10.1      Caterpillar Inc. 2023 Long-Term Incentive Plan (incorporated by reference from Exhibit 10.1 to the Company's Current Report on Form 8-K filed June 20, 2023)*                                         
+       10.2      Form of Restricted Stock Unit Award pursuant to the 2023 Long-Term Incentive Plan (incorporated by reference from Exhibit 10.1 to the Company's Quarterly Report on Form 10-Q for the quarter end...  
+       10.3      Form of Restricted Stock Unit Award for Directors pursuant to the 2023 Long-Term Incentive Plan (incorporated by reference from Exhibit 10.2 to the Company's Quarterly Report on Form 10-Q for t...  
+
+
+   10.4      Form of Nonqualified Stock Options Award pursuant to the 2023 Long-Term Incentive Plan (incorporated by reference from Exhibit 10.3 to the Company's Quarterly Report on Form 10-Q for the quarte...  
+   10.5      Form of Performance-Based Restricted Stock Unit Award pursuant to the 2023 Long-Term Incentive Plan (incorporated by reference from Exhibit 10.4 to the Company's Quarterly Report on Form 10-Q f...  
+   10.6      Form of Nonqualified Stock Options Award pursuant to the 2023 Long-Term Incentive Plan (China Payroll Addendum) (incorporated by reference from Exhibit 10.5 to the Company's Quarterly Report on...  
+   10.7      Caterpillar Inc. Supplemental Retirement Plan (formerly known as the Caterpillar Inc. Supplemental Pension Benefit Plan), amended and restated effective January 1, 2020 (incorporated by referen...  
+   10.8      First Amendment to the Caterpillar Inc. Supplemental Retirement Plan, effective January 1, 2022 (incorporated by reference from Exhibit 10.17 to the Company’s Annual Report on Form 10-K for the...  
+   10.9      Second Amendment to the Caterpillar Inc. Supplemental Retirement Plan, effective July 1, 2022 (incorporated by reference from Exhibit 10.3 to the Company’s Quarterly Report on Form 10-Q for the...  
+  10.10      Caterpillar Inc. Supplemental Employees’ Investment Plan, amended and restated as of May 15, 2017 (incorporated by reference from Exhibit 10.3 to the Company's Quarterly Report on Form 10-Q for...  
+  10.11      First Amendment to the Caterpillar Inc. Supplemental Employees' Investment Plan, effective as of July 24, 2017 (incorporated by reference from Exhibit 10.22 to the Company's Annual Report on Fo...  
+  10.12      Second Amendment to the Caterpillar Inc. Supplemental Employees' Investment Plan, dated December 14, 2018 (incorporated by reference to Exhibit 10.22 the Company's Annual Report on Form 10-K fo...  
+  10.13      Third Amendment to the Caterpillar Inc. Supplemental Employees' Investment Plan, effective January 1, 2022 (incorporated by reference from Exhibit 10.21 to the Company’s Annual Report on Form 1...  
+  10.14      Fourth Amendment to the Caterpillar Inc. Supplemental Employees' Investment Plan, effective as of July 1, 2022 (incorporated by reference to Exhibit 10.4 the Company's Quarterly Report on Form ...  
+  10.15      Caterpillar Inc. Directors' Deferred Compensation Plan, as amended and restated effective July 1, 2018 (incorporated by reference from Exhibit 10.4 to the Company's Quarterly Report on Form 10-...  
+  10.16      First Amendment to the Caterpillar Inc. Directors' Deferred Compensation Plan dated January 22, 2019 (incorporated by reference to Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q fo...  
+  10.17      Second Amendment to the Caterpillar Inc. Directors' Deferred Compensation Plan, effective as of July 1, 2022 (incorporated by reference to Exhibit 10.5 to the Company’s Quarterly Report on Form...  
+  10.18      Caterpillar Inc. Directors’ Charitable Award Program, as amended and restated effective April 1, 2008 (incorporated by reference from Exhibit 10.7 to the Company's Annual Report on Form 10-K fo...  
+  10.19      Caterpillar Inc. Deferred Employees’ Investment Plan amended and restated as of May 15, 2017 (incorporated by reference from Exhibit 10.4 to the Company's Quarterly Report on Form 10-Q for the ...  
+  10.20      First Amendment to the Caterpillar Inc. Deferred Employees' Investment Plan, effective as of July 24, 2017 (incorporated by reference to Exhibit 10.26 to the Company’s Annual Report on Form 10-...  
+  10.21      Second Amendment to the Caterpillar Inc. Deferred Employees' Investment Plan, dated December 14, 2018 (incorporated by reference to Exhibit 10.27 to the Company's Annual Report on Form 10-K for...  
+  10.22      Third Amendment to the Caterpillar Inc. Deferred Employees' Investment Plan, effective as of January 1, 2022 (incorporated by reference from Exhibit 10.28 to the Company’s Annual Report on Form...  
+  10.23      Fourth Amendment to the Caterpillar Inc. Deferred Employees' Investment Plan, effective as of July 1, 2022 (incorporated by reference to Exhibit 10.6 to the Company's Quarterly Report on Form 1...  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  10.24      Caterpillar Inc. Supplemental Deferred Compensation Plan amended and restated as of May 15, 2017 (incorporated by reference from Exhibit 10.5 to the Company's Quarterly Report on Form 10-Q for ...  
+  10.25      First Amendment to the Caterpillar Inc. Supplemental Deferred Compensation Plan, effective as of July 24, 2017 (incorporated by reference from Exhibit 10.28 to the Company's Annual Report on Fo...  
+  10.26      Second Amendment to the Caterpillar Inc. Supplemental Deferred Compensation Plan, dated December 14, 2018 (incorporated by reference to Exhibit 10.30 to the Company’s Annual Report on Form 10-K...  
+  10.27      Third Amendment to the Caterpillar Inc. Supplemental Deferred Compensation Plan effective January 1, 2019 (incorporated by reference from Exhibit 10.32 to the Company's Annual Report on Form 10...  
+  10.28      Fourth Amendment to the Caterpillar Supplemental Deferred Compensation Plan, effective as of January 1, 2022 (incorporated by reference from Exhibit 10.33 to the Company’s Annual Report on Form...  
+  10.29      Fifth Amendment to the Caterpillar Inc. Supplemental Deferred Compensation Plan, effective as of July 1, 2022(incorporated by reference from Exhibit 10.7 to the Company's Quarterly Report on Fo...  
+  10.30      Solar Turbines Incorporated Managerial Retirement Objective Plan, as amended and restated through First Amendment, dated December 10, 2014 (incorporated by reference from Exhibit 10.19 to the C...  
+  10.31      Second Amendment to the Solar Turbines Incorporated Managerial Retirement Objective Plan, effective January 1, 2022 (incorporated by reference from Exhibit 10.35 to the Company’s Annual Report ...  
+  10.32      Solar Turbines Incorporated Pension Plan for European Foreign Service Employees, as amended and restated, effective January 1, 2015 (incorporated by reference from Exhibit 10.1 to the Company's...  
+  10.33      First Amendment to the Solar Turbines Incorporated Pension Plan for European Foreign Service Employees effective January 1, 2020 (incorporated by reference from Exhibit 10.35 to the Company's A...  
+  10.34      Second Amendment to the Solar Turbines Incorporated Pension Plan for European Foreign Service Employees effective January 1, 2022 (incorporated by reference from Exhibit 10.38 to the Company’s ...  
+  10.35      Revised Letter Agreement by and between Caterpillar Inc. and Andrew Bonfield dated August 28, 2018 (incorporated by reference from Exhibit 10.6 to the Company's Quarterly Report on Form 10-Q fo...  
+  10.36      Mercer Super Trust CatSuper Special Arrangement Agreement between Caterpillar of Australia PTY LTD and Robert Brian Charter dated June 26, 2007 (incorporated by reference from Exhibit 10.38 to ...  
+  10.37      Mercer Super Trust CatSuper Special Arrangement Agreement, by and between Caterpillar of Australia PTY LTD. and Robert Brian Charter dated April 4, 2018 (incorporated by reference from Exhibit ...  
+  10.38      Time Sharing Agreement dated January 10, 2017 (incorporated by reference from Exhibit 10.29 to the Company's Annual Report on Form 10-K filed December 31, 2016)*                                     
+  10.39      Credit Agreement ( 2025 364-Day Facility), dated August 28, 2025, among Caterpillar Inc., Caterpillar Financial Services Corporation, Caterpillar International Finance Designated Activity Compa...  
+  10.40      CIF Local Currency Addendum to the 2025 364-Day Facility dated August 28, 2025, among Caterpillar Financial Services Corporation, Caterpillar International Finance Designated Activity Company, ...  
+  10.41      CIF LUX Local Currency Addendum to the 2025 364-Day Facility dated August 28, 2025, among Caterpillar Financial Services Corporation, Caterpillar International Finance Designated Activity Compa...  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  10.42      Japan Local Currency Addendum, dated as of August 28, 2025, to the Credit Agreement (2025 364-Day Facility) (incorporated by reference from Exhibit 10.4 to the Company's Current Report on Form ...  
+  10.43      Fourth Amended and Restated Credit Agreement (3-Year Facility) dated August 28, 2025, among the Company, Caterpillar Financial Services Corporation, Caterpillar International Finance Designated...  
+  10.44      CIF Local Currency Addendum to the 3-Year Facility dated August 28, 2025, among Caterpillar Financial Services Corporation, Caterpillar International Finance Designated Activity Company, the Lo...  
+  10.45      CIF LUX Local Currency Addendum to the 3-Year Facility dated August 28, 2025, among Caterpillar Financial Services Corporation, Caterpillar International Finance Designated Activity Company, th...  
+  10.46      Japan Local Currency Addendum to the 3-Year Facility dated August 28, 2025, among Caterpillar Financial Services Corporation, Caterpillar Finance Kabushiki Kaisha, the Japan Local Currency Bank...  
+  10.47      Fourth Amended and Restated Credit Agreement (5-Year Facility) dated August 28, 2025, among the Company, Caterpillar Financial Services Corporation, Caterpillar International Finance Designated...  
+  10.48      CIF Local Currency Addendum to the Five-Year Facility dated August 28, 2025, among Caterpillar Financial Services Corporation, Caterpillar International Finance Designated Activity Company, the...  
+  10.49      CIF LUX Local Currency Addendum to the Five-Year Facility dated August 28, 2025, among Caterpillar Financial Services Corporation, Caterpillar International Finance Designated Activity Company,...  
+  10.50      Japan Local Currency Addendum to the 5-Year Facility dated August 28, 2025, among Caterpillar Financial Services Corporation, Caterpillar Finance Kabushiki Kaisha, the Japan Local Currency Bank...  
+  10.51      Caterpillar Inc. 2014 Long-Term Incentive Plan, amended and restated effective October 8, 2019 (incorporated by reference from Exhibit 10.3 to the Company’s Annual Report on Form 10-K for the y...  
+  10.52      First Amendment to Caterpillar Inc. 2014 Long-Term Incentive Plan, effective July 1, 2022 (incorporated by reference from Exhibit 10.2 to the Company’s Quarterly Report on Form 10-Q for the qua...  
+  10.53      Form of Restricted Stock Unit Award pursuant to the 2014 Long-Term Incentive Plan (incorporated by reference from Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q for the quarter end...  
+  10.54      Form of Restricted Stock Unit Award for Directors pursuant to the 2014 Long-Term Incentive Plan (incorporated by reference from Exhibit 10.2 to the Company’s Quarterly Report on Form 10-Q for t...  
+  10.55      Form of Nonqualified Stock Options Award pursuant to the 2014 Long-Term Incentive Plan (incorporated by reference from Exhibit 10.3 to the Company’s Quarterly Report on Form 10-Q for the quarte...  
+  10.56      Form of Performance-Based Restricted Stock Unit Award pursuant to the 2014 Long-Term Incentive Plan (incorporated by reference from Exhibit 10.4 to the Company’s Quarterly Report on Form 10-Q f...  
+  10.57      First Amended and Restated Aircraft Time Sharing Agreement, dated as of April 28, 2025 (incorporated by reference from Exhibit 10.1 to the Company’s Quarterly Report on Form 10-Q for the quarte...  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+  10.58         Aircraft Time Sharing Agreement, dated as of May 7, 2025 (incorporated by reference from Exhibit 10.2 to the Company’s Quarterly Report on Form 10-Q for the quarter ended June 30, 2025)*  
+  19            Caterpillar Inc. Insider Trading Policy (as adopted January 30, 2025)                                                                                                                       
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  21            Subsidiaries and Affiliates of the Registrant                                                                                                                                               
+  23            Consent of Independent Registered Public Accounting Firm                                                                                                                                    
+  31.1          Certification of Chief Executive Officer of Caterpillar Inc., pursuant to Section 302 of the Sarbanes-Oxley Act of 2002                                                                     
+  31.2          Certification of Chief Financial Officer of Caterpillar Inc., pursuant to Section 302 of the Sarbanes-Oxley Act of 2002                                                                     
+  32            Certification of Chief Executive Officer of Caterpillar Inc. and Chief Financial Officer of Caterpillar Inc., pursuant to Section 906 of the Sarbanes-Oxley Act of 2002                     
+  97            Caterpillar Inc. Incentive Compensation Clawback Policy (as adopted October 11, 2023)                                                                                                       
+  101. INS      Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are imbedded within the Inline XBRL document)                       
+  101. SCH      Inline XBRL Taxonomy Extension Schema Document                                                                                                                                              
+  101. CAL      Inline XBRL Taxonomy Extension Calculation Linkbase Document                                                                                                                                
+  101. DEF      Inline XBRL Taxonomy Extension Definition Linkbase Document                                                                                                                                 
+  101. LAB      Inline XBRL Taxonomy Extension Label Linkbase Document                                                                                                                                      
+  101. PRE      Inline XBRL Taxonomy Extension Presentation Linkbase Document                                                                                                                               
+  104           Cover Page Interactive File (embedded within the Inline XBRL document and included in Exhibit 101)                                                                                          
+
+_________________________________________
+
+*Management contracts and compensatory plans and arrangements required to be filed as exhibits pursuant to Item 15(b) of this report.
+
+The agreements and other documents filed as exhibits to this report are not intended to provide factual information or other disclosure other than with respect to the terms of the agreements or other documents themselves, and you should not rely on them for that purpose. In particular, any representations and warranties made by us in these agreements or other documents were made solely within the specific context of the relevant agreement or document and may not describe the actual state of 
+affairs as of the date they were made or at any other time.
+
+Item 16. Form 10-K Summary.
+
+None.
+
+
+Form 10-K
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+  CATERPILLAR INC.                                               
+  Registrant                                                     
+  By:                   /s/ Derek Owens                          
+                        Derek Owens                              
+                        Chief Legal Officer and General Counsel  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated.
+
+                                                        Chief Executive Officer and Director  
+  February 13, 2026      /s/ Joseph E. Creed                                                  
+                         Joseph E. Creed                                                      
+  February 13, 2026      /s/ Andrew R. J. Bonfield      Chief Financial Officer               
+                         Andrew R. J. Bonfield                                                
+  February 13, 2026      /s/ William E. Schaupp         Vice President and                    
+                         William E. Schaupp                                                   
+  February 13, 2026      /s/ D. James Umpleby III       Executive Chairman                    
+                         D. James Umpleby III                                                 
+  February 13, 2026      /s/ James C. Fish, Jr.         Director                              
+                         James C. Fish, Jr.                                                   
+
+
+  February 13, 2026      /s/ Gerald Johnson            Director                   
+ ──────────────────────────────────────────────────────────────────────────────────
+                         Gerald Johnson                                           
+  February 13, 2026      /s/ Nazzic S. Keene           Director                   
+                         Nazzic S. Keene                                          
+  February 13, 2026      /s/ David W. MacLennan        Director                   
+                         David W. MacLennan                                       
+  February 13, 2026      /s/ Judith F. Marks           Director                   
+                         Judith F. Marks                                          
+  February 13, 2026      /s/ Debra L. Reed-Klages      Lead Independent Director  
+                         Debra L. Reed-Klages                                     
+  February 13, 2026      /s/ Susan C. Schwab           Director                   
+                         Susan C. Schwab                                          
+  February 13, 2026      /s/ Rayford Wilkins, Jr.      Director                   
+                         Rayford Wilkins, Jr.

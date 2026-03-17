@@ -1,0 +1,26 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "filing_date": "2025-10-31",
+  "period_of_report": "2025-09-27",
+  "financials": {
+    "total_revenue": 416161000000.0,
+    "cost_of_revenue": 220960000000.0,
+    "gross_profit": 195201000000.0,
+    "operating_income": 133050000000.0,
+    "net_income": 112010000000.0,
+    "eps_diluted": 7.46,
+    "cash_and_equivalents": 35934000000.0,
+    "total_assets": 359241000000.0,
+    "long_term_debt": 12350000000.0,
+    "total_liabilities": 285508000000.0,
+    "gross_margin": 0.4691,
+    "operating_margin": 0.3197,
+    "net_margin": 0.2692
+  },
+  "segments": [],
+  "metadata": {
+    "source": "SEC EDGAR XBRL via edgartools",
+    "accession_number": "0000320193-25-000079"
+  }
+}

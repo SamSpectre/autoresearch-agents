@@ -1,0 +1,21 @@
+{
+  "ticker": "JPM",
+  "company_name": "JPMORGAN CHASE & CO",
+  "filing_date": "2026-02-13",
+  "period_of_report": "2025-12-31",
+  "financials": {
+    "total_revenue": NaN,
+    "cost_of_revenue": 54487000000.0,
+    "net_income": 57048000000.0,
+    "cash_and_equivalents": 21742000000.0,
+    "total_assets": 270134000000.0,
+    "long_term_debt": 435206000000.0,
+    "total_liabilities": 4062462000000.0,
+    "net_margin": NaN
+  },
+  "segments": [],
+  "metadata": {
+    "source": "SEC EDGAR XBRL via edgartools",
+    "accession_number": "0001628280-26-008131"
+  }
+}

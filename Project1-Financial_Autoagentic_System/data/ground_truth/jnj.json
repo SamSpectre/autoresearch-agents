@@ -1,0 +1,22 @@
+{
+  "ticker": "JNJ",
+  "company_name": "JOHNSON & JOHNSON",
+  "filing_date": "2026-02-11",
+  "period_of_report": "2025-12-28",
+  "financials": {
+    "total_revenue": 94193000000.0,
+    "cost_of_revenue": 30256000000.0,
+    "gross_profit": 63937000000.0,
+    "eps_diluted": 11.03,
+    "cash_and_equivalents": 19709000000.0,
+    "total_assets": 199210000000.0,
+    "long_term_debt": 39438000000.0,
+    "total_liabilities": 117666000000.0,
+    "gross_margin": 0.6788
+  },
+  "segments": [],
+  "metadata": {
+    "source": "SEC EDGAR XBRL via edgartools",
+    "accession_number": "0000200406-26-000016"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "MSFT",
+  "company_name": "MICROSOFT CORP",
+  "filing_date": "2025-07-30",
+  "period_of_report": "2025-06-30",
+  "financials": {
+    "total_revenue": 281724000000.0,
+    "cost_of_revenue": 87831000000.0,
+    "gross_profit": 193893000000.0,
+    "operating_income": 128528000000.0,
+    "net_income": 101832000000.0,
+    "eps_diluted": 13.64,
+    "cash_and_equivalents": 30242000000.0,
+    "total_assets": 619003000000.0,
+    "long_term_debt": 40152000000.0,
+    "total_liabilities": 275524000000.0,
+    "gross_margin": 0.6882,
+    "operating_margin": 0.4562,
+    "net_margin": 0.3615
+  },
+  "segments": [],
+  "metadata": {
+    "source": "SEC EDGAR XBRL via edgartools",
+    "accession_number": "0000950170-25-100235"
+  }
+}

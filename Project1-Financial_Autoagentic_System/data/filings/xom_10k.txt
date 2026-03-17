@@ -1,0 +1,792 @@
+2025  
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, D. C. 20549
+
+FORM10-K
+
+☑ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+
+THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended December 31, 2025
+
+or
+
+☐TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+
+THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from to
+
+Commission File Number 1-2256
+
+Exxon Mobil Corporation
+
+(Exact name of registrant as specified in its charter)
+
+  New Jersey                           13-5409005              
+  (State or other jurisdiction of      (I. R. S. Employer      
+
+22777 Springwoods Village ParkwaySpring Texas77389-1425
+
+(Address of principal executive offices) (Zip Code)
+
+( 972940-6000
+
+(Registrant’s telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+  Title of Each Class                  Trading Symbol      Name of Each Exchange on Which Registered  
+  Common Stock, without par value      XOM                 New York Stock Exchange                    
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────
+  0.524% Notes due 2028                XOM28               New York Stock Exchange                    
+  0.835% Notes due 2032                XOM32               New York Stock Exchange                    
+  1.408% Notes due 2039                XOM39A              New York Stock Exchange                    
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+  Large accelerated filer      Accelerated filer          
+  Non-accelerated filer        Smaller reporting company  
+ ──────────────────────────────────────────────────────────
+                               Emerging growth company    
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U. S. C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☑
+
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined by Rule 12b-2 of the Act). Yes ☐
+
+The aggregate market value of the voting stock held by non-affiliates of the registrant on June 30, 2025, the last business day of the registrant’s most recently completed second fiscal quarter, based on the closing price on that date of $107.80 on the New York Stock Exchange composite tape, was in excess of $ 460
+
+  Class                                Outstanding as of January 31, 2026  
+ ───────────────────────────────────────────────────────────────────────────
+  Common stock, without par value                           4,166,763,453  
+
+Documents Incorporated by Reference: Proxy Statement for the 2026 Annual Meeting of Shareholders (Part III)
+
+                                                EXXON MOBIL CORPORATION                                                                                                
+                                                FORM 10-K                                                                                                              
+                                                FOR THE FISCAL YEAR ENDED DECEMBER 31, 2025                                                                            
+                                                TABLE OF CONTENTS                                                                                                      
+  PART I                                                                                                                                                               
+  Item 1.                                       Business                                                                                                            1  
+  Item 1A.                                      Risk Factors                                                                                                        2  
+  Item 1B.                                      Unresolved Staff Comments                                                                                           8  
+  Item 1C.                                      Cybersecurity                                                                                                       8  
+  Item 2.                                       Properties                                                                                                          9  
+  Item 3.                                       Legal Proceedings                                                                                                  22  
+  Item 4.                                       Mine Safety Disclosures                                                                                            22  
+  Information about our Executive Officers                                                                                                                         23  
+  PART II                                                                                                                                                              
+  Item 5.                                       Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities       24  
+  Item 7.                                       Management’s Discussion and Analysis of Financial Condition and Results of Operations                              24  
+  Item 7A.                                      Quantitative and Qualitative Disclosures About Market Risk                                                         24  
+  Item 8.                                       Financial Statements and Supplementary Data                                                                        25  
+  Item 9.                                       Changes in and Disagreements With Accountants on Accounting and Financial Disclosure                               25  
+  Item 9A.                                      Controls and Procedures                                                                                            25  
+  Item 9B.                                      Other Information                                                                                                  26  
+  Item 9C.                                      Disclosure Regarding Foreign Jurisdictions that Prevent Inspections                                                26  
+  PART III                                                                                                                                                             
+  Item 10.                                      Directors, Executive Officers and Corporate Governance                                                             26  
+  Item 11.                                      Executive Compensation                                                                                             26  
+  Item 12.                                      Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters                     27  
+  Item 13.                                      Certain Relationships and Related Transactions, and Director Independence                                          27  
+  Item 14.                                      Principal Account ant Fees and Services                                                                            27  
+  PART IV                                                                                                                                                              
+  Item 15.                                      Exhibit and Financial Statement Schedules                                                                          27  
+  Item 16.                                      Form 10-K Summary                                                                                                  27  
+  Financial Section                                                                                                                                                28  
+  Index to Exhibits                                                                                                                                               128  
+  Signatures                                                                                                                                                      129  
+
+  Table of Contents      Financial Table of Contents  
+
+PART I
+
+  ITEM 1. BUSINESS  
+ ────────────────────
+
+Exxon Mobil Corporation was incorporated in the State of New Jersey in 1882. Divisions and affiliated companies of ExxonMobil operate or market products in the United States and most other countries of the world. Our principal business involves exploration for, and production of, crude oil and natural gas; manufacture, trade, transport and sale of crude oil, natural gas, petroleum products, petrochemicals, and a wide variety of specialty products; and pursuit of lower-emission and other new 
+business opportunities, including carbon capture and storage, hydrogen and ammonia, lower-emission fuels, ProxximaTM resin systems, carbon materials, low-carbon data centers, and lithium. Affiliates of ExxonMobil conduct extensive research programs in support of these businesses.
+
+Exxon Mobil Corporation's divisions and affiliates have many names, including ExxonMobil, Exxon, Esso, Mobil or XTO. For convenience and simplicity, in this report the termsExxonMobil, Exxon, Esso, Mobil, and XTO, as well as terms like Corporation, Company, our, we, and its, are sometimes used as abbreviated references to specific affiliates or groups of affiliates. The precise meaning depends on the context in question.
+
+The energy and petrochemical industries are highly competitive, both within the industries and also with other industries in supplying the energy, fuel, and chemical needs of industrial and individual consumers. Certain industry participants, including ExxonMobil, are expanding the scope of investments in lower-emission energy and emission-reduction services and technologies. The Corporation competes with other firms in the sale or purchase of needed goods and services in many national and 
+international markets and employs all methods of competition which are lawful and appropriate for such purposes.
+
+Operating data and industry segment information for the Corporation are contained in the Financial Section of this report under the following: “ Management's Discussion and Analysis of Financial Condition and Results of Operations: Business Results” andNote 3. Information on oil and gas reserves is contained in the“ Oil and Gas Reserves” part of the “ Supplemental Information on Oil and Gas Exploration and Production Activities” portion of the Financial Section of this report.
+
+ExxonMobil has a long-standing commitment to the development of proprietary technology. We have a wide array of research programs designed to meet the needs identified in each of our businesses. ExxonMobil held over 8 thousand active patents worldwide at the end of 2025. Although technology is an important contributor to the overall operations and results of our Company, the profitability of each business segment is not dependent on any individual patent, trade secret, trademark, license, 
+franchise, or concession.
+
+ExxonMobil operates in a highly complex, competitive, and changing global energy business environment where decisions and risks play out over time horizons that are often decades in length. This long-term orientation underpins the Corporation's philosophy on talent development.
+
+Talent development begins with recruiting exceptional candidates and continues with individually planned experiences and training designed to facilitate broad development and a deep understanding of our business across the business cycle. Our career-oriented approach to talent development results in strong retention and an average length of service of about 30 years for our career employees. Compensation, benefits, and workplace programs support the Corporation's talent management approach, and 
+are designed to attract and retain employees for a career through compensation that is market competitive, long-term oriented, and highly differentiated by individual performance.
+
+With over 59 percent of our global employees from outside the U. S. and more than 160 nationalities represented across the Company, we encourage and respect diversity of thought, ideas, and perspective from our workforce. We are focused on building an engaged, global workforce; grounded in meritocracy, we strive to have every employee reach their potential over a long-term career by providing unrivaled opportunities for personal and professional growth through impactful work meeting society's 
+essential needs.
+
+The number of regular employees was 58 thousand, 61 thousand, and 62 thousand at years ended 2025, 2024, and 2023, respectively. Regular employees are defined as active executive, management, professional, technical, administrative, and wage employees who work full time or part time for the Corporation and are covered by the Corporation’s benefit plans and programs.
+
+As discussed inItem 1 A in this report, compliance with existing and potential future government regulations, including taxes, environmental regulations, and other government regulations and policies that directly or indirectly affect the production and sale of our products, may have material effects on the capital expenditures, earnings, and competitive position of ExxonMobil. For additional information on the Corporation's worldwide environmental expenditures, see "Management's Discussion and 
+Analysis of Financial Condition and Results of Operations: Environmental Matters" in the Financial Section of this report.
+
+Information concerning the source and availability of raw materials used in the Corporation’s business, the extent of seasonality in the business, the possibility of renegotiation of profits or termination of contracts at the election of governments, and risks attendant to foreign operations may be found inItem 1A andItem 2 in this report.
+
+  Table of Contents      Financial Table of Contents  
+
+ExxonMobil maintains a website at exxonmobil. com. Our annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and any amendments to those reports filed or furnished pursuant to Section 13(a) of the Securities Exchange Act of 1934 are made available through our website as soon as reasonably practical after we electronically file or furnish the reports to the Securities and Exchange Commission (SEC). Also available on the Corporation’s website are the Company’s 
+Corporate Governance Guidelines, Code of Ethics and Business Conduct, and additional policies as well as the charters of the audit, compensation, and other committees of the Board of Directors. Information on our website is not incorporated into this report.
+
+The SEC maintains an internet site (http://www. sec. gov) that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC.
+
+  ITEM 1A. RISK FACTORS  
+ ─────────────────────────
+
+ExxonMobil’s financial and operating results are subject to a variety of risks inherent in the global oil, gas, and petrochemical businesses and the pursuit of lower-emission and other new business opportunities. Many of these risk factors are not within the Company’s control and could adversely affect our business, our financial and operating results, or our financial condition. These risk factors include:
+
+Supply and Demand
+
+The oil, gas, and petrochemical businesses are fundamentally commodity businesses. This means ExxonMobil’s operations and earnings may be significantly affected by changes in oil, gas, and petrochemical prices and by changes in margins on refined products. Oil, gas, petrochemical, and product prices and margins in turn depend on local, regional, and global events or conditions that affect supply and demand for the relevant commodity or product. Any material decline in oil or natural gas prices 
+could have a material adverse effect on the Company’s operations, results, financial condition, and proved reserves, especially in the Upstream segment. On the other hand, a material increase in oil or natural gas prices could have a material adverse effect on the Company’s operations and results, especially in the Energy Products, Chemical Products, and Specialty Products segments. Our pursuit of lower-emission and other new business opportunities, including carbon capture and storage, hydrogen
+and ammonia, lower-emission fuels, ProxximaTM resin systems, carbon materials, low-carbon data centers, and lithium also depends on the growth and development of markets for those products and services, including implementation of supportive and stable government policies and developments in existing and new technology to enable those products and services to be provided on a cost-effective basis at commercial scale. See “ Climate Change and Energy Transition” in this Item 1A.
+
+Economic conditions. The demand for energy and petrochemicals is generally linked closely with broad-based economic activities and levels of prosperity. The occurrence of economic downturns, recessions or other periods of low or negative economic growth will typically have a direct adverse impact on our results. Other factors that affect general economic conditions in the world or in a major region, such as changes in population growth rates or living standards, periods of civil unrest or armed 
+hostilities, escalating geopolitical volatility, government regulation or austerity programs, national or regional trade tariffs, trade sanctions or trade controls, international monetary and currency exchange rate fluctuations, decoupling of economies, disruption, realignment, or breaking of current or historical trade or military alliances or global trade or supply chain networks, changes in international trade patterns or shipping routes, or a broader breakdown in global trade, security or 
+public health, can also impact the supply and demand for energy and petrochemicals. Sovereign debt downgrades, defaults, extended government shutdowns, inability to access debt markets due to rating, banking, or legal constraints, liquidity crises, market bubbles and corrections, the breakup or restructuring of fiscal, monetary, or political systems such as the European Union, de-dollarization in global trade or the growth or use of alternative common currencies, and other events or conditions 
+that impair the functioning of financial markets and institutions also pose risks to ExxonMobil, including risks to the safety of our financial assets and to the ability of our partners, suppliers, and customers to fulfill their commitments to ExxonMobil. Our future business, including earnings, cash flows, and financing needs, may also be affected by the occurrence, severity, pace, and rate of recovery of future public health epidemics or pandemics or other natural or human events beyond our 
+control; the responsive actions taken by governments and others; and the resulting effects on regional and global markets and economies.
+
+Other demand-related factors. Other factors that may affect the demand for oil, gas, petrochemicals or our other products, and therefore our results, include technological improvements in energy efficiency; seasonal weather patterns; increased competitiveness of, or government policy support for, alternative energy sources or potential substitutes for our products; changes in technology that alter fuel choices, such as technological advances in energy storage or other critical areas that make 
+wind, solar, nuclear, or other alternatives more competitive for power generation; government actions to increase strategic reserves to enhance energy security; increased demand for artificial intelligence (AI), including the construction and expansion of AI data centers; changes in customer or consumer preferences for our products, including consumer demand for alternative-fueled or electric transportation or alternatives to plastic products; and broad-based changes in personal income levels. 
+See also “ Climate Change and Energy Transition” below.
+
+  Table of Contents      Financial Table of Contents  
+
+Other supply-related factors. Commodity prices and margins also vary depending on a number of factors affecting supply. For example, increased supply from the development of new or previously inaccessible oil and gas supply sources and technologies to enhance recovery from existing sources tends to reduce commodity prices to the extent such supply increases are not offset by commensurate growth in demand. Similarly, increases in industry refining or petrochemical manufacturing capacity relative 
+to demand tend to reduce margins on the affected products. World oil, gas, and petrochemical supply levels can also be affected by factors that reduce available supplies, such as the level of, and adherence by, participating countries to production quotas established by OPEC or OPEC+ and other agreements among sovereigns; government policies, including actions intended to reduce greenhouse gas emissions, that restrict oil and gas production or increase associated production, reporting or 
+compliance costs; collective actions by non-governmental organizations and financial institutions to withhold funding or support from oil and gas producers; the occurrence of wars or hostile actions, including disruption of land or sea transportation routes; natural disasters; disruptions in competitors’ operations; and logistics constraints or unexpected unavailability of distribution channels that may disrupt supplies. There also may be new or emerging factors that could increase global oil, 
+gas, and petrochemical supply levels in the short or long term, such as government policies and actions intended to boost or expand development of domestic or foreign oil and gas reserves or accelerate the pace of production reaching markets, including access to previously unavailable, sanctioned, or protected oil and gas resources or the availability or opening of new shipping routes. Dynamic and unpredictable world events may lead to new oil and gas opportunities becoming available or current 
+opportunities becoming less available or unavailable, and such events may adversely affect our business and results. Technological change can also alter the relative costs for competitors to find, produce and refine oil and gas, and to manufacture petrochemicals.
+
+Other market factors. ExxonMobil’s business results are also exposed to potential negative impacts due to changes in interest rates, inflation, currency exchange rates, changes in usage of the U. S. dollar in global trade, and other local or regional market conditions. In addition to direct potential impacts on our costs and revenues, market factors such as rates of inflation may indirectly impact our results to the extent such factors reduce general rates of economic growth and therefore energy
+demand, as discussed under “ Economic conditions.” Market factors may also result in losses from commodity derivatives and other instruments we use to hedge price exposures or for commodity and treasury trading activities. Additional information regarding the potential future impact of market factors on our businesses is included or incorporated by reference underItem 7A in this report.
+
+Government and Political Factors
+
+ExxonMobil’s results can be adversely affected by political or regulatory developments affecting our businesses or operations.
+
+Access limitations. A number of countries limit access to their oil and gas resources, including by restricting leasing, licensing, or permitting activities directly or indirectly through the influence on these processes by well-funded local or international groups opposing the development of these resources. They also may place resources off-limits from development altogether. Restrictions on production of oil and gas could increase to the extent governments view such measures as a viable 
+approach for pursuing national and global energy, security, and climate policies. Restrictions on foreign investment in the oil and gas sector tend to increase in times of high commodity prices or when national governments may have less need for outside sources of private capital. Many countries also restrict the import or export of certain products based on point of origin, and such restrictions may increase during periods of escalating geopolitical or trade tensions.
+
+Restrictions on doing business. ExxonMobil is subject to laws and sanctions imposed by the United States and by other jurisdictions where we do business that may prohibit ExxonMobil or its affiliates from doing business in certain countries or with certain counterparties or restrict or impede the kind of business that may be conducted, including acquiring and divesting certain assets or importing or exporting certain materials or products. Such restrictions may provide a competitive advantage to
+competitors who may not be subject to comparable restrictions.
+
+Lack of legal certainty. Some countries in which we do, or seek to do, business lack well-developed legal systems, lack political or governmental stability, may be subject to regime changes, have not yet adopted clear legal frameworks, may be unable to maintain clear regulatory frameworks in the face of pressure on their systems from well-funded local or international groups opposing development of their resources, or may have evolving and unharmonized standards that vary or conflict across 
+jurisdictions. Lack of legal certainty exposes us to increased risk of adverse or unpredictable actions by government officials, may reduce our ability to comply timely or cost-effectively with evolving standards or requirements, and also makes it more difficult for us to enforce our contracts. In some cases, these risks can be partially offset by agreements to arbitrate disputes in an international forum, but the adequacy of this remedy may still depend on the local legal system to enforce an 
+award.
+
+Regulatory and litigation risks. Even in countries with well-developed legal systems where ExxonMobil does business, we remain exposed to changes in law or interpretation or enforcement of settled law, including changes that result from concerted efforts to increase our legal exposure by groups opposed to the products we provide or international treaties and accords or changes by local jurisdictions encroaching on national regulatory frameworks or global issues or changes resulting from 
+imposition of extraterritorial laws and regulations, and changes in government policy or priorities that could adversely affect our results, such as:
+
+• increases or changes in taxes, duties, or government royalty rates, including retroactive claims, punitive taxes on oil, gas and petrochemical operations, windfall profit taxes, or global minimum taxes;
+
+• price controls;
+
+  Table of Contents      Financial Table of Contents  
+
+• changes in environmental, advertising, insurance or other regulations or laws that penalize us for past or current production of legal and/or permitted products and operations, increase our cost of operation or compliance or reduce or delay available business opportunities, including changes in laws or regulations affecting offshore drilling operations, standards to complete decommissioning, standards for water use or availability, production of our products, emissions, hydraulic fracturing, 
+or production or use of new or recycled plastics, as well as laws and regulations affecting trading, carbon capture and storage, hydrogen and ammonia, lower-emission fuels, ProxximaTM resin systems, carbon materials, low-carbon data centers, or lithium;
+
+• actions by governments, policy-makers, regulators, or other actors to delay or deny necessary licenses and permits, restrict the availability of oil and gas leases, investment opportunities, or the transportation or export of our products, pause, reduce, or retract government incentives for emissions reductions, disrupt or impact reliability as a result of policy decisions on types and pricing of energy available, or otherwise require changes in the Company's business or strategy that could 
+result in reduced returns;
+
+• regulatory interpretations that exclude or disfavor our products under government policies or programs intended to support new or developing markets or technologies, or that otherwise are not technology-neutral;
+
+• adoption of regulations mandating efficiency standards, emission standards, procurement standards, the use of alternative fuels, or uncompetitive fuel components;
+
+• use of regulatory or legal standards by any nation or supranational body as a foreign policy tool;
+
+• unstable policies or shifting regulations impacting new or emerging markets;
+
+• adoption of disclosure regulations that could create competitive disadvantages, require us to incur disproportionate costs, increase legal risk due to a need to rely on uncertain estimates or extrapolations (such as emissions of third parties) and lack of uniform standards across jurisdictions, require us to make statements we disagree with, or require us to disclose competitively sensitive commercial information or to violate the non-disclosure laws of other countries; and
+
+• government actions to cancel contracts, redenominate the official currency, renounce or default on obligations, impose unwarranted penalties, renegotiate terms unilaterally, expropriate assets, or compel a change in production plans.
+
+Legal remedies available to compensate us for expropriation or other takings may be inadequate.
+
+We also may be adversely affected by the outcome of litigation, including class actions or arbitrations, especially in countries such as the United States that permit large and unpredictable punitive and non-economic damage awards. Other jurisdictions adopting similar models to impose liability schemes on our products or operations may present similar risks. We also may be adversely affected by government investigations or enforcement proceedings alleging non-compliance with applicable laws or 
+regulations, or by state and local government actors as well as private plaintiffs acting in parallel that attempt to use the legal system to promote public policy agendas (including seeking to reduce the production and sale of hydrocarbon products through litigation targeting the Company or other industry participants), gain political notoriety, or obtain monetary awards from the Company. The continued adoption of similar legal practices in the European Union or elsewhere would broaden this 
+risk.
+
+Security concerns. Successful operation of particular facilities or projects may be disrupted by civil unrest, military conflict, acts of sabotage, piracy, terrorism, cybersecurity attacks, the application of national security laws or policies that result in restricting our ability to do business in a particular jurisdiction or region, strikes or protests, and other local, national, regional, or global security concerns. Such concerns may be directed specifically at our Company, our industry, or
+as part of broader movements and may require us to incur greater costs for security or to shut down operations for a period of time.
+
+  Table of Contents      Financial Table of Contents  
+
+Climate Change and Energy Transition
+
+Net-zero scenarios. Driven by concern over the risks of climate change, a number of countries have adopted, or are considering the adoption of, broad-reaching regulatory frameworks seeking to report on or reduce greenhouse gas emissions, including emissions from the production and use of oil and gas and their products, as well as increase the use of, or support for, different emission-reduction technologies. These actions are being taken both independently by national and regional governments 
+and within the framework of United Nations Conference of the Parties summits under which many countries of the world have endorsed objectives to reduce the atmospheric concentration of carbon dioxide (CO2) over the coming decades, with an ambition ultimately to achieve “net zero.” Net zero means that emissions of greenhouse gases from human activities would be balanced by actions that remove such gases from the atmosphere. Expectations for transition of the world’s energy system to 
+lower-emission sources, and ultimately net-zero, derive from hypothetical scenarios that reflect many assumptions about the future, including supportive policy and technology advancements, and reflect substantial uncertainties. The Company seeks opportunities to play a leading role in the energy transition, including the Company’s announced ambition ultimately to achieve net zero with respect to Scope 1 and 2 emissions from our operated assets with continued technology development and government
+policy support, which carries risks that the transition, including underlying technologies, government policies, and markets as discussed in more detail below, will not be available or develop at the pace or in the manner expected by current net-zero scenarios. Without supportive policies and the innovations they drive, net zero will remain out of reach - for society and for ExxonMobil. Society’s progress continues to lag in these areas. The success of our strategy in a lower-emissions future 
+will also depend on our ability to recognize key signposts of changes in the global energy system on a timely basis, and our corresponding ability to direct investment to the technologies and businesses, at the appropriate stage of development, to best capitalize on our competitive strengths.
+
+Greenhouse gas restrictions. Government actions intended to reduce greenhouse gas emissions include adoption of cap and trade regimes, carbon taxes, carbon accounting, carbon-based import duties or other trade tariffs, minimum renewable usage requirements, restrictive permitting, increased mileage and other efficiency standards, mandates for sales of electric vehicles, restrictions on sales of gasoline-only vehicles, mandates for disclosure of plans to reduce emissions or reduce the use or 
+production of certain products, mandates for use of specific fuels or technologies, and other incentives or mandates designed to support certain technologies for transitioning to lower-emission energy sources. Political actors, non-governmental organizations, and their agents also increasingly seek to collectively advance climate change objectives indirectly, such as by seeking to reduce the availability or increase the cost of financing and investment in the oil and gas sector. These actions 
+include delaying or blocking needed infrastructure, utilizing shareholder governance mechanisms against companies or their shareholders or financial institutions in an effort to deter investment in oil and gas activities, and taking other actions intended to promote changes in business strategy for oil and gas companies. Depending on how policies are formulated and applied, such policies could negatively affect our investment returns, make our hydrocarbon-based products more expensive or less 
+competitive, lengthen project implementation times, and reduce demand for hydrocarbons, as well as shift hydrocarbon demand toward relatively lower-carbon alternatives. Current, pending, and potential greenhouse gas regulations or policies may also increase our compliance costs, such as for monitoring or sequestering emissions and complying with increased or mandatory disclosure or due diligence requirements and government-mandated energy transition plans.
+
+Technology and lower-emission solutions. Achieving societal ambitions to reduce greenhouse gas emissions and ultimately achieve net zero will require new technologies and added infrastructure to reduce the cost and increase the scalability of solutions to reduce emissions, as well as technologies such as carbon capture and storage (CCS). CCS technologies, focused initially on capturing and sequestering CO2 emissions from high-carbon intensity industrial activities, can assist in meeting 
+society’s objective to mitigate atmospheric greenhouse gas levels while also helping to ensure the availability of the reliable and affordable energy the world requires. ExxonMobil has established a Low Carbon Solutions (LCS) business unit and is continuing efforts in our existing businesses to advance the development and deployment of these technologies and projects, including CCS, hydrogen and ammonia, lower-emission fuels, ProxximaTM resin systems, advanced energy-saving materials, low-carbon
+data centers, lithium, and other technologies. The Company’s efforts include both in-house research and development as well as collaborative efforts with leading universities and with commercial partners involved in new energy technologies. Our future results and ability to grow our business, help others meet their emission-reduction goals, and succeed in a lower-emissions future will depend in part on the success of these research and collaboration efforts and on our ability to adapt and apply 
+the strengths of our current business model to providing the energy products of the future in a cost-competitive manner.
+
+  Table of Contents      Financial Table of Contents  
+
+Policy and market development. The scale of the world’s energy system means that, in addition to developments in technology as discussed above, meeting society's needs for energy and reducing emissions will require appropriate support from governments and private participants throughout the global economy. Our ability to develop and deploy CCS and other new energy technologies at commercial scale, and the growth and future returns of LCS and other emerging businesses in which we invest, will 
+depend in part on the development of stable and supportive government policies and markets. Failure or delay of these policies or markets to materialize or be maintained could adversely impact or delay these investments. Policy and other actions that result in restricting the availability of hydrocarbon products without a commensurate reduction in demand may have unpredictable adverse effects, including increased commodity price volatility; periods of significantly higher commodity prices and 
+resulting inflationary pressures; and local or regional energy shortages. Such effects in turn may depress economic growth or lead to rapid or conflicting shifts in policy by different actors, with resulting adverse effects on our businesses. In addition, the existence of supportive policies in any jurisdiction is not a guarantee that those policies will continue in the future. See also the discussion of “ Supply and Demand,” “ Government and Political Factors,” and “ Operational and Other 
+Factors” in this Item 1A.
+
+Operational and Other Factors
+
+In addition to external economic and political factors, our future business results also depend on our ability to successfully manage those factors that are, at least in part, within our control, including our investment into existing and new businesses. The extent to which we manage these factors will impact our performance relative to competition. For projects in which we are not the operator, we depend on the management effectiveness of one or more co-venturers whom we do not control.
+
+Exploration and development program. Our ability to maintain and grow our oil and gas production depends on the success of our exploration and development efforts. Among other factors, we must continuously improve our ability to identify the most promising resource prospects and apply our project management expertise to bring discovered resources online as scheduled and within budget.
+
+Project and portfolio management. The long-term success of ExxonMobil’s Upstream and Product Solutions businesses, as well as the future success of LCS and other emerging investments, depends on complex, long-term, capital-intensive projects. These projects in turn require a high degree of project management expertise to maximize efficiency. Specific factors that can affect the performance of major projects include our ability to: negotiate successfully with joint venturers, partners, 
+governments, suppliers, customers, or others; protect and enforce our contractual and legal rights, including with our joint venture partners, host governments, and others; model and optimize reservoir performance and production reliability; develop markets for project outputs, whether through long-term contracts or the development of effective spot markets; qualify for certain incentives available under supportive government policies for emerging markets and technologies; manage changes in 
+operating conditions and costs, including costs of third-party equipment or services such as drilling rigs and shipping, supply chain disruptions, and inflationary cost pressures; prevent, to the extent possible, and respond effectively to unforeseen technical difficulties that could delay project start-up, incur or escalate costs, or cause unscheduled project downtime; and influence the performance of project operators where ExxonMobil does not perform that role. In addition to the effective 
+management of individual projects, ExxonMobil’s success, including our ability to mitigate risk and provide attractive returns to shareholders, depends on our ability to successfully manage our overall portfolio, including diversification among types and locations of our projects, products produced, and strategies to acquire or divest assets. We may not be able to acquire or divest assets at a price or on the timeline we contemplate in our strategies. Additionally, we may retain certain 
+liabilities following a divestment and could be held liable for past use or for different liabilities than anticipated, including reversion of decommissioning or other liabilities upon bankruptcy or other default of successors in title.
+
+The term “project” as used in this report can refer to a variety of different activities and does not necessarily have the same meaning as in any government payment transparency reports.
+
+Operational efficiency. An important component of ExxonMobil’s competitive performance, especially given the commodity-based nature of many of our businesses, is our ability to operate efficiently, including our ability to manage expenses, improve production yields on an ongoing basis, and successfully integrate and achieve the anticipated synergies of acquisitions. This requires continuous management focus, including technology integration and improvements, cost control, productivity 
+enhancements, harmonizing functions, policies, procedures and processes, regular reappraisal of our asset portfolio, and the recruitment, development, and retention of high caliber employees.
+
+Research and development and technological change. To maintain our competitive position, especially in light of the technological nature of our businesses, the dynamic and rapidly evolving technological landscape, and the need for continuous efficiency improvement, ExxonMobil’s technology, research, and development organizations must be successful and able to adapt to a changing market, regulatory, and policy environment, both nationally and internationally, including continuous improvement in 
+the efficiency of hydraulic fracturing technology and developing technologies to help reduce greenhouse gas emissions. To remain competitive, we must also continuously adapt and capture the benefits of new and emerging technologies, such as AI, including successfully applying advances in the ability to process and integrate large amounts of data to our businesses and decision-making processes.
+
+  Table of Contents      Financial Table of Contents  
+
+Safety, business controls, and risk management. Our results depend on management’s ability to minimize the inherent risks of oil, gas, and petrochemical operations, as well as potential risks related to new energy and other technologies, to effectively control our business activities, including trading, and to minimize the potential for human error. We apply rigorous management systems and continuous focus on workplace safety, spills avoidance, and other adverse environmental events. For 
+example, we work to minimize spills through a combined program of effective operations integrity management, ongoing upgrades, key equipment replacements, and comprehensive inspection and surveillance. Similarly, we are implementing cost-effective new technologies and adopting new operating practices to reduce emissions, not only in response to government requirements but also to address community priorities. We employ a robust and actively evolving enterprise risk management system to identify 
+and manage risk across our businesses. We also maintain a disciplined framework of internal controls and apply a controls management system for monitoring compliance with this framework. Substantial liabilities and other adverse impacts could result if we do not timely identify and mitigate applicable risks, or if our management systems and controls do not function as intended.
+
+Cybersecurity. ExxonMobil is regularly subject to attempted cybersecurity disruptions from a variety of sources including state-sponsored actors. SeeItem 1C in this report for information on ExxonMobil’s program for managing cybersecurity risks. If the measures we are taking to protect against cybersecurity disruptions prove to be insufficient or if our proprietary data is otherwise not protected, ExxonMobil, as well as our customers, employees, or third parties, could be adversely affected. We 
+have limited ability to influence third parties, including our partners, suppliers, and service providers (including providers of cloud-hosting services for our data or applications), to implement strong cybersecurity controls and are exposed to potential harm from cybersecurity events that may affect their operations. Cybersecurity disruptions could cause physical harm to people or the environment; damage or destroy assets; compromise business systems; result in proprietary information being 
+altered, lost, or stolen; result in employee, customer, or third-party information being compromised; or otherwise disrupt our business operations. We could incur significant costs to remedy the effects of a major cybersecurity disruption in addition to costs in connection with resulting regulatory actions, litigation, or reputational harm.
+
+Preparedness. Our operations may be disrupted by severe weather events, natural disasters, human error, and similar events. For example, hurricanes may damage our offshore production facilities or coastal refining and petrochemical plants in vulnerable areas. Our facilities are designed, engineered, constructed, and operated to withstand a variety of extreme climatic and other conditions, with safety factors built in to cover a number of uncertainties, including those associated with wave, wind,
+and current intensity, marine ice flow patterns, permafrost stability, storm surge magnitude, temperature extremes, extreme rainfall events, and earthquakes. Our consideration of changing weather conditions and inclusion of safety factors in design cover the engineering uncertainties that climate change and other events may potentially introduce. Our ability to mitigate the adverse impacts of these events depends in part upon the effectiveness of our robust facility engineering, our rigorous 
+disaster preparedness and response, and business continuity planning.
+
+Insurance limitations. The ability of the Corporation to insure against many of the risks it fa
+
+[...FILING TEXT TRUNCATED...]
+
+          20,562  
+
+  Table of Contents      Financial Table of Contents  
+
+Oil and Gas Exploration and Production Costs (continued)
+
+The amounts reported as costs incurred include both capitalized costs and costs charged to expense during the year. Costs incurred also include new asset retirement obligations established in the current year, as well as increases or decreases to the asset retirement obligation resulting from changes in cost estimates or abandonment date. Total consolidated costs incurred in 2025 were $27.8 billion, down $77.3 billion from 2024, due primarily to the absence of the Pioneer acquisition and partly 
+offset by higher development costs. In 2024, costs were $105.1 billion, up $84.1 billion from 2023, due primarily to the Pioneer acquisition and higher development costs. Total equity company costs incurred in 2025 were $0.8 billion, down $0.3 billion from 2024, due to lower development costs.
+
+  Costs Incurred in Property Acquisitions,                                                       Europe      Africa      Asia               
+  Exploration and Development Activities                                                                                                    
+  (millions of dollars)                                                                                                                     
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  During 2025                                                                                                                               
+  Consolidated Subsidiaries                                                                                                                 
+  Property acquisition costs                              – Proved         1,177                 —           —           —           1,177  
+                                                          – Unproved       2,591                 —           —           —           2,591  
+  Exploration costs                                                                   1,304      80          102         12          1,618  
+  Development costs                                                       12,463      7,310      238         634         967        22,435  
+  Total costs incurred for consolidated subsidiaries                      16,297      8,614      318         736         979        27,821  
+  Equity Companies                                                                                                                          
+  Property acquisition costs                              – Proved                               —           —           —                  
+                                                          – Unproved                             —           —           —                  
+  Exploration costs                                                                              1           —           —                  
+  Development costs                                                                              21          15          769                
+  Total costs incurred for equity companies                                                      22          15          769                
+  During 2024                                                                                                                               
+  Consolidated Subsidiaries                                                                                                                 
+  Property acquisition costs                              – Proved        39,271                 —           1           —          39,272  
+                                                          – Unproved      45,196                 5           —           —          45,201  
+  Exploration costs                                                                              63          268         30          1,262  
+  Development costs                                                       10,903      5,839      113         910         750        19,359  
+  Total costs incurred for consolidated subsidiaries                      95,425      6,677      181                     780       105,094  
+  Equity Companies                                                                                                                          
+  Property acquisition costs                              – Proved                               —           —           —                  
+                                                          – Unproved                             —           —           —                  
+  Exploration costs                                                                              2           —           —                  
+  Development costs                                                                              20          18                      1,132  
+  Total costs incurred for equity companies                                                      22          18                      1,134  
+  During 2023                                                                                                                               
+  Consolidated Subsidiaries                                                                                                                 
+  Property acquisition costs                              – Proved         2,456                 —           2           —           2,458  
+                                                          – Unproved                             —           6           —                  
+  Exploration costs                                                                              23          117         18                 
+  Development costs                                                        8,978      5,914      55          562         822        17,377  
+  Total costs incurred for consolidated subsidiaries                      11,659      6,607      78          687         840        20,952  
+  Equity Companies                                                                                                                          
+  Property acquisition costs                              – Proved                               —           —           —                  
+                                                          – Unproved                             —           —           —                  
+  Exploration costs                                                                              —           —           —                  
+  Development costs                                                                              5           7                       1,510  
+  Total costs incurred for equity companies                                                      5           7                       1,510  
+
+  Table of Contents      Financial Table of Contents  
+
+Oil and Gas Reserves
+
+The following information describes changes during the years and balances of proved oil and gas reserves at year-end 2023, 2024, and 2025.
+
+The definitions used are in accordance with the Securities and Exchange Commission’s Rule 4-10 (a) of Regulation S-X.
+
+Proved oil and natural gas reserves are those quantities of oil and natural gas, which, by analysis of geoscience and engineering data, can be estimated with reasonable certainty to be economically producible - from a given date forward, from known reservoirs, and under existing economic conditions, operating methods, and government regulations - prior to the time at which contracts providing the right to operate expire, unless evidence indicates that renewal is reasonably certain. In some 
+cases, substantial new investments in additional wells and related facilities will be required to recover these proved reserves.
+
+In accordance with the Securities and Exchange Commission’s (SEC) rules, the Corporation’s year-end reserves volumes, as well as the reserves change categories shown in the following tables, are required to be calculated on the basis of average prices during the 12-month period prior to the ending date of the period covered by this report, determined as an unweighted arithmetic average of the first-day-of-the-month price for each month within such period. These reserves quantities are also used 
+in calculating unit-of-production depreciation rates and in calculating the standardized measure of discounted net cash flows.
+
+Revisions can include upward or downward changes in previously estimated volumes of proved reserves for existing fields due to the evaluation or re-evaluation of (1) already available geologic, reservoir or production data, (2) new geologic, reservoir or production data or (3) changes in the average of first-of-month oil and natural gas prices and/or costs that are used in the estimation of reserves. Revisions can also result from significant changes in either development strategy or production 
+equipment/facility capacity.
+
+Proved reserves include 100 percent of each majority-owned affiliate’s participation in proved reserves and ExxonMobil’s ownership percentage of the proved reserves of equity companies, but exclude royalties and quantities due others. Natural gas reserves exclude the gaseous equivalent of liquids expected to be removed from the natural gas on leases, at field facilities, and at gas processing plants. These liquids are included in net proved reserves of crude oil and natural gas liquids.
+
+In the proved reserves tables, consolidated reserves and equity company reserves are reported separately. However, the Corporation does not view equity company reserves any differently than those from consolidated companies.
+
+Reserves reported under production sharing and other nonconcessionary agreements are based on the economic interest as defined by the specific fiscal terms in the agreement. The production and reserves reported for these types of arrangements typically vary inversely with oil and natural gas price changes. As oil and natural gas prices increase, the cash flow and value received by the Company increase; however, the production volumes and reserves required to achieve this value will typically be 
+lower because of the higher prices. When prices decrease, the opposite effect generally occurs. The percentage of total proved reserves (consolidated subsidiaries plus equity companies) at year-end 2025 that were associated with production sharing contract arrangements was 12 percent on an oil-equivalent basis (natural gas is converted to an oil-equivalent basis at six billion cubic feet per one million barrels).
+
+Net proved developed reserves are those volumes that are expected to be recovered through existing wells with existing equipment and operating methods or in which the cost of the required equipment is relatively minor compared to the cost of a new well. Net proved undeveloped reserves are those volumes that are expected to be recovered from new wells on undrilled acreage, or from existing wells where a relatively major expenditure is required for recompletion.
+
+Crude oil, natural gas liquids, and natural gas production quantities shown are the net volumes withdrawn from ExxonMobil’s oil and natural gas reserves. The natural gas quantities differ from the quantities of natural gas delivered for sale by the producing function as reported in the Upstream Operational Results due to volumes consumed or flared and inventory changes.
+
+The changes between 2025 year-end proved reserves and 2024 year-end proved reserves include worldwide production of 1.8 billion oil-equivalent barrels (GOEB), asset sales of 0.1 GOEB primarily in the United States, and downward revisions of 0.9 GOEB attributed primarily to the United States. Additions to proved reserves include 2.1 GOEB from extensions and discoveries primary in the United States and Guyana and 0.1 GOEB related to United States acquisitions.
+
+The changes between 2024 year-end proved reserves and 2023 year-end proved reserves include worldwide production of 1.6 billion oil-equivalent barrels (GOEB) and asset sales of 0.1 GOEB primarily in Nigeria. Additions to proved reserves include 2.3 GOEB related to the Pioneer acquisition, 1.9 GOEB from extensions and discoveries primarily in the United States and Guyana, and net revisions of 0.6 GOEB primarily attributed to the United Arab Emirates, United States, Canada, and Guyana.
+
+The changes between 2023 year-end proved reserves and 2022 year-end proved reserves include worldwide production of 1.4 billion GOEB, asset sales of 0.2 GOEB primarily in the United States, and downward revisions of 0.4 GOEB. Additions to proved reserves include 1.1 GOEB from extensions and discoveries primarily in the United States and Guyana and 0.2 GOEB related to the Denbury acquisition.
+
+  Table of Contents      Financial Table of Contents  
+
+  Crude Oil, Natural Gas Liquids, Bitumen and Synthetic Oil Proved Reserves                                                                                                   
+                                                                                  Crude Oil                                        Natural Gas      Synthetic Oil      Total  
+  (millions of barrels)                                                           United         Africa      Asia       Total      Worldwide        Canada/                   
+  Net proved developed and undeveloped reserves of consolidated subsidiaries                                                                                                  
+  January 1, 2023                                                                                271                                                353                       
+  Revisions                                                                       (398)          31          30         (302)      (110)            26                 (263)  
+  Improved recovery                                                               —              —           —          —          —                —                  —      
+  Purchases                                                                       156            —           —          156        2                —                  158    
+  Sales                                                                           (12)           —           (4)        (16)       (5)              —                  (21)   
+  Extensions/discoveries                                                          355            —           —          460        272              —                  732    
+  Production                                                                      (203)          (78)        (153)      (531)      (99)             (25)               (784)  
+  December 31, 2023                                                                              224                                                354                       
+  Attributable to noncontrolling interests                                                                                                          108                       
+  Proportional interest in proved reserves of equity companies                                                                                                                
+  January 1, 2023                                                                 119            5           756        882        355              —                         
+  Revisions                                                                       —              —           103        104        1                —                  105    
+  Improved recovery                                                               —              —           —          —          —                —                  —      
+  Purchases                                                                       —              —           —          —          —                —                  —      
+  Sales                                                                           (108)          —           —          (108)      (1)              —                  (109)  
+  Extensions/discoveries                                                          —              —           —          —          —                —                  —      
+  Production                                                                      (4)            —           (79)       (83)       (22)             —                  (105)  
+  December 31, 2023                                                               7              5           780        795        333              —                         
+  Total liquids proved reserves at December 31, 2023                                             229                                                354                       
+  Net proved developed and undeveloped reserves of consolidated subsidiaries                                                                                                  
+  January 1, 2024                                                                                224                                                354                       
+  Revisions                                                                       (176)          62          603        606        (128)            (35)               595    
+  Improved recovery                                                               —              —           —          —          —                —                  —      
+  Purchases                                                                       877            —           —          877        730              —                         
+  Sales                                                                           (18)           (45)        (7)        (74)       (15)             —                  (89)   
+  Extensions/discoveries                                                          804            25          —          967        489              —                         
+  Production                                                                      (316)          (75)        (154)      (679)      (148)            (23)               (987)  
+  December 31, 2024                                                                              191                                                296                       
+  Attributable to noncontrolling interests                                                                                                          90                        
+  Proportional interest in proved reserves of equity companies                                                                                                                
+  January 1, 2024                                                                 7              5           780        795        333              —                         
+  Revisions                                                                       —              2           19         21         3                —                  24     
+  Improved recovery                                                               —              —           —          —          —                —                  —      
+  Purchases                                                                       —              —           —          —          —                —                  —      
+  Sales                                                                           —              —           —          —          —                —                  —      
+  Extensions/discoveries                                                          —              —           —          —          —                —                  —      
+  Production                                                                      (1)            —           (75)       (77)       (22)             —                  (99)   
+  December 31, 2024                                                               6              7           724        739        314              —                         
+  Total liquids proved reserves at December 31, 2024                                             198                                                296                       
+
+  Table of Contents      Financial Table of Contents  
+
+  Crude Oil, Natural Gas Liquids, Bitumen and Synthetic Oil Proved Reserves (continued)                                                                                                  
+                                                                                             Crude Oil                                        Natural Gas      Synthetic Oil      Total  
+  (millions of barrels)                                                                      United         Africa      Asia       Total      Worldwide        Canada/                   
+  Net proved developed and undeveloped reserves of consolidated subsidiaries                                                                                                             
+  January 1, 2025                                                                                           191                                                296                       
+  Revisions                                                                                  (652)          78          13         (430)      (373)            17                 (744)  
+  Improved recovery                                                                          —              —           —          —          —                —                  —      
+  Purchases                                                                                  38             —           —          38         41               —                  79     
+  Sales                                                                                      (72)           —           —          (72)       (12)             —                  (84)   
+  Extensions/discoveries                                                                     890            —           —          988        513              —                         
+  Production                                                                                 (367)          (52)        (162)      (728)      (194)            (25)                      
+  December 31, 2025                                                                                         217                                                288                       
+  Attributable to noncontrolling interests                                                                                                                     88                        
+  Proportional interest in proved reserves of equity companies                                                                                                                           
+  January 1, 2025                                                                            6              7           724        739        314              —                         
+  Revisions                                                                                  —              —           (2)        1          7                —                  8      
+  Improved recovery                                                                          —              —           —          —          —                —                  —      
+  Purchases                                                                                  —              —           —          —          —                —                  —      
+  Sales                                                                                      —              —           —          —          —                —                  —      
+  Extensions/discoveries                                                                     —              —           —          —          —                —                  —      
+  Production                                                                                 (1)            —           (97)       (98)       (23)             —                  (121)  
+  December 31, 2025                                                                          5              7           625        642        298              —                  940    
+  Total liquids proved reserves at December 31, 2025                                                        224                                                288                       
+
+  Table of Contents      Financial Table of Contents  
+
+  Crude Oil, Natural Gas Liquids, Bitumen and Synthetic Oil Proved Reserves (continued)                                                                                                                                                                                                           
+                                                                                                                                                                                                                                                                       Synthetic Oil              
+  (millions of barrels)                                                                                                                                                                                                Canada/       Africa      Asia                  Canada/                    
+  As of December 31, 2023                                                                                                                                                                                                                                                                         
+  Proved developed reserves                                                                                                                                                                                                                                                                       
+  Consolidated subsidiaries                                                                                                                                                                                 1,735      433              217                 4,430      242                 6,979  
+  Equity companies                                                                                                                                                                                                     —                  5       438                  —                          
+  Proved undeveloped reserves                                                                                                                                                                                                                                                                     
+  Consolidated subsidiaries                                                                                                                                                                                 1,498      561               20       751       2,858      112                 3,077  
+  Equity companies                                                                                                                                                                                                     —                  —       671                  —                          
+  Total liquids proved reserves at December 31, 2023                                                                                                                                                        3,244      994              242                 8,416      354                11,184  
+  As of December 31, 2024                                                                                                                                                                                                                                                                         
+  Proved developed reserves                                                                                                                                                                                                                                                                       
+  Consolidated subsidiaries                                                                                                                                                                                 3,053      473              153                 5,691      190                 8,189  
+  Equity companies                                                                                                                                                                                                     —                  7       569                  —                          
+  Proved undeveloped reserves                                                                                                                                                                                                                                                                     
+  Consolidated subsidiaries                                                                                                                                                                                 2,308      646               38                 4,222      106                 4,449  
+  Equity companies                                                                                                                                                                                                     —                  —       466                  —                          
+  Total liquids proved reserves at December 31, 2024                                                                                                                                                        5,370                       198                10,966      296                13,691  
+  As of December 31, 2025                                                                                                                                                                                                                                                                         
+  Proved developed reserves                                                                                                                                                                                                                                                                       
+  Consolidated subsidiaries                                                                                                                                                                                 2,627      587              185                 5,355      288                 7,873  
+  Equity companies                                                                                                                                                                                                     —                  7       596                  —                          
+  Proved undeveloped reserves                                                                                                                                                                                                                                                                     
+  Consolidated subsidiaries                                                                                                                                                                                 2,546      609               32                 4,329      —                   4,429  
+  Equity companies                                                                                                                                                                                                     —                  —       324                  —                          
+  Total liquids proved reserves at December 31, 2025                                                                                                                                                        5,181                       224                10,624      288                13,242  
+  (1) See previous pages for natural gas liquids proved reserves attributable to consolidated subsidiaries and equity companies. For additional information on natural gas liquids proved reserves ...                                                                                            
+
+  Table of Contents      Financial Table of Contents  
+
+  Natural Gas and Oil-Equivalent Proved Reserves                                                                                                                                                                         
+                                                                                                                  Natural Gas                                                                                            
+                                                                                                                  United                                     Canada/       Europe      Africa                            
+  Net proved developed and undeveloped                                                                                                                                                                                   
+  January 1, 2023                                                                                                                                13,645      708           413         312          24,147       14,258  
+  Revisions                                                                                                                                     (1,945)      (201)         (3)         (49)        (1,738)               
+  Improved recovery                                                                                               —                                          —             —           —                                 
+  Purchases                                                                                                       7                                          —             —           —                                 
+  Sales                                                                                                           (417)                                      (1)           —           —                                 
+  Extensions/discoveries                                                                                                                          1,930      67            —           —             1,997        1,065  
+  Production                                                                                                      (957)                                      (53)          (103)       (43)        (2,024)      (1,121)  
+  December 31, 2023                                                                                                                              12,263      520           307         220          21,962       13,716  
+  Attributable to noncontrolling interests                                                                                                                   26                                                          
+  Proportional interest in proved reserves                                                                                                                                                                               
+  January 1, 2023                                                                                                 127                                        —             380         663          13,479        3,484  
+  Revisions                                                                                                       (27)                                       —             18          157                               
+  Improved recovery                                                                                               —                                          —             —           —                                 
+  Purchases                                                                                                       —                                          —             —           —                                 
+  Sales                                                                                                           (35)                                       —             —           —                                 
+  Extensions/discoveries                                                                                          —                                          —             —           —                                 
+  Production                                                                                                      (8)                                        —             (54)        (40)        (1,058)               
+  December 31, 2023                                                                                               57                                         —             344         780          12,502        3,212  
+  Total proved reserves at December 31, 2023                                                                                                     12,320      520           651                      34,464       16,928  
+  Net proved developed and undeveloped                                                                                                                                                                                   
+  January 1, 2024                                                                                                                                12,263      520           307         220          21,962       13,716  
+  Revisions                                                                                                       (911)                                      22            198         24                                
+  Improved recovery                                                                                               —                                          —             —           —                                 
+  Purchases                                                                                                                                       4,044      —             —           —             4,044        2,281  
+  Sales                                                                                                           (83)                                       (10)          —           (105)                             
+  Extensions/discoveries                                                                                                                          2,683      68            —           2             2,754        1,915  
+  Production                                                                                                                                    (1,153)      (59)          (99)        (46)        (2,207)      (1,355)  
+  December 31, 2024                                                                                                                              16,843      541           406         95           25,904       16,955  
+  Attributable to noncontrolling interests                                                                                                                   20                                                          
+  Proportional interest in proved reserves                                                                                                                                                                               
+  January 1, 2024                                                                                                 57                                         —             344         780          12,502        3,212  
+  Revisions                                                                                                       (3)                                        —             9           80                                
+  Improved recovery                                                                                               —                                          —             —           —                                 
+  Purchases                                                                                                       —                                          —             —           —                                 
+  Sales                                                                                                           —                                          —             —           —                                 
+  Extensions/discoveries                                                                                          —                                          —             —           —                                 
+  Production                                                                                                      (7)                                        —             (37)        (44)                              
+  December 31, 2024                                                                                               47                                         —             316         816          11,645        2,994  
+  Total proved reserves at December 31, 2024                                                                                                     16,890      541           722         911          37,549       19,949  
+  (1) Natural gas is converted to an oil-equivalent basis at six billion cubic feet per one million barrels.                                                                                                             
+
+  Table of Contents      Financial Table of Contents  
+
+  Natural Gas and Oil-Equivalent Proved Reserves (continued)                                                                                                                                                                                          
+                                                                                                                  Natural Gas                                                                      Oil-Equivalent                                     
+                                                                                                                  United States                 Canada/       Europe      Africa                                                                      
+  Net proved developed and undeveloped                                                                                                                                                                                                                
+  January 1, 2025                                                                                                                               541           406         95           25,904                                                 16,955  
+  Revisions                                                                                                                                     21            21          34          (1,110)      (929)                                              
+  Improved recovery                                                                                               —                             —             —           —                        —                                                  
+  Purchases                                                                                                       234                           —             —           —                        118                                                
+  Sales                                                                                                           (248)                         (28)          —           —                        (132)                                              
+  Extensions/discoveries                                                                                                                        26            —           —             3,280                                                  2,048  
+  Production                                                                                                                                    (33)          (89)        (16)        (2,344)                                                (1,478)  
+  December 31, 2025                                                                                                                             527           338         113          25,674                                                 16,582  
+  Attributable to noncontrolling interests                                                                                                      15                                                                                                    
+  Proportional interest in proved reserves                                                                                                                                                                                                            
+  January 1, 2025                                                                                                 47                            —             316         816          11,645                                                  2,994  
+  Revisions                                                                                                       7                             —             (3)         4                        23                                                 
+  Improved recovery                                                                                               —                             —             —           —                        —                                                  
+  Purchases                                                                                                       —                             —             —           —                        —                                                  
+  Sales                                                                                                           —                             —             (24)        —                        (4)                                                
+  Extensions/discoveries                                                                                          —                             —             —           —                        —                                                  
+  Production                                                                                                      (6)                           —             (26)        (45)                     (284)                                              
+  December 31, 2025                                                                                               48                            —             263         775          10,734                                                  2,729  
+  Total proved reserves at December 31, 2025                                                                                                    527           601         888          36,408                                                 19,311  
+  (1) Natural gas is converted to an oil-equivalent basis at six billion cubic feet per one million barrels.                                                                                                                                          
+
+  Table of Contents      Financial Table of Contents  
+
+  Natural Gas and Oil-Equivalent Proved Reserves (continued)                                                                                                                                        
+                                                                                                                              Canada/       Europe      Africa                                      
+  As of December 31, 2023                                                                                                                                                                           
+  Proved developed reserves                                                                                                                                                                         
+  Consolidated subsidiaries                                                                                        8,138      329              307      220          1,935      14,092       9,327  
+  Equity companies                                                                                                            —                290      780          4,223       5,350       1,349  
+  Proved undeveloped reserves                                                                                                                                                                       
+  Consolidated subsidiaries                                                                                        4,125      191                —      —                        7,870       4,389  
+  Equity companies                                                                                                            —                 54      —            7,098       7,152       1,863  
+  Total proved reserves at December 31, 2023                                                                      12,320      520              651                  14,115      34,464      16,928  
+  As of December 31, 2024                                                                                                                                                                           
+  Proved developed reserves                                                                                                                                                                         
+  Consolidated subsidiaries                                                                                       11,671      296              406      93           1,900      17,570      11,118  
+  Equity companies                                                                                                            —                262      816          4,242       5,367       1,481  
+  Proved undeveloped reserves                                                                                                                                                                       
+  Consolidated subsidiaries                                                                                        5,172      245                —      2                        8,334       5,838  
+  Equity companies                                                                                                            —                 54      —            6,224       6,278       1,512  
+  Total proved reserves at December 31, 2024                                                                      16,890      541              722      911         13,006      37,549      19,949  
+  As of December 31, 2025                                                                                                                                                                           
+  Proved developed reserves                                                                                                                                                                         
+  Consolidated subsidiaries                                                                                       11,206      356              338      111          2,010      17,078      10,722  
+  Equity companies                                                                                                            —                207      775          4,782       5,812       1,582  
+  Proved undeveloped reserves                                                                                                                                                                       
+  Consolidated subsidiaries                                                                                        5,581      171                —      2                        8,596       5,860  
+  Equity companies                                                                                                            —                 56      —            4,866       4,922       1,147  
+  Total proved reserves at December 31, 2025                                                                      16,835      527              601      888         11,847      36,408      19,311  
+  (1) Natural gas is converted to an oil-equivalent basis at six billion cubic feet per one million barrels.                                                                                        
+
+  Table of Contents      Financial Table of Contents  
+
+Standardized Measure of Discounted Future Cash Flows
+
+As required by the Financial Accounting Standards Board, the standardized measure of discounted future net cash flows is computed by applying first-day-of-the-month average prices, year-end costs and legislated tax rates, and a discount factor of 10 percent to net proved reserves. The standardized measure includes costs for future dismantlement, abandonment, and rehabilitation obligations. The Corporation believes the standardized measure does not provide a reliable estimate of the Corporation’s
+expected future cash flows to be obtained from the development and production of its oil and gas properties or of the value of its proved oil and gas reserves. The standardized measure is prepared on the basis of certain prescribed assumptions, including first-day-of-the-month average prices, which represent discrete points in time and therefore may cause significant variability in cash flows from year to year as prices change.
+
+  Standardized Measure of Discounted                                                                                                                                                       Europe                                                   
+  Future Cash Flows                                                                                                                                                                                                                                 
+  (millions of dollars)                                                                                                                                                                                                                             
+  As of December 31, 2023                                                                                                                                                                                                                           
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Consolidated Subsidiaries                                                                                                                                                                                                                         
+  Future cash inflows from sales of oil and gas                                                                                                                  213,623      227,365                  3,918      19,282      221,822      749,214  
+  Future production costs                                                                                                                                         68,753      113,875                  1,611       5,025       52,672      255,907  
+  Future development costs                                                                                                                                        37,784       38,436                  1,881       4,466       11,926      100,886  
+  Future income tax expenses                                                                                                                                      14,270       15,973         509                  4,337      121,751      168,959  
+  Future net cash flows                                                                                                                                           92,816       59,081        (83)                  5,454       35,473      223,462  
+  Effect of discounting net cash flows at 10%                                                                                                                     49,199       23,471       (762)                              18,537      107,062  
+  Discounted future net cash flows                                                                                                                                43,617       35,610         679                  5,052       16,936      116,400  
+  Equity Companies                                                                                                                                                                                                                                  
+  Future cash inflows from sales of oil and gas                                                                                                                                                        5,101       4,393      158,643      168,955  
+  Future production costs                                                                                                                                                                     982                              73,496       75,214  
+  Future development costs                                                                                                                                                                    697                               5,452        6,324  
+  Future income tax expenses                                                                                                                                                                           1,539       1,120       24,374       27,033  
+  Future net cash flows                                                                                                                                                                                1,883       2,940       55,321       60,384  
+  Effect of discounting net cash flows at 10%                                                                                                                                                 672                  1,635       20,135       22,518  
+  Discounted future net cash flows                                                                                                                                                                     1,211       1,305       35,186       37,866  
+  Total consolidated and equity interests in standardized measure of discounted future net cash flows                                                             43,781       35,610                  1,890       6,357       52,122      154,266  
+  (1) Includes discounted future net cash flows attributable to noncontrolling interests in ExxonMobil consolidated subsidiaries of $3,055 million in 2023.                                                                                         
+
+  Table of Contents      Financial Table of Contents  
+
+  Standardized Measure of Discounted                                                                                                                                                                                  Europe                                                    
+  Future Cash Flows (continued)                                                                                                                                                                                                                                                 
+  (millions of dollars)                                                                                                                                                                                                                                                         
+  As of December 31, 2024                                                                                                                                                                                                                                                       
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Consolidated Subsidiaries                                                                                                                                                                                                                                                     
+  Future cash inflows from sales of oil and gas                                                                                                                                             312,279      236,954                  15,493      250,850      54,247      874,162  
+  Future production costs                                                                                                                                                                   109,915       96,932                   3,167       60,404      12,599      284,600  
+  Future development costs                                                                                                                                                                   48,781       37,253                   3,675       17,608       6,083      115,321  
+  Future income tax expenses                                                                                                                                                                 21,728       21,738         644       2,801      129,925       9,846      186,682  
+  Future net cash flows                                                                                                                                                                     131,855       81,031         191       5,850       42,913      25,719      287,559  
+  Effect of discounting net cash flows at 10%                                                                                                                                                64,731       34,232       (387)       1,419       23,172      12,898      136,065  
+  Discounted future net cash flows                                                                                                                                                           67,124       46,799         578       4,431       19,741      12,821      151,494  
+  Equity Companies                                                                                                                                                                                                                                                              
+  Future cash inflows from sales of oil and gas                                                                                                                                                                                    5,685      138,978                  148,834  
+  Future production costs                                                                                                                                                                                                766                   66,969                   68,648  
+  Future development costs                                                                                                                                                                                               709                    4,243                    5,076  
+  Future income tax expenses                                                                                                                                                                                                       1,431       19,566                   22,103  
+  Future net cash flows                                                                                                                                                                                                  976       3,665       48,200                   53,007  
+  Effect of discounting net cash flows at 10%                                                                                                                                                                            298       2,099       16,397                   18,837  
+  Discounted future net cash flows                                                                                                                                                                                       677       1,566       31,803                   34,170  
+  Total consolidated and equity interests in standardized measure of discounted future net cash flows                                                                                        67,248       46,799                   5,997       51,544      12,821      185,664  
+  As of December 31, 2025                                                                                                                                                                                                                                                       
+  Consolidated Subsidiaries                                                                                                                                                                                                                                                     
+  Future cash inflows from sales of oil and gas                                                                                                                                             280,283      209,345                  15,372      210,088      54,992      773,998  
+  Future production costs                                                                                                                                                                   105,265       94,251                   3,887       51,049      12,502      268,412  
+  Future development costs                                                                                                                                                                   57,000       38,312                   4,299       16,712       6,683      125,293  
+  Future income tax expenses                                                                                                                                                                 20,341       15,943         345       2,831      106,859       9,376      155,695  
+  Future net cash flows                                                                                                                                                                      97,677       60,839       (172)       4,355       35,468      26,431      224,598  
+  Effect of discounting net cash flows at 10%                                                                                                                                                47,868       22,760       (523)       1,150       19,436      14,066      104,757  
+  Discounted future net cash flows                                                                                                                                                           49,809       38,079         351       3,205       16,032      12,365      119,841  
+  Equity Companies                                                                                                                                                                                                                                                              
+  Future cash inflows from sales of oil and gas                                                                                                                                                                                    3,563      114,161                  121,751  
+  Future production costs                                                                                                                                                                                                736                   55,221                   56,842  
+  Future development costs                                                                                                                                                                                               623                    3,285                    4,022  
+  Future income tax expenses                                                                                                                                                                                                                   15,740                   17,577  
+  Future net cash flows                                                                                                                                                                                                            2,203       39,915                   43,310  
+  Effect of discounting net cash flows at 10%                                                                                                                                                                            280       1,220       12,520                   14,022  
+  Discounted future net cash flows                                                                                                                                                                                       867                   27,395                   29,288  
+  Total consolidated and equity interests in standardized measure of discounted future net cash flows                                                                                        49,852       38,079                   4,188       43,427      12,365      149,129  
+  (1) Includes discounted future net cash flows attributable to noncontrolling interests in ExxonMobil consolidated subsidiaries of $4,466 million in 2024 and $3,132 million in 2025.                                                                                          
+
+  Table of Contents      Financial Table of Contents  
+
+Change in Standardized Measure of Discounted Future Net Cash Flows Relating to Proved Oil and Gas Reserves
+
+  Consolidated Subsidiaries                                                                                                                 Share of Equity Method Investees                                              
+ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Consolidated and Equity Interests                                                                                                                                     2023                                              
+  Discounted future net cash flows as of December 31, 2022                                                                                                                          189,609        69,247        258,856  
+  Value of reserves added during the year due to extensions, discoveries, improved recovery and net purchases/sales less related costs                                                5,658       (1,701)          3,957  
+  Changes in value of previous-year reserves due to:                                                                                                                                                                      
+  Sales and transfers of oil and gas produced during the year, net of production (lifting) costs                                                                                   (43,836)      (10,218)       (54,054)  
+  Development costs incurred during the year                                                                                                                                         15,343         1,502         16,845  
+  Net change in prices, lifting and development costs                                                                                                                             (120,924)      (51,923)      (172,847)  
+  Revisions of previous reserves estimates                                                                                                                                            4,953         5,096         10,049  
+  Accretion of discount                                                                                                                                                              23,006         8,962         31,968  
+  Net change in income taxes                                                                                                                                                         42,591        16,901         59,492  
+  Total change in the standardized measure during the year                                                                                                                         (73,209)      (31,381)      (104,590)  
+  Discounted future net cash flows as of December 31, 2023                                                                                                                          116,400        37,866        154,266  
+
+  Consolidated Subsidiaries                                                                                                                 Share of Equity Method Investees                                           
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Consolidated and Equity Interests                                                                                                                                     2024                                           
+  Discounted future net cash flows as of December 31, 2023                                                                                                                         116,400       37,866       154,266  
+  Value of reserves added during the year due to extensions, discoveries, improved recovery and net purchases/sales less related costs                                              42,405                     42,405  
+  Changes in value of previous-year reserves due to:                                                                                                                                                                   
+  Sales and transfers of oil and gas produced during the year, net of production (lifting) costs                                                                                  (51,236)      (8,268)      (59,504)  
+  Development costs incurred during the year                                                                                                                                        18,924        1,135        20,059  
+  Net change in prices, lifting and development costs                                                                                                                              (4,549)      (5,811)      (10,360)  
+  Revisions of previous reserves estimates                                                                                                                                          20,779        1,690        22,469  
+  Accretion of discount                                                                                                                                                             15,232        4,853        20,085  
+  Net change in income taxes                                                                                                                                                       (6,461)        2,705       (3,756)  
+  Total change in the standardized measure during the year                                                                                                                          35,094      (3,696)        31,398  
+  Discounted future net cash flows as of December 31, 2024                                                                                                                         151,494       34,170       185,664  
+
+  Consolidated Subsidiaries                                                                                                                 Share of Equity Method Investees                    Total Consolidated and Equity Interests                             
+ ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Consolidated and Equity Interests                                                                                                                                     2025                                                                                        
+  Discounted future net cash flows as of December 31, 2024                                                                                                                         151,494                                                    34,170       185,664  
+  Value of reserves added during the year due to extensions, discoveries, improved recovery and net purchases/sales less related costs                                              12,392                                          216                     12,608  
+  Changes in value of previous-year reserves due to:                                                                                                                                                                                                                
+  Sales and transfers of oil and gas produced during the year, net of production (lifting) costs                                                                                  (48,105)                                                   (7,828)      (55,933)  
+  Development costs incurred during the year                                                                                                                                        18,361                                          811                     19,172  
+  Net change in prices, lifting and development costs                                                                                                                             (61,606)                                                   (5,319)      (66,925)  
+  Revisions of previous reserves estimates                                                                                                                                          14,666                                          636                     15,302  
+  Accretion of discount                                                                                                                                                             18,328                                                     4,207        22,535  
+  Net change in income taxes                                                                                                                                                        14,311                                                     2,395        16,706  
+  Total change in the standardized measure during the year                                                                                                                        (31,653)                                                   (4,882)      (36,535)  
+  Discounted future net cash flows as of December 31, 2025                                                                                                                         119,841                                                    29,288       149,129  
+
+  Table of Contents      Financial Table of Contents  
+
+INDEX TO EXHIBITS
+
+  Exhibit                                                                                                                                                Description                                                                                                                                                                                           
+  3(i)                                                                                                                                                   Restated Certificate of Incorporation, as restated November 30, 1999, and as further amended effective June 20, 2001 (incorporated by reference to Exhibit 3(i) to the Registrant’s Annual Report...  
+  3(ii)                                                                                                                                                  By-Laws, as amended effective October 25, 2022 (incorporated by reference to Exhibit 3(ii) to the Registrant’s Report on Form 8-K of October 31, 2022).                                               
+  4(vi)                                                                                                                                                  Description of ExxonMobil Capital Stock (incorporated by reference to Exhibit 4(vi) to the Registrant's Annual Report on Form 10-K for 2019).                                                         
+  10(iii)(a.1)                                                                                                                                           2003 Incentive Program, as approved by shareholders May 28, 2003 (incorporated by reference to Exhibit 10(iii)(a.1) to the Registrant’s Annual Report on Form 10-K for 2017).*                        
+  10(iii)(a.2)                                                                                                                                           Extended Provisions for Restricted Stock Agreements (incorporated by reference to Exhibit 10(iii)(a.2) to the Registrant’s Annual Report on Form 10-K for 2016).*                                     
+  10(iii)(a.3)                                                                                                                                           Extended Provisions for Restricted Stock Unit Agreements – Settlement in Shares.*                                                                                                                     
+  10(iii)(b.1)                                                                                                                                           Short Term Incentive Program, as amended (incorporated by reference to Exhibit 10(iii)(b.1) to the Registrant’s Annual Report on Form 10-K for 2023).*                                                
+  10(iii)(b.3)                                                                                                                                           Amendment of 2018 and 2019 Earnings Bonus Unit instruments, effective November 23, 2021 (incorporated by reference to Exhibit 99.1 to the Registrant's Report on Form 8-K of November 30, 2021).*     
+  10(iii)(b.4)                                                                                                                                           Pioneer Natural Resources Company Second Amended and Restated 2006 Long-Term Incentive Plan (incorporated by reference to Exhibit 10(iii)(b.4) to the Registrant’s Report on Form 10-Q for the qu...  
+  10(iii)(f.1)                                                                                                                                           2004 Non-Employee Director Restricted Stock Plan (incorporated by reference to Exhibit 10(iii)(f.1) to the Registrant’s Annual Report on Form 10-K for 2018).*                                        
+  10(iii)(f.2)                                                                                                                                           Standing resolution for non-employee director restricted grants dated September 26, 2007 (incorporated by reference to Exhibit 10(iii)(f.2) to the Registrant’s Annual Report on Form 10-K for 20...  
+ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  10(iii)(b.2)                                                                                                                                           Earnings Bonus Unit instrument (incorporated by reference to Exhibit 10(iii)(b.2) to the Registrant's Annual Report on Form 10-K for 2019).*                                                          
+  10(iii)(c.1)                                                                                                                                           ExxonMobil Supplemental Savings Plan (incorporated by reference to Exhibit 10(iii)(c.1) to the Registrant's Annual Report on Form 10-K for 2022).*                                                    
+  10(iii)(c.2)                                                                                                                                           ExxonMobil Supplemental Pension Plan (incorporated by reference to Exhibit 10(iii)(c.2) to the Registrant's Annual Report on Form 10-K for 2022).*                                                    
+  10(iii)(c.3)                                                                                                                                           ExxonMobil Additional Payments Plan (incorporated by reference to Exhibit 10(iii)(c.3) to the Registrant’s Annual Report on Form 10-K for 2023).*                                                     
+  10(iii)(d)                                                                                                                                             ExxonMobil Executive Life Insurance and Death Benefit Plan (incorporated by reference to Exhibit 10(iii)(d) to the Registrant’s Annual Report on Form 10-K for 2016).*                                
+  10(iii)(f.3)                                                                                                                                           Form of restricted stock grant letter for non-employee directors.*                                                                                                                                    
+  10(iii)(f.4)                                                                                                                                           Standing resolution for non-employee director cash fees dated November 25, 2025, as amended effective January 1, 2026.*                                                                               
+  10(iii)(g)                                                                                                                                             Aircraft Time Share Agreement dated as of August 29, 2023, between Exxon Mobil Corporation and Darren W. Woods (incorporated by reference to Exhibit 10(iii)(g) to the Registrant’s Report on For...  
+  14                                                                                                                                                     Code of Ethics and Business Conduct.                                                                                                                                                                  
+  19                                                                                                                                                     Insider Trading Policy (incorporated by reference to Exhibit 19 to the Registrant’s Annual Report on Form 10-K for 2024).                                                                             
+  21                                                                                                                                                     Subsidiaries of the registrant.                                                                                                                                                                       
+  23                                                                                                                                                     Consent of PricewaterhouseCoopers LLP, Independent Registered Public Accounting Firm.                                                                                                                 
+  31.1                                                                                                                                                   Certification (pursuant to Securities Exchange Act Rule 13a-14(a)) by Chief Executive Officer.                                                                                                        
+  31.2                                                                                                                                                   Certification (pursuant to Securities Exchange Act Rule 13a-14(a)) by Chief Financial Officer.                                                                                                        
+  31.3                                                                                                                                                   Certification (pursuant to Securities Exchange Act Rule 13a-14(a)) by Principal Accounting Officer.                                                                                                   
+  32.1                                                                                                                                                   Section 1350 Certification (pursuant to Sarbanes-Oxley Section 906) by Chief Executive Officer.                                                                                                       
+  32.2                                                                                                                                                   Section 1350 Certification (pursuant to Sarbanes-Oxley Section 906) by Chief Financial Officer.                                                                                                       
+  32.3                                                                                                                                                   Section 1350 Certification (pursuant to Sarbanes-Oxley Section 906) by Principal Accounting Officer.                                                                                                  
+  97                                                                                                                                                     Policy Relating to Recovery of Erroneously Awarded Compensation (incorporated by reference to Exhibit 97 to the Registrant’s Annual Report on Form 10-K for 2023).                                    
+  101                                                                                                                                                    Interactive data files (formatted as Inline XBRL).                                                                                                                                                    
+  104                                                                                                                                                    Cover page interactive data file (formatted as Inline XBRL and contained in Exhibit 101).                                                                                                             
+  * Management contract or compensatory plan or arrangement required to be identified pursuant to Item 15(a)(3) of this Annual Report on Form 10-K.                                                                                                                                                                                                            
+
+The registrant has not filed with this report copies of the instruments defining the rights of holders of long-term debt of the registrant and its subsidiaries for which consolidated or unconsolidated financial statements are required to be filed. The registrant agrees to furnish a copy of any such instrument to the Securities and Exchange Commission upon request.
+
+SIGNATURES
+
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto d...                                                                           
+                                                                                                                                                                                                            EXXON MOBIL CORPORATION                                              
+                                                                                                                                                                                                            By:                          /s/ DARREN W. WOODS                     
+  Dated February 18, 2026                                                                                                                                                                                                                Darren W. Woods, Chairman of the Board  
+
+POWER OF ATTORNEY
+
+  Each person whose signature appears below constitutes and appoints Matthew R. Rasmussen, Wendi J. Powell, and Antony E. Peters and each of them, his or her true and lawful attorneys-in-fact and...                                                               
+  Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities indicated and o...                                                               
+ ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Principal Executive Officer                                                                                                                                                                               Directors                                                
+  /s/ DARREN W. WOODS                                                                                                                                                                                       /s/ MICHAEL J. ANGELAKIS      /s/ JOSEPH L. HOOLEY       
+  Darren W. Woods, Chairman of the Board                                                                                                                                                                    Michael J. Angelakis          Joseph L. Hooley           
+                                                                                                                                                                                                            /s/ ANGELA F. BRALY           /s/ STEVEN A. KANDARIAN    
+  Principal Financial Officer                                                                                                                                                                               Angela F. Braly               Steven A. Kandarian        
+  /s/ NEIL A. HANSEN                                                                                                                                                                                        /s/ MARIA S. DREYFUS          /s/ ALEXANDER A. KARSNER   
+  Neil A. Hansen, Senior Vice President and Chief Financial Officer                                                                                                                                         Maria S. Dreyfus              Alexander A. Karsner       
+                                                                                                                                                                                                            /s/ GREG C. GARLAND           /s/ LAWRENCE W. KELLNER    
+  Principal Accounting Officer                                                                                                                                                                              Greg C. Garland               Lawrence W. Kellner        
+  /s/ LEN M. FOX                                                                                                                                                                                            /s/ JOHN D. HARRIS II         /s/ DINA POWELL MCCORMICK  
+  Len M. Fox, Vice President,                                                                                                                                                                               John D. Harris II             Dina Powell McCormick      
+                                                                                                                                                                                                            /s/ KAISA H. HIETALA          /s/ JEFFREY W. UBBEN       
+                                                                                                                                                                                                            Kaisa H. Hietala              Jeffrey W. Ubben
