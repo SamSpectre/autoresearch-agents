@@ -52,7 +52,7 @@ while true; do
     # Run the optimizer agent with the program instructions
     # --max-turns limits tool calls so it auto-exits after the experiment
     # If it hangs or crashes, the loop continues to the next iteration
-    llm-optimizer --max-turns 50 \
+    llm-optimizer --dangerously-skip-permissions --max-turns 50 \
         "Read optimizer_program.md and execute ONE experiment iteration. Read results.tsv first to see what has been tried. Make one focused change to a skill file, run the evaluation, and decide keep or discard. Update results.tsv with the result." \
         || echo "[WARN] Iteration $ITERATION exited with code $? — continuing..."
 

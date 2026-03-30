@@ -104,6 +104,20 @@ cost_efficiency:     0.996542  (99% — near-perfect)
 total_cost_usd:      1.79      (13 companies, ~15 min)
 ```
 
+### Current Best (after autonomous optimization)
+
+```
+composite_score:     0.734032  (+1.46% from baseline)
+extraction_accuracy: 0.469600  (improved from 46.2% to 47.0%)
+analysis_quality:    0.923077  (improved from 90.4% to 92.3%)
+cost_efficiency:     0.996542
+```
+
+5 experiments run autonomously. 2 kept, 3 discarded. Key findings:
+- Explicit unit conversion guidance (millions → whole dollars) improved extraction accuracy
+- Fixing the analyst's input schema to match actual extractor output improved analysis quality
+- Verbose balance sheet instructions were discarded — they confused the extractor
+
 ### Experiment History
 
 See `results.tsv` for the full experiment log with keep/discard decisions.
@@ -120,8 +134,8 @@ See `results.tsv` for the full experiment log with keep/discard decisions.
 
 ```bash
 # Clone the repo
-git clone https://github.com/SamSpectre/Autoresearch_AgenticSystems.git
-cd Autoresearch_AgenticSystems/Project1-Financial_Autoagentic_System
+git clone https://github.com/SamSpectre/Project-Autoimproving_Financial_Agentic_System.git
+cd Project-Autoimproving_Financial_Agentic_System
 
 # Install dependencies
 uv sync

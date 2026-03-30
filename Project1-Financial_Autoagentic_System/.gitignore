@@ -1,6 +1,7 @@
 # Secrets
 .env
 .env.*
+!.env.example
 
 # Virtual environments
 .venv/
@@ -14,10 +15,8 @@ build/
 dist/
 wheels/
 
-# AI tools (private)
+# Tool configs
 .claude/
-CLAUDE.md
-AGENTS.md
 
 # IDE
 .vscode/

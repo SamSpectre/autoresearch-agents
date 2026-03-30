@@ -52,7 +52,7 @@ while ($true) {
     #   3. Runs evaluate.py
     #   4. Decides keep/discard
     #   5. Updates results.tsv
-    llm-optimizer "Read optimizer_program.md and execute ONE experiment iteration. Read results.tsv first to see what has been tried. Make one focused change to a skill file, run the evaluation, and decide keep or discard. Update results.tsv with the result."
+    llm-optimizer --dangerously-skip-permissions --max-turns 50 "Read optimizer_program.md and execute ONE experiment iteration. Read results.tsv first to see what has been tried. Make one focused change to a skill file, run the evaluation, and decide keep or discard. Update results.tsv with the result."
 
     $iteration++
 

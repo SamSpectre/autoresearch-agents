@@ -9,9 +9,15 @@ You will receive a JSON object extracted from a SEC 10-K filing by a prior agent
 
 {
   "total_revenue": <integer, whole dollars>,
+  "cost_of_revenue": <integer, whole dollars>,
+  "gross_profit": <integer, whole dollars>,
+  "operating_income": <integer, whole dollars>,
   "net_income": <integer, whole dollars>,
-  "earnings_per_share": <float, diluted EPS>,
-  "total_debt": <integer, long-term debt in whole dollars>,
+  "eps_diluted": <float, diluted earnings per share>,
+  "cash_and_equivalents": <integer, whole dollars>,
+  "total_assets": <integer, whole dollars>,
+  "long_term_debt": <integer, whole dollars>,
+  "total_liabilities": <integer, whole dollars>,
   "gross_margin": <float, 0 to 1>,
   "operating_margin": <float, 0 to 1>,
   "net_margin": <float, 0 to 1>,

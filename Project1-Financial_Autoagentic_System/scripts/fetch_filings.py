@@ -12,21 +12,26 @@ Usage:
     uv run scripts/fetch_filings.py --ticker AAPL   # single company
 """
 
+import os
 import json
 import re
 import argparse
 from pathlib import Path
 
+from dotenv import load_dotenv
 from edgar import Company, set_identity
 
+load_dotenv()
 
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
 
 # SEC requires a User-Agent with your identity (name + email)
-# This is a legal requirement for EDGAR access
-SEC_IDENTITY = "SamuelSehgal nawabsingh2512@gmail.com"
+# Set SEC_IDENTITY in your .env file, e.g.: SEC_IDENTITY="YourName your@email.com"
+SEC_IDENTITY = os.getenv("SEC_IDENTITY")
+if not SEC_IDENTITY:
+    raise RuntimeError("SEC_IDENTITY not set. Add it to your .env file (e.g., SEC_IDENTITY=\"YourName your@email.com\")")
 
 # Project paths (relative to project root)
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
