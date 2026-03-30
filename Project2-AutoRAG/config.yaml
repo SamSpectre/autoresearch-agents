@@ -54,5 +54,5 @@ pipeline:
   query_rewriting: true
   multi_step_retrieval: false
   answer_validation: true
-  confidence_threshold: 0.85  # below this, return "I don't know"
+  confidence_threshold: 0.80  # below this, return "I don't know"
   false_premise_detection: true
