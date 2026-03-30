@@ -1,0 +1,58 @@
+## AutoRAG Configuration
+## This file defines all tunable parameters across the 7 optimization dimensions.
+## The optimizer agent modifies this file between experiments.
+## Changes to chunking or embedding sections require re-indexing the vector store.
+
+# Dimension 1: Chunking Strategy
+chunking:
+  strategy: "fixed"          # fixed | sentence | paragraph
+  chunk_size: 512            # 256 | 512 | 1024 | 2048
+  chunk_overlap: 100         # 0 | 50 | 100 | 200
+
+# Dimension 2: Embedding Model
+embedding:
+  provider: "openai"         # voyage | openai
+  model: "text-embedding-3-small"   # voyage-3-large | voyage-3.5-lite | text-embedding-3-small
+  dimensions: 1536           # 1024 (voyage-3-large) | 512 (voyage-3.5-lite) | 1536 (text-embedding-3-small)
+
+# Dimension 3: Retrieval Parameters
+retrieval:
+  top_k: 5                  # 3 | 5 | 8 | 10 | 15
+  search_type: "vector"     # vector | fts | hybrid
+  reranking: false           # true | false
+  distance_metric: "cosine"  # cosine | l2 | dot
+
+# Dimension 4: Model Routing
+models:
+  query_classifier:
+    model: "claude-haiku-4-5-20251001"
+    temperature: 0.0
+    max_tokens: 256
+  query_rewriter:
+    model: "claude-haiku-4-5-20251001"
+    temperature: 0.0
+    max_tokens: 512
+  answer_generator:
+    model: "claude-sonnet-4-6"
+    temperature: 0.0
+    max_tokens: 1024
+  answer_validator:
+    model: "claude-haiku-4-5-20251001"
+    temperature: 0.0
+    max_tokens: 256
+
+# Dimension 5: Few-Shot Example Selection
+few_shot:
+  enabled: false             # start without, optimizer can enable
+  strategy: "none"           # none | fixed | domain_matched | difficulty_matched
+  examples_per_query: 0      # 0 | 1 | 2 | 3
+  example_pool: "curated"    # curated | random_sample
+
+# Dimension 6: Pipeline Topology
+pipeline:
+  query_classification: true
+  query_rewriting: true
+  multi_step_retrieval: false
+  answer_validation: true
+  confidence_threshold: 0.7   # below this, return "I don't know"
+  false_premise_detection: true
