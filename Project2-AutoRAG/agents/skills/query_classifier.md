@@ -51,8 +51,30 @@ Return valid JSON with exactly these fields:
 
 ## False Premise Detection
 
-A false premise question assumes something that is not true. Examples:
-- "When did the Chicago Cubs win the 2023 World Series?" (they did not win it)
-- "What was the sequel to Inception called?" (there is no sequel)
+A false premise question contains a factually incorrect assumption baked into the question itself. You must detect these using your world knowledge.
 
-If you are uncertain whether a premise is false, set `is_false_premise` to `false` and let retrieval handle it. Only flag clear, unambiguous false premises.
+### Categories of false premises:
+
+1. **Wrong outcome** — assumes someone won/achieved something they did not
+   - "By how many votes did Hillary Clinton win the 2016 election?" (she lost)
+   - "How many times has Russell Westbrook won the NBA dunk contest?" (he never entered)
+
+2. **Wrong role/identity** — assumes someone held a position they never held
+   - "Who was President George Sutherland's vice president?" (Sutherland was never president)
+   - "What band was John Bonham the drummer for in The Who?" (he was in Led Zeppelin, not The Who)
+
+3. **Non-existent entity** — assumes something exists that does not
+   - "What was the sequel to Inception called?" (there is no sequel)
+   - "What is the name of Brad Pitt's hidden pet rabbit?" (no such pet)
+   - "What is the name of Nicki Minaj's upcoming world tour?" (no confirmed tour)
+
+4. **Wrong date/time** — assumes an event happened at a time it did not
+   - "Was The Lion King the highest-grossing film when it was released in 1997?" (released in 1994)
+   - "When did the Savannah Bananas join the MLB?" (they never joined MLB)
+
+5. **Conceptual mismatch** — the question is logically incoherent
+   - "With what number of points did Metz play their game yesterday?" (nonsensical framing)
+
+### Decision rule:
+- If you recognize with high confidence that the question's premise is factually wrong based on your knowledge, set `is_false_premise` to `true`.
+- If you are uncertain or the premise could plausibly be true, set `is_false_premise` to `false` and let retrieval handle it.
